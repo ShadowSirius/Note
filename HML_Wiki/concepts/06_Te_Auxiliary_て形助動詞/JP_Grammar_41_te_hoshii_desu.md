@@ -1,0 +1,32 @@
+---
+parent_of:
+  - "[[JP_Grammar_55_te_itadakitai]]"
+related_to:
+  - "[[JP_Grammar_15_tai_desu]]"
+  - "[[JP_Grammar_31_ga_hoshii_desu]]"
+---
+# 〜てほしいです
+
+## 規則與接續
+- `（他人）に + 動詞て形 + 欲しいです`
+- 否定形式：`〜ないでほしいです`（希望他人不要做某事）
+
+## 用法說明
+表示說話者「希望或要求他人做某個動作」（對他人行為的期盼）。
+- 說話者是希望的主體，而實際執行動作的他人通常用對象助詞 `に` 標記。
+- 由於此說法較為直接，主要用於對晚輩、平輩或熟人。對長輩或商務場合，應使用更禮貌的表達。
+
+## 實用例句
+- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>早く<ruby>連絡<rt>れんらく (renraku)</rt></ruby>して<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 中文：希望你明天早點聯絡我。
+- 日文：この<ruby>問題<rt>もんだい (mondai)</rt></ruby>を<ruby>一緒に<rt>いっしょに (isshoni)</rt></ruby><ruby>解決<rt>かいけつ (kaiketsu)</rt></ruby>してほしい。
+- 中文：希望我們能一起解決這個問題。
+- 日文：<ruby>時間<rt>じかん (jikan)</rt></ruby>があればアドバイスして<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 中文：如果有時間的話，希望你能給我一些建議。
+- 日文：<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>今夜<rt>こんや (konya)</rt></ruby>までにまとめて<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 中文：希望你今晚之前把資料整理好。
+
+## 關係說明
+- 與表達自己想做某事的 [[JP_Grammar_15_tai_desu|〜たいです @related_to]] 互為補充（前者希望他人做，後者自己想做）。
+- 與希望得到某物品的 [[JP_Grammar_31_ga_hoshii_desu|〜が欲しいです @related_to]] 同源，均為願望的延伸。
+- 商務及對上關係中，可精確深化為極具敬意的 [[JP_Grammar_55_te_itadakitai|〜ていただきたい @parent_of]]。

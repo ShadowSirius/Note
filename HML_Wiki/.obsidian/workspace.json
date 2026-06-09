@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "84e405e584280e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f3fb43d6909ef19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4df729a91bcf32f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "concepts/Japanese_Grammar_Map.canvas",
+                "viewState": {
+                  "x": -1090.5403074282492,
+                  "y": -271.0871492206484,
+                  "zoom": -0.5653648412235924
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Japanese_Grammar_Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43da3c220a19930c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e56643c57a06ff51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e700c4db7a12edc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "f65a369969db888b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "8b75af20b5923a1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79535604547ace7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "86276b996d8ac5a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dca3132869dc9fe9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "raw/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向連結"
+            }
+          },
+          {
+            "id": "2f9d02e24baf3a19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "raw/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的對外連結"
+            }
+          },
+          {
+            "id": "9aed3ddad3cddf80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "5be7ed4f6da3a380",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "b81f5117b0662f93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "raw/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "e4df729a91bcf32f",
+  "lastOpenFiles": [
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C48_honorific_keigo.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C37_volitional_non_volitional_2.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C35_te_moraemasen_ka_request.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C15_potential_form.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C10_verb_types_te_form.md",
+    "raw/archive/Japanese_Grammar_50_ocr.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C13_te_sequence.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C12_te_kara_sequence.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C03_ni_he_move.md",
+    "concepts/Japanese_Grammar_Index.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C46_hearsay_sou_desu.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C50_causative_passive.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C41_te_reason.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C38_passive_voice.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C24_n_desu.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C19_noun_modifier.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C04_masen_ka_mashou.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C01_five_sentence_patterns.md",
+    "concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C16_ta_form_experience.md",
+    "concepts/Japanese_Grammar_Map.canvas",
+    "concepts/04_Negatives_否定與義務/JP_Grammar_22_nakute_mo_ii_desu.md",
+    "concepts/04_Negatives_否定與義務/JP_Grammar_20_nai_de_kudasai.md",
+    "concepts/02_Te_Form_て形基礎/JP_Grammar_11_te_kudasai.md",
+    "concepts/02_Te_Form_て形基礎/JP_Grammar_12_te_imasu.md",
+    "concepts/02_Te_Form_て形基礎/JP_Grammar_13_te_mo_ii_desu.md",
+    "concepts/02_Te_Form_て形基礎/JP_Grammar_14_te_wa_ikemasen.md",
+    "derived",
+    "concepts",
+    "raw"
+  ]
+}
