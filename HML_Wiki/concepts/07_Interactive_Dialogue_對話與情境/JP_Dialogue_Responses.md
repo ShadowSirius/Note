@@ -61,3 +61,45 @@ related_to:
 
 ## 關係說明
 - 作為互動溝通的應答基礎，與表示邀請的 [[JP_Grammar_34_masen_ka|〜ませんか @related_to]] 以及表示主動協助的 [[JP_Grammar_35_mashou_ka|〜ましょうか @related_to]] 具有直接語意關聯。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> すみません、<ruby>今<rt>いま (ima)</rt></ruby>、<ruby>時間<rt>じかん (jikan)</rt></ruby>がないので。
+> 不好意思，因為我現在沒時間。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>宿題<rt>しゅくだい (shukudai)</rt></ruby>がある | すみません、今、**<ruby>宿題<rt>しゅくだい (shukudai)</rt></ruby>がある**ので。 |
+| <ruby>用事<rt>ようじ (youji)</rt></ruby>がある | すみません、今、**<ruby>用事<rt>ようじ (youji)</rt></ruby>がある**ので。 |
+| お<ruby>金<rt>かね (kane)</rt></ruby>がない | すみません、今、**お<ruby>金<rt>かね (kane)</rt></ruby>がない**ので。 |
+| <ruby>忙<rt>いそが (isoga)</rt></ruby>しい | すみません、今、**<ruby>忙<rt>いそが (isoga)</rt></ruby>しい**ので。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 丁寧形 | すみません、今、時間がない**のです**。 |
+| → 理由（から） | すみません、今、時間がない**からです**。 |
+| → 過去形 | すみません、あの時、時間がない**かったので**。（時間がなかった**ので**） |
+| → 肯定形 | すみません、今、時間がある**ので**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 一緒にコーヒーを飲みませんか。 | すみません、今、時間がないので。 |
+| ちょっと手伝ってもらえませんか。 | すみません、今、時間がないので。 |
+| 一緒に映画を見に行きませんか。 | すみません、今、時間がないので。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | 時間がないので。 |
+| +今 | 今、時間がないので。 |
+| +すみません | すみません、今、時間がないので。 |

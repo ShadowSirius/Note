@@ -27,3 +27,47 @@ sibling_of:
 ## 關係說明
 - 是口語禁止句型 [[JP_Grammar_14_te_wa_ikemasen|〜てはいけません @refines]] 在書面語與法規公文上的精確深化形式。
 - 與更為隨意、口語親近的禁止表達 [[JP_Grammar_54_te_wa_dame_desu|〜てはだめです @sibling_of]] 語氣截然不同（一為嚴肅法規，一為生活叮嚀）。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってはならない。
+> 不得進入禁止區域。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>教室<rt>きょうしつ</rt></ruby> | **<ruby>教室<rt>きょうしつ</rt></ruby>**に<ruby>入<rt>はい</rt></ruby>ってはならない。 |
+| <ruby>図書館<rt>としょかん</rt></ruby> | **<ruby>図書館<rt>としょかん</rt></ruby>**に<ruby>入<rt>はい</rt></ruby>ってはならない。 |
+| <ruby>控室<rt>ひかえしつ</rt></ruby> | **<ruby>控室<rt>ひかえしつ</rt></ruby>**に<ruby>入<rt>はい</rt></ruby>ってはならない。 |
+| <ruby>相手<rt>あいて</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby> | **<ruby>相手<rt>あいて</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>**に<ruby>入<rt>はい</rt></ruby>ってはならない。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 丁寧形 | <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っては**なりません**。 |
+| → 口語禁止 | <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っては**いけません**。 |
+| → 過去形 | <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っては**ならなかった**。 |
+| → 疑問形 | <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っては**なりませんか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>禁止<rt>きんし</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってはなりませんか。 | はい、<ruby>入<rt>はい</rt></ruby>ってはなりません。 |
+| <ruby>会場<rt>かいじょう</rt></ruby>で<ruby>騒<rt>さわ</rt></ruby>いではなりませんか。 | はい、<ruby>騒<rt>さわ</rt></ruby>いではなりません。 |
+| プライバシーを<ruby>犯<rt>おか</rt></ruby>してはなりませんか。 | はい、<ruby>犯<rt>おか</rt></ruby>してはなりません。 |
+| <ruby>危険<rt>きけん</rt></ruby>を<ruby>侮<rt>あなど</rt></ruby>ってはなりませんか。 | はい、<ruby>侮<rt>あなど</rt></ruby>ってはなりません。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | ならない。 |
+| +入っては | <ruby>入<rt>はい</rt></ruby>ってはならない。 |
+| +場所に | 場所に<ruby>入<rt>はい</rt></ruby>ってはならない。 |
+| +禁止の | <ruby>禁止<rt>きんし</rt></ruby>の場所に<ruby>入<rt>はい</rt></ruby>ってはならない。 |

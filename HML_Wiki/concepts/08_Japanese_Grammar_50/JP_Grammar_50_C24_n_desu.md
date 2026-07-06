@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C23_temo_conditional|上一課 @sibling_of]]
 - [[JP_Grammar_50_C25_potential_verbs|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いんです。
+> 我頭痛（向對方說明原因、解釋狀況）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| お腹が痛い | **お<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>い**んです。 |
+| 風邪をひいた | **<ruby>風邪<rt>かぜ</rt></ruby>をひいた**んです。 |
+| 切符を忘れた | **<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れた**んです。 |
+| 時間がない | **<ruby>時間<rt>じかん</rt></ruby>がない**んです。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 提問形 | <ruby>頭<rt>あたま</rt></ruby>が痛い**んですか**。 |
+| → 一般判定形 (非強調) | <ruby>頭<rt>あたま</rt></ruby>が**痛いです**。 |
+| → 疑問詞提問 (どうした) | **どうしたんですか**。 |
+| → 口語形 (のだ) | <ruby>頭<rt>あたま</rt></ruby>が痛い**んだ**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| どうしたんですか。 | <ruby>頭<rt>あたま</rt></ruby>が痛いんです。 |
+| どうして遅れたんですか。 | <ruby>事故<rt>じこ</rt></ruby>があったんです。 |
+| 日本語が上手ですね。日本に住んでいたんですか。 | いいえ、日本に住んだことはないんです。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | 痛いんです。 |
+| +主語 | **<ruby>頭<rt>あたま</rt></ruby>が**痛いんです。 |
+| +時間頻率 | **昨日から**頭が痛いんです。 |
+| +說明原因 | **風邪をひいて**、昨日から頭が痛いんです。 |

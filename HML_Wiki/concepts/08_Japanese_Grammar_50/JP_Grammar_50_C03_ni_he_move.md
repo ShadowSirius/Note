@@ -36,3 +36,46 @@ sibling_of:
 - [[JP_Grammar_50_C02_wa_desu|上一課 @sibling_of]]
 - [[JP_Grammar_50_C04_masen_ka_mashou|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
+> 去學校。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| スーパー | **スーパー**に<ruby>行<rt>い</rt></ruby>きます。 |
+| 駅 | **<ruby>駅<rt>えき</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
+| 日本 | **<ruby>日本<rt>にほん</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
+| 会社 | **<ruby>会社<rt>かいしゃ</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きません**。 |
+| → 過去肯定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きました**。 |
+| → 過去否定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きませんでした**。 |
+| → 意向形（口語） | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>こう**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>明日<rt>あした</rt></ruby>、どこに<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |
+| <ruby>誰<rt>だれ</rt></ruby>と<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>友達<rt>ともだち</rt></ruby>と<ruby>行<rt>い</rt></ruby>きます。 |
+| <ruby>何<rt>なに</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>行<rt>い</rt></ruby>きます。 |
+| +地點 | **<ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きます。 |
+| +伴隨 | **<ruby>友達<rt>ともだち</rt></ruby>と**<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |
+| +時間 | **<ruby>明日<rt>あした</rt></ruby>**、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |

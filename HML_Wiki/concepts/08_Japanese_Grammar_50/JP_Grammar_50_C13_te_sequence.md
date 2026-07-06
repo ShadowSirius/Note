@@ -30,3 +30,46 @@ sibling_of:
 - [[JP_Grammar_50_C12_te_kara_sequence|上一課 @sibling_of]]
 - [[JP_Grammar_50_C14_nai_form_necessity|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>朝<rt>あさ</rt></ruby>ご飯を<ruby>食<rt>た</rt></ruby>べて、<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。
+> 吃早餐後去學校。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 歯を磨く | **<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>いて**、<ruby>学校<rt>がっこう</rt></ruby>へ行きます。 |
+| シャワーを浴びる | **シャワーを<ruby>浴<rt>あ</rt></ruby>びて**、<ruby>学校<rt>がっこう</rt></ruby>へ行きます。 |
+| 新聞を読む | **<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで**、<ruby>学校<rt>がっこう</rt></ruby>へ行きます。 |
+| 会社へ行く | <ruby>朝<rt>あさ</rt></ruby>ご飯を食べて、**<ruby>会社<rt>かいしゃ</rt></ruby>へ行きます**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | <ruby>朝<rt>あさ</rt></ruby>ご飯を食べて、<ruby>学校<rt>がっこう</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きました**。 |
+| → 動作強調 (てから) | <ruby>朝<rt>あさ</rt></ruby>ご飯を**食べてから**、<ruby>学校<rt>がっこう</rt></ruby>へ行きます。 |
+| → 否定形 | <ruby>朝<rt>あさ</rt></ruby>ご飯を食べて、<ruby>学校<rt>がっこう</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きません**。 |
+| → 普通形（口語） | <ruby>朝<rt>あさ</rt></ruby>ご飯食べて、<ruby>学校<rt>がっこう</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>く**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 朝、何をしてから学校へ行きますか。 | <ruby>朝<rt>あさ</rt></ruby>ご飯を食べて、<ruby>学校<rt>がっこう</rt></ruby>へ行きます。 |
+| 昨日の朝は、朝ご飯を食べて学校へ行きましたか。 | はい、食べて行きました。 |
+| 歯を磨いてから寝ますか。 | はい、歯を磨いて、寝ます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 |
+| +動作1 | **<ruby>朝<rt>あさ</rt></ruby>ご飯を食べて**、<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 |
+| +交通手段 | 朝ご飯を食べて、**<ruby>自転車<rt>じてんしゃ</rt></ruby>で**学校へ行きます。 |
+| +時間 | **毎朝<rt>まいあさ</rt>**、朝ご飯を食べて、自転車で学校へ行きます。 |

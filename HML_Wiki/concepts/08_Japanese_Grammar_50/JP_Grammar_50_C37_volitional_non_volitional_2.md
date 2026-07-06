@@ -30,3 +30,46 @@ sibling_of:
 - [[JP_Grammar_50_C36_ba_conditional|上一課 @sibling_of]]
 - [[JP_Grammar_50_C38_passive_voice|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ります。
+> 下雨（非意志、自然現象）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 風が吹く | **<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きます**。 |
+| 花が咲く | **<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます**。 |
+| 窓が割れる | **<ruby>窓<rt>まど</rt></ruby>が<ruby>割<rt>わ</rt></ruby>れます**。 |
+| 電気が消える | **<ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えます**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 人為意志動作 (降らせる: 使役) | 神様が雨を**<ruby>降<rt>ふ</rt></ruby>らせます**。 |
+| → 狀態持續 | <ruby>雨<rt>あめ</rt></ruby>が**<ruby>降<rt>ふ</rt></ruby>っています**。 |
+| → 過去事實 | <ruby>雨<rt>あめ</rt></ruby>が**<ruby>降<rt>ふ</rt></ruby>りました**。 |
+| → 普通形（口語） | <ruby>雨<rt>あめ</rt></ruby>が**<ruby>降<rt>ふ</rt></ruby>る**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 外は雨が降っていますか。 | はい、かなり降っています。 |
+| 風が吹いていますか。 | いいえ、今は吹いていません。 |
+| 花はもう咲きましたか。 | はい、綺麗に咲きました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>降<rt>ふ</rt></ruby>ります。 |
+| +自然主格 | **<ruby>雨<rt>あめ</rt></ruby>が**降ります。 |
+| +時間修飾 | **午後から**雨が降ります。 |
+| +推量 | 午後から雨が**降るでしょう**。 |

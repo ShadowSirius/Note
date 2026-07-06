@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C05_shoju_verbs|上一課 @sibling_of]]
 - [[JP_Grammar_50_C07_ga_vs_wa|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
+> 上個月去了台北。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 日本 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>日本<rt>にほん</rt></ruby>**へ<ruby>行<rt>い</rt></ruby>きました。 |
+| 先週 | **<ruby>先週<rt>せんしゅう</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
+| 病院 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>病院<rt>びょういん</rt></ruby>**へ<ruby>行<rt>い</rt></ruby>きました。 |
+| 去年の夏 | **<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定形 | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きませんでした**。 |
+| → 現在肯定形 | <ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きます**。 |
+| → 現在否定形 | <ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きません**。 |
+| → 普通形（口語） | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>った**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>先月<rt>せんげつ</rt></ruby>、どこへ<ruby>行<rt>い</rt></ruby>きましたか。 | <ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ました。 |
+| もう<ruby>晩<rt>ばん</rt></ruby>ご飯を<ruby>食<rt>た</rt></ruby>べましたか。 | はい、もう食べました。 |
+| いつ<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましたか。 | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>行<rt>い</rt></ruby>きました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>行<rt>い</rt></ruby>きました。 |
+| +方向 | **<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きました。 |
+| +時間 | **<ruby>先月<rt>せんげつ</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
+| +伴隨 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>家族<rt>かぞく</rt></ruby>と**<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |

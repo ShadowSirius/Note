@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "id": "index_node_dp_part2",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Index.md",
+      "x": -175,
+      "y": -100,
+      "width": 350,
+      "height": 250,
+      "color": "6"
+    },
+    {
+      "id": "tech_dp_social",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Social_Interaction.md",
+      "x": -650,
+      "y": -600,
+      "width": 380,
+      "height": 450,
+      "color": "2"
+    },
+    {
+      "id": "tech_dp_requests",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Requests_Help.md",
+      "x": -150,
+      "y": -700,
+      "width": 380,
+      "height": 450,
+      "color": "1"
+    },
+    {
+      "id": "tech_dp_invitations",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Invitations_Plans.md",
+      "x": 350,
+      "y": -600,
+      "width": 380,
+      "height": 450,
+      "color": "3"
+    },
+    {
+      "id": "tech_dp_conversational",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Conversational_Queries.md",
+      "x": 650,
+      "y": -100,
+      "width": 380,
+      "height": 450,
+      "color": "4"
+    },
+    {
+      "id": "tech_dp_interests",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Interests_Hobbies.md",
+      "x": 350,
+      "y": 400,
+      "width": 380,
+      "height": 450,
+      "color": "5"
+    },
+    {
+      "id": "tech_dp_state",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_State_Reactions.md",
+      "x": -150,
+      "y": 500,
+      "width": 380,
+      "height": 450,
+      "color": "1"
+    },
+    {
+      "id": "tech_dp_praise",
+      "type": "file",
+      "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Praise_Support.md",
+      "x": -650,
+      "y": 400,
+      "width": 380,
+      "height": 450,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_to_tech_dp_social",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "top",
+      "toNode": "tech_dp_social",
+      "toSide": "bottom",
+      "label": "社交與承諾\nまた会えて嬉しいよ / 連絡するね"
+    },
+    {
+      "id": "edge_to_tech_dp_requests",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "top",
+      "toNode": "tech_dp_requests",
+      "toSide": "bottom",
+      "label": "請求與協助\nもう一度言ってくれる？ / 借りてもいい？"
+    },
+    {
+      "id": "edge_to_tech_dp_invitations",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "top",
+      "toNode": "tech_dp_invitations",
+      "toSide": "bottom",
+      "label": "邀請與規劃\n散歩に行こうよ / 予約しようか"
+    },
+    {
+      "id": "edge_to_tech_dp_conversational",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "right",
+      "toNode": "tech_dp_conversational",
+      "toSide": "left",
+      "label": "話題啟動與詢問\n週末はどうだった？ / 今週末暇？"
+    },
+    {
+      "id": "edge_to_tech_dp_interests",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "bottom",
+      "toNode": "tech_dp_interests",
+      "toSide": "top",
+      "label": "興趣與喜好\nどんな音楽が好き？ / どっちが好き？"
+    },
+    {
+      "id": "edge_to_tech_dp_state",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "bottom",
+      "toNode": "tech_dp_state",
+      "toSide": "top",
+      "label": "狀態與回應\n予定がないんだ / おごりだよ"
+    },
+    {
+      "id": "edge_to_tech_dp_praise",
+      "fromNode": "index_node_dp_part2",
+      "fromSide": "bottom",
+      "toNode": "tech_dp_praise",
+      "toSide": "top",
+      "label": "讚美與支持\n思いやりがあるね / 力になるよ"
+    },
+    {
+      "id": "edge_dp_queries_hobbies",
+      "fromNode": "tech_dp_conversational",
+      "fromSide": "bottom",
+      "toNode": "tech_dp_interests",
+      "toSide": "right",
+      "label": "開啟對話的延伸話題"
+    },
+    {
+      "id": "edge_dp_praise_social",
+      "fromNode": "tech_dp_praise",
+      "fromSide": "top",
+      "toNode": "tech_dp_social",
+      "toSide": "bottom",
+      "label": "社交好感度提升"
+    }
+  ]
+}

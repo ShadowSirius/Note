@@ -25,3 +25,47 @@ contradicts:
 
 ## 關係說明
 - 與 [[JP_Grammar_45_te_ikimasu|〜ていきます @contradicts]] 互為對稱（`てきます` 是由遠到近、由過去到現在；`ていきます` 是由近到遠、由現在到未來）。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> コーヒーを<ruby>買<rt>か</rt></ruby>ってきます。<ruby>少し<rt>すこし</rt></ruby><ruby>待<rt>ま</rt></ruby>っていてください。
+> 我去買杯咖啡，請稍微等我一下。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| お<ruby>水<rt>みず</rt></ruby> | **お<ruby>水<rt>みず</rt></ruby>**を<ruby>買<rt>か</rt></ruby>ってきます。<ruby>少し<rt>すこし</rt></ruby><ruby>待<rt>ま</rt></ruby>っていてください。 |
+| お<ruby>弁当<rt>べんとう</rt></ruby> | **お<ruby>弁当<rt>べんとう</rt></ruby>**を<ruby>買<rt>か</rt></ruby>ってきます。<ruby>少し<rt>すこし</rt></ruby><ruby>待<rt>ま</rt></ruby>っていてください。 |
+| <ruby>新聞<rt>しんぶん</rt></ruby> | **<ruby>新聞<rt>しんぶん</rt></ruby>**を<ruby>買<rt>か</rt></ruby>ってきます。<ruby>少し<rt>すこし</rt></ruby><ruby>待<rt>ま</rt></ruby>っていてください。 |
+| チケット | **チケット**を<ruby>買<rt>か</rt></ruby>ってきます。<ruby>少し<rt>すこし</rt></ruby><ruby>待<rt>ま</rt></ruby>っていてください。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | コーヒーを<ruby>買<rt>か</rt></ruby>って**きました**。 |
+| → 否定形 | コーヒーを<ruby>買<rt>か</rt></ruby>って**きません**。 |
+| → 意志形 | コーヒーを<ruby>買<rt>か</rt></ruby>って**こよう**。 |
+| → 疑問形 | コーヒーを<ruby>買<rt>か</rt></ruby>って**きますか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>ってきますか。 | コーヒーを<ruby>買<rt>か</rt></ruby>ってきます。 |
+| <ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>から<ruby>飲み物<rt>のみもの</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってきてくれますか。 | はい、<ruby>取<rt>と</rt></ruby>ってきます。 |
+| 最近<ruby>忙<rt>いそが</rt></ruby>しくなってきましたか。 | はい、<ruby>忙<rt>いそが</rt></ruby>しくなってきました。 |
+| <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってきましたか。 | はい、<ruby>降<rt>ふ</rt></ruby>ってきました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>買<rt>か</rt></ruby>ってきます。 |
+| +コーヒーを | コーヒーを<ruby>買<rt>か</rt></ruby>ってきます。 |
+| +ちょっと | ちょっとコーヒーを<ruby>買<rt>か</rt></ruby>ってきます。 |
+| +コンビニで | コンビニでちょっとコーヒーを<ruby>買<rt>か</rt></ruby>ってきます。 |

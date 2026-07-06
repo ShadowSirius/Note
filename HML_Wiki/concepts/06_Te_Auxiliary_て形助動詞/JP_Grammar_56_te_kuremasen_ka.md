@@ -34,3 +34,47 @@ related_to:
 ## 關係說明
 - 作為日常生活中必備的請求句型，是直接請求 [[JP_Grammar_11_te_kudasai|〜てください @refines]] 的委婉口語細化。
 - 與更為莊重客氣的 [[JP_Grammar_33_te_moraemasen_ka|〜てもらえませんか @related_to]] 具有緊密的語意對應與替換關係。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてくれませんか。
+> 可以幫我把窗戶打開嗎？
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>閉<rt>し</rt></ruby>める | <ruby>窓<rt>まど</rt></ruby>を**<ruby>閉<rt>し</rt></ruby>めて**くれませんか。 |
+| <ruby>掃除<rt>そうじ</rt></ruby>する | <ruby>窓<rt>まど</rt></ruby>を**<ruby>掃除<rt>そうじ</rt></ruby>して**くれませんか。 |
+| <ruby>直<rt>なお</rt></ruby>す | <ruby>窓<rt>まど</rt></ruby>を**<ruby>直<rt>なお</rt></ruby>して**くれませんか。 |
+| <ruby>開<rt>あ</rt></ruby>ける | <ruby>窓<rt>まど</rt></ruby>を**<ruby>開<rt>あ</rt></ruby>けて**くれませんか。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 直接請求 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて**ください**。 |
+| → 親しい口語 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて。 |
+| → 丁寧委婉請求 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて**もらえませんか**。 |
+| → 丁寧過去疑問 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて**くれませんでしたか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてくれませんか。 | はい、いいですよ。今<ruby>開<rt>あ</rt></ruby>けますね。 |
+| <ruby>写真<rt>しゃしん</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってくれませんか。 | はい、すぐ<ruby>送<rt>おく</rt></ruby>ります。 |
+| <ruby>少し<rt>すこし</rt></ruby>だけ<ruby>手伝<rt>てつだ</rt></ruby>ってくれませんか。 | はい、喜んで。 |
+| 英語で<ruby>話<rt>はな</rt></ruby>してくれませんか。 | すみません、英語はちょっとできません。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | くれませんか。 |
+| +開けて | <ruby>開<rt>あ</rt></ruby>けてくれませんか。 |
+| +窓を | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてくれませんか。 |
+| +すみませんが | すみませんが、<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてくれませんか。 |

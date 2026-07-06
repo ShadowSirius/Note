@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C01_five_sentence_patterns|上一課 @sibling_of]]
 - [[JP_Grammar_50_C03_ni_he_move|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。
+> 我是學生。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 会社員 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>会社員<rt>かいしゃいん</rt></ruby>**です。 |
+| 先生 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>先生<rt>せんせい</rt></ruby>**です。 |
+| 日本人 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>日本人<rt>にほんじん</rt></ruby>**です。 |
+| 留学生 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>留学生<rt>ryuugakusei</rt></ruby>**です。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**ではありません**。 |
+| → 過去肯定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**でした**。 |
+| → 過去否定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**ではありませんでした**。 |
+| → 普通形（口語） | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**だ**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>あなた<rt>あなた</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>ですか。 | はい、<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。 |
+| <ruby>あの人<rt>あのひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>ですか。 | いいえ、<ruby>あの人<rt>あのひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>ではありません。 |
+| <ruby>これ<rt>これ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>ですか。 | はい、それは<ruby>本<rt>ほん</rt></ruby>です。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>学生<rt>がくせい</rt></ruby>です。 |
+| +主題 | **<ruby>私<rt>わたし</rt></ruby>は**<ruby>学生<rt>がくせい</rt></ruby>です。 |
+| +修飾 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>日本語<rt>にほんご</rt></ruby>の**<ruby>学生<rt>がくせい</rt></ruby>です。 |
+| +地點 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の**<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。 |

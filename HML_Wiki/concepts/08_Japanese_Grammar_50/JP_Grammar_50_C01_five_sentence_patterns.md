@@ -32,3 +32,51 @@ sibling_of:
 ## 關係說明
 - [[JP_Grammar_50_C02_wa_desu|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+derives_from:
+  - "[[Japanese_Grammar_50_ocr]]"
+part_of:
+  - "[[Japanese_Grammar_50_Index]]"
+sibling_of:
+  - "[[JP_Grammar_50_C02_wa_desu]]"
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>桜<rt>さくら</rt></ruby>が<ruby>咲きます<rt>さききます</rt></ruby>
+> 櫻花開{かい}了/開{かえ}花{はな}。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 子供 | <ruby>子供<rt>こども</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| 母親 | <ruby>母<rt>はいじん</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| キッチン | <ruby>キッチン<rt>きっちん</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きません<rt>さきません</rt></ruby>**。 |
+| → 過去肯定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きました<rt>さききました</rt></ruby>**。 |
+| → 過去否定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きませんでした<rt>さきしませんでした</rt></ruby>**。 |
+| → 普通形（口語） | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きます<rt>さききます</rt></ruby>**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 子供は桜を開いたことがありますか？ | 是的，子供が**桜を咲き{かい}了/開{かえ}花{はな}了。** |
+| 母親は桜の手紙を送りましたか？ | 不好，母が**桜に手紙を送った**ことありませんでした。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>桜<rt>さくら</rt></ruby>が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| +主語 | 櫻花{はな}が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| +時間 | <ruby>子供<rt>こども</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>今<rt>いま</rt></ruby>に<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| +條件 | 今日{きょう}、**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>晴れ<rt>はる</rt></ruby>の日<ruby>に<rt>で</rt></ruby>て<ruby>咲きます<rt>さききます</rt></ruby>。 |

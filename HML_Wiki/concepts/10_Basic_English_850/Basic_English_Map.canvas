@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"index_node_be850","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Index.md","x":-150,"y":-100,"width":300,"height":220,"color":"6"},
+		{"id":"tech_be_operators","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Operators.md","x":-550,"y":-500,"width":350,"height":450,"color":"1"},
+		{"id":"tech_be_phrasal","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Phrasal_Verbs.md","x":250,"y":-500,"width":350,"height":450,"color":"2"},
+		{"id":"tech_be_vocabulary","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Vocabulary_Structure.md","x":-550,"y":300,"width":350,"height":450,"color":"3"},
+		{"id":"tech_be_pros","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Pros_Cons.md","x":250,"y":300,"width":350,"height":450,"color":"5"}
+	],
+	"edges":[
+		{"id":"edge_to_tech_be_operators","fromNode":"index_node_be850","fromSide":"top","toNode":"tech_be_operators","toSide":"bottom","label":"18核心動詞\n物理與狀態算子"},
+		{"id":"edge_to_tech_be_phrasal","fromNode":"index_node_be850","fromSide":"top","toNode":"tech_be_phrasal","toSide":"bottom","label":"片語代換技法\n標準英語 ➡️ 極簡表達"},
+		{"id":"edge_to_tech_be_vocabulary","fromNode":"index_node_be850","fromSide":"bottom","toNode":"tech_be_vocabulary","toSide":"top","label":"850字分類結構\n600名詞/150形容詞/100語法詞"},
+		{"id":"edge_to_tech_be_pros","fromNode":"index_node_be850","fromSide":"bottom","toNode":"tech_be_pros","toSide":"top","label":"優勢與局限\n非對稱溝通與組合爆炸"},
+		{"id":"edge_be_ops_phrasal","fromNode":"tech_be_operators","fromSide":"right","toNode":"tech_be_phrasal","toSide":"left","label":"算子+介系詞組合"},
+		{"id":"edge_be_vocab_ops","fromNode":"tech_be_vocabulary","fromSide":"top","toNode":"tech_be_operators","toSide":"bottom","label":"18個動詞包含於100個語法詞中"},
+		{"id":"edge_be_phrasal_proscons","fromNode":"tech_be_phrasal","fromSide":"bottom","toNode":"tech_be_pros","toSide":"top","label":"組合複雜性分析"}
+	]
+}

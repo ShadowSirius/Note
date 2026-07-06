@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C43_sou_desu_conjecture|上一課 @sibling_of]]
 - [[JP_Grammar_50_C45_hazu_desu_beki_desu|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>今<rt>いま</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>を<ruby>書<rt>か</rt></ruby>いています。
+> 現在正在寫論文（動作正在進行）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 新聞を読む | <ruby>今<rt>いま</rt></ruby>、**<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでいます**。 |
+| コーヒーを飲む | <ruby>今<rt>いま</rt></ruby>、**コーヒーを<ruby>飲<rt>の</rt></ruby>んでいます**。 |
+| 勉強する | <ruby>今<rt>いま</rt></ruby>、**<ruby>勉強<rt>べんきょう</rt></ruby>しています**。 |
+| 狀態結婚 (結婚している) | 私は**<ruby>結婚<rt>けっこん</rt></ruby>しています**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去進行 | <ruby>今<rt>いま</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>を**<ruby>書<rt>か</rt></ruby>いていました**。 |
+| → 否定進行 | <ruby>今<rt>いま</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>を**<ruby>書<rt>か</rt></ruby>いていません**。 |
+| → 普通形（口語） | <ruby>今<rt>いま</rt></ruby>、<ruby>論文<rt>ろんぶん</rt></ruby>**<ruby>書<rt>か</rt></ruby>いてる**。 |
+| → 狀態持續 (知っている) | 私は田中さんを**<ruby>知<rt>し</rt></ruby>っています**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 今、何をしていますか。 | 論文を書いています。 |
+| 田中さんは結婚していますか。 | はい、結婚しています。 |
+| 木村さんの住所を知っていますか。 | いいえ、知りません。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>書<rt>か</rt></ruby>いています。 |
+| +目的語 | **<ruby>論文<rt>ろんぶん</rt></ruby>を**書いています。 |
+| +時間副詞 | **<ruby>今<rt>いま</rt></ruby>、**論文を書いています。 |
+| +地點 | 今、**図書館で**論文を書いています。 |

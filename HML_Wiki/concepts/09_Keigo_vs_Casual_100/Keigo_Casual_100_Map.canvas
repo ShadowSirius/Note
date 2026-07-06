@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"index_node_100jc","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Index.md","x":-175,"y":-100,"width":350,"height":250,"color":"6"},
+		{"id":"tech_questions","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech1_Questions.md","x":-650,"y":-600,"width":380,"height":450,"color":"1"},
+		{"id":"tech_requests","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech2_Requests.md","x":-150,"y":-700,"width":380,"height":450,"color":"2"},
+		{"id":"tech_permissions","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech3_Permissions.md","x":350,"y":-600,"width":380,"height":450,"color":"3"},
+		{"id":"tech_invitations","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech4_Invitations.md","x":650,"y":-100,"width":380,"height":450,"color":"4"},
+		{"id":"tech_negation","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech5_Negation_Potential.md","x":350,"y":400,"width":380,"height":450,"color":"5"},
+		{"id":"tech_greetings","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech6_Greetings_Social.md","x":-150,"y":500,"width":380,"height":450,"color":"2"},
+		{"id":"tech_feelings","type":"file","file":"concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech7_Feelings_Adjectives.md","x":-650,"y":400,"width":380,"height":450,"color":"5"}
+	],
+	"edges":[
+		{"id":"edge_to_tech_questions","fromNode":"index_node_100jc","fromSide":"top","toNode":"tech_questions","toSide":"bottom","label":"疑問與確認\n~ですか ➡️ ~の？"},
+		{"id":"edge_to_tech_requests","fromNode":"index_node_100jc","fromSide":"top","toNode":"tech_requests","toSide":"bottom","label":"請求與指示\n~てください ➡️ ~て"},
+		{"id":"edge_to_tech_permissions","fromNode":"index_node_100jc","fromSide":"top","toNode":"tech_permissions","toSide":"bottom","label":"許可與約定\n~てもいいですか ➡️ ~ていい？"},
+		{"id":"edge_to_tech_invitations","fromNode":"index_node_100jc","fromSide":"right","toNode":"tech_invitations","toSide":"left","label":"邀請與提議\n~ませんか ➡️ ~ない？"},
+		{"id":"edge_to_tech_negation","fromNode":"index_node_100jc","fromSide":"bottom","toNode":"tech_negation","toSide":"top","label":"否定與能力\n~ません ➡️ ~ない"},
+		{"id":"edge_to_tech_greetings","fromNode":"index_node_100jc","fromSide":"bottom","toNode":"tech_greetings","toSide":"top","label":"日常社交與寒暄\n感謝/道歉/祝福簡化"},
+		{"id":"edge_to_tech_feelings","fromNode":"index_node_100jc","fromSide":"bottom","toNode":"tech_feelings","toSide":"top","label":"感受與感嘆\n~ですね ➡️ ~だね"},
+		{"id":"edge_tech1_tech7","fromNode":"tech_tech1_questions","fromSide":"bottom","toNode":"tech_tech7_feelings_adjectives","toSide":"top","label":"生理感受問答對照"},
+		{"id":"edge_tech2_tech3","fromNode":"tech_tech2_requests","fromSide":"right","toNode":"tech_tech3_permissions","toSide":"left","label":"て形簡化的延伸"},
+		{"id":"edge_tech3_tech4","fromNode":"tech_tech3_permissions","fromSide":"right","toNode":"tech_tech4_invitations","toSide":"top","label":"互動意願討論"}
+	]
+}

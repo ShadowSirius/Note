@@ -34,3 +34,46 @@ sibling_of:
 - [[JP_Grammar_50_C04_masen_ka_mashou|上一課 @sibling_of]]
 - [[JP_Grammar_50_C06_past_tense|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>をあげました。
+> 送伴手禮給朋友。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 先生 | **<ruby>先生<rt>せんせい</rt></ruby>**にお<ruby>土産<rt>みやげ</rt></ruby>をあげました。 |
+| 本 | <ruby>友達<rt>ともだち</rt></ruby>に**<ruby>本<rt>ほん</rt></ruby>**をあげました。 |
+| 花 | <ruby>友達<rt>ともだち</rt></ruby>に**<ruby>花<rt>はな</rt></ruby>**をあげました。 |
+| 妹 | **<ruby>妹<rt>いもうと</rt></ruby>**にお<ruby>土産<rt>みやげ</rt></ruby>をあげました。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 收到 (もらう) | <ruby>友達<rt>ともだち</rt></ruby>**にお<ruby>土産<rt>みやげ</rt></ruby>をもらいました**。 |
+| → 朋友給我 (くれる) | <ruby>友達<rt>ともだち</rt></ruby>**がお<ruby>土産<rt>みやげ</rt></ruby>をくれました**。 |
+| → 否定形 | <ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>を**あげませんでした**。 |
+| → 普通形（口語） | <ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>**あげた**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>誰<rt>だれ</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>をあげましたか。 | <ruby>友達<rt>ともだち</rt></ruby>にあげました。 |
+| そのチョコは<ruby>誰<rt>だれ</rt></ruby>にもらいましたか。 | <ruby>友達<rt>ともだち</rt></ruby>にもらいました。 |
+| <ruby>友達<rt>ともだち</rt></ruby>がチョコをくれましたか。 | はい、くれました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | あげました。 |
+| +目的語 | **お<ruby>土産<rt>みやげ</rt></ruby>を**あげました。 |
+| +對象 | **<ruby>友達<rt>ともだち</rt></ruby>に**お<ruby>土産<rt>みやげ</rt></ruby>をあげました。 |
+| +時間 | **昨日**、<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>をあげました。 |

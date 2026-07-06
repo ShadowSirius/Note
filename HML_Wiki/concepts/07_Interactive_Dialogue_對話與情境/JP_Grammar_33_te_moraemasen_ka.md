@@ -48,3 +48,46 @@ refines:
 
 ## 關係說明
 - 是主動指令式請求 [[JP_Grammar_11_te_kudasai|〜てください @refines]] 的更禮貌與更委婉的語氣替換形式。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもらえませんか。
+> 能幫我拍張照片嗎？
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| タクシーを<ruby>呼<rt>よ (yo)</rt></ruby>ぶ | **タクシーを<ruby>呼<rt>よ (yo)</rt></ruby>んで**もらえませんか。 |
+| <ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>す | **<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>して**もらえませんか。 |
+| お<ruby>弁当<rt>べんとう (bentou)</rt></ruby>を<ruby>温<rt>あたた (atata)</rt></ruby>める | **お<ruby>弁当<rt>べんとう (bentou)</rt></ruby>を<ruby>温<rt>あたた (atata)</rt></ruby>めて**もらえませんか。 |
+| <ruby>地図<rt>ちず (chizu)</rt></ruby>を<ruby>書<rt>か (ka)</rt></ruby>く | **<ruby>地図<rt>ちず (chizu)</rt></ruby>を<ruby>書<rt>か (ka)</rt></ruby>いて**もらえませんか。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 丁寧形 | 写真を撮って**いただけますか**。 |
+| → 最丁寧形 | 写真を撮って**いただけないでしょうか**。 |
+| → 指示形 | 写真を撮って**ください**。 |
+| → 親しい表現 | 写真を撮って**くれる**？ |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| すみません、写真を撮ってもらえませんか。 | はい、いいですよ。はい、チーズ！ |
+| タクシーを呼んでもらえませんか。 | かしこまりました。少々お待ちください。 |
+| お弁当を温めてもらえませんか。 | はい、分かりました。少々お待ちください。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | もらえませんか。 |
+| +撮って | 撮ってもらえませんか。 |
+| +写真を | 写真を撮ってもらえませんか。 |
+| +すみません、 | すみません、写真を撮ってもらえませんか。 |

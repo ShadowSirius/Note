@@ -96,3 +96,46 @@ illustrates:
 
 ## 關係說明
 - 這些核心單字在 [[JP_Dialogue_Scenarios|日語生活情境會話 @illustrates]] 中被大量引用，共同構成實用對話的基石。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します。
+> 借雨傘給朋友。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>す | 友達に**<ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します**。 |
+| <ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>る | 友達に**<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>ります**。 |
+| お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>す | 友達に**お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します**。 |
+| プレゼントをあげる | 友達に**プレゼントをあげます**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | 友達に傘を**貸しました**。 |
+| → 否定形 | 友達に傘を**貸しません**。 |
+| → 進行形 | 友達に傘を**貸しています**。 |
+| → 普通形 | 友達に傘を**貸す**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 友達に傘を貸しましたか。 | はい、貸しました。 |
+| 誰に傘を貸しますか。 | 友達に貸します。 |
+| 友達に傘を貸しませんか。 | ええ、貸しましょう。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | 貸します。 |
+| +傘を | 傘を貸します。 |
+| +友達に | 友達に傘を貸します。 |
+| +雨の日に、 | 雨の日に、友達に傘を貸します。 |

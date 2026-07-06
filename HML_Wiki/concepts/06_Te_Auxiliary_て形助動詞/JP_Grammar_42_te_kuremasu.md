@@ -27,3 +27,47 @@ replaces:
 ## 關係說明
 - 與自己為他人提供好意的 [[JP_Grammar_43_te_agemasu|〜てあげます @contradicts]] 互為對稱（授受方向相反）。
 - 與同表接受好意的 [[JP_Grammar_44_te_moraimasu|〜てもらいます @replaces]] 互為近義替換，但**主詞視角不同**（`てくれます` 以施惠者為主語；`てもらいます` 以受惠的「我」為主語，表示承蒙他人做事）。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>てくれました。
+> 朋友幫我看了報告。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>先輩<rt>せんぱい</rt></ruby> | **<ruby>先輩<rt>せんぱい</rt></ruby>**がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+| <ruby>先生<rt>せんせい</rt></ruby> | **<ruby>先生<rt>せんせい</rt></ruby>**がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+| <ruby>彼女<rt>かのじょ</rt></ruby> | **<ruby>彼女<rt>かのじょ</rt></ruby>**がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+| お<ruby>父<rt>とう</rt></ruby>さん | **お<ruby>父<rt>とう</rt></ruby>さん**がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 非過去形 | <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>て**くれます**。 |
+| → 普通形過去 | <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>て**くれた**。 |
+| → 否定形過去 | <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>て**くれませんでした**。 |
+| → 疑問形 | <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>て**くれましたか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 誰がレポートを<ruby>見<rt>み</rt></ruby>てくれましたか。 | <ruby>友達<rt>ともだち</rt></ruby>が<ruby>見<rt>み</rt></ruby>てくれました。 |
+| <ruby>先輩<rt>せんぱい</rt></ruby>は<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてくれますか。 | はい、<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えてくれます。 |
+| <ruby>明日<rt>あした</rt></ruby><ruby>駅<rt>えき</rt></ruby>まで<ruby>送<rt>おく</rt></ruby>ってくれますか。 | はい、<ruby>送<rt>おく</rt></ruby>ってくれます。 |
+| 彼は<ruby>手伝<rt>てつだ</rt></ruby>ってくれましたか。 | はい、<ruby>手伝<rt>てつだ</rt></ruby>ってくれました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>見<rt>み</rt></ruby>てくれました。 |
+| +レポートを | レポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+| +友達が | <ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |
+| +私のために | 私のために<ruby>友達<rt>ともだち</rt></ruby>がレポートを<ruby>見<rt>み</rt></ruby>てくれました。 |

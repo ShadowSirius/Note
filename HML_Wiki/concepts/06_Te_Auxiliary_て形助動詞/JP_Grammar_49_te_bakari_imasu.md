@@ -24,3 +24,47 @@ refines:
 
 ## 關係說明
 - 作為表達經常性動作或狀態的 [[JP_Grammar_12_te_imasu|〜ています @refines]] 的延伸，它是帶有責備與單一化傾向的精確細化說法。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> 最近ネットを<ruby>見<rt>み</rt></ruby>てばかりいます。
+> 最近老是在看網路。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| テレビ | 最近**テレビ**を<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| スマホ | 最近**スマホ**を<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| YouTube | 最近**YouTube**を<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| アニメ | 最近**アニメ**を<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 普通形 | 最近ネットを<ruby>見<rt>み</rt></ruby>て**ばかりいる**。 |
+| → 勸告 (〜てばかりいないで) | ネットを<ruby>見<rt>み</rt></ruby>**てばかりいないでください**。 |
+| → 過去形 | 最近ネットを<ruby>見<rt>み</rt></ruby>て**ばかりいました**。 |
+| → 疑問形 | 最近ネットを<ruby>見<rt>み</rt></ruby>て**ばかりいますか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 最近ネットを<ruby>見<rt>み</rt></ruby>てばかりいますか。 | はい、<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| <ruby>昼休み<rt>ひるやすみ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>てばかりいますか。 | はい、<ruby>寝<rt>ね</rt></ruby>てばかりいます。 |
+| 彼は<ruby>遊<rt>あそ</rt></ruby>んでばかりいますか。 | はい、<ruby>遊<rt>あそ</rt></ruby>んでばかりいます。 |
+| 彼女は<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしてばかりいますか。 | はい、<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>をしてばかりいます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | ばかりいます。 |
+| +見て | <ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| +ネットを | ネットを<ruby>見<rt>み</rt></ruby>てばかりいます。 |
+| +最近 | 最近ネットを<ruby>見<rt>み</rt></ruby>てばかりいます。 |

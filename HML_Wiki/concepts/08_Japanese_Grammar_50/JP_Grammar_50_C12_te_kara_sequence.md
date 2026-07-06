@@ -30,3 +30,46 @@ sibling_of:
 - [[JP_Grammar_50_C11_te_imasu_states|上一課 @sibling_of]]
 - [[JP_Grammar_50_C13_te_sequence|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>宿題<rt>しゅくだい</rt></ruby>をしてから、テレビを<ruby>見<rt>み</rt></ruby>ます。
+> 做完作業之後看電視。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 手を洗う | **<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>ってから**、テレビを見ます。 |
+| お風呂に入る | **お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってから**、テレビを見ます。 |
+| ご飯を食べる | **ご飯を<ruby>食<rt>た</rt></ruby>べてから**、テレビを見ます。 |
+| 宿題をする / 本を読む | <ruby>宿題<rt>しゅくだい</rt></ruby>をしてから、**<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | <ruby>宿題<rt>しゅくだい</rt></ruby>をしてから、テレビを**<ruby>見<rt>み</rt></ruby>ました**。 |
+| → 否定形 | <ruby>宿題<rt>しゅくだい</rt></ruby>をしてから、テレビを**<ruby>見<rt>み</rt></ruby>ません**。 |
+| → て形連接 (單純順序) | <ruby>宿題<rt>しゅくだい</rt></ruby>を**して**、テレビを<ruby>見<rt>み</rt></ruby>ます。 |
+| → 普通形（口語） | <ruby>宿題<rt>しゅくだい</rt></ruby>してから、テレビを**<ruby>見<rt>み</rt></ruby>る**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| いつテレビを見ますか。 | <ruby>宿題<rt>しゅくだい</rt></ruby>をしてから見ます。 |
+| 手を洗ってからご飯を食べますか。 | はい、手を洗ってからご飯を食べます。 |
+| 仕事が終わってからどうしますか。 | 仕事が終わってから、飲みに行きます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | テレビを<ruby>見<rt>み</rt></ruby>ます。 |
+| +前提條件 | **<ruby>宿題<rt>しゅくだい</rt></ruby>をしてから**、テレビを<ruby>見<rt>み</rt></ruby>ます。 |
+| +時間 | **毎日**、<ruby>宿題<rt>しゅくだい</rt></ruby>をしてから、テレビを<ruby>見<rt>み</rt></ruby>ます。 |
+| +伴隨 | 毎日、宿題をしてから、**家族と**テレビを<ruby>見<rt>み</rt></ruby>ます。 |

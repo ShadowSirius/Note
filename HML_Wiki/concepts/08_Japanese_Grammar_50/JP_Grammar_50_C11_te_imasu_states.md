@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C10_verb_types_te_form|上一課 @sibling_of]]
 - [[JP_Grammar_50_C12_te_kara_sequence|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> ドアが<ruby>開<rt>あ</rt></ruby>いています。
+> 門開著（狀態的持續）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 窓 | **<ruby>窓<rt>まど</rt></ruby>**が<ruby>開<rt>あ</rt></ruby>いています。 |
+| ドアが閉まる | ドアが**<ruby>閉<rt>し</rt></ruby>まっています**。 |
+| 電気がつく | <ruby>電気<rt>でんき</rt></ruby>が**ついています**。 |
+| 電気が消える | <ruby>電気<rt>でんき</rt></ruby>が**<ruby>消<rt>き</rt></ruby>えています**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去狀態 | ドアが<ruby>開<rt>あ</rt></ruby>いて**いました**。 |
+| → 否定狀態 | ドアが<ruby>開<rt>あ</rt></ruby>いて**いません**。 |
+| → 人為動作結果 (てあります) | ドアが**<ruby>開<rt>あ</rt></ruby>けてあります**。 |
+| → 普通形（口語） | ドアが<ruby>開<rt>あ</rt></ruby>いて**いる**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| ドアが<ruby>開<rt>あ</rt></ruby>いていますか。 | はい、<ruby>開<rt>あ</rt></ruby>いています。 |
+| 窓は閉まっていますか。 | いいえ、<ruby>開<rt>あ</rt></ruby>いています。 |
+| 電気はついていますか。 | はい、ついています。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>開<rt>あ</rt></ruby>いています。 |
+| +主語 | **ドアが**<ruby>開<rt>あ</rt></ruby>いています。 |
+| +修飾 | **部屋の**ドアが<ruby>開<rt>あ</rt></ruby>いています。 |
+| +時間 | **朝から**部屋のドアが<ruby>開<rt>あ</rt></ruby>いています。 |

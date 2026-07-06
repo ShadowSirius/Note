@@ -1,0 +1,85 @@
+---
+title: 分類一：日常社交與對話承諾
+tags:
+  - Japanese
+  - Conversation
+  - Oral_Practice
+child_of:
+  - "[[Daily_Phrases_Index]]"
+sibling_of:
+  - "[[Daily_Phrases_Requests_Help]]"
+  - "[[Daily_Phrases_Invitations_Plans]]"
+---
+# 分類一：日常社交與對話承諾
+
+本篇收錄日常生活中打招呼、道謝、出發以及約定後續聯絡的親近語氣常用句。口語中常用句尾助詞 `よ`（提醒/告知）與 `ね`（確認/緩和語氣）來拉近社交距離。
+
+---
+
+## 📊 日常社交與承諾句型表 (11 句)
+
+| 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
+|:---:|:---|:---|:---|:---|
+| 1 | 很高興再次見到你。 | <ruby>また会えて嬉しいよ<rt>またあえてうれしいよ</rt></ruby> | *Mata aete ureshii yo* | `会えて` 是 `会う` 的可能形て形。表示「能見面感到高興」。 |
+| 2 | 很高興能直接見面。 | <ruby>直接会えて嬉しいな<rt>ちょくせつあえてうれしいな</rt></ruby> | *Chokunsetsu aete ureshii na* | `直接` 指親自見面（非視訊/文字）。句尾 `な` 帶有自我感嘆。 |
+| 3 | 很高興能跟你聊天。 | <ruby>話せてよかったよ<rt>はなせてよかったよ</rt></ruby> | *Hanasete yokatta yo* | `話せて` 為 `話す` 的可能形て形。用於談話結束後的告別。 |
+| 4 | 謝謝你特地抽空。 | <ruby>時間を作ってくれてありがとう<rt>じかんをつくってくれてありがとう</rt></ruby> | *Jikan o tsukutte kurete arigatou* | `〜てくれてありがとう` 感謝對方為自己做某事（抽空/撥時間）。 |
+| 5 | 我現在過去喔。 | <ruby>今すぐ行くね<rt>いますぐいくね</rt></ruby> | *Ima sugu iku ne* | 日語中「我去你那邊」要用動詞 `行く`（以對方為中心）。 |
+| 6 | 晚點再聯絡你喔。 | <ruby>後でまた連絡するね<rt>あとでまたれんらくするね</rt></ruby> | *Ato de mata renraku suru ne* | `後で`（晚點）、`また`（再）。極高頻的對話收尾語。 |
+| 7 | 我們保持聯絡喔。 | <ruby>連絡を取り合おうね<rt>れんらくをとりあおうね</rt></ruby> | *Renraku o toriaou ne* | `取り合う` 互相取得。`〜おう` 為意向形，表示提議。 |
+| 8 | 我們近期再聚聚喔。 | <ruby>また近いうちに会おうね<rt>またちかいうちにあおうね</rt></ruby> | *Mata chikai uchi ni aou ne* | `近いうちに` 意為「近期之內」。 |
+| 9 | 我馬上傳訊息給你喔。 | <ruby>すぐにメッセージを送るね<rt>すぐにめっせーじをおくるね</rt></ruby> | *Sugu ni messeeji o okuru ne* | `すぐに`（立刻/馬上）。`メッセージ` 簡稱 `メッセ`。 |
+| 10 | 你到了那邊打給我。 | <ruby>向こうに着いたら電話してね<rt>むこうについたらでんわしてね</rt></ruby> | *Mukou ni tsuitara denwa shite ne* | `〜たら` 表示「一旦...之後」。常用於一方出發或旅行時的叮嚀。 |
+| 11 | 祝你旅途愉快喔。 | <ruby>良い旅をね<rt>いいたびをね</rt></ruby> | *Ii tabi o ne* | 簡短的旅遊祝福。完整說法為 `良い旅をしてください`。 |
+
+---
+
+## 🔗 關係與連結
+
+- **屬於本專案主頁之子頁面**：[[Daily_Phrases_Index|日常常用句第２彈總覽 @child_of]]
+- **其他主題分類頁面**：
+  - [[Daily_Phrases_Requests_Help|分類二：請求與尋求協助 @sibling_of]]
+  - [[Daily_Phrases_Invitations_Plans|分類三：邀請、提議與休閒規劃 @sibling_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。
+> 很高興再次見到你。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>話<rt>はな</rt></ruby>せて | **<ruby>話<rt>はな</rt></ruby>せて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>ができて | **<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>ができて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>けて | **<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>けて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| <ruby>連絡<rt>れんらく</rt></ruby>が<ruby>取<rt>と</rt></ruby>れて | **<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>取<rt>と</rt></ruby>れて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 丁寧形 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいです。 |
+| → 疑問否定（口語） | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しくない？ |
+| → 過去形 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しかった。 |
+| → 丁寧形過去 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しかったです。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 | 私も！ずっと<ruby>会<rt>あ</rt></ruby>いたかったよ。 |
+| <ruby>話<rt>はな</rt></ruby>せてよかったよ。 | うん、私も<ruby>楽<rt>たの</rt></ruby>しかった。 |
+| また<ruby>近<rt>ちか</rt></ruby>いうちに<ruby>会<rt>あ</rt></ruby>おうね。 | そうだね、また<ruby>連絡<rt>れんらく</rt></ruby>するよ。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| +会えて | <ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| +また | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| +君に | <ruby>君<rt>きみ</rt></ruby>にまた<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |

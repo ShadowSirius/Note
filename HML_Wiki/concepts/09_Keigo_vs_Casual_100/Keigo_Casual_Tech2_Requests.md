@@ -1,0 +1,101 @@
+---
+title: 技法二：請求與指示的簡化
+tags:
+  - Japanese
+  - Keigo
+  - Conversation
+child_of:
+  - "[[Keigo_Casual_100_Index]]"
+sibling_of:
+  - "[[Keigo_Casual_Tech3_Permissions]]"
+  - "[[Keigo_Casual_Tech4_Invitations]]"
+---
+# 技法二：請求與指示的簡化
+
+正式日語中，向對方提出請求、拜託或發出行動指示時，常用 `〜てください`（請做某事）或 `〜ないでください`（請不要做某事）。在口語中，為了使語氣顯得隨和且不呆板，會**省略 `ください`**，直接使用動詞的 **て形（連接形）** 或 **ないで形（否定連接形）**。
+
+## 💡 語法變形規律
+
+1. **肯定請求**：
+   - 丁寧體：`[動詞て形] + てください` ➡️ 口語：`[動詞て形]`（直接去掉 `ください`）
+   - 例：`貸してください` ➡️ `貸して`
+   - *口語疊詞擴充*：有時會重複兩次以增添活潑或撒嬌的感覺，如 `見てください` ➡️ `見てみて`（看嘛看嘛）、`聞いてください` ➡️ `聞いて聞いて`（聽我說聽我說）。
+2. **否定請求**：
+   - 丁寧體：`[動詞ない形] + ないでください` ➡️ 口語：`[動詞ない形] + ないで`（直接去掉 `ください`）
+   - 例：`心配しないでください` ➡️ `心配しないで`
+3. **超敬語與口語的跨度**：
+   - 部分職場高階敬語（如 `少々お待ちください`）在私下會直接被簡化為最基本的口語 `ちょっと待って`。
+
+---
+
+## 📊 15 組實用請求句對照表
+
+| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
+|:---:|:---|:---|:---|:---|
+| 1 | 請看 / 看一下 | <ruby>見てください<rt>みてください</rt></ruby> | <ruby>見てみて<rt>みてみて</rt></ruby> | *Mite kudasai* ➡️ *Mite mite* (疊詞，有「看嘛看嘛」之意) |
+| 2 | 請給我看 / 讓我看看 | <ruby>見せてください<rt>みせてください</rt></ruby> | <ruby>見せて<rt>みせて</rt></ruby> | *Misete kudasai* ➡️ *Misete* (常用於想看對方手中物品時) |
+| 3 | 請借我 / 借我一下 | <ruby>貸してください<rt>かしてください</rt></ruby> | <ruby>貸して<rt>かして</rt></ruby> | *Kashite kudasai* ➡️ *Kashite* |
+| 4 | 請教我 / 告訴我 | <ruby>教えてください<rt>おしえてください</rt></ruby> | <ruby>教えて<rt>おしえて</rt></ruby> | *Oshiete kudasai* ➡️ *Oshiete* (可指傳授知識或告知資訊) |
+| 5 | 請聽我說 / 聽著聽著 | <ruby>聞いてください<rt>きいてください</rt></ruby> | <ruby>聞いて聞いて<rt>きいてきいて</rt></ruby> | *Kiite kudasai* ➡️ *Kiite kiite* (常用於興奮地要分享八卦/消息) |
+| 6 | 請不要勉強自己 | <ruby>無理しないでください<rt>むりしないでください</rt></ruby> | <ruby>無理しないで<rt>むりしないで</rt></ruby> | *Muri shinai de kudasai* ➡️ *Muri shinai de* (體貼關心用語) |
+| 7 | 請慢慢來 / 請好好休息 | <ruby>ゆっくりしてください<rt>ゆっくりしてください</rt></ruby> | ゆっくりして | *Yukkuri shite kudasai* ➡️ *Yukkuri shite* |
+| 8 | 請不要擔心 / 不用擔心 | <ruby>心配しないでください<rt>しんぱいしないでください</rt></ruby> | <ruby>心配しないで<rt>しんぱいしないで</rt></ruby> | *Shimpai shinai de kudasai* ➡️ *Shimpai shinai de* |
+| 9 | 請用日語說 | <ruby>日本語で言ってください<rt>にほんごでいってください</rt></ruby> | <ruby>日本語で言って<rt>にほんごでいって</rt></ruby> | *Nihongo de itte kudasai* ➡️ *Nihongo de itte* |
+| 10 | 請等一下 | <ruby>待ってください<rt>まってください</rt></ruby> | <ruby>待って<rt>まって</rt></ruby> | *Matte kudasai* ➡️ *Matte* |
+| 11 | 請等一下 / 等等 | <ruby>ちょっと待ってください<rt>ちょっとまってください</rt></ruby> | ちょっと待って | *Chotto matte kudasai* ➡️ *Chotto matte* (非常高頻) |
+| 12 | 請稍候 / 請稍等 | <ruby>少々お待ちください<rt>しょうしょうおまちください</rt></ruby> | ちょっと待って | *Shooshoo omachi kudasai* (職場服務用語) ➡️ *Chotto matte* |
+| 13 | 請再說一遍 | <ruby>もう一度言ってください<rt>もういちどいってください</rt></ruby> | <ruby>もう一回言って<rt>もういっかいいって</rt></ruby> | *Moo ichido itte kudasai* ➡️ *Moo ikkai itte* (口語偏好用 `一回` 代替 `一度`) |
+| 14 | 請說慢一點 | <ruby>ゆっくり話してください<rt>ゆっくりはなしてください</rt></ruby> | <ruby>ゆっくり話して<rt>ゆっくりはなして</rt></ruby> | *Yukkuri hanashite kudasai* ➡️ *Yukkuri hanashite* |
+| 15 | 請傳訊息給我 | <ruby>メッセージを送ってください<rt>めっせーじをおくってください</rt></ruby> | メッセージ<ruby>送って<rt>おくって</rt></ruby> | *Messeji o okutte kudasai* ➡️ *Messeji okutte* (口語常省略受格助詞 `を`) |
+
+---
+
+## 🔗 關係與連結
+
+- **屬於本專案主頁之子頁面**：[[Keigo_Casual_100_Index|敬語與口語100句總覽 @child_of]]
+- **其他姊妹變形技法**：
+  - [[Keigo_Casual_Tech3_Permissions|技法三：請求許可與後續約定 @sibling_of]] (在拜託他人同意時，常與本技法的「て形」搭配)
+  - [[Keigo_Casual_Tech4_Invitations|技法四：邀請、提議與意向對比 @sibling_of]] (動詞行動的另一種主動型態)
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> ちょっと待ってください ➡️ ちょっと待って
+> 請等一下
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 見せて | ちょっと<ruby>見せて<rt>みせて</rt></ruby> |
+| 教えて | ちょっと<ruby>教えて<rt>おしえて</rt></ruby> |
+| 貸して | ちょっと<ruby>貸して<rt>かして</rt></ruby> |
+| 聞いて | ちょっと聞いて |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| 見てください → | <ruby>見てみて<rt>みてみて</rt></ruby> |
+| 心配しないでください → | <ruby>心配<rt>しんぱい</rt></ruby>しないで |
+| 日本語で言ってください → | <ruby>日本語<rt>にほんご</rt></ruby>で言って |
+| メッセージを送ってください → | メッセージ<ruby>送って<rt>おくって</rt></ruby> |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| ちょっと待って！ | うん、わかった。 |
+| <ruby>心配<rt>しんぱい</rt></ruby>しないで。 | ありがとう、心配しないよ。 |
+| メッセージ<ruby>送って<rt>おくって</rt></ruby>。 | うん、後で送るね。 |
+| <ruby>無理<rt>むり</rt></ruby>しないで。 | うん、無理しないよ。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>待って<rt>まって</rt></ruby>。 |
+| +程度 | ちょっと待って。 |
+| +時間 | もうちょっと待って。 |

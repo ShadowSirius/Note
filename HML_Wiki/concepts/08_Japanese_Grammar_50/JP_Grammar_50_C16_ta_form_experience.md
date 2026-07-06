@@ -30,3 +30,46 @@ sibling_of:
 - [[JP_Grammar_50_C15_potential_form|上一課 @sibling_of]]
 - [[JP_Grammar_50_C17_tari_tari|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがあります。
+> 曾經去過日本。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 富士山に登る | <ruby>富士山<rt>ふじさん</rt></ruby>に**<ruby>登<rt>のぼ</rt></ruby>ったことがあります**。 |
+| 寿司を食べる | お<ruby>寿司<rt>すし</rt></ruby>を**<ruby>食<rt>た</rt></ruby>べたことがあります**。 |
+| 歌舞伎を見る | <ruby>歌舞伎<rt>かぶき</rt></ruby>を**<ruby>見<rt>み</rt></ruby>たことがあります**。 |
+| 日本人と話す | <ruby>日本人<rt>にほんじん</rt></ruby>と**<ruby>話<rt>はな</rt></ruby>したことがあります**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定形 (沒有這經驗) | <ruby>日本<rt>にほん</rt></ruby>へ行ったことが**ありません**。 |
+| → 疑問形 | <ruby>日本<rt>にほん</rt></ruby>へ行ったことが**ありますか**。 |
+| → 過去形敘述 (去過某次) | <ruby>去年<rt>きょねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きました**。 |
+| → 普通形否定（口語） | <ruby>日本<rt>にほん</rt></ruby>へ行ったことが**ない**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ったことがありますか。 | はい、一度<ruby>行<rt>い</rt></ruby>ったことがあります。 |
+| <ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ったことがありますか。 | いいえ、一度もありません。 |
+| 日本のビールを<ruby>飲<rt>の</rt></ruby>んだことがありますか。 | はい、あります。とてもおいしかったです。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | あります。 |
+| +動作經驗 | **<ruby>行<rt>い</rt></ruby>ったことが**あります。 |
+| +方向 | **<ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>ったことがあります。 |
+| +頻率 | **何度か**日本へ行ったことがあります。 |

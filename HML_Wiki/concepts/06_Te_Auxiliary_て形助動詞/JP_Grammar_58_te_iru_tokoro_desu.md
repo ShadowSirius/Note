@@ -23,3 +23,47 @@ refines:
 
 ## 關係說明
 - 是進行狀態 [[JP_Grammar_12_te_imasu|〜ています @refines]] 的精確細化，特別強調「當下那個特定的時刻點」。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いているところです。
+> 我現在正在寫電子郵件。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| レポート | <ruby>今<rt>いま</rt></ruby>**レポート**を<ruby>書<rt>か</rt></ruby>いているところです。 |
+| <ruby>報告書<rt>ほうこくしょ</rt></ruby> | <ruby>今<rt>いま</rt></ruby>**<ruby>報告書<rt>ほうこくしょ</rt></ruby>**を<ruby>書<rt>か</rt></ruby>いているところです。 |
+| <ruby>手紙<rt>てがみ</rt></ruby> | <ruby>今<rt>いま</rt></ruby>**<ruby>手紙<rt>てがみ</rt></ruby>**を<ruby>書<rt>か</rt></ruby>いているところです。 |
+| メモ | <ruby>今<rt>いま</rt></ruby>**メモ**を<ruby>書<rt>か</rt></ruby>いているところです。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去進行 | <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いている**ところでした**。 |
+| → 普通進行形 | <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いて**います**。 |
+| → 普通形 | <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いている**ところだ**。 |
+| → 疑問形 | <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いている**ところですか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いているところですか。 | はい、今<ruby>書<rt>か</rt></ruby>いているところです。 |
+| <ruby>資料<rt>しりょう</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>しているところですか。 | はい、<ruby>準備<rt>じゅんび</rt></ruby>しているところです。 |
+| <ruby>今<rt>いま</rt></ruby>は<ruby>掃除<rt>そうじ</rt></ruby>をしているところですか。 | はい、<ruby>掃除<rt>そうじ</rt></ruby>をしているところです。 |
+| <ruby>出<rt>で</rt></ruby>かける<ruby>準備<rt>じゅんび</rt></ruby>をしているところですか。 | はい、<ruby>準備<rt>じゅんび</rt></ruby>をしているところです。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | 書いているところです。 |
+| +メールを | メールを<ruby>書<rt>か</rt></ruby>いているところです。 |
+| +今 | <ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いているところです。 |
+| +パソコンで | パソコンで<ruby>今<rt>いま</rt></ruby>メールを<ruby>書<rt>か</rt></ruby>いているところです。 |

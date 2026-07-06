@@ -1,0 +1,103 @@
+---
+title: 技法四：邀請、提議與意向對比
+tags:
+  - Japanese
+  - Keigo
+  - Conversation
+child_of:
+  - "[[Keigo_Casual_100_Index]]"
+sibling_of:
+  - "[[Keigo_Casual_Tech3_Permissions]]"
+  - "[[Keigo_Casual_Tech5_Negation_Potential]]"
+---
+# 技法四：邀請、提議與意向對比
+
+在日語社交中，向他人發出邀請（要不要一起做某事？）或主動提議提供協助（要我幫忙做某事嗎？）是極為高頻的對話。這些表達在丁寧體和日常口語中有非常鮮明的語法規則對應。
+
+## 💡 語法變形規律
+
+1. **委婉邀請 (要不要...？)**：
+   - 丁寧體：`[動詞ます形] + ませんか？`（不...嗎？） ➡️ 口語：`[動詞ない形] + ない？`（省略 `か`，句尾上揚）
+   - 例：`行きませんか？` ➡️ `行かない？`
+2. **主動提議協助 (要我...嗎？/ 讓我...吧？)**：
+   - 丁寧體：`[動詞ます形] + ましょうか？` ➡️ 口語：`[動詞意向形] + おうか / ようか？`
+   - 例：`手伝いましょうか？` ➡️ `手伝おうか？` (五段動詞變 `お` 段音 + `う`)
+3. **詢問對方意圖 (要[動詞]嗎？)**：
+   - 丁寧體：`[動詞ます形] + ますか？` ➡️ 口語：`[動詞辭書形]？`（用現在式普通形，句尾上揚）
+   - 例：`飲みますか？` ➡️ `飲む？`
+4. **共同提議 (一起...吧)**：
+   - 丁寧體：`[動詞ます形] + ましょう` ➡️ 口語：`[動詞意向形] + おう / よう`（常配合句尾助詞 `ね` 緩和語氣）
+   - 例：`また会いましょう` ➡️ `また会おうね`
+
+---
+
+## 📊 14 組實用邀請提議對照表
+
+| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
+|:---:|:---|:---|:---|:---|
+| 1 | 要不要一起去？ | <ruby>一緒に行きませんか<rt>いっしょにいきませんか</rt></ruby> | <ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？ | *Issho ni ikimasen ka* ➡️ *Issho ni ikanai?* |
+| 2 | 幾點來？ / 幾點到？ | <ruby>何時に来ますか<rt>なんじにきますか</rt></ruby> | <ruby>何時に来る<rt>なんじにくる</rt></ruby>？ | *Nan-ji ni kimasu ka* ➡️ *Nan-ji ni kuru?* (詢問來訪時間) |
+| 3 | 要不要一起吃？ | <ruby>一緒に食べませんか<rt>いっしょにたべませんか</rt></ruby> | <ruby>一緒に食べない<rt>いっしょにたべない</rt></ruby>？ | *Issho ni tabemasen ka* ➡️ *Issho ni tabenai?* |
+| 4 | 要吃嗎？ | <ruby>食べますか<rt>たべますか</rt></ruby> | <ruby>食べる<rt>たべる</rt></ruby>？ | *Tabemasu ka* ➡️ *Taberu?* |
+| 5 | 要喝嗎？ | <ruby>飲みますか<rt>のみますか</rt></ruby> | <ruby>飲む<rt>のむ</rt></ruby>？ | *Nomimasu ka* ➡️ *Nomu?* |
+| 6 | 怎麼樣？ / 如何？ | <ruby>いかがですか<rt>いかがですか</rt></ruby> | どう？ | *Ikaga desu ka* ➡️ *Doo?* (常用於徵詢意見或推薦物品) |
+| 7 | 請一起來 | <ruby>一緒に来てください<rt>いっしょにきてください</rt></ruby> | <ruby>一緒に来て<rt>いっしょにきて</rt></ruby> | *Issho ni kite kudasai* ➡️ *Issho ni kite* |
+| 8 | 要來嗎？ | <ruby>来ますか<rt>きますか</rt></ruby> | <ruby>来る<rt>くる</rt></ruby>？ | *Kimasu ka* ➡️ *Kuru?* |
+| 9 | 要我幫忙嗎？ | <ruby>手伝いましょうか<rt>てつだいましょうか</rt></ruby> | <ruby>手伝おうか<rt>てつだおうか</rt></ruby>？ | *Tetsudaimashoo ka* ➡️ *Tetsudaou ka?* (五段動詞意向形) |
+| 10 | 可以幫你嗎？ | <ruby>手伝ってもいいですか<rt>てつだってもいいですか</rt></ruby> | <ruby>手伝っていい<rt>てつだっていい</rt></ruby>？ | *Tetsudatte mo ii desu ka* ➡️ *Tetsudatte ii?* (以確認語氣提議) |
+| 11 | 要去嗎？ | <ruby>行きますか<rt>いきますか</rt></ruby> | <ruby>行く<rt>いく</rt></ruby>？ | *Ikimasu ka* ➡️ *Iku?* |
+| 12 | 要看嗎？ | <ruby>見ますか<rt>みますか</rt></ruby> | <ruby>見る<rt>みる</rt></ruby>？ | *Mimasu ka* ➡️ *Miru?* |
+| 13 | 要睡了嗎？ | <ruby>寝ますか<rt>ねますか</rt></ruby> | <ruby>もう寝る<rt>もうねる</rt></ruby>？ | *Nemasu ka* ➡️ *Moo neru?* (口語常加副詞 `もう` 表示現狀) |
+| 14 | 下次再見 / 再會 | <ruby>また会いましょう<rt>またあいましょう</rt></ruby> | <ruby>また会おうね<rt>またあおうね</rt></ruby> | *Mata aimashoo* ➡️ *Mata aou ne* (約定見面的告別語) |
+
+---
+
+## 🔗 關係與連結
+
+- **屬於本專案主頁之子頁面**：[[Keigo_Casual_100_Index|敬語與口語100句總覽 @child_of]]
+- **其他姊妹變形技法**：
+  - [[Keigo_Casual_Tech3_Permissions|技法三：請求許可與後續約定 @sibling_of]] (兩者皆帶有未來行動的協商語氣)
+  - [[Keigo_Casual_Tech5_Negation_Potential|技法五：狀態否定與能力限制 @sibling_of]] (在拒絕邀請時，需使用技法五的否定或能力受限表達)
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> 一緒に行きませんか？ ➡️ <ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？
+> 要不要一起去？
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 食べる | <ruby>一緒に食べない<rt>いっしょにたべない</rt></ruby>？ |
+| 来る | <ruby>一緒に来ない<rt>いっしょにこない</rt></ruby>？ |
+| 飲む | <ruby>一緒に飲まない<rt>いっしょにのまない</rt></ruby>？ |
+| 遊ぶ | <ruby>一緒に遊ばない<rt>いっしょにあそばない</rt></ruby>？ |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| 行きますか？ → | <ruby>行く<rt>いく</rt></ruby>？ |
+| 手伝いましょうか？ → | <ruby>手伝おうか<rt>てつだおうか</rt></ruby>？ |
+| また会いましょう → | また<ruby>会おうね<rt>あおうね</rt></ruby> |
+| 食べますか？ → | <ruby>食べる<rt>たべる</rt></ruby>？ |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？ | うん、行く！ |
+| <ruby>手伝おうか<rt>てつだおうか</rt></ruby>？ | ありがとう、お願い。 |
+| また<ruby>会おうね<rt>あおうね</rt></ruby>。 | うん、またね。 |
+| <ruby>食べる<rt>たべる</rt></ruby>？ | ううん、いらない。ありがとう。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>行かない<rt>いかない</rt></ruby>？ |
+| +副詞 | <ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？ |
+| +對象 | <ruby>田中<rt>たなか</rt></ruby>さんも<ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？ |

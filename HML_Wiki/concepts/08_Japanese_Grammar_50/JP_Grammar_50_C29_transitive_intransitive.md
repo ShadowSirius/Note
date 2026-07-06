@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C28_volitional_non_volitional|上一課 @sibling_of]]
 - [[JP_Grammar_50_C30_volitional_form_intention|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>きます。
+> 窗戶開了（自然狀態/自動詞）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| ドア | **ドア**が<ruby>開<rt>あ</rt></ruby>きます。 |
+| 電気 | <ruby>電気<rt>でんき</rt></ruby>が**つきます**。 |
+| 水が出る | <ruby>水<rt>みず</rt></ruby>が**<ruby>出<rt>で</rt></ruby>ます**。 |
+| ドアが閉まる | ドアが**<ruby>閉<rt>し</rt></ruby>まります**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 他動詞主動形 | 窓を**<ruby>開<rt>あ</rt></ruby>けます**。 |
+| → 自動詞現在進行/狀態 (ています) | 窓が**<ruby>開<rt>あ</rt></ruby>いています**。 |
+| → 他動詞結果存置 (てあります) | 窓が**<ruby>開<rt>あ</rt></ruby>けてあります**。 |
+| → 普通形（口語） | 窓が**<ruby>開<rt>あ</rt></ruby>く**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 窓が開いていますか。 | はい、開いています。 |
+| 誰が窓を開けましたか。 | 風で開きました。 |
+| 電気が消えていますよ。 | あ、本当ですね。つけます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>開<rt>あ</rt></ruby>きます。 |
+| +自動主語 | **<ruby>窓<rt>まど</rt></ruby>が**開きます。 |
+| +修飾 | **電車の**窓が開きます。 |
+| +時間狀況 | **急に**電車の窓が開きました。 |

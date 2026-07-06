@@ -273,3 +273,46 @@ uses:
 
 ## 關係說明
 - 情境應用整合了實用的 [[JP_Dialogue_Responses|情境對話應答 @uses]] 與 [[JP_Vocab_Verbs|高頻核心動詞清單 @uses]]。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>試着<rt>しちゃく (shichaku)</rt></ruby>してみてもいいですか。
+> 可以試穿看看嗎？
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>使<rt>つか (tsuka)</rt></ruby>う | **<ruby>使<rt>つか (tsuka)</rt></ruby>って**みてもいいですか。 |
+| <ruby>食<rt>た (ta)</rt></ruby>べる | **<ruby>食<rt>た (ta)</rt></ruby>べて**みてもいいですか。 |
+| <ruby>飲<rt>の (no)</rt></ruby>む | **<ruby>飲<rt>の (no)</rt></ruby>んで**みてもいいですか。 |
+| <ruby>履<rt>は (ha)</rt></ruby>く | **<ruby>履<rt>は (ha)</rt></ruby>いて**みてもいいですか。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 普通形 | 試着してみてもいい**？** |
+| → 許可否定（禁止） | 試着しては**いけませんか**。 |
+| → 過去形 | 試着してみてもよ**かったですか**。 |
+| → 請求允許（使役受給） | 試着させて**いただけませんか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| これ、試着してみてもいいですか。 | はい、いいですよ。どうぞ。 |
+| すみません、この靴を履いてみてもいいですか。 | はい、大丈夫ですよ。こちらでどうぞ。 |
+| このケーキ、食べてみてもいいですか。 | はい、どうぞ。召し上がってください。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | いいですか。 |
+| +みても | みてもいいですか。 |
+| +試着して | 試着してみてもいいですか。 |
+| +すみません、これを | すみません、これを試着してみてもいいですか。 |

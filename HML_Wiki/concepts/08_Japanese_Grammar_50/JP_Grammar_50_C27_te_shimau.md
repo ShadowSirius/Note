@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C26_nagara|上一課 @sibling_of]]
 - [[JP_Grammar_50_C28_volitional_non_volitional|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>全部<rt>ぜんぶ</rt></ruby>してしまいました。
+> 把作業全部做完了（動作徹底完成/遺憾口氣）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 本を全部読む | <ruby>本<rt>ほん</rt></ruby>を全部**<ruby>読<rt>よ</rt></ruby>んでしまいました**。 |
+| ケーキを全部食べる | ケーキを全部**<ruby>食<rt>た</rt></ruby>べてしまいました**。 |
+| 財布を忘れる (遺憾) | <ruby>財布<rt>さいふ</rt></ruby>を**<ruby>忘<rt>わす</rt></ruby>れてしまいました**。 |
+| パスポートを無くす (遺憾) | パスポートを**なくしてしまいました**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 口語形 (ちゃう/じゃう) | <ruby>宿題<rt>しゅくだい</rt></ruby>を全部**しちゃいました**。 |
+| → 普通口語形 (ちゃった) | <ruby>宿題<rt>しゅくだい</rt></ruby>を全部**しちゃった**。 |
+| → 意志否定 (不小心...) | <ruby>財布<rt>さいふ</rt></ruby>を忘れて**しまいました**。 |
+| → 意志肯定 (完成) | <ruby>宿題<rt>しゅくだい</rt></ruby>をして**しまいます**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 宿題はもう終わりましたか。 | はい、全部してしまいました。 |
+| どうして遅れたのですか。 | 電車の中に傘を忘れてしまったんです。 |
+| その本はもう読みましたか。 | はい、昨日読んでしまいました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | しまいました。 |
+| +完成動作 | **して**しまいました。 |
+| +目的語 | **<ruby>宿題<rt>しゅくだい</rt></ruby>を**してしまいました。 |
+| +修飾量 | 宿題を**全部**してしまいました。 |

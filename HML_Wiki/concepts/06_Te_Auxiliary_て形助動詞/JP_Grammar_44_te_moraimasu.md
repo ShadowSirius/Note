@@ -28,3 +28,47 @@ replaces:
 ## 關係說明
 - 與同樣表達得到幫助的 [[JP_Grammar_42_te_kuremasu|〜てくれます @replaces]] 互為近義替換，但**主詞視角不同**（`てもらいます` 主詞為受惠者，用 `に` 標記對方；`てくれます` 主詞為施惠者，用 `が` 標記）。
 - 該句型改為疑問形即為日常極其高頻的委婉請求句型 [[JP_Grammar_33_te_moraemasen_ka|〜てもらえませんか @parent_of]]。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。
+> 我請老師幫我修改了報告。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>先輩<rt>せんぱい</rt></ruby> | **<ruby>先輩<rt>せんぱい</rt></ruby>**にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| <ruby>友達<rt>ともだち</rt></ruby> | **<ruby>友達<rt>ともだち</rt></ruby>**にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| <ruby>彼女<rt>かのじょ</rt></ruby> | **<ruby>彼女<rt>かのじょ</rt></ruby>**にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| <ruby>部長<rt>ぶちょう</rt></ruby> | **<ruby>部長<rt>ぶちょう</rt></ruby>**にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 非過去形 | <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>して**もらいます**。 |
+| → 丁寧可能質問 | <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>して**もらえますか**。 |
+| → 普通形過去 | <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>して**もらった**。 |
+| → 否定形過去 | <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>して**もらいませんでした**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 誰にレポートを<ruby>直<rt>なお</rt></ruby>してもらいましたか。 | <ruby>先生<rt>せんせい</rt></ruby>に<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| <ruby>友達<rt>ともだち</rt></ruby>に<ruby>引越し<rt>ひっこし</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>ってもらいますか。 | はい、<ruby>手伝<rt>てつだ</rt></ruby>ってもらいます。 |
+| <ruby>客先<rt>きゃくさき</rt></ruby>に<ruby>機会<rt>きかい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってもらいましたか。 | はい、<ruby>作<rt>つく</rt></ruby>ってもらいました。 |
+| 彼に<ruby>教<rt>おしえ</rt></ruby>てもらいましたか。 | はい、<ruby>教<rt>おしえ</rt></ruby>てもらいました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| +レポートを | レポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| +先生に | <ruby>先生<rt>せんせい</rt></ruby>にレポートを<ruby>直<rt>なお</rt></ruby>してもらいました。 |
+| +日本語の | 日本語のレポートを<ruby>先生<rt>せんせい</rt></ruby>に<ruby>直<rt>なお</rt></ruby>してもらいました。 |

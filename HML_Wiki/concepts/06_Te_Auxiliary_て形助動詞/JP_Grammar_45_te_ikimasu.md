@@ -24,3 +24,47 @@ contradicts:
 
 ## 關係說明
 - 與 [[JP_Grammar_46_te_kimasu|〜てきます @contradicts]] 互為對稱（`ていきます` 是由近到遠、由現在到未來；`てきます` 是由遠到近、由過去到現在）。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めていきます。
+> 這個專案今後也會持續推進下去。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>続<rt>つづ</rt></ruby>ける | このプロジェクトをこれからも**<ruby>続<rt>つづ</rt></ruby>けて**いきます。 |
+| <ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>る | このプロジェクトをこれからも**<ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>って**いきます。 |
+| <ruby>行<rt>おこな</rt></ruby>う | このプロジェクトをこれからも**<ruby>行<rt>おこな</rt></ruby>って**いきます。 |
+| <ruby>守<rt>まも</rt></ruby>る | このプロジェクトをこれからも**<ruby>守<rt>まも</rt></ruby>って**いきます。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | このプロジェクトをこれまでも<ruby>進<rt>すす</rt></ruby>めて**いきました**。 |
+| → 否定形 | このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めて**いきません**。 |
+| → 意志形 | このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めて**いこう**。 |
+| → 疑問形 | このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めて**いきますか**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めていきますか。 | はい、これからも<ruby>進<rt>すす</rt></ruby>めていきます。 |
+| これを<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>持<rt>も</rt></ruby>っていきますか。 | はい、<ruby>持<rt>も</rt></ruby>っていきます。 |
+| これから<ruby>暖<rt>あたた</rt></ruby>かくなっていきますか。 | はい、<ruby>暖<rt>あたた</rt></ruby>かくなっていきます。 |
+| これからも日本語を<ruby>勉強<rt>べんきょう</rt></ruby>していきますか。 | はい、<ruby>勉強<rt>べんきょう</rt></ruby>していきます。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>進<rt>すす</rt></ruby>めていきます。 |
+| +これからも | これからも<ruby>進<rt>すす</rt></ruby>めていきます。 |
+| +プロジェクトを | プロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めていきます。 |
+| +この | このプロジェクトをこれからも<ruby>進<rt>すす</rt></ruby>めていきます。 |

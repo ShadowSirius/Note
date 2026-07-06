@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C30_volitional_form_intention|上一課 @sibling_of]]
 - [[JP_Grammar_50_C32_hou_ga_ii|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
+> 預定下週去日本。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 出張する | <ruby>来週<rt>らいしゅう</rt></ruby>**<ruby>出張<rt>しゅっちょう</rt></ruby>する**予定です。 |
+| 友達と会う | <ruby>来週<rt>らいしゅう</rt></ruby>**<ruby>友達<rt>ともだち</rt></ruby>と<ruby>会<rt>あ</rt></ruby>う**予定です。 |
+| テストがある | <ruby>来週<rt>らいしゅう</rt></ruby>**テストがある**予定です。 |
+| 予定 / つもり (打算) | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ行く**つもりです**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 否定打算 (〜ないつもりです) | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ**行かないつもりです**。 |
+| → 否定打算替代 (〜つもりはありません) | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ行く**つもりはありません**。 |
+| → 過去打算 | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ行く**つもりでした**。 |
+| → 普通形（口語） | <ruby>来週<rt>らいしゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>へ行く**予定だ**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 来週の予定は何ですか。 | <ruby>日本<rt>にほん</rt></ruby>へ行く予定です。 |
+| 車を買うつもりですか。 | いいえ、今年は買わないつもりです。 |
+| 会議はいつ始まる予定ですか。 | 午後二時に始まる予定です。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>予定<rt>よてい</rt></ruby>です。 |
+| +動作句 | **<ruby>行<rt>い</rt></ruby>く**予定です。 |
+| +方向 | **<ruby>日本<rt>にほん</rt></ruby>へ**行く予定です。 |
+| +時間 | **<ruby>来週<rt>らいしゅう</rt></ruby>**、日本へ行く予定です。 |

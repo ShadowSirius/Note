@@ -30,3 +30,46 @@ sibling_of:
 - [[JP_Grammar_50_C21_shoju_actions|上一課 @sibling_of]]
 - [[JP_Grammar_50_C23_temo_conditional|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったら、<ruby>行<rt>い</rt></ruby>きません。
+> 如果下雨，就不去。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 安い | **<ruby>安<rt>やす</rt></ruby>かったら**、行きません。 (修正：買います) |
+| 時間がない | **<ruby>時間<rt>じかん</rt></ruby>がなかったら**、行きません。 |
+| 寒くない | **<ruby>寒<rt>さむ</rt></ruby>くなかったら**、行きます。 |
+| 熱がある | **<ruby>熱<rt>ねつ</rt></ruby>があったら**、行きません。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去事實結果 (一...就) | <ruby>雨<rt>あめ</rt></ruby>が降ったら、**<ruby>行<rt>い</rt></ruby>きませんでした**。 |
+| → 讓步條件 (ても) | <ruby>雨<rt>あめ</rt></ruby>が**<ruby>降<rt>ふ</rt></ruby>っても**、行きます。 |
+| → 恆常條件 (と) | <ruby>雨<rt>あめ</rt></ruby>が**<ruby>降<rt>ふ</rt></ruby>ると**、行きません。 |
+| → 普通形（口語） | <ruby>雨<rt>あめ</rt></ruby>が降ったら、**<ruby>行<rt>い</rt></ruby>かない**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 雨が降ったらどうしますか。 | 雨が降ったら、家で本を読みます。 |
+| 安かったら買いますか。 | はい、安かったら買います。 |
+| お金があったら、どこへ行きたいですか。 | 日本へ旅行に行きたいです。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>行<rt>い</rt></ruby>きません。 |
+| +條件前置 | **<ruby>雨<rt>あめ</rt></ruby>が降ったら**、行きません。 |
+| +程度條件 | **大雨が**降ったら、行きません。 |
+| +時間 | **明日**、大雨が降ったら、行きません。 |

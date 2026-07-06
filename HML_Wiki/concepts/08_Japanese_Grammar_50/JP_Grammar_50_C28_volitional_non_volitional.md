@@ -32,3 +32,46 @@ sibling_of:
 - [[JP_Grammar_50_C27_te_shimau|上一課 @sibling_of]]
 - [[JP_Grammar_50_C29_transitive_intransitive|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> ドアを<ruby>開<rt>あ</rt></ruby>けます。
+> 打開門（意志性他動詞動作）。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 窓 | **<ruby>窓<rt>まど</rt></ruby>**を開けます。 |
+| 電気 | **<ruby>電気<rt>でんき</rt></ruby>**をつけます。 |
+| テレビ | **テレビ**を消します。 |
+| ドアを閉める | ドアを**<ruby>閉<rt>し</rt></ruby>めます**。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 自動詞狀態 (非意志) | ドアが**<ruby>開<rt>あ</rt></ruby>きます**。 |
+| → 自動詞過去形 | ドアが**<ruby>開<rt>あ</rt></ruby>きました**。 |
+| → 準備狀態 (他動詞+てある) | ドアが**<ruby>開<rt>あ</rt></ruby>けてあります**。 |
+| → 普通形（口語） | ドアを**<ruby>開<rt>あ</rt></ruby>ける**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 部屋が暑いですね。窓を開けましょうか。 | はい、開けてください。 |
+| ドアが閉まっていますか。 | いいえ、開いています。 |
+| 電気を消してもいいですか。 | はい、消してください。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>開<rt>あ</rt></ruby>けます。 |
+| +他動賓語 | **ドアを**開けます。 |
+| +理由 | 暑いので、**ドアを**開けます。 |
+| +伴隨 | 暑いので、**部屋の**ドアを開けます。 |

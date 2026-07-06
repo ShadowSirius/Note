@@ -11,17 +11,14 @@
             "id": "e4df729a91bcf32f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "concepts/Japanese_Grammar_Map.canvas",
-                "viewState": {
-                  "x": -1090.5403074282492,
-                  "y": -271.0871492206484,
-                  "zoom": -0.5653648412235924
-                }
+                "file": "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech3_Permissions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Japanese_Grammar_Map"
+              "icon": "lucide-file",
+              "title": "Keigo_Casual_Tech3_Permissions"
             }
           }
         ]
@@ -188,6 +185,25 @@
   },
   "active": "e4df729a91bcf32f",
   "lastOpenFiles": [
+    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech1_Questions.md",
+    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Index.md",
+    "concepts/04_Negatives_否定與義務/JP_Grammar_21_nakereba_narimasen.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Conversational_Queries.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Social_Interaction.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Requests_Help.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Invitations_Plans.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Index.md",
+    "concepts/10_Basic_English_850/Basic_English_Map.canvas",
+    "concepts/10_Basic_English_850/Basic_English_Index.md",
+    "concepts/10_Basic_English_850/Basic_English_Operators.md",
+    "concepts/03_Ta_Form_た形與時間/JP_Grammar_17_tari_tari_shimasu.md",
+    "concepts/04_Negatives_否定與義務/JP_Grammar_20_nai_de_kudasai.md",
+    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech4_Invitations.md",
+    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech3_Permissions.md",
+    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Map.canvas",
+    "concepts/LLM Compiler.md",
+    "concepts/RAG System.md",
+    "concepts/Japanese_Grammar_Map.canvas",
     "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C48_honorific_keigo.md",
     "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C37_volitional_non_volitional_2.md",
     "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C35_te_moraemasen_ka_request.md",
@@ -198,23 +214,6 @@
     "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C12_te_kara_sequence.md",
     "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C03_ni_he_move.md",
     "concepts/Japanese_Grammar_Index.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C46_hearsay_sou_desu.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C50_causative_passive.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C41_te_reason.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C38_passive_voice.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C24_n_desu.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C19_noun_modifier.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C04_masen_ka_mashou.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C01_five_sentence_patterns.md",
-    "concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index.md",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C16_ta_form_experience.md",
-    "concepts/Japanese_Grammar_Map.canvas",
-    "concepts/04_Negatives_否定與義務/JP_Grammar_22_nakute_mo_ii_desu.md",
-    "concepts/04_Negatives_否定與義務/JP_Grammar_20_nai_de_kudasai.md",
-    "concepts/02_Te_Form_て形基礎/JP_Grammar_11_te_kudasai.md",
-    "concepts/02_Te_Form_て形基礎/JP_Grammar_12_te_imasu.md",
-    "concepts/02_Te_Form_て形基礎/JP_Grammar_13_te_mo_ii_desu.md",
-    "concepts/02_Te_Form_て形基礎/JP_Grammar_14_te_wa_ikemasen.md",
     "derived",
     "concepts",
     "raw"

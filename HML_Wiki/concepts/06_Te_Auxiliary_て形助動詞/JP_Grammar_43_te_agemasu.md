@@ -27,3 +27,47 @@ replaces:
 ## 關係說明
 - 與他人為我提供好意的 [[JP_Grammar_42_te_kuremasu|〜てくれます @contradicts]] 互為對稱（授受方向相反）。
 - 主動向他人提議幫忙時，通常會使用客氣詢問的 [[JP_Grammar_35_mashou_ka|〜ましょうか @replaces]]，以代替顯得傲慢的 `〜てあげます`。
+
+---
+
+## 🎯 FSI Pattern Drill
+
+> [!tip] 基礎句
+> <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>てあげます。
+> 我教新人工作的方法。
+
+### 1️⃣ Substitution Drill（替換練習）
+
+| Prompt | Expected Response |
+|---|---|
+| 漢字の読み方 | <ruby>新人<rt>しんじん</rt></ruby>に**漢字の読み方**を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| 日本語 | <ruby>新人<rt>しんじん</rt></ruby>に**日本語**を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| パソコンの使いかた | <ruby>新人<rt>しんじん</rt></ruby>に**パソコンの使いかた**を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| <ruby>地図<rt>ちず</rt></ruby> | <ruby>新人<rt>しんじん</rt></ruby>に**<ruby>地図<rt>ちず</rt></ruby>**を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+
+### 2️⃣ Transformation Drill（轉換練習）
+
+| Transformation | Expected Response |
+|---|---|
+| → 過去形 | <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>て**あげました**。 |
+| → 普通形 | <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>て**あげる**。 |
+| → 疑問形 | <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>て**あげますか**。 |
+| → 否定形 | <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>て**あげません**。 |
+
+### 3️⃣ Response Drill（應答練習）
+
+| Prompt | Expected Response |
+|---|---|
+| <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>てあげましたか。 | はい、<ruby>教<rt>おしえ</rt></ruby>てあげました。 |
+| <ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んであげましょうか。 | はい、<ruby>運<rt>はこ</rt></ruby>んであげてください。 |
+| <ruby>友達<rt>ともだち</rt></ruby>に<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してあげましたか。 | はい、<ruby>貸<rt>か</rt></ruby>してあげました。 |
+| 彼にプレゼントを<ruby>買<rt>か</rt></ruby>ってあげましたか。 | はい、<ruby>買<rt>か</rt></ruby>ってあげました。 |
+
+### 4️⃣ Expansion Drill（擴展練習）
+
+| Step | Sentence |
+|---|---|
+| 核心 | <ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| +やり方を | やり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| +仕事の | <ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |
+| +新人に | <ruby>新人<rt>しんじん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>のやり<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おしえ</rt></ruby>てあげます。 |

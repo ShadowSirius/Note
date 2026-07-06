@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "updatedAt": 1781341933070,
+  "files": {
+    "purpose.md": {
+      "hash": "2e09e6db048996b07ebc25895892f00f",
+      "size": 738,
+      "mtimeMs": 1781341932915
+    },
+    "schema.md": {
+      "hash": "e87863818faa81bf6dbefc7020e23cc6",
+      "size": 3636,
+      "mtimeMs": 1781341932912
+    },
+    "wiki/index.md": {
+      "hash": "d91e1fb23c75e4ae861b00fd75a7aee1",
+      "size": 93,
+      "mtimeMs": 1781341932885
+    },
+    "wiki/log.md": {
+      "hash": "4a6d61f18feeb97771fb847a9aa6dce1",
+      "size": 49,
+      "mtimeMs": 1781341932885
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1781341932887
+    }
+  }
+}
