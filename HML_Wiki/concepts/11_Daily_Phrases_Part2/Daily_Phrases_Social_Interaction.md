@@ -45,41 +45,41 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。
-> 很高興再次見到你。
+> [!tip] Base Sentence
+> また会（あ）えて嬉（うれ）しいよ。
+> （很高興再次見到你。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>話<rt>はな</rt></ruby>せて | **<ruby>話<rt>はな</rt></ruby>せて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>ができて | **<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>ができて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>けて | **<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>けて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| <ruby>連絡<rt>れんらく</rt></ruby>が<ruby>取<rt>と</rt></ruby>れて | **<ruby>連絡<rt>れんらく</rt></ruby>が<ruby>取<rt>と</rt></ruby>れて**<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 話（はな）せて | **話（はな）せて**嬉（うれ）しいよ。 | 很高興能跟你聊天。 |
+| 一緒（いっしょ）に仕事（しごと）ができて | **一緒（いっしょ）に仕事（しごと）ができて**嬉（うれ）しいよ。 | 很高興能一起工作。 |
+| 一緒（いっしょ）に行（い）けて | **一緒（いっしょ）に行（い）けて**嬉（うれ）しいよ. | 很高興能一起去。 |
+| 連絡（れんらく）が取（と）れて | **連絡（れんらく）が取（と）れて**嬉（うれ）しいよ。 | 很高興能取得聯絡。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 丁寧形 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいです。 |
-| → 疑問否定（口語） | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しくない？ |
-| → 過去形 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しかった。 |
-| → 丁寧形過去 | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しかったです。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 丁寧形 | また会（あ）えて嬉（うれ）しいです。 | 很高興再次見到你。 |
+| → 疑問否定（口語） | また会（あ）えて嬉（うれ）しくない？ | 難道再次見到你不高興嗎？ |
+| → 過去形 | また会（あ）えて嬉（うれ）しかった。 | 能再次見到你真高興。 |
+| → 丁寧形過去 | また会（あ）えて嬉（うれ）しかったです。 | 能再次見到你真高興。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 | 私も！ずっと<ruby>会<rt>あ</rt></ruby>いたかったよ。 |
-| <ruby>話<rt>はな</rt></ruby>せてよかったよ。 | うん、私も<ruby>楽<rt>たの</rt></ruby>しかった。 |
-| また<ruby>近<rt>ちか</rt></ruby>いうちに<ruby>会<rt>あ</rt></ruby>おうね。 | そうだね、また<ruby>連絡<rt>れんらく</rt></ruby>するよ。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| また会（あ）えて嬉（うれ）しいよ。 | 私（わたし）も！ずっと会（あ）いたかったよ。 | 我也是！我一直很想見你喔。 |
+| 話（はな）せてよかったよ。 | うん、私（わたし）も楽（たの）しかった。 | 嗯，我也很開心。 |
+| また近（ちか）いうちに会（あ）おうね。 | そうだね、また連絡（れんらく）するよ。 | 是啊，我再聯絡你喔。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| +会えて | <ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| +また | また<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
-| +君に | <ruby>君<rt>きみ</rt></ruby>にまた<ruby>会<rt>あ</rt></ruby>えて<ruby>嬉<rt>うれ</rt></ruby>しいよ。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 嬉（うれ）しいよ。 | 很高興喔。 |
+| +会えて | 会（あ）えて嬉（うれ）しいよ。 | 能見面很高興喔。 |
+| +再次 | また会（あ）えて嬉（うれ）しいよ。 | 能再次見面很高興喔。 |
+| +對你 | 君（きみ）にまた会（あ）えて嬉（うれ）しいよ。 | 很高興再次見到你喔。 |

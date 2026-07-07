@@ -76,43 +76,43 @@ $$\text{運作詞 (Operator)} + \text{介系詞 (Preposition) / 名詞 (Noun)} \
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
+> [!tip] Base Sentence
 > We will **make up our mind** tomorrow.
-> 我們明天會做出決定。
+> （我們明天會做出決定。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| next week | We will **make up our mind** next week. |
-| give a look to the book | We will **give a look to the book** tomorrow. |
-| They | **They** will make up their mind tomorrow. |
-| may | We **may** make up our mind tomorrow. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| go into the details | We will **go into the details** tomorrow. | 我們明天會深入細節。 |
+| send a word to the maker | We will **send a word to the maker** tomorrow. | 我們明天會給製造商發個消息。 |
+| have a look at the parts | We will **have a look at the parts** tomorrow. | 我們明天會看看這些零件。 |
+| give support to the team | We will **give support to the team** tomorrow. | 我們明天會給予團隊支持。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → Negative | We **will not** make up our mind tomorrow. |
-| → Question | **Will we** make up our mind tomorrow? |
-| → Past Tense | We **made up** our mind yesterday. |
-| → Use "decide" | We will **decide** tomorrow. |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → Negative | We **will not** make up our mind tomorrow. | 我們明天不會做出決定。 |
+| → Question | **Will we** make up our mind tomorrow? | 我們明天會做出決定嗎？ |
+| → Past Tense | We **made up** our mind yesterday. | 我們昨天做出了決定。 |
+| → Use "decide" | We will **decide** tomorrow. | 我們明天會決定。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| Will you make up your mind tomorrow? | Yes, we will make up our mind tomorrow. |
-| When will they make up their mind? | They will make up their mind next week. |
-| Did he make up his mind yesterday? | No, he did not make up his mind yesterday. |
-| Who will make up their mind tomorrow? | The managers will make up their mind tomorrow. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| Will you make up your mind tomorrow? | Yes, we will make up our mind tomorrow. | 是的，我們明天會做出決定。 |
+| When will they make up their mind? | They will make up their mind next week. | 他們下週會做出決定。 |
+| Did he make up his mind yesterday? | No, he did not make up his mind yesterday. | 不，他昨天沒有做出決定。 |
+| Who will make up their mind tomorrow? | The managers will make up their mind tomorrow. | 經理們明天會做出決定。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | Make up your mind. |
-| +subject | We make up our mind. |
-| +helper | We will make up our mind. |
-| +time | We will make up our mind tomorrow. |
-| +condition | We will make up our mind tomorrow **if we get the information**. |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | Make up your mind. | 做決定。 |
+| +主語 | **We** make up our mind. | 我們做決定。 |
+| +助動詞 | We **will** make up our mind. | 我們將做決定。 |
+| +時間 | We will make up our mind **tomorrow**. | 我們明天會做出決定。 |
+| +條件 | We will make up our mind tomorrow **if we get the facts**. | 如果我們得到事實，我們明天會做出決定。 |

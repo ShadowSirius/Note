@@ -37,41 +37,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。
-> 我是學生。
+> [!tip] Base Sentence
+> 私（わたし）は学生（がくせい）です。
+> （我是學生。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 会社員 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>会社員<rt>かいしゃいん</rt></ruby>**です。 |
-| 先生 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>先生<rt>せんせい</rt></ruby>**です。 |
-| 日本人 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>日本人<rt>にほんじん</rt></ruby>**です。 |
-| 留学生 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>留学生<rt>ryuugakusei</rt></ruby>**です。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 先生（せんせい） | 私（わたし）は**先生（せんせい）**です。 | 我是老師。 |
+| 医者（いしゃ） | 私（わたし）は**医者（いしゃ）**です。 | 我是醫生。 |
+| 会社員（かいしゃいん） | 私（わたし）は**会社員（かいしゃいん）**です。 | 我是公司職員。 |
+| 看護師（かんごし） | 私（わたし）は**看護師（かんごし）**です。 | 我是護理師。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 否定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**ではありません**。 |
-| → 過去肯定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**でした**。 |
-| → 過去否定形 | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**ではありませんでした**。 |
-| → 普通形（口語） | <ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>**だ**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 否定形 | 私（わたし）は学生（がくせい）**ではありません**。 | 我不是學生。 |
+| → 過去形 | 私（わたし）は学生（がくせい）**でした**。 | 我以前是學生。 |
+| → 疑問形 | あなたは学生（がくせい）です**か**。 | 你是學生嗎？ |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>あなた<rt>あなた</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>ですか。 | はい、<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。 |
-| <ruby>あの人<rt>あのひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>ですか。 | いいえ、<ruby>あの人<rt>あのひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>ではありません。 |
-| <ruby>これ<rt>これ</rt></ruby>は<ruby>本<rt>ほん</rt></ruby>ですか。 | はい、それは<ruby>本<rt>ほん</rt></ruby>です。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| あなたは学生（がくせい）ですか。 | はい、私（わたし）は学生（がくせい）です。 | 是的，我是學生。 |
+| 田中（たなか）さんは先生（せんせい）ですか。 | いいえ、田中（たなか）さんは先生（せんせい）ではありません。 | 不，田中先生不是老師。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>学生<rt>がくせい</rt></ruby>です。 |
-| +主題 | **<ruby>私<rt>わたし</rt></ruby>は**<ruby>学生<rt>がくせい</rt></ruby>です。 |
-| +修飾 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>日本語<rt>にほんご</rt></ruby>の**<ruby>学生<rt>がくせい</rt></ruby>です。 |
-| +地點 | <ruby>私<rt>わたし</rt></ruby>は**<ruby>東京大学<rt>とうきょうだいがく</rt></ruby>の**<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>です。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 学生（がくせい）です。 | 是學生。 |
+| +主語 | **私（わたし）は**学生（がくせい）です。 | 我是學生。 |
+| +修飾 | 私（わたし）は**日本（にほん）の大学（だいがく）の**学生（がくせい）です。 | 我是日本大學的學生。 |
+| +副詞 | 私（わたし）は**まだ**日本（にほん）の大学（だいがく）の学生（がくせい）です。 | 我目前仍是日本大學的學生。 |

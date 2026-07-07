@@ -37,41 +37,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>一緒<rt>いっしょ</rt></ruby>にコーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。
-> 要不要一起喝咖啡？
+> [!tip] Base Sentence
+> 一緒（いっしょ）にコーヒーを飲（の）みませんか。
+> （要不要一起喝咖啡？）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| お茶 | <ruby>一緒<rt>いっしょ</rt></ruby>に**お<ruby>茶<rt>ちゃ</rt></ruby>**を<ruby>飲<rt>の</rt></ruby>みませんか。 |
-| 映画を見る | <ruby>一緒<rt>いっしょ</rt></ruby>に**<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>**ませんか。 |
-| テニスをする | <ruby>一緒<rt>いっしょ</rt></ruby>に**テニスをし**ませんか。 |
-| 晩ご飯を食べる | <ruby>一緒<rt>いっしょ</rt></ruby>に**<ruby>晩<rt>ばん</rt></ruby>ご飯を<ruby>食<rt>た</rt></ruby>べ**ませんか。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| お茶（おちゃ） | 一緒（いっしょ）に**お茶（おちゃ）**を飲（の）みませんか。 | 要不要一起喝茶？ |
+| ジュース | 一緒（いっしょ）に**ジュース**を飲（の）みませんか。 | 要不要一起喝果汁？ |
+| 水（みず） | 一緒（いっしょ）に**水（みず）**を飲（の）みませんか。 | 要不要一起喝水？ |
+| お酒（おさけ） | 一緒（いっしょ）に**お酒（おさけ）**を飲（の）みませんか。 | 要不要一起喝酒？ |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 提案 (ましょう) | <ruby>一緒<rt>いっしょ</rt></ruby>にコーヒーを**<ruby>飲<rt>の</rt></ruby>みましょう**。 |
-| → 否定形 | コーヒーを**<ruby>飲<rt>の</rt></ruby>みません**。 |
-| → 過去肯定形 | コーヒーを**<ruby>飲<rt>の</rt></ruby>みました**。 |
-| → 普通形（口語） | <ruby>一緒<rt>いっしょ</rt></ruby>にコーヒー**<ruby>飲<rt>の</rt></ruby>まない？** |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 提案（〜ましょう） | 一緒（いっしょ）にコーヒーを**飲（の）みましょう**。 | 一起喝咖啡吧。 |
+| → 否定形 | コーヒーを**飲（の）みません**。 | 不喝咖啡。 |
+| → 過去形 | コーヒーを**飲（の）みました**。 | 喝了咖啡。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>一緒<rt>いっしょ</rt></ruby>にコーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。 | ええ、いいですね。<ruby>飲<rt>の</rt></ruby>みましょう。 |
-| <ruby>明日<rt>あした</rt></ruby>、お茶を<ruby>飲<rt>の</rt></ruby>みませんか。 | すみません、<ruby>明日<rt>あした</rt></ruby>はちょっと<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 |
-| どこで<ruby>休<rt>やす</rt></ruby>みましょうか。 | あのカフェで<ruby>休<rt>やす</rt></ruby>みましょう。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 一緒（いっしょ）にコーヒーを飲（同音假名：の）みませんか。 | ええ、飲（の）みましょう。 | 好啊，一起喝吧。 |
+| どこで休（やす）みましょうか。 | あの喫茶店（きっさてん）で休（やす）みましょう。 | 在那家咖啡店休息吧。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>飲<rt>の</rt></ruby>みませんか。 |
-| +目的語 | **コーヒーを**<ruby>飲<rt>の</rt></ruby>みませんか。 |
-| +伴隨 | **<ruby>一緒<rt>いっしょ</rt></ruby>に**コーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。 |
-| +時間 | **<ruby>明日<rt>あした</rt></ruby>**、<ruby>一緒<rt>いっしょ</rt></ruby>にコーヒーを<ruby>飲<rt>の</rt></ruby>みませんか。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 飲（の）みませんか。 | 不喝嗎？ |
+| +目的 | **コーヒーを**飲（の）みませんか。 | 要不要喝咖啡？ |
+| +伴隨 | **一緒（いっしょ）に**コーヒーを飲（の）みませんか。 | 要不要一起喝咖啡？ |
+| +場所 | **喫茶店（きっさてん）で**一緒（いっしょ）にコーヒーを飲（の）みませんか。 | 要不要一起在咖啡店喝咖啡？ |

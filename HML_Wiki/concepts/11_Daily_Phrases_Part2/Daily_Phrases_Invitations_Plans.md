@@ -45,41 +45,41 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。
-> 去散步吧。
+> [!tip] Base Sentence
+> 散歩（さんぽ）に行（い）こうよ。
+> （去散步吧。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby> | **<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>**に<ruby>行<rt>い</rt></ruby>こうよ。 |
-| ドライブ | **ドライブ**に<ruby>行<rt>い</rt></ruby>こうよ。 |
-| 飲み | **飲み**に<ruby>行<rt>い</rt></ruby>こうよ。 |
-| <ruby>遊<rt>あそ</rt></ruby>び | **<ruby>遊<rt>あそ</rt></ruby>び**に<ruby>行<rt>い</rt></ruby>こうよ。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 買（か）い物（もの） | **買（か）い物（もの）**に行（い）こうよ。 | 去買東西吧。 |
+| ドライブ | **ドライブ**に行（い）こうよ。 | 去兜風吧。 |
+| 飲（の）み | **飲（の）み**に行（い）こうよ。 | 去喝一杯吧。 |
+| 遊（あそ）び | **遊（あそ）び**に行（い）こうよ. | 去玩吧。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 丁寧形（意向） | <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きましょう。 |
-| → 疑問否定（口語） | <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かない？ |
-| → 丁寧形疑問否定 | <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか？ |
-| → 義務（口語） | <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>かなきゃ。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 丁寧形（意向） | 散歩（さんぽ）に行（い）きましょう。 | 我們去散步吧。 |
+| → 疑問否定（口語） | 散歩（さんぽ）に行（い）かない？ | 要不要去散步？ |
+| → 丁寧形疑問否定 | 散歩（さんぽ）に行（い）きませんか？ | 要不要去散步呢？ |
+| → 義務（口語） | 散歩（さんぽ）に行（い）かなきゃ。 | 必須去散步了。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。 | うん、<ruby>行<rt>い</rt></ruby>こう！ |
-| <ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。 | ごめん、今はちょっと<ruby>忙<rt>いそが</rt></ruby>しい。 |
-| 飲みに<ruby>行<rt>い</rt></ruby>こうよ。 | いいね！いつにする？ |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 散歩（さんぽ）に行（い）こうよ。 | うん、行（い）こう！ | 嗯，去吧！ |
+| 買（か）い物（もの）に行（い）こうよ。 | ごめん、今（いま）はちょっと忙（いそが）しい。 | 抱歉，我現在有點忙。 |
+| 飲（の）みに行（い）こうよ。 | いいね！いつにする？ | 好啊！什麼時候去？ |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>行<rt>い</rt></ruby>こう。 |
-| +よ | <ruby>行<rt>い</rt></ruby>こうよ。 |
-| +散歩に | <ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。 |
-| +公園に | <ruby>公園<rt>こうえん</rt></ruby>に<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 行（い）こう。 | 去吧。 |
+| +よ | 行（い）こうよ。 | 去吧。 |
+| +散歩に | 散歩（さんぽ）に行（い）こうよ。 | 去散步吧。 |
+| +公園に | 公園（こうえん）に散歩（さんぽ）に行（い）こうよ。 | 去公園散步吧。 |

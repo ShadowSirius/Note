@@ -41,41 +41,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。
-> 去學校。
+> [!tip] Base Sentence
+> 学校（がっこう）に行（い）きます。
+> （去學校。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| スーパー | **スーパー**に<ruby>行<rt>い</rt></ruby>きます。 |
-| 駅 | **<ruby>駅<rt>えき</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
-| 日本 | **<ruby>日本<rt>にほん</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
-| 会社 | **<ruby>会社<rt>かいしゃ</rt></ruby>**に<ruby>行<rt>い</rt></ruby>きます。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 図書館（としょかん） | **図書館（としょかん）**に行（い）きます。 | 去圖書館。 |
+| 駅（えき） | **駅（えき）**に行（い）きます。 | 去車站。 |
+| 公園（こうえん） | **公園（こうえん）**に行（い）きます。 | 去公園。 |
+| 病院（びょういん） | **病院（びょういん）**に行（い）きます。 | 去醫院。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 否定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きません**。 |
-| → 過去肯定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きました**。 |
-| → 過去否定形 | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きませんでした**。 |
-| → 意向形（口語） | <ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>こう**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 否定形 | 学校（がっこう）に**行（い）きません**。 | 不去學校。 |
+| → 過去形 | 学校（がっこう）に**行（い）きました**。 | 去了學校。 |
+| → 疑問形 | 学校（がっこう）に行（い）きます**か**。 | 去學校嗎？ |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>明日<rt>あした</rt></ruby>、どこに<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |
-| <ruby>誰<rt>だれ</rt></ruby>と<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>友達<rt>ともだち</rt></ruby>と<ruby>行<rt>い</rt></ruby>きます。 |
-| <ruby>何<rt>なに</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きますか。 | <ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 明日（あした）学校（がっこう）に行（い）きますか。 | はい、学校（がっこう）に行（い）きます。 | 是的，明天去學校。 |
+| 今日（きょう）はどこに行（い）きますか。 | 公園（こうえん）に行（い）きます。 | 去公園。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>行<rt>い</rt></ruby>きます。 |
-| +地點 | **<ruby>学校<rt>がっこう</rt></ruby>に**<ruby>行<rt>い</rt></ruby>きます。 |
-| +伴隨 | **<ruby>友達<rt>ともだち</rt></ruby>と**<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |
-| +時間 | **<ruby>明日<rt>あした</rt></ruby>**、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>学校<rt>がっこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 行（い）きます。 | 去。 |
+| +目的地 | **学校（がっこう）に**行（い）きます。 | 去學校。 |
+| +伴隨 | **友達（ともだち）と**学校（がっこう）に行（い）きます。 | 和朋友去學校。 |
+| +時間 | **明日（あした）**友達（ともだち）と学校（がっこう）に行（い）きます。 | 明天和朋友去學校。 |

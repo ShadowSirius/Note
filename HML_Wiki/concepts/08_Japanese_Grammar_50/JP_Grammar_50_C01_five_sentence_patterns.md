@@ -34,49 +34,43 @@ sibling_of:
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
 
 ---
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
-sibling_of:
-  - "[[JP_Grammar_50_C02_wa_desu]]"
----
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>桜<rt>さくら</rt></ruby>が<ruby>咲きます<rt>さききます</rt></ruby>
-> 櫻花開{かい}了/開{かえ}花{はな}。
+> [!tip] Base Sentence
+> 桜（さくら）が咲（さ）きます。
+> （櫻花開了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 子供 | <ruby>子供<rt>こども</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
-| 母親 | <ruby>母<rt>はいじん</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
-| キッチン | <ruby>キッチン<rt>きっちん</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 花（はな） | 花（はな）が**咲（さ）きます**。 | 花開了。 |
+| 梅（うめ） | 梅（うめ）が**咲（さ）きます**。 | 梅花開了。 |
+| 桃（もも） | 桃（もも）が**咲（さ）きます**。 | 桃花開了。 |
+| 朝顔（あさがお） | 朝顔（あさがお）が**咲（さ）きます**。 | 牽牛花開了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 否定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きません<rt>さきません</rt></ruby>**。 |
-| → 過去肯定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きました<rt>さききました</rt></ruby>**。 |
-| → 過去否定形 | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きませんでした<rt>さきしませんでした</rt></ruby>**。 |
-| → 普通形（口語） | <ruby>桜<rt>さくら</rt></ruby>が**<ruby>咲きます<rt>さききます</rt></ruby>**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 否定形 | 桜（さくら）が**咲（さ）きません**。 | 櫻花不開。 |
+| → 過去形 | 桜（さくら）が**咲（さ）きました**。 | 櫻花開了。 |
+| → 疑問形 | 桜（さくら）が咲（さ）きます**か**。 | 櫻花開嗎？ |
+| → 過去否定形 | 桜（さくら）が**咲（さ）きませんでした**。 | 櫻花沒有開。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 子供は桜を開いたことがありますか？ | 是的，子供が**桜を咲き{かい}了/開{かえ}花{はな}了。** |
-| 母親は桜の手紙を送りましたか？ | 不好，母が**桜に手紙を送った**ことありませんでした。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 桜（さくら）が咲（さ）きましたか。 | はい、桜（さくら）が咲（さ）きました。 | 是的，櫻花開了。 |
+| 梅（うめ）も咲（さ）きましたか。 | いいえ、梅（うめ）はまだ咲（さ）きません。 | 不，梅花還沒開。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>桜<rt>さくら</rt></ruby>が<ruby>咲きます<rt>さききます</rt></ruby>。 |
-| +主語 | 櫻花{はな}が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>咲きます<rt>さききます</rt></ruby>。 |
-| +時間 | <ruby>子供<rt>こども</rt></ruby>が**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>今<rt>いま</rt></ruby>に<ruby>咲きます<rt>さききます</rt></ruby>。 |
-| +條件 | 今日{きょう}、**<ruby>桜<rt>さくら</rt></ruby>**が<ruby>晴れ<rt>はる</rt></ruby>の日<ruby>に<rt>で</rt></ruby>て<ruby>咲きます<rt>さききます</rt></ruby>。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 咲（さ）きます。 | 開花。 |
+| +主語 | **桜（さくら）が**咲（さ）きます。 | 櫻花開花。 |
+| +修飾 | **綺麗（きれい）な**桜（さくら）が咲（さ）きます。 | 美麗的櫻花開花。 |
+| +時間 | **もう**綺麗（きれい）な桜（さくら）が咲（さ）きます。 | 美麗的櫻花已經開花了。 |

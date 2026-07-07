@@ -29,7 +29,7 @@ illustrates:
 14. <ruby>今<rt>いま (ima)</rt></ruby>から<ruby>行<rt>い (i)</rt></ruby>きます：現在去
 15. <ruby>道<rt>みち (michi)</rt></ruby>を<ruby>歩<rt>ある (aru)</rt></ruby>きます：走在路上
 16. <ruby>道<rt>みち (michi)</rt></ruby>を<ruby>渡<rt>わた (wata)</rt></ruby>ります：過馬路
-17. <ruby>電車<rt>でんしゃ (densha)</rt></ruby>に<ruby>乗<rt>の (no)</rt></ruby>ります：搭電車
+17. <ruby>電車<rt>でんしゃ (densha)</rt></ruby>に<ruby>乗<rt>お (o)</rt></ruby>ります：搭電車
 18. <ruby>電車<rt>でんしゃ (densha)</rt></ruby>を<ruby>降<rt>お (o)</rt></ruby>ります：下電車
 19. <ruby>大阪駅<rt>おおさかえき (oosakaeki)</rt></ruby>で<ruby>乗<rt>の (no)</rt></ruby>り<ruby>換<rt>か (ka)</rt></ruby>えます：在大阪站換車
 20. あの<ruby>信号<rt>しんごう (shingou)</rt></ruby>を<ruby>曲<rt>まが (maga)</rt></ruby>ります：在那個紅綠燈轉彎
@@ -52,7 +52,7 @@ illustrates:
 
 ## 👜 四、 日常物品操作 (Actions on Items)
 31. <ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ります：拍照
-32. <ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>持<rt>も (mo)</rt></ruby>ちます：提行李
+32. <ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>持<rt>も (mo)</rt></ruby>ます：提行李
 33. <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します：借雨傘給朋友
 34. <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>ります：向朋友借雨傘
 35. お<ruby>土産<rt>みやげ (miyage)</rt></ruby>を<ruby>買<rt>か (ka)</rt></ruby>います：買名產
@@ -101,41 +101,41 @@ illustrates:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します。
-> 借雨傘給朋友。
+> [!tip] Base Sentence
+> 友達（ともだち）に傘（かさ）を貸（か）します。
+> （借雨傘給朋友。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>す | 友達に**<ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します**。 |
-| <ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>る | 友達に**<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>ります**。 |
-| お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>す | 友達に**お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します**。 |
-| プレゼントをあげる | 友達に**プレゼントをあげます**。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 本（ほん）を貸（か）す | 友達（ともだち）に**本（ほん）を貸（か）します**。 | 借書給朋友。 |
+| 傘（かさ）を借り（かり）る | 友達（ともだち）に**傘（かさ）を借り（か）ります**。 | 向朋友借雨傘。 |
+| お金（かね）を貸（か）す | 友達（ともだち）に**お金（かね）を貸（か）します**。 | 借錢給朋友。 |
+| プレゼントをあげる | 友達（ともだち）に**プレゼントをあげます**。 | 送禮物給朋友。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 過去形 | 友達に傘を**貸しました**。 |
-| → 否定形 | 友達に傘を**貸しません**。 |
-| → 進行形 | 友達に傘を**貸しています**。 |
-| → 普通形 | 友達に傘を**貸す**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 過去形（かこけい） | 友達（ともだち）に傘（かさ）を**貸（か）しました**。 | 借了雨傘給朋友。 |
+| 否定形（ひていけい） | 友達（ともだち）に傘（かさ）を**貸（か）しません**。 | 不借雨傘給朋友。 |
+| 進行形（しんこうけい） | 友達（ともだち）に傘（かさ）を**貸（か）しています**。 | 正借著雨傘給朋友。 |
+| 普通形（ふつうけい） | 友達（ともだち）に傘（かさ）を**貸（か）す**。 | 借雨傘給朋友。（常體） |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 友達に傘を貸しましたか。 | はい、貸しました。 |
-| 誰に傘を貸しますか。 | 友達に貸します。 |
-| 友達に傘を貸しませんか。 | ええ、貸しましょう。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 友達（ともだち）に傘（かさ）を貸（か）しましたか。 | はい、貸（か）しました。 | 你借雨傘給朋友了嗎？ / 是的，借了。 |
+| 誰（だれ）に傘（かさ）を貸（か）しますか。 | 友達（ともだち）に貸（か）します。 | 你借雨傘給誰？ / 借給朋友。 |
+| 友達（ともだち）に傘（かさ）を貸（か）しませんか。 | ええ、貸（か）しましょう。 | 要不要借雨傘給朋友呢？ / 好的，借吧。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | 貸します。 |
-| +傘を | 傘を貸します。 |
-| +友達に | 友達に傘を貸します。 |
-| +雨の日に、 | 雨の日に、友達に傘を貸します。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心（かくしん） | 貸（か）します。 | 借出。 |
+| +目的語（もくてきご） | 傘（かさ）を貸（か）します。 | 借雨傘。 |
+| +對象（たいしょう） | 友達（ともだち）に傘（かさ）を貸（か）します。 | 借雨傘給朋友。 |
+| +時間（じかん） | 雨の日（あめのひ）に、友達（ともだち）に傘（かさ）を貸（か）します。 | 在下雨天借雨傘給朋友。 |

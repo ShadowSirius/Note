@@ -37,41 +37,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
-> 上個月去了台北。
+> [!tip] Base Sentence
+> もう晩（ばん）ご飯（はん）を食（た）べました。
+> （已經吃過晚餐了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 日本 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>日本<rt>にほん</rt></ruby>**へ<ruby>行<rt>い</rt></ruby>きました。 |
-| 先週 | **<ruby>先週<rt>せんしゅう</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
-| 病院 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>病院<rt>びょういん</rt></ruby>**へ<ruby>行<rt>い</rt></ruby>きました。 |
-| 去年の夏 | **<ruby>去年<rt>きょねん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 朝（あさ）ご飯（はん） | もう**朝（あさ）ご飯（はん）**を食（た）べました。 | 已經吃過早餐了。 |
+| 昼（ひる）ご飯（はん） | もう**昼（ひる）ご飯（はん）**を食（た）べました。 | 已經吃過午餐了。 |
+| お弁当（べんとう） | もう**お弁当（べんとう）**を食（た）べました。 | 已經吃過便當了。 |
+| おやつ | もう**おやつ**を食（た）べました。 | 已經吃過點心了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 否定形 | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きませんでした**。 |
-| → 現在肯定形 | <ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きます**。 |
-| → 現在否定形 | <ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きません**。 |
-| → 普通形（口語） | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>った**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 未完形 | 還（まだ）晩（ばん）ご飯（はん）を**食（た）べていません**。 | 還沒吃晚餐。 |
+| → 過去否定形 | 昨日（きのう）は晩（ばん）ご飯（はん）を**食（た）べませんでした**。 | 昨天沒吃晚餐。 |
+| → 疑問形 | もう晩（ばん）ご飯（はん）を食（た）べました**か**。 | 已經吃過晚餐了嗎？ |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>先月<rt>せんげつ</rt></ruby>、どこへ<ruby>行<rt>い</rt></ruby>きましたか。 | <ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>ました。 |
-| もう<ruby>晩<rt>ばん</rt></ruby>ご飯を<ruby>食<rt>た</rt></ruby>べましたか。 | はい、もう食べました。 |
-| いつ<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましたか。 | <ruby>先月<rt>せんげつ</rt></ruby>、<ruby>行<rt>い</rt></ruby>きました。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| もう晩（ばん）ご飯（はん）を食（た）べましたか。 | はい、もう食（た）べました。 | 是的，已經吃了。 |
+| いいえ、まだですか。 | いいえ、まだ食（た）べていません。 | 不，還沒有吃。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>行<rt>い</rt></ruby>きました。 |
-| +方向 | **<ruby>台北<rt>たいぺい</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きました。 |
-| +時間 | **<ruby>先月<rt>せんげつ</rt></ruby>**、<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
-| +伴隨 | <ruby>先月<rt>せんげつ</rt></ruby>、**<ruby>家族<rt>かぞく</rt></ruby>と**<ruby>台北<rt>たいぺい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 食（た）べました。 | 吃了。 |
+| +目的 | **晩（ばん）ご飯（はん）を**食（た）べました。 | 吃了晚餐。 |
+| +副詞 | **もう**晩（ばん）ご飯（はん）を食（た）べました。 | 已經吃了晚餐。 |
+| +場所 | **家（うち）で**もう晩（ばん）ご飯（はん）を食（た）べました。 | 已經在家吃過晚餐了。 |

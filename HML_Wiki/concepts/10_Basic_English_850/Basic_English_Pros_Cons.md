@@ -64,43 +64,43 @@ Basic English 雖然未能如邱吉爾所願成為統一世界的通用語，但
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> It is easy for learners to **get the meaning of** simple English.
-> 學習者很容易理解簡單英文的意思。
+> [!tip] Base Sentence
+> It is easy for **learners** to **get the meaning of** simple English.
+> （學習者很容易理解簡單英文的意思。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| children | It is easy for **children** to **get the meaning of** simple English. |
-| this book | It is easy for learners to **get the meaning of** **this book**. |
-| hard | It is **hard** for learners to **get the meaning of** simple English. |
-| make use of | It is easy for learners to **make use of** simple English. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| teachers / make use of | It is easy for **teachers** to **make use of** simple English. | 教師很容易使用簡單英文。 |
+| children / get the meaning of | It is easy for **children** to **get the meaning of** simple English. | 兒童很容易理解簡單英文的意思。 |
+| workers / make use of | It is easy for **workers** to **make use of** simple English. | 工人很容易使用簡單英文。 |
+| students / get the meaning of | It is easy for **students** to **get the meaning of** simple English. | 學生很容易理解簡單英文的意思。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → Negative | It is **not** easy for learners to get the meaning of simple English. |
-| → Question | **Is it** easy for learners to get the meaning of simple English? |
-| → Past Tense | It **was** easy for learners to get the meaning of simple English. |
-| → Use "comprehend" | It is easy for learners to **comprehend** simple English. |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → Negative | It is **not** easy for learners to get the meaning of simple English. | 學習者不容易理解簡單英文的意思。 |
+| → Question | **Is it** easy for learners to get the meaning of simple English? | 學習者容易理解簡單英文的意思嗎？ |
+| → Past Tense | It **was** easy for learners to get the meaning of simple English. | 學習者以前很容易理解簡單英文的意思。 |
+| → Use "comprehend" | It is easy for learners to **comprehend** simple English. | 學習者很容易理解簡單英文。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| Is it easy for learners to get the meaning of simple English? | Yes, it is very easy for them to get the meaning of simple English. |
-| Who is it easy for to get the meaning of simple English? | It is easy for learners of all ages. |
-| Why should we use simple English? | Because it is easy for learners to get the meaning. |
-| Was it hard for you to get the meaning of the book? | No, it was easy to get the meaning because it was written in simple English. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| Is it easy for learners to get the meaning of simple English? | Yes, it is very easy for them to get the meaning of simple English. | 是的，對他們來說很容易理解簡單英文的意思。 |
+| Who is it easy for to get the meaning of simple English? | It is easy for learners of all ages. | 對所有年齡段的學習者來說都很容易。 |
+| Why should we use simple English? | Because it is easy for learners to get the meaning. | 因為學習者很容易理解其意思。 |
+| Was it hard for you to get the meaning of the book? | No, it was easy to get the meaning because it was written in simple English. | 不，很容易理解，因為它是用簡單英文寫的。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | It is easy. |
-| +infinitive | It is easy **to get the meaning**. |
-| +for who | It is easy **for learners** to get the meaning. |
-| +of what | It is easy for learners to get the meaning **of simple English**. |
-| +reason | It is easy for learners to get the meaning of simple English **because the words are common**. |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | It is easy. | 這很容易。 |
+| +不定詞 | It is easy **to get the meaning**. | 理解意思很容易。 |
+| +對象 | It is easy **for learners** to get the meaning. | 學習者很容易理解意思。 |
+| +修飾 | It is easy for learners to get the meaning **of simple English**. | 學習者很容易理解簡單英文的意思。 |
+| +原因 | It is easy for learners to get the meaning of simple English **because the words are common**. | 因為這些單字很常見，學習者很容易理解簡單英文的意思。 |

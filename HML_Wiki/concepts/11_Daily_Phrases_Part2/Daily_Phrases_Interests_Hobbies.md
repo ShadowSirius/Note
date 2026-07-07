@@ -51,41 +51,41 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？
-> 你喜歡什麼類型的音樂？
+> [!tip] Base Sentence
+> どんな音楽（おんがく）が好（す）き？
+> （你喜歡什麼類型的音樂？）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>映画<rt>えいが</rt></ruby> | どんな**<ruby>映画<rt>えいが</rt></ruby>**が<ruby>好<rt>す</rt></ruby>き？ |
-| <ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby> | どんな**<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>**が<ruby>好<rt>す</rt></ruby>き？ |
-| スポーツ | どんな**スポーツ**が<ruby>好<rt>す</rt></ruby>き？ |
-| <ruby>本<rt>ほん</rt></ruby> | どんな**<ruby>本<rt>ほん</rt></ruby>**が<ruby>好<rt>す</rt></ruby>き？ |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 映画（えいが） | どんな**映画（えいが）**が好（す）き？ | 你喜歡什麼類型的電影？ |
+| 食べ物（たべもの） | どんな**食（た）べ物（もの）**が好（す）き？ | 你喜歡什麼食物？ |
+| スポーツ | どんな**スポーツ**が好（す）き？ | 你喜歡什麼運動？ |
+| 本（ほん） | どんな**本（ほん）**が好（す）き？ | 你喜歡什麼書？ |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 丁寧形 | どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きですか？ |
-| → 否定形 | どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きじゃない？ |
-| → 過去形 | どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだった？ |
-| → 丁寧形過去 | どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きでしたか？ |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 丁寧形 | どんな音楽（おんがく）が好（す）きですか？ | 你喜歡什麼類型的音樂呢？ |
+| → 否定形 | どんな音楽（おんがく）が好（す）きじゃない？ | 你不喜歡什麼類型的音樂？ |
+| → 過去形 | どんな音楽（おんがく）が好（す）きだった？ | 你以前喜歡什麼類型的音樂？ |
+| → 丁寧形過去 | どんな音楽（おんがく）が好（す）きでしたか？ | 你以前喜歡什麼類型的音樂呢？ |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ | ロックが<ruby>好<rt>す</rt></ruby>きだよ。 |
-| どんな<ruby>映画<rt>えいが</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ | アクション<ruby>映画<rt>えいが</rt></ruby>が<ruby>好<rt>す</rt></ruby>き。 |
-| どんな<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ | <ruby>日本食<rt>にほんしょく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きだな。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| どんな音楽（おんがく）が好（す）き？ | ロックが好（す）きだよ。 | 我喜歡搖滾樂喔。 |
+| どんな映画（えいが）が好（す）き？ | アクション映画（えいが）が好（す）き。 | 我喜歡動作片。 |
+| どんな食（た）べ物（もの）が好（す）き？ | 日本食（にほんしょく）が好（す）きだな。 | 我喜歡日式料理呢。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>好<rt>す</rt></ruby>き？ |
-| +音楽が | <ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ |
-| +どんな | どんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ |
-| +君は | 君はどんな<ruby>音楽<rt>おんがく</rt></ruby>が<ruby>好<rt>す</rt></ruby>き？ |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 好（す）き？ | 喜歡嗎？ |
+| +音楽が | 音楽（おんがく）が好（す）き？ | 喜歡音樂嗎？ |
+| +どんな | どんな音楽（おんがく）が好（す）き？ | 喜歡什麼類型的音樂？ |
+| +君は | 君（きみ）はどんな音楽（おんがく）が好（す）き？ | 你喜歡什麼類型的音樂？ |

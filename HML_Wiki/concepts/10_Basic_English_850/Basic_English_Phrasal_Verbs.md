@@ -86,42 +86,42 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> Before you **put** the machine **together**, **have a look at** the parts.
-> 在你組裝機器之前，先檢查一下零件。
+> [!tip] Base Sentence
+> Before you put the **machine** together, have a look at the **parts**.
+> （在你組裝機器之前，先檢查一下零件。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| tools | Before you **put** the machine **together**, **have a look at** the **tools**. |
-| the table | Before you **put** the **table** **together**, **have a look at** the parts. |
-| make a list of | Before you **put** the machine **together**, **make a list of** the parts. |
-| After | **After** you **put** the machine **together**, **have a look at** the parts. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| table / screws | Before you put the **table** together, have a look at the **screws**. | 在你組裝桌子之前，先檢查一下螺絲。 |
+| bed / bolts | Before you put the **bed** together, have a look at the **bolts**. | 在你組裝床之前，先檢查一下螺栓。 |
+| shelf / brackets | Before you put the **shelf** together, have a look at the **brackets**. | 在你組裝架子之前，先檢查一下支架。 |
+| chair / legs | Before you put the **chair** together, have a look at the **legs**. | 在你組裝椅子之前，先檢查一下椅腳。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → Negative (main clause) | Before you put the machine together, **do not** have a look at the parts. |
-| → Question (main clause) | Before you put the machine together, **should you** have a look at the parts? |
-| → Past Tense | Before you **put** the machine **together**, you **had a look at** the parts. |
-| → Standard English | Before you **assemble** the machine, **inspect** the parts. |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → Negative (main clause) | Before you put the machine together, **do not** have a look at the parts. | 在你組裝機器之前，不要檢查零件。 |
+| → Question (main clause) | Before you put the machine together, **should you** have a look at the parts? | 在你組裝機器之前，你應該檢查零件嗎？ |
+| → Past Tense | Before you **put** the machine **together**, you **had a look at** the parts. | 在你組裝機器之前，你已經檢查過零件了。 |
+| → Use "assemble" & "inspect" | Before you **assemble** the machine, **inspect** the parts. | 在你組裝機器之前，檢查零件。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| What should I do before I put the machine together? | Before you put the machine together, you should have a look at the parts. |
-| Did he have a look at the parts before he put them together? | Yes, he had a look at the parts before he put them together. |
-| When should we have a look at the parts? | You should have a look at them before you put the machine together. |
-| Who put the machine together without having a look at the parts? | The new helper put the machine together without having a look at the parts. |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| What should I do before I put the machine together? | Before you put the machine together, you should have a look at the parts. | 在我組裝機器之前，我應該做什麼？ |
+| Did he have a look at the parts before he put them together? | Yes, he had a look at the parts before he put them together. | 是的，他在把它們組裝在一起之前檢查了零件。 |
+| When should we have a look at the parts? | You should have a look at them before you put the machine together. | 我們什麼時候應該檢查零件？ |
+| Who put the machine together without having a look at the parts? | The new helper put the machine together without having a look at the parts. | 誰在沒有檢查零件的情況下就把機器組裝好了？ |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | Have a look. |
-| +object | Have a look **at the parts**. |
-| +condition | Have a look at the parts **before you put them together**. |
-| +adverb | Have a look at the parts **carefully** before you put them together. |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | Have a look. | 看一看。 |
+| +對象 | Have a look **at the parts**. | 檢查零件。 |
+| +條件 | Have a look at the parts **before you put them together**. | 在組裝它們之前檢查零件。 |
+| +修飾 | Have a look at the parts **carefully** before you put them together. | 在組裝它們之前仔細檢查零件。 |

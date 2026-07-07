@@ -16,7 +16,7 @@ sibling_of:
 - `主語 + が` / `主題 + は`
 
 ## 核心用法
-が 標出事件中的主語或焦點；は 把名詞提出作主題，再說明它的狀態或屬性。
+が 標出事件中的主語 or 焦點；は 把名詞提出作主題，再說明它的狀態或屬性。
 
 ## 實用例句
 - 日文：水が冷たいです。
@@ -37,41 +37,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>水<rt>みず</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいです。
-> 水是冰的（描述眼前的事實）。
+> [!tip] Base Sentence
+> 水（みず）が冷（つめ）たいです。
+> （水是冰的。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| 風 | **<ruby>風<rt>かぜ</rt></ruby>**が<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| 手 | **<ruby>手<rt>て</rt></ruby>**が<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| お茶 | **お<ruby>茶<rt>ちゃ</rt></ruby>**が<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| ビール | **ビール**が<ruby>冷<rt>つめ</rt></ruby>たいです。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 熱（あつ）い | 水（みず）が**熱（あつ）い**です。 | 水是熱的。 |
+| 温（あたた）かい | 水（みず）が**温（あたた）かい**です。 | 水是溫的。 |
+| 甘（あま）い | 水（みず）が**甘（あま）い**です。 | 水是甜的。 |
+| 苦（にが）い | 水（みず）が**苦（にが）い**です。 | 水是苦的。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 主題化 (は) | <ruby>水<rt>みず</rt></ruby>**は**<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| → 否定形 | <ruby>水<rt>みず</rt></ruby>が**<ruby>冷<rt>つめ</rt></ruby>たくないです**。 |
-| → 過去形 | <ruby>水<rt>みず</rt></ruby>が**<ruby>冷<rt>つめ</rt></ruby>たかったです**。 |
-| → 普通形（口語） | <ruby>水<rt>みず</rt></ruby>が**<ruby>冷<rt>つめ</rt></ruby>たい**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 主題化 | 水（みず）**は**冷（つめ）たいです。 | 說到水，它是冰的。 |
+| → 否定形 | 水（みず）が**冷（つめ）たくない**です。 | 水不冰。 |
+| → 過去形 | 水（みず）が**冷（つめ）たかった**です。 | 水以前是冰的。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| その<ruby>水<rt>みず</rt></ruby>は<ruby>冷<rt>つめ</rt></ruby>たいですか。 | はい、とても<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| <ruby>何<rt>なに</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいですか。 | <ruby>水<rt>みず</rt></ruby>が<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| お湯は冷たいですか。 | いいえ、お湯は冷たくないです。温かいです。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| お風呂（ふろ）の水（みず）が冷（つめ）たいですか。 | はい、水（みず）が冷（つめ）たいです。 | 是的，水很冰。 |
+| 何（なに）が冷（つめ）たいですか。 | この水（みず）が冷（つめ）たいです。 | 這個水很冰。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| +主語 | **<ruby>水<rt>みず</rt></ruby>が**<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| +程度 | <ruby>水<rt>みず</rt></ruby>が**とても**<ruby>冷<rt>つめ</rt></ruby>たいです。 |
-| +對比 | **この**水がとても冷たいです。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 冷（つめ）たいです。 | 是冰的。 |
+| +主語 | **水（みず）が**冷（つめ）たいです。 | 水是冰的。 |
+| +場所 | **川（かわ）の**水（みず）が冷（つめ）たいです。 | 河水是冰的。 |
+| +程度 | 川（かわ）の水（みず）が**とても**冷（つめ）たいです。 | 河水非常冰。 |

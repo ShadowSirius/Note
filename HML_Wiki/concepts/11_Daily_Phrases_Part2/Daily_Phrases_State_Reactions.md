@@ -55,41 +55,41 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>旅行<rt>りょこう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみだよ。
-> 我很期待旅行喔。
+> [!tip] Base Sentence
+> 旅行（りょこう）が楽（たの）しみだよ。
+> （我很期待旅行喔。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| デート | **デート**が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| <ruby>週末<rt>しゅうまつ</rt></ruby> | **<ruby>週末<rt>しゅうまつ</rt></ruby>**が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| <ruby>明日<rt>あした</rt></ruby> | **<ruby>明日<rt>あした</rt></ruby>**が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| コンサート | **コンサート**が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| デート | **デート**が楽（たの）しみだよ。 | 我很期待約會喔。 |
+| 週末（しゅうまつ） | **週末（しゅうまつ）**が楽（たの）しみだよ。 | 我很期待週末喔。 |
+| 明日（あした） | **明日（あした）**が楽（たの）しみだよ。 | 我很期待明天喔。 |
+| コンサート | **コンサート**が楽（たの）しみだよ。 | 我很期待演唱會喔。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 丁寧形 | <ruby>旅行<rt>りょこう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみです。 |
-| → 否定形（口語） | <ruby>旅行<rt>りょこう</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しみじゃない。 |
-| → 過去形（口語） | <ruby>旅行<rt>りょこう</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しかったよ。 |
-| → 丁寧形過去 | <ruby>旅行<rt>りょこう</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しかったです。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 丁寧形 | 旅行（りょこう）が楽（たの）しみです。 | 我很期待旅行。 |
+| → 否定形（口語） | 旅行（りょこう）は楽（たの）しみじゃない。 | 我不期待旅行。 |
+| → 過去形（口語） | 旅行（りょこう）は楽（たの）しかったよ。 | 旅行過得很開心喔。 |
+| → 丁寧形過去 | 旅行（りょこう）は楽（たの）しかったです。 | 旅行過得很開心。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>旅行<rt>りょこう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみだよ。 | いいね！どこに行くの？ |
-| デートが<ruby>楽<rt>たの</rt></ruby>しみだよ。 | うまくいくといいね。 |
-| <ruby>週末<rt>しゅうまつ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみだよ。 | 何か予定があるの？ |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 旅行（りょこう）が楽（たの）しみだよ。 | いいね！どこに行（い）くの？ | 真好！你要去哪裡？ |
+| デートが楽（たの）しみだよ。 | うまくいくといいね。 | 希望能進行得順利。 |
+| 週末（しゅうまつ）が楽（たの）しみだよ。 | 何（なに）か予定（よてい）があるの？ | 有什麼計畫嗎？ |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| +旅行が | <ruby>旅行<rt>りょこう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| +今度の | <ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
-| +本当に | <ruby>今度<rt>こんど</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>が<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しみだよ。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 楽（たの）しみだよ。 | 很期待喔。 |
+| +旅行が | 旅行（りょこう）が楽（たの）しみだよ。 | 我很期待旅行喔。 |
+| +今度の | 今度（こんど）の旅行（りょこう）が楽（たの）しみだよ。 | 我很期待這次的旅行喔。 |
+| +本当に | 今度（こんど）の旅行（りょこう）が本当（ほんとう）に楽（たの）しみだよ。 | 我真的非常期待這次的旅行喔。 |

@@ -48,41 +48,41 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。
-> 跟你在一起讓我感到自在。
+> [!tip] Base Sentence
+> 一緒（いっしょ）にいると落ち着（おちつ）くよ。
+> （跟你在一起讓我感到自在。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>話<rt>はな</rt></ruby>していると | **<ruby>話<rt>はな</rt></ruby>していると**<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| <ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと | **<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと**<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと | **お<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むと**<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| ここにいると | **ここにいると**<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 話（はな）していると | **話（はな）していると**落ち着（おちつ）くよ。 | 聊天讓我感到自在。 |
+| 音楽（おんがく）を聞（き）くと | **音楽（おんがく）を聞（き）くと**落ち着（おちつ）くよ。 | 聽音樂讓我感到自在。 |
+| お茶（ちゃ）を飲（の）むと | **お茶（ちゃ）を飲（の）むと**落ち着（おちつ）くよ。 | 喝茶讓我感到自在。 |
+| ここにいると | **ここにいると**落ち着（おちつ）くよ。 | 待在這裡讓我感到自在。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 丁寧形 | <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きます。 |
-| → 否定形（口語） | <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>かない。 |
-| → 過去形 | <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いた。 |
-| → 丁寧形過去 | <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>きました。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 丁寧形 | 一緒（いっしょ）にいると落ち着（おちつ）きます。 | 跟你在一起讓我感到自在。 |
+| → 否定形（口語） | 一緒（いっしょ）にいると落ち着（おちつ）かない。 | 跟你在一起讓我感到不自在。 |
+| → 過去形 | 一緒（いっしょ）にいると落ち着（おちつ）いた。 | 跟你在一起讓我感到自在了。 |
+| → 丁寧形過去 | 一緒（いっしょ）にいると落ち着（おちつ）きました。 | 跟你在一起讓我感到自在了。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 | 本当？そう言ってもらえて<ruby>嬉<rt>うれ</rt></ruby>しい。 |
-| <ruby>話<rt>はな</rt></ruby>していると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 | 私も<ruby>君<rt>きみ</rt></ruby>と<ruby>話<rt>はな</rt></ruby>すの好きだよ。 |
-| ここにいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 | いい場所だよね。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 一緒（いっしょ）にいると落ち着（おちつ）くよ。 | 本当（ほんとう）？そう言（い）ってもらえて嬉（うれ）しい。 | 真的嗎？你能這麼說我很高興。 |
+| 話（はな）していると落ち着（おちつ）くよ。 | 私（わたし）も君（きみ）と話（はな）すの好（す）きだよ。 | 我也喜歡跟你聊天喔。 |
+| ここにいると落ち着（おちつ）くよ。 | いい場所（ばしょ）だよね。 | 是個好地方呢。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| +いると | いると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| +一緒に | <ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
-| +君と | <ruby>君<rt>きみ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>にいると<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>くよ。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 落ち着（おちつ）くよ。 | 很自在。 |
+| +いると | いると落ち着（おちつ）くよ。 | 待著就很自在。 |
+| +一緒に | 一緒（いっしょ）にいると落ち着（おちつ）くよ。 | 在一起就感到自在。 |
+| +君と | 君（きみ）と一緒（いっしょ）にいると落ち着（おちつ）くよ。 | 跟你在一起就感到自在。 |

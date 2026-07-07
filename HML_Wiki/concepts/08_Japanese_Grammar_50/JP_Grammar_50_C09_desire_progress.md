@@ -37,41 +37,39 @@ sibling_of:
 
 ## 🎯 FSI Pattern Drill
 
-> [!tip] 基礎句
-> <ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。
-> 想去日本。
+> [!tip] Base Sentence
+> 日本（にほん）へ行（い）きたいです。
+> （想去日本。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
-| Prompt | Expected Response |
-|---|---|
-| アメリカ | **アメリカ**へ<ruby>行<rt>い</rt></ruby>きたいです。 |
-| 帰る | <ruby>家<rt>うち</rt></ruby>へ**<ruby>帰<rt>かえ</rt></ruby>りたい**です。 |
-| 食べる | お<ruby>寿司<rt>すし</rt></ruby>を**<ruby>食<rt>た</rt></ruby>べたい**です。 |
-| 買う | <ruby>車<rt>くるま</rt></ruby>を**<ruby>買<rt>か</rt></ruby>いたい**です。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| アメリカ | **アメリカ**へ行（い）きたいです。 | 想去美國。 |
+| イギリス | **イギリス**へ行（い）きたいです。 | 想去英國。 |
+| フランス | **フランス**へ行（い）きたいです。 | 想去法國。 |
+| 台湾（たいわん） | **台湾（たいわん）**へ行（い）きたいです。 | 想去台灣。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
-| Transformation | Expected Response |
-|---|---|
-| → 否定形 | <ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きたくないです**。 |
-| → 過去形 | <ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きたかったです**。 |
-| → 過去否定形 | <ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きたくなかったです**。 |
-| → 進行形 (ています) | <ruby>今<rt>いま</rt></ruby>、<ruby>日本語<rt>にほんご</rt></ruby>を**<ruby>勉強<rt>べんきょう</rt></ruby>しています**。 |
+| Transformation | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| → 否定形 | 日本（にほん）へ行（い）きた**くない**です。 | 不想去日本。 |
+| → 過去形 | 日本（にほん）へ行（い）きた**かった**です。 | 以前想去日本。 |
+| → 過去否定形 | 日本（にほん）へ行（い）きた**くなかった**です。 | 以前不想去日本。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
-| Prompt | Expected Response |
-|---|---|
-| どこへ<ruby>行<rt>い</rt></ruby>きたいですか。 | <ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。 |
-| おなかがすきましたね。何が食べたいですか。 | ラーメンが食べたいです。 |
-| 今、何をしていますか。 | <ruby>今<rt>いま</rt></ruby>、<ruby>勉強<rt>べんきょう</rt></ruby>しています。 |
+| Prompt | Expected Response | Translation（中文翻譯） |
+|---|---|---|
+| 日本（にほん）へ行（い）きたいですか。 | はい、とても行（い）きたいです。 | 是的，非常想去。 |
+| いつ日本（にほん）へ行（い）きたいですか。 | 来年（らいねん）行（い）きたいです。 | 明年想去。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
-| Step | Sentence |
-|---|---|
-| 核心 | <ruby>行<rt>い</rt></ruby>きたいです。 |
-| +方向 | **<ruby>日本<rt>にほん</rt></ruby>へ**<ruby>行<rt>い</rt></ruby>きたいです。 |
-| +伴隨 | **<ruby>友達<rt>ともだち</rt></ruby>と**<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。 |
-| +時間 | **<ruby>来年<rt>らいねん</rt></ruby>**、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。 |
+| Step | Sentence | Translation（中文翻譯） |
+|---|---|---|
+| 核心 | 行（い）きたいです。 | 想去。 |
+| +目的地 | **日本（にほん）へ**行（い）きたいです。 | 想去日本。 |
+| +伴隨 | **家族（かぞく）と**日本（にほん）へ行（い）きたいです。 | 想和家人去日本。 |
+| +時間 | **いつか**家族（かぞく）と日本（にほん）へ行（い）きたいです。 | 有朝一日想和家人去日本。 |
