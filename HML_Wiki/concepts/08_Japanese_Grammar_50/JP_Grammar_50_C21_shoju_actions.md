@@ -19,11 +19,13 @@ sibling_of:
 描述誰為誰做動作，重點是恩惠方向與內外關係。
 
 ## 實用例句
-- 日文：友達に手伝ってあげます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">友達に</span><span style="color:#3498DB">手伝ってあげます</span>。
   中文：我幫朋友忙。
-- 日文：先生に教えてもらいました。
+- 日文：<span style="color:#FF477E">先生に</span><span style="color:#3498DB">教えてもらいました</span>。
   中文：請老師教了我。
-- 日文：友達が手伝ってくれました。
+- 日文：<span style="color:#2ECC71">友達が</span><span style="color:#3498DB">手伝ってくれました</span>。
   中文：朋友幫了我。
 
 ## 學習提示

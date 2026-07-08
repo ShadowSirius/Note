@@ -11,29 +11,31 @@ sibling_of:
 表示委婉的邀請或提議（要不要一起做某事？）。相比於直接提議，這種說法會先詢問對方的意願，聽起來非常客氣有禮。通常與 `一緒に`（一起）搭配使用。
 
 ## 實用例句
-- 日文：一緒に写真を撮りませんか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">写真を撮りませんか。</span>
 - 中文：要不要一起拍張照片呢？
-- 日文：一緒にご飯を食べませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">ご飯を食べませんか。</span>
 - 中文：要不要一起吃飯呢？
-- 日文：一緒に京都へ行きませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#FF477E">京都へ</span><span style="color:#3498DB">行きませんか。</span>
 - 中文：要不要一起去京都呢？
-- 日文：一緒にタクシーに乗りませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">タクシーに乗りませんか。</span>
 - 中文：要不要一起搭計程車呢？
-- 日文：lineを交換しませんか。
+- 日文：<span style="color:#3498DB">lineを交換しませんか。</span>
 - 中文：要不要交換 Line 呢？
-- 日文：一緒にお茶を飲みませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">お茶を飲みませんか。</span>
 - 中文：要不要一起喝茶呢？
-- 日文：一緒に帰りませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">帰りませんか。</span>
 - 中文：要不要一起回去呢？
-- 日文：ちょっと休みませんか。
+- 日文：<span style="color:#FF477E">ちょっと</span><span style="color:#3498DB">休みませんか。</span>
 - 中文：要不要稍作休息呢？
-- 日文：一緒に富士山を見に行きませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">富士山を見に行きませんか。</span>
 - 中文：要不要一起去看富士山呢？
-- 日文：ちょっと話しませんか。
+- 日文：<span style="color:#FF477E">ちょっと</span><span style="color:#3498DB">話しませんか。</span>
 - 中文：要不要稍微聊聊呢？
-- 日文：ちょっと喫茶店で話しませんか。
+- 日文：<span style="color:#FF477E">ちょっと</span><span style="color:#FF477E">喫茶店で</span><span style="color:#3498DB">話しませんか。</span>
 - 中文：要不要稍微在咖啡廳聊聊呢？
-- 日文：一緒に遊びませんか。
+- 日文：<span style="color:#FF477E">一緒に</span><span style="color:#3498DB">遊びませんか。</span>
 - 中文：要不要一起去玩呢？
 
 ## 關係說明

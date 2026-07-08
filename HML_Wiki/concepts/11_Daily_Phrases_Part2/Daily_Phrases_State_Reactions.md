@@ -16,31 +16,33 @@ sibling_of:
 
 ---
 
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
 ## 📊 狀態陳述與社交回應句型表 (21 句)
 
 | 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
 |:---:|:---|:---|:---|:---|
-| 1 | 我這週末沒有任何計畫。 | 今週末は予定がないんだ。 | *Konshuumatsu wa yotei ga nai nda* | `〜んだ` 表示在向對方解釋自己的近況或背景。 |
-| 2 | 我現在想吃披薩。 | ピザが食べたい気分だな。 | *Piza ga tabetai kibun da na* | `食べたい`（想吃）。`気分`（心情）。`だな`（自我感嘆）。 |
-| 3 | 我很期待旅行喔。 | 旅行が楽しみだよ。 | *Ryokou ga tanoshimi dayo* | `楽しみ`（期待/樂趣）。 |
-| 4 | 我在考慮去上繪畫班。 | 絵の教室に通うか考えてるんだ。 | *E no kyoushitsu ni kayou ka kangaeteru nda* | `〜か考えている`（在考慮是否要...）。 |
-| 5 | 我沒有太多自由時間。 | 自由な時間があまりないんだ。 | *Jiyuna jikan ga amari nai nda* | `あまり＋否定` 意為「不太.../沒有很多」。 |
-| 6 | 今天真的累壞了。 | 今日は本当に疲れてる。 | *Kyou wa hontoo ni tsukareteru* | `疲れてる` 是 `疲れている` 的口語縮寫。 |
-| 7 | 我的咳嗽一直止不住。 | 咳が止まらなかったんだよ。 | *Seki ga tomaranakatta ndayo* | `咳`（咳嗽，ASR勘誤為「席」）。`止まらない` 的過去式。 |
-| 8 | 真不敢置信！ | 信じられないよ。 | *Shinjirarenai yo* | `信じる` 的可能形否定（不能相信）。 |
-| 9 | 那真的令人感動。 | それは感動したよ。 | *Sore wa kandou shita yo* | `感動する` 的過去式。 |
-| 10 | 真有趣呢。 | 面白いね。 | *Omoshiroi ne* | `面白い`（有趣）。 |
-| 11 | 抱歉，我沒帶零錢。 | ごめん、小銭を持ち合わせてないんだ。 | *Gomen, kozeni o mochiawasete nai nda* | `小銭`（零錢）。`持ち合わせる`（隨身攜帶，ASR勘誤）。 |
-| 12 | 這次先等下次機會吧。 | 今回はまたの機会にさせて。 | *Konkai wa mata no kikai ni sasete* | `〜にさせて` 讓我做...（使役態，常用於客氣婉拒）。 |
-| 13 | 我不會讓你失望的。 | がっかりさせないよ。 | *Gakkari sasenai yo* | `がっかりさせる`（使失望）的否定（不讓你失望）。 |
-| 14 | 有人在家嗎？ | 誰か家にいる？ | *Dareka ie ni iru?* | 去朋友家拜訪時，探頭詢問的口語（有人在嗎？）。 |
-| 15 | 可以放在你喜歡的地方。 | 好きなところに置いていいよ。 | *Sukina tokoro ni oite ii yo* | `置いていい`（可以放置）。`〜よ` 表大方允許。 |
-| 16 | 放輕鬆點/隨興點。 | 気楽に行こう。 | *Kiraku ni ikou* | `気楽`（輕鬆/自在）。`行こう`（走吧/前進）。安慰語。 |
-| 17 | 請不要擔心。 | 心配しないで。 | *Shimpai shinai de* | 屬於技法二省略 `ください` 的否定請求。 |
-| 18 | 這是我的東/我請客。 | これは私のおごりだよ。 | *Kore wa watashi no ogori dayo* | `おごり`（請客，ASR語音識別勘誤為「おり/り」）。 |
-| 19 | 你欠我一次囉。 | 貸しが1つできたね。 | *Kashi ga hitotsu dekita ne* | `貸し`（借出/人情債，ASR語音識別勘誤為「歌詞」）。 |
-| 20 | 也讓我加入吧！ | 私も仲間に入れてよ。 | *Watashi mo nakama ni irete yo* | `仲間に入れる`（納為夥伴/讓我加入）。 |
-| 21 | 那是當然的啦！ | 当然じゃん。 | *Touzen jan* | `じゃん` 為關東方言常用的口語確認語氣（不是嗎/當然啦）。 |
+| 1 | 我這週末沒有任何計畫。 | <span style="color:#2ECC71">今週末は</span><span style="color:#2ECC71">予定が</span><span style="color:#3498DB">ないんだ</span>。 | *Konshuumatsu wa yotei ga nai nda* | `〜んだ` 表示在向對方解釋自己的近況或背景。 |
+| 2 | 我現在想吃披薩。 | <span style="color:#2ECC71">ピザが</span><span style="color:#F39C12">食べたい</span><span style="color:#3498DB">気分だな</span>。 | *Piza ga tabetai kibun da na* | `食べたい`（想吃）。`気分`（心情）。`だな`（自我感嘆）。 |
+| 3 | 我很期待旅行喔。 | <span style="color:#2ECC71">旅行が</span><span style="color:#3498DB">楽しみだよ</span>。 | *Ryokou ga tanoshimi dayo* | `楽しみ`（期待/樂趣）。 |
+| 4 | 我在考慮去上繪畫班。 | <span style="color:#F39C12">絵の</span><span style="color:#FF477E">教室に</span><span style="color:#3498DB">通うか</span><span style="color:#3498DB">考えてるんだ</span>。 | *E no kyoushitsu ni kayou ka kangaeteru nda* | `〜か考えている`（在考慮是否要...）。 |
+| 5 | 我沒有太多自由時間。 | <span style="color:#F39C12">自由な</span><span style="color:#2ECC71">時間が</span><span style="color:#FF477E">あまり</span><span style="color:#3498DB">ないんだ</span>。 | *Jiyuna jikan ga amari nai nda* | `あまり＋否定` 意為「不太.../沒有很多」。 |
+| 6 | 今天真的累壞了。 | <span style="color:#2ECC71">今日は</span><span style="color:#FF477E">本当に</span><span style="color:#3498DB">疲れてる</span>。 | *Kyou wa hontoo ni tsukareteru* | `疲れてる` 是 `疲れている` 的口語縮寫。 |
+| 7 | 我的咳嗽一直止不住。 | <span style="color:#2ECC71">咳が</span><span style="color:#3498DB">止まらなかったんだよ</span>。 | *Seki ga tomaranakatta ndayo* | `咳`（咳嗽，ASR勘誤為「席」）。`止まらない` 的過去式。 |
+| 8 | 真不敢置信！ | <span style="color:#3498DB">信じられないよ</span>。 | *Shinjirarenai yo* | `信じる` 的可能形否定（不能相信）。 |
+| 9 | 那真的令人感動。 | <span style="color:#2ECC71">それは</span><span style="color:#3498DB">感動したよ</span>。 | *Sore wa kandou shita yo* | `感動する` 的過去式。 |
+| 10 | 真有趣呢。 | <span style="color:#3498DB">面白いね</span>。 | *Omoshiroi ne* | `面白い`（有趣）。 |
+| 11 | 抱歉，我沒帶零錢。 | ごめん、<span style="color:#2ECC71">小銭を</span><span style="color:#3498DB">持ち合わせてないんだ</span>。 | *Gomen, kozeni o mochiawasete nai nda* | `小銭`（零錢）。`持ち合わせる`（隨身攜帶，ASR勘誤）。 |
+| 12 | 這次先等下次機會吧。 | <span style="color:#2ECC71">今回は</span><span style="color:#F39C12">またの</span><span style="color:#FF477E">機会に</span><span style="color:#3498DB">させて</span>。 | *Konkai wa mata no kikai ni sasete* | `〜にさせて` 讓我做...（使役態，常用於客氣婉拒）。 |
+| 13 | 我不會讓你失望的。 | <span style="color:#3498DB">がっかりさせないよ</span>。 | *Gakkari sasenai yo* | `がっかりさせる`（使失望）的否定（不讓你失望）。 |
+| 14 | 有人在家嗎？ | <span style="color:#2ECC71">誰か</span><span style="color:#FF477E">家に</span><span style="color:#3498DB">いる</span>？ | *Dareka ie ni iru?* | 去朋友家拜訪時，探頭詢問的口語（有人在嗎？）。 |
+| 15 | 可以放在你喜歡的地方。 | <span style="color:#F39C12">好きな</span><span style="color:#FF477E">ところに</span><span style="color:#3498DB">置いていいよ</span>。 | *Sukina tokoro ni oite ii yo* | `置いていい`（可以放置）。`〜よ` 表大方允許。 |
+| 16 | 放輕鬆點/隨興點。 | <span style="color:#FF477E">気楽に</span><span style="color:#3498DB">行こう</span>。 | *Kiraku ni ikou* | `気楽`（輕鬆/自在）。`行こう`（走吧/前進）。安慰語。 |
+| 17 | 請不要擔心。 | <span style="color:#3498DB">心配しないで</span>。 | *Shimpai shinai de* | 屬於技法二省略 `ください` 的否定請求。 |
+| 18 | 這是我的東/我請客。 | <span style="color:#2ECC71">これは</span><span style="color:#F39C12">私の</span><span style="color:#3498DB">おごりだよ</span>。 | *Kore wa watashi no ogori dayo* | `おごり`（請客，ASR語音識別勘誤為「おり/り」）。 |
+| 19 | 你欠我一次囉。 | <span style="color:#2ECC71">貸しが</span><span style="color:#FF477E">1つ</span><span style="color:#3498DB">できたね</span>。 | *Kashi ga hitotsu dekita ne* | `貸し`（借出/人情債，ASR語音識別勘誤為「歌詞」）。 |
+| 20 | 也讓我加入吧！ | <span style="color:#2ECC71">私も</span><span style="color:#FF477E">仲間に</span><span style="color:#3498DB">入れてよ</span>。 | *Watashi mo nakama ni irete yo* | `仲間に入れる`（納為夥伴/讓我加入）。 |
+| 21 | 那是當然的啦！ | <span style="color:#3498DB">当然じゃん</span>。 | *Touzen jan* | `じゃん` 為關東方言常用的口語確認語氣（不是嗎/當然啦）。 |
 
 ---
 

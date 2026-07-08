@@ -16,13 +16,15 @@ replaces:
 - 語氣比主動發发生的 `〜てくれます` 更強調「我主動請求或安排了這件事，因而得到對方的幫忙」。
 
 ## 實用例句
-- 日文：<ruby>先生<rt>せんせい (sensei)</rt></ruby>にレポートを<ruby>直<rt>nao (nao)</rt></ruby>してもらいました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>先生<rt>せんせい (sensei)</rt></ruby>にレポートを<ruby>直<rt>nao (nao)</rt></ruby>してもらいました。</span>
 - 中文：我請老師幫我修改了報告。（承蒙老師的好意）
-- 日文：<ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>引越し<rt>ひっこし (hikkoshi)</rt></ruby>を<ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってもらいます。
+- 日文：<span style="color:#3498DB"><ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>引越し<rt>ひっこし (hikkoshi)</rt></ruby>を<ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってもらいます。</span>
 - 中文：我請朋友幫忙我搬家。
-- 日文：<ruby>工事部<rt>こうじぶ (koujibu)</rt></ruby>に<ruby>見積もり<rt>みつもり (mitsumori)</rt></ruby>を<ruby>出<rt>だ (da)</rt></ruby>してもらえますか。
+- 日文：<span style="color:#3498DB"><ruby>工事部<rt>こうじぶ (koujibu)</rt></ruby>に<ruby>見積もり<rt>みつもり (mitsumori)</rt></ruby>を<ruby>出<rt>だ (da)</rt></ruby>してもらえますか。</span>
 - 中文：能請工務部開個估價單給我嗎？（委婉請求變形）
-- 日文：<ruby>客先<rt>きゃくさき (kyakusaki)</rt></ruby>に<ruby>交渉<rt>こうしょう (koushou)</rt></ruby>の<ruby>機会<rt>きかい (kikai)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってもらいました。
+- 日文：<span style="color:#3498DB"><ruby>客先<rt>きゃくさき (kyakusaki)</rt></ruby>に</span><span style="color:#F39C12"><ruby>交渉<rt>こうしょう (koushou)</rt></ruby>の</span><span style="color:#3498DB"><ruby>機会<rt>きかい (kikai)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってもらいました。</span>
 - 中文：客戶（幫忙）為我安排了談判的機會。
 
 ## 關係說明

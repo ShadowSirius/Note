@@ -15,13 +15,15 @@ sibling_of:
 - 語氣沒有 `てはいけません` 那樣生硬嚴肅，在熟人、親友或家庭內部互動中極為常見。
 
 ## 實用例句
-- 日文：ここで<ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってはだめです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってはだめです。</span>
 - 中文：不能在這裡拍照喔。
-- 日文：<ruby>人<rt>ひと (hito)</rt></ruby>のものを<ruby>触<rt>さわ (sawa)</rt></ruby>ってはだめだよ.
+- 日文：<span style="color:#F39C12"><ruby>人<rt>ひと (hito)</rt></ruby>の</span><span style="color:#3498DB">ものを<ruby>触<rt>さわ (sawa)</rt></ruby>ってはだめだよ。</span>
 - 中文：不能碰別人的東西喔。（父母對孩子的溫和警告）
-- 日文：嘘をついてはだめです。<ruby>信頼<rt>しんらい (shinrai)</rt></ruby>をなくします。
+- 日文：<span style="color:#3498DB">嘘をついてはだめです。</span><span style="color:#3498DB"><ruby>信頼<rt>しんらい (shinrai)</rt></ruby>をなくします。</span>
 - 中文：不可以撒謊，會失去信任的。
-- 日文：<ruby>仕事中<rt>しごとちゅう (shigotochuu)</rt></ruby>にゲームをしてはだめ。
+- 日文：<span style="color:#FF477E"><ruby>仕事中<rt>しごとちゅう (shigotochuu)</rt></ruby>に</span><span style="color:#3498DB">ゲームをしてはだめ。</span>
 - 中文：工作時間不可以玩遊戲喔。
 
 ## 關係說明

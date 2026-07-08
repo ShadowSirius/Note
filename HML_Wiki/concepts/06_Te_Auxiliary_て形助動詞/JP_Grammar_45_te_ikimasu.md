@@ -13,13 +13,15 @@ contradicts:
 2. **空間與動作移動（離開）**：表示人在「做完某個動作後離開」，或者「帶著某個東西/狀態走開」（譯為「做完某事去…」、「帶去」）。
 
 ## 實用例句
-- 日文：このプロジェクトをこれからも<ruby>進<rt>すす (susu)</rt></ruby>めていきます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">プロジェクトを</span><span style="color:#FF477E">これからも</span><span style="color:#3498DB"><ruby>進<rt>すす (susu)</rt></ruby>めていきます。</span>
 - 中文：這個專案今後也會持續推進下去。（時間持續）
-- 日文：最近お<ruby>客<rt>きゃく (kyaku)</rt></ruby>さんが<ruby>増<rt>ふ (fu)</rt></ruby>めていきました。
+- 日文：<span style="color:#FF477E">最近</span><span style="color:#2ECC71">お<ruby>客<rt>きゃく (kyaku)</rt></ruby>さんが</span><span style="color:#3498DB"><ruby>増<rt>ふ (fu)</rt></ruby>めていきました。</span>
 - 中文：最近客人逐漸增加起來了。（過去某段時間內朝後續的持續變化）
-- 日文：<ruby>袋<rt>ふくろ (fukuro)</rt></ruby>に<ruby>入<rt>い (i)</rt></ruby>れてこれを<ruby>持<rt>も (mo)</rt></ruby>っていってください。
+- 日文：<span style="color:#FF477E"><ruby>袋<rt>ふくろ (fukuro)</rt></ruby>に</span><span style="color:#3498DB"><ruby>入<rt>い (i)</rt></ruby>れてこれを<ruby>持<rt>も (mo)</rt></ruby>っていってください。</span>
 - 中文：請裝進袋子裡，並把這個帶走。（空間離開）
-- 日文：<ruby>小<rt>ちい (chii)</rt></ruby>さな<ruby>変化<rt>へんか (henka)</rt></ruby>を<ruby>積み<rt>つみ (tsumi)</rt></ruby><ruby>重ね<rt>かさね (kasane)</rt></ruby>て<ruby>強く<rt>つよ (tsuyo)</rt></ruby>なっていく。
+- 日文：<span style="color:#F39C12"><ruby>小<rt>ちい (chii)</rt></ruby>さな</span><span style="color:#3498DB"><ruby>変化<rt>へんか (henka)</rt></ruby>を<ruby>積み<rt>つみ (tsumi)</rt></ruby><ruby>重ね<rt>かさね (kasane)</rt></ruby>て<ruby>強く<rt>つよ (tsuyo)</rt></ruby>なっていく。</span>
 - 中文：累積微小的改變，逐漸變得更強。（狀態的持續變化）
 
 ## 關係說明

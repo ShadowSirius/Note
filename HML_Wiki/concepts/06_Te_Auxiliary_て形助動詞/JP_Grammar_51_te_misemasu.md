@@ -13,13 +13,15 @@ extends:
 - 常用於表達必勝的決心，或向他人證明自己的實力。
 
 ## 實用例句
-- 日文：<ruby>今度<rt>こんど (kondo)</rt></ruby>の<ruby>試験<rt>しけん (shiken)</rt></ruby>、<ruby>絕對<rt>ぜったい (zettai)</rt></ruby>に<ruby>合格<rt>ごうかく (goukaku)</rt></ruby>して<ruby>見<rt>み (mi)</rt></ruby>せる。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12"><ruby>今度<rt>こんど (kondo)</rt></ruby>の</span><span style="color:#2ECC71"><ruby>試験<rt>しけん (shiken)</rt></ruby>、</span><span style="color:#FF477E"><ruby>絕對<rt>ぜったい (zettai)</rt></ruby>に</span><span style="color:#3498DB"><ruby>合格<rt>ごうかく (goukaku)</rt></ruby>して<ruby>見<rt>み (mi)</rt></ruby>せる。</span>
 - 中文：下次的考試我一定要考上給你看！（展現決心）
-- 日文：プロジェクトを<ruby>期限<rt>きげん (kigen)</rt></ruby>までに<ruby>仕上げ<rt>しあ (shia)</rt></ruby>て<ruby>見<rt>み (mi)</rt></ruby>せます。
+- 日文：<span style="color:#3498DB">プロジェクトを</span><span style="color:#FF477E"><ruby>期限<rt>きげん (kigen)</rt></ruby>までに</span><span style="color:#3498DB"><ruby>仕上げ<rt>しあ (shia)</rt></ruby>て<ruby>見<rt>み (mi)</rt></ruby>せます。</span>
 - 中文：我一定會在期限內把專案完成給你看。
-- 日文：<ruby>難<rt>むずか (muzuka)</rt></ruby>しいけどやってみせるよ。
+- 日文：<span style="color:#FF477E"><ruby>難<rt>むずか (muzuka)</rt></ruby>しいけど</span><span style="color:#3498DB">やってみせるよ。</span>
 - 中文：雖然很難，但我一定會做出來給你看的。
-- 日文：このデザイン、<ruby>絕對<rt>ぜったい (zettai)</rt></ruby>にうまくいかせて<ruby>見<rt>み (mi)</rt></ruby>せる。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#2ECC71">デザイン、</span><span style="color:#FF477E"><ruby>絕對<rt>ぜったい (zettai)</rt></ruby>に</span><span style="color:#3498DB">うまくいかせて<ruby>見<rt>み (mi)</rt></ruby>せる。</span>
 - 中文：這個設計我一定會讓它成功給你看。
 
 ## 關係說明

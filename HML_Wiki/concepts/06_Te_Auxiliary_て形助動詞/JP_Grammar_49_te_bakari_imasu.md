@@ -13,13 +13,15 @@ refines:
 - **🚨 負面語氣**：此句型強烈帶有說話者對該行為的「不滿」、「批評」、「責備」或「無奈」的負面主觀情緒。
 
 ## 實用例句
-- 日文：ゲームをしてばかりいると<ruby>目<rt>め (me)</rt></ruby>が<ruby>疲<rt>つか (tsuka)</rt></ruby>れるよ。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">ゲームをしてばかりいると</span><span style="color:#2ECC71"><ruby>目<rt>め (me)</rt></ruby>が</span><span style="color:#3498DB"><ruby>疲<rt>つか (tsuka)</rt></ruby>れるよ。</span>
 - 中文：老是打電動的話，眼睛會累喔。（勸告/不滿）
-- 日文：<ruby>喋<rt>しゃべ (shabe)</rt></ruby>ってばかりいないで<ruby>仕事<rt>しごと (shigoto)</rt></ruby>もして。
+- 日文：<span style="color:#FF477E"><ruby>喋<rt>しゃべ (shabe)</rt></ruby>ってばかりいないで</span><span style="color:#3498DB"><ruby>仕事<rt>しごと (shigoto)</rt></ruby>もして。</span>
 - 中文：別光顧著說話，也去做點工作吧！
-- 日文：<ruby>昼休み<rt>ひるやすみ (hiruyasumi)</rt></ruby><ruby>寝<rt>ね (ne)</rt></ruby>てばかりいて<ruby>体操<rt>たいそう (taisou)</rt></ruby>しない。
+- 日文：<span style="color:#FF477E"><ruby>昼休み<rt>ひるやすみ (hiruyasumi)</rt></ruby></span><span style="color:#3498DB"><ruby>寝<rt>ね (ne)</rt></ruby>てばかりいて<ruby>体操<rt>たいそう (taisou)</rt></ruby>しない。</span>
 - 中文：午休時間老是在睡覺，也不做點體操。
-- 日文：<ruby>最近<rt>さいきん (saikin)</rt></ruby>ネットを<ruby>見<rt>み (mi)</rt></ruby>てばかりね。
+- 日文：<span style="color:#FF477E"><ruby>最近<rt>さいきん (saikin)</rt></ruby></span><span style="color:#3498DB">ネットを<ruby>見<rt>み (mi)</rt></ruby>てばかりね。</span>
 - 中文：最近你老是在看網路呢。（抱怨/嘮叨）
 
 ## 關係說明

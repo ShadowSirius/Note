@@ -11,9 +11,11 @@ sibling_of:
 表示轉述聽來的消息（聽說... / 據說...）。
 
 ## 實用例句
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>は<ruby>雨<rt>あめ (ame)</rt></ruby>が<ruby>降<rt>ふ (fu)</rt></ruby>るそうです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>明日<rt>あした (ashita)</rt></ruby>は</span><span style="color:#2ECC71"><ruby>雨<rt>あめ (ame)</rt></ruby>が</span><span style="color:#3498DB"><ruby>降<rt>ふ (fu)</rt></ruby>るそうです。</span>
 - 中文：聽說明天下雨。
-- 日文：<ruby>田中<rt>たなか (tanaka)</rt></ruby>さんは<ruby>元氣<rt>げんき (genki)</rt></ruby>だそうです。
+- 日文：<span style="color:#2ECC71"><ruby>田中<rt>たなか (tanaka)</rt></ruby>さんは</span><span style="color:#3498DB"><ruby>元氣<rt>げんき (genki)</rt></ruby>だそうです。</span>
 - 中文：聽說田中先生精神很好。
 
 ## 關係說明

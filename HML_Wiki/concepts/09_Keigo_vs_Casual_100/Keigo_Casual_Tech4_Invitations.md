@@ -33,22 +33,23 @@ sibling_of:
 
 ## 📊 14 組實用邀請提議對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 要不要一起去？ | <ruby>一緒に行きませんか<rt>いっしょにいきませんか</rt></ruby> | <ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？ | *Issho ni ikimasen ka* ➡️ *Issho ni ikanai?* |
-| 2 | 幾點來？ / 幾點到？ | <ruby>何時に来ますか<rt>なんじにきますか</rt></ruby> | <ruby>何時に来る<rt>なんじにくる</rt></ruby>？ | *Nan-ji ni kimasu ka* ➡️ *Nan-ji ni kuru?* (詢問來訪時間) |
-| 3 | 要不要一起吃？ | <ruby>一緒に食べませんか<rt>いっしょにたべませんか</rt></ruby> | <ruby>一緒に食べない<rt>いっしょにたべない</rt></ruby>？ | *Issho ni tabemasen ka* ➡️ *Issho ni tabenai?* |
-| 4 | 要吃嗎？ | <ruby>食べますか<rt>たべますか</rt></ruby> | <ruby>食べる<rt>たべる</rt></ruby>？ | *Tabemasu ka* ➡️ *Taberu?* |
-| 5 | 要喝嗎？ | <ruby>飲みますか<rt>のみますか</rt></ruby> | <ruby>飲む<rt>のむ</rt></ruby>？ | *Nomimasu ka* ➡️ *Nomu?* |
-| 6 | 怎麼樣？ / 如何？ | <ruby>いかがですか<rt>いかがですか</rt></ruby> | どう？ | *Ikaga desu ka* ➡️ *Doo?* (常用於徵詢意見或推薦物品) |
-| 7 | 請一起來 | <ruby>一緒に来てください<rt>いっしょにきてください</rt></ruby> | <ruby>一緒に来て<rt>いっしょにきて</rt></ruby> | *Issho ni kite kudasai* ➡️ *Issho ni kite* |
-| 8 | 要來嗎？ | <ruby>来ますか<rt>きますか</rt></ruby> | <ruby>来る<rt>くる</rt></ruby>？ | *Kimasu ka* ➡️ *Kuru?* |
-| 9 | 要我幫忙嗎？ | <ruby>手伝いましょうか<rt>てつだいましょうか</rt></ruby> | <ruby>手伝おうか<rt>てつだおうか</rt></ruby>？ | *Tetsudaimashoo ka* ➡️ *Tetsudaou ka?* (五段動詞意向形) |
-| 10 | 可以幫你嗎？ | <ruby>手伝ってもいいですか<rt>てつだってもいいですか</rt></ruby> | <ruby>手伝っていい<rt>てつだっていい</rt></ruby>？ | *Tetsudatte mo ii desu ka* ➡️ *Tetsudatte ii?* (以確認語氣提議) |
-| 11 | 要去嗎？ | <ruby>行きますか<rt>いきますか</rt></ruby> | <ruby>行く<rt>いく</rt></ruby>？ | *Ikimasu ka* ➡️ *Iku?* |
-| 12 | 要看嗎？ | <ruby>見ますか<rt>みますか</rt></ruby> | <ruby>見る<rt>みる</rt></ruby>？ | *Mimasu ka* ➡️ *Miru?* |
-| 13 | 要睡了嗎？ | <ruby>寝ますか<rt>ねますか</rt></ruby> | <ruby>もう寝る<rt>もうねる</rt></ruby>？ | *Nemasu ka* ➡️ *Moo neru?* (口語常加副詞 `もう` 表示現狀) |
-| 14 | 下次再見 / 再會 | <ruby>また会いましょう<rt>またあいましょう</rt></ruby> | <ruby>また会おうね<rt>またあおうね</rt></ruby> | *Mata aimashoo* ➡️ *Mata aou ne* (約定見面的告別語) |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|要不要一起去？| <span style="color:#3498DB"><ruby>一緒に行きませんか<rt>いっしょにいきませんか</rt></ruby></span> | <span style="color:#3498DB"><ruby>一緒に行かない<rt>いっしょにいかない</rt></ruby>？</span> |*Issho ni ikimasen ka* ➡️ *Issho ni ikanai?*|
+|2|幾點來？ / 幾點到？| <span style="color:#3498DB"><ruby>何時に来ますか<rt>なんじにきますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>何時に来る<rt>なんじにくる</rt></ruby>？</span> |*Nan-ji ni kimasu ka* ➡️ *Nan-ji ni kuru?* (詢問來訪時間)|
+|3|要不要一起吃？| <span style="color:#3498DB"><ruby>一緒に食べませんか<rt>いっしょにたべませんか</rt></ruby></span> | <span style="color:#3498DB"><ruby>一緒に食べない<rt>いっしょにたべない</rt></ruby>？</span> |*Issho ni tabemasen ka* ➡️ *Issho ni tabenai?*|
+|4|要吃嗎？| <span style="color:#3498DB"><ruby>食べますか<rt>たべますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>食べる<rt>たべる</rt></ruby>？</span> |*Tabemasu ka* ➡️ *Taberu?*|
+|5|要喝嗎？| <span style="color:#3498DB"><ruby>飲みますか<rt>のみますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>飲む<rt>のむ</rt></ruby>？</span> |*Nomimasu ka* ➡️ *Nomu?*|
+|6|怎麼樣？ / 如何？| <span style="color:#3498DB"><ruby>いかがですか<rt>いかがですか</rt></ruby></span> | <span style="color:#FF477E">どう</span>？ |*Ikaga desu ka* ➡️ *Doo?* (常用於徵詢意見或推薦物品)|
+|7|請一起來| <span style="color:#3498DB"><ruby>一緒に來てください -> 一緒に来てください<rt>いっしょにきてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>一緒に來て -> 一緒に来て<rt>いっしょにきて</rt></ruby></span> |*Issho ni kite kudasai* ➡️ *Issho ni kite*|
+|8|要來嗎？| <span style="color:#3498DB"><ruby>来ますか<rt>きますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>来る<rt>くる</rt></ruby>？</span> |*Kimasu ka* ➡️ *Kuru?*|
+|9|要我幫忙嗎？| <span style="color:#3498DB"><ruby>手伝いましょうか<rt>てつだいましょうか</rt></ruby></span> | <span style="color:#3498DB"><ruby>手伝おうか<rt>てつだおうか</rt></ruby>？</span> |*Tetsudaimashoo ka* ➡️ *Tetsudaou ka?* (五段動詞意向形)|
+|10|可以幫你嗎？| <span style="color:#3498DB"><ruby>手伝ってもいいですか<rt>てつだってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>手伝っていい<rt>てつだっていい</rt></ruby>？</span> |*Tetsudatte mo ii desu ka* ➡️ *Tetsudatte ii?* (以確認語氣提議)|
+|11|要去嗎？| <span style="color:#3498DB"><ruby>行きますか<rt>いきますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>行く<rt>いく</rt></ruby>？</span> |*Ikimasu ka* ➡️ *Iku?*|
+|12|要看嗎？| <span style="color:#3498DB"><ruby>見ますか<rt>みますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>見る<rt>みる</rt></ruby>？</span> |*Mimasu ka* ➡️ *Miru?*|
+|13|要睡了嗎？| <span style="color:#3498DB"><ruby>寝ますか<rt>ねますか</rt></ruby></span> | <span style="color:#3498DB"><ruby>もう寝る<rt>もうねる</rt></ruby>？</span> |*Nemasu ka* ➡️ *Moo neru?* (口語常加副詞 `もう` 表示現狀)|
+|14|下次再見 / 再會| <span style="color:#3498DB"><ruby>また会いましょう<rt>またあいましょう</rt></ruby></span> | <span style="color:#3498DB"><ruby>また会おうね<rt>またあおうね</rt></ruby></span> |*Mata aimashoo* ➡️ *Mata aou ne* (約定見面的告別語)|
 
 ---
 

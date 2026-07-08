@@ -11,15 +11,17 @@ related_to:
 表示請求對方給予某個「物品」（名詞），常用於點餐、購物或向他人要東西的場合。
 
 ## 實用例句
-- 日文：これをください。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB">これをください。</span>
 - 中文：請給我這個。
-- 日文：このパンを<ruby>一<rt>ひと (hito)</rt></ruby>つください。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">パンを</span><span style="color:#FF477E"><ruby>一<rt>ひと (hito)</rt></ruby>つ</span><span style="color:#3498DB">ください。</span>
 - 中文：請給我一個這個麵包。
-- 日文：<ruby>切符<rt>きっぷ (kippu)</rt></ruby>を<ruby>１枚<rt>いちまい (ichimai)</rt></ruby>ください。
+- 日文：<span style="color:#3498DB"><ruby>切符<rt>きっぷ (kippu)</rt></ruby>を</span><span style="color:#FF477E"><ruby>１枚<rt>いちまい (ichimai)</rt></ruby></span><span style="color:#3498DB">ください。</span>
 - 中文：請給我一張車票。
-- 日文：このケーキをください。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">ケーキをください。</span>
 - 中文：請給我這個蛋糕。
-- 日文：チケットを<ruby>１枚<rt>いちまい (ichimai)</rt></ruby>ください。
+- 日文：<span style="color:#3498DB">チケットを</span><span style="color:#FF477E"><ruby>１枚<rt>いちまい (ichimai)</rt></ruby></span><span style="color:#3498DB">ください。</span>
 - 中文：請給我一張票。
 
 ## 關係說明

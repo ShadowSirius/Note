@@ -12,13 +12,15 @@ related_to:
 - 常見變形 `〜てみてもいいですか` 結合了許可句型，用於非常客氣地詢問「我可以試試看…嗎？」（如試穿、試吃等）。
 
 ## 實用例句
-- 日文：この<ruby>服<rt>ふく (fuku)</rt></ruby>を<ruby>着<rt>き (ki)</rt></ruby>てみてもいいですか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>服<rt>ふく (fuku)</rt></ruby>を<ruby>着<rt>き (ki)</rt></ruby>てみてもいいですか。</span>
 - 中文：我可以試穿這件衣服嗎？
-- 日文：もう<ruby>一度<rt>いちど (ichido)</rt></ruby>やってみます。
+- 日文：<span style="color:#FF477E">もう<ruby>一度<rt>いちど (ichido)</rt></ruby></span><span style="color:#3498DB">やってみます。</span>
 - 中文：我再試一次。
-- 日文：この<ruby>料理<rt>りょうり (ryouri)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってみました。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>料理<rt>りょうり (ryouri)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってみました。</span>
 - 中文：我試著做了這道料理。
-- 日文：そのアプリを<ruby>使<rt>つか (tsuka)</rt></ruby>ってみてください。
+- 日文：<span style="color:#F39C12">その</span><span style="color:#3498DB">アプリを<ruby>使<rt>つか (tsuka)</rt></ruby>ってみてください。</span>
 - 中文：請試用那個應用程式看看。
 
 ## 關係說明

@@ -11,9 +11,11 @@ refines:
 表示能力或客觀環境的允許（能夠做某事 / 會...）。
 
 ## 實用例句
-- 日文：<ruby>私<rt>わたし (watashi)</rt></ruby>は<ruby>車<rt>くるま (kuruma)</rt></ruby>の<ruby>運轉<rt>うんてん (unten)</rt></ruby>ができます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし (watashi)</rt></ruby>は</span><span style="color:#F39C12"><ruby>車<rt>くるま (kuruma)</rt></ruby>の</span><span style="color:#3498DB"><ruby>運轉<rt>うんてん (unten)</rt></ruby>ができます。</span>
 - 中文：我會開車。
-- 日文：ここでチケットを<ruby>買<rt>か (ka)</rt></ruby>うことができます。
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB">チケットを<ruby>買<rt>か (ka)</rt></ruby>うことができます。</span>
 - 中文：可以在這裡買票。
 
 ## 關係說明

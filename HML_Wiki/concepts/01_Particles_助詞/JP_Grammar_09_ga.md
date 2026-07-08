@@ -11,9 +11,11 @@ contradicts:
 標記主語，常用於新資訊的導入，或與形容詞/能力/願望搭配。
 
 ## 實用例句
-- 日文：<ruby>雨<rt>あめ (ame)</rt></ruby>が<ruby>降<rt>ふ (fu)</rt></ruby>っています。
+> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>雨<rt>あめ (ame)</rt></ruby>が</span><span style="color:#3498DB"><ruby>降<rt>ふ (fu)</rt></ruby>っています。</span>
 - 中文：正在下雨。
-- 日文：<ruby>私<rt>わたし (watashi)</rt></ruby>は<ruby>犬<rt>いぬ (inu)</rt></ruby>が<ruby>好<rt>す (su)</rt></ruby>きです。
+- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし (watashi)</rt></ruby>は</span><span style="color:#3498DB"><ruby>犬<rt>いぬ (inu)</rt></ruby>が<ruby>好<rt>す (su)</rt></ruby>きです。</span>
 - 中文：我喜歡狗。
 
 ## 關係說明

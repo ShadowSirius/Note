@@ -11,9 +11,11 @@ replaces:
 表示主觀的原因或理由（因為...）。
 
 ## 實用例句
-- 日文：<ruby>危<rt>あぶ (abu)</rt></ruby>ないから、<ruby>入<rt>はい (hai)</rt></ruby>らないでください。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>危<rt>あぶ (abu)</rt></ruby>ないから、</span><span style="color:#3498DB"><ruby>入<rt>はい (hai)</rt></ruby>らないでください。</span>
 - 中文：因為危險，請不要進去。
-- 日文：<ruby>忙<rt>いそが (isoga)</rt></ruby>しいですから、<ruby>行<rt>い (i)</rt></ruby>けません。
+- 日文：<span style="color:#FF477E"><ruby>忙<rt>いそが (isoga)</rt></ruby>しいですから、</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>けません。</span>
 - 中文：因為很忙，所以去不了。
 
 ## 關係說明

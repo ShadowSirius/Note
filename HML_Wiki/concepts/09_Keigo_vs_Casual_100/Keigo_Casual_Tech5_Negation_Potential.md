@@ -34,16 +34,17 @@ sibling_of:
 
 ## 📊 8 組實用否定與能力對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 我知道了 / 明白 | <ruby>わかりました<rt>わかりました</rt></ruby> | <ruby>わかった<rt>わかった</rt></ruby> | *Wakarimashita* ➡️ *Wakatta* (已理解對方的要求) |
-| 2 | 不懂 / 不知道 (理解上) | <ruby>わかりません<rt>わかりません</rt></ruby> | <ruby>わからない<rt>わからない</rt></ruby> | *Wakarimasen* ➡️ *Wakaranai* (表示理解能力或資訊不足) |
-| 3 | 不知道 / 不曉得 (事實上) | <ruby>知りません<rt>しりません</rt></ruby> | <ruby>知らない<rt>しらない</rt></ruby> | *Shirimasen* ➡️ *Shiranai* (指不知道某人事物、不認識) |
-| 4 | 聽不到 / 聽不見 | <ruby>聞こえません<rt>きこえません</rt></ruby> | <ruby>聞こえない<rt>きこえない</rt></ruby> | *Kikoemasen* ➡️ *Kikoenai* (聲音太小或連線差) |
-| 5 | 看不到 / 看不見 | <ruby>見えません<rt>みえません</rt></ruby> | <ruby>見えない<rt>みえない</rt></ruby> | *Miemasen* ➡️ *Mienai* (視線受阻或字太小) |
-| 6 | 不會 / 做不到 | <ruby>できません<rt>できません</rt></ruby> | <ruby>できない<rt>できない</rt></ruby> | *Dekimasen* ➡️ *Dekinai* (無法勝任、無法完成) |
-| 7 | 不能去 | <ruby>行けません<rt>いけません</rt></ruby> | <ruby>行けない<rt>いけない</rt></ruby> | *Ikemasen* ➡️ *Ikenai* (因日程衝突或身體不適無法赴約) |
-| 8 | 不能吃 / 吃不下 | <ruby>食べられません<rt>たべられません</rt></ruby> | <ruby>食べられない<rt>たべられない</rt></ruby> | *Taberaremasen* ➡️ *Taberarenai* (可能形否定) |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|我知道了 / 明白| <span style="color:#3498DB"><ruby>わかりました<rt>わかりました</rt></ruby></span> | <span style="color:#3498DB"><ruby>わかった<rt>わかった</rt></ruby></span> |*Wakarimashita* ➡️ *Wakatta* (已理解對方的要求)|
+|2|不懂 / 不知道 (理解上)| <span style="color:#3498DB"><ruby>わかりません<rt>わかりません</rt></ruby></span> | <span style="color:#3498DB"><ruby>わからない<rt>わからない</rt></ruby></span> |*Wakarimasen* ➡️ *Wakaranai* (表示理解能力或資訊不足)|
+|3|不知道 / 不曉得 (事實上)| <span style="color:#3498DB"><ruby>知りません<rt>しりません</rt></ruby></span> | <span style="color:#3498DB"><ruby>知らない<rt>しらない</rt></ruby></span> |*Shirimasen* ➡️ *Shiranai* (指不知道某人事物、不認識)|
+|4|聽不到 / 聽不見| <span style="color:#3498DB"><ruby>聞こえません<rt>きこえません</rt></ruby></span> | <span style="color:#3498DB"><ruby>聞こえない<rt>きこえない</rt></ruby></span> |*Kikoemasen* ➡️ *Kikoenai* (聲音太小或連線差)|
+|5|看不到 / 看不見| <span style="color:#3498DB"><ruby>見えません<rt>みえません</rt></ruby></span> | <span style="color:#3498DB"><ruby>見えない<rt>みえない</rt></ruby></span> |*Miemasen* ➡️ *Mienai* (視線受阻或字太小)|
+|6|不會 / 做不到| <span style="color:#3498DB"><ruby>できません<rt>できません</rt></ruby></span> | <span style="color:#3498DB"><ruby>できない<rt>できない</rt></ruby></span> |*Dekimasen* ➡️ *Dekinai* (無法勝任、無法完成)|
+|7|不能去| <span style="color:#3498DB"><ruby>行けません<rt>いけません</rt></ruby></span> | <span style="color:#3498DB"><ruby>行けない<rt>いけない</rt></ruby></span> |*Ikemasen* ➡️ *Ikenai* (因日程衝突或身體不適無法赴約)|
+|8|不能吃 / 吃不下| <span style="color:#3498DB"><ruby>食べられません<rt>たべられません</rt></ruby></span> | <span style="color:#3498DB"><ruby>食べられない<rt>たべられない</rt></ruby></span> |*Taberaremasen* ➡️ *Taberarenai* (可能形否定)|
 
 ---
 

@@ -16,13 +16,15 @@ related_to:
 2. **遺憾或不小心**：表示發生了非自己所願、無法挽回的事情，帶有「後悔」、「遺憾」、「不小心犯錯」的無奈心境。
 
 ## 實用例句
-- 日文：<ruby>大事<rt>だいじ (daiji)</rt></ruby>なファイルを<ruby>消<rt>け (ke)</rt></ruby>してしまいました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12"><ruby>大事<rt>だいじ (daiji)</rt></ruby>な</span><span style="color:#3498DB">ファイルを<ruby>消<rt>け (ke)</rt></ruby>してしまいました。</span>
 - 中文：我不小心把重要的檔案刪掉了。（遺憾/後悔）
-- 日文：ケーキを<ruby>全部<rt>ぜんぶ (zenbu)</rt></ruby><ruby>食<rt>た (ta)</rt></ruby>べてしまいました。
+- 日文：<span style="color:#3498DB">ケーキを</span><span style="color:#FF477E"><ruby>全部<rt>ぜんぶ (zenbu)</rt></ruby></span><span style="color:#3498DB"><ruby>食<rt>た (ta)</rt></ruby>べてしまいました。</span>
 - 中文：我把蛋糕全部吃光了。（徹底完成）
-- 日文：<ruby>財布<rt>さいふ (saifu)</rt></ruby>を<ruby>忘<rt>わす (wasu)</rt></ruby>れてしまった。
+- 日文：<span style="color:#3498DB"><ruby>財布<rt>さいふ (saifu)</rt></ruby>を<ruby>忘<rt>わす (wasu)</rt></ruby>れてしまった。</span>
 - 中文：我不小心忘了帶錢包。（口語/不小心）
-- 日文：<ruby>遅<rt>おそ (oso)</rt></ruby>くまでテレビを<ruby>見<rt>み (mi)</rt></ruby>てしまいました。
+- 日文：<span style="color:#FF477E"><ruby>遅<rt>おそ (oso)</rt></ruby>くまで</span><span style="color:#3498DB">テレビを<ruby>見<rt>み (mi)</rt></ruby>てしまいました。</span>
 - 中文：我不小心看電視看太晚了。（懊悔）
 
 ## 關係說明

@@ -13,13 +13,15 @@ contradicts:
 - 句子中的焦點（動作對象）通常用主格助詞 `が` 標記，或置於句首用主題助詞 `は` 標記。
 
 ## 實用例句
-- 日文：テーブルの<ruby>上<rt>うえ (ue)</rt></ruby>にケーキが<ruby>置<rt>お (o)</rt></ruby>いてあります。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">テーブルの<ruby>上<rt>うえ (ue)</rt></ruby>に</span><span style="color:#2ECC71">ケーキが</span><span style="color:#3498DB"><ruby>置<rt>お (o)</rt></ruby>いてあります。</span>
 - 中文：桌上放著蛋糕。（有人特意放在那裡的）
-- 日文：<ruby>書類<rt>しょるい (shorui)</rt></ruby>はもうコピーしてあります。
+- 日文：<span style="color:#2ECC71"><ruby>書類<rt>しょるい (shorui)</rt></ruby>は</span><span style="color:#FF477E">もう</span><span style="color:#3498DB">コピーしてあります。</span>
 - 中文：文件已經影印好了。
-- 日文：<ruby>壁<rt>かべ (kabe)</rt></ruby>にポスターが<ruby>貼<rt>は (ha)</rt></ruby>ってあります。
+- 日文：<span style="color:#FF477E"><ruby>壁<rt>かべ (kabe)</rt></ruby>に</span><span style="color:#2ECC71">ポスターが</span><span style="color:#3498DB"><ruby>貼<rt>は (ha)</rt></ruby>ってあります。</span>
 - 中文：牆上貼著海報。
-- 日文：<ruby>椅子<rt>いす (isu)</rt></ruby>は<ruby>並<rt>なら (nara)</rt></ruby>べてあります。
+- 日文：<span style="color:#2ECC71"><ruby>椅子<rt>いす (isu)</rt></ruby>は</span><span style="color:#3498DB"><ruby>並<rt>なら (nara)</rt></ruby>べてあります。</span>
 - 中文：椅子已經排好了。
 
 ## 關係說明

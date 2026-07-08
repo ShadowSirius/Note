@@ -13,9 +13,11 @@ related_to:
 表示第一人稱或詢問第二人稱的願望（想做某事）。
 
 ## 實用例句
-- 日文：<ruby>日本<rt>にほん (nihon)</rt></ruby>へ<ruby>旅行<rt>りょこう (ryokou)</rt></ruby>に<ruby>行<rt>い (i)</rt></ruby>きたいです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>日本<rt>にほん (nihon)</rt></ruby>へ</span><span style="color:#FF477E"><ruby>旅行<rt>りょこう (ryokou)</rt></ruby>に</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>きたいです。</span>
 - 中文：我想去日本旅行。
-- 日文：お<ruby>茶<rt>ちゃ (cha)</rt></ruby>が<ruby>飲<rt>の (no)</rt></ruby>みたいです。
+- 日文：<span style="color:#3498DB">お<ruby>茶<rt>ちゃ (cha)</rt></ruby>が<ruby>飲<rt>の (no)</rt></ruby>みたいです。</span>
 - 中文：我想喝茶。
 
 ## 關係說明

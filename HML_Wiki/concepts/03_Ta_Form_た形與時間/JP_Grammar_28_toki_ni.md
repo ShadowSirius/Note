@@ -7,9 +7,11 @@
 表示動作進行的時間點（當...的時候）。
 
 ## 實用例句
-- 日文：<ruby>子供<rt>こども (kodomo)</rt></ruby>のとき、よく<ruby>川<rt>かわ (kawa)</rt></ruby>で<ruby>泳<rt>およ (oyo)</rt></ruby>ぎました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12"><ruby>子供<rt>こども (kodomo)</rt></ruby>の</span><span style="color:#FF477E">とき、</span><span style="color:#FF477E">よく</span><span style="color:#FF477E"><ruby>川<rt>かわ (kawa)</rt></ruby>で</span><span style="color:#3498DB"><ruby>泳<rt>およ (oyo)</rt></ruby>ぎました。</span>
 - 中文：小時候，常在河裡游泳。
-- 日文：<ruby>日本<rt>にほん (nihon)</rt></ruby>へ<ruby>行<rt>い (i)</rt></ruby>くときに、カメラを<ruby>買<rt>か (ka)</rt></ruby>いました。
+- 日文：<span style="color:#FF477E"><ruby>日本<rt>にほん (nihon)</rt></ruby>へ</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>く</span><span style="color:#FF477E">ときに、</span><span style="color:#3498DB">カメラを<ruby>買<rt>か (ka)</rt></ruby>いました。</span>
 - 中文：去日本的時候（出發前），買了相機。
 
 ## 關係說明

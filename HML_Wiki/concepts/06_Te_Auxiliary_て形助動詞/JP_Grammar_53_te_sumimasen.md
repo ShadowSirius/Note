@@ -14,13 +14,15 @@ sibling_of:
 - 使用 `て形` 將道歉的原因連接在歉意表達（`すみません` 等）之前。
 
 ## 實用例句
-- 日文：<ruby>遅<rt>おそ (oso)</rt></ruby>くなって<ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby>すみません。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>遅<rt>おそ (oso)</rt></ruby>くなって</span><span style="color:#FF477E"><ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby></span><span style="color:#3498DB">すみません。</span>
 - 中文：我遲到了，真的很抱歉。
-- 日文：<ruby>間違<rt>まちが (machiga)</rt></ruby>えてメールを<ruby>送<rt>おく (oku)</rt></ruby>ってすみませんでした。
+- 日文：<span style="color:#FF477E"><ruby>間違<rt>まちが (machiga)</rt></ruby>えて</span><span style="color:#3498DB">メールを<ruby>送<rt>おく (oku)</rt></ruby>ってすみませんでした。</span>
 - 中文：不小心發錯了電子郵件，非常抱歉。（過去發生的事，使用 `すみませんでした`）
-- 日文：<ruby>何度も<rt>なんども (nandomo)</rt></ruby><ruby>連絡<rt>れんらく (renraku)</rt></ruby>してすみません。
+- 日文：<span style="color:#FF477E"><ruby>何度も<rt>なんども (nandomo)</rt></ruby></span><span style="color:#3498DB"><ruby>連絡<rt>れんらく (renraku)</rt></ruby>してすみません。</span>
 - 中文：多次聯絡打擾，真是不好意思。
-- 日文：お<ruby>手数<rt>てすう (tesuu)</rt></ruby>をかけてすみませんでした。
+- 日文：<span style="color:#3498DB">お<ruby>手数<rt>てすう (tesuu)</rt></ruby>をかけてすみませんでした。</span>
 - 中文：給您添麻煩了，非常抱歉。（表示對造成的勞累感到歉意）
 
 ## 關係說明

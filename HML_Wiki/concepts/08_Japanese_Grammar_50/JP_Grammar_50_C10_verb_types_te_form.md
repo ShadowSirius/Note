@@ -19,13 +19,15 @@ sibling_of:
 て形是連接多數助動詞與句型的核心形式；先判斷 I/II/III 類動詞，再套用變化規則。
 
 ## 實用例句
-- 日文：書く→書いて
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB">書く</span>→<span style="color:#3498DB">書いて</span>
   中文：書く 的て形是 書いて。
-- 日文：読む→読んで
+- 日文：<span style="color:#3498DB">読む</span>→<span style="color:#3498DB">読んで</span>
   中文：読む 的て形是 読んで。
-- 日文：食べる→食べて
+- 日文：<span style="color:#3498DB">食べる</span>→<span style="color:#3498DB">食べて</span>
   中文：食べる 的て形是 食べて。
-- 日文：する→して
+- 日文：<span style="color:#3498DB">する</span>→<span style="color:#3498DB">して</span>
   中文：する 的て形是 して。
 
 ## 學習提示

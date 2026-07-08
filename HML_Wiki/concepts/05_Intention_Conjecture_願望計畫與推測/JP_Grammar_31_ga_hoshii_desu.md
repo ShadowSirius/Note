@@ -12,15 +12,17 @@ child_of:
 - 否定形式為：`〜は欲しくないです` 或 `〜は入りません`（不需要/不用）。
 
 ## 實用例句
-- 日文：お<ruby>酒<rt>さけ (sake)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB">お<ruby>酒<rt>さけ (sake)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：我想要酒。
-- 日文：お<ruby>酒<rt>さけ (sake)</rt></ruby>は<ruby>欲<rt>ほ (ho)</rt></ruby>しくないです。
+- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ (sake)</rt></ruby>は</span><span style="color:#3498DB"><ruby>欲<rt>ほ (ho)</rt></ruby>しくないです。</span>
 - 中文：我不要酒。
-- 日文：お<ruby>酒<rt>さけ (sake)</rt></ruby>は<ruby>入<rt>い (i)</rt></ruby>りません。
+- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ (sake)</rt></ruby>は</span><span style="color:#3498DB"><ruby>入<rt>い (i)</rt></ruby>りません。</span>
 - 中文：我不需要酒。
-- 日文：このパンが<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">パンが<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：我想要這個麵包。
-- 日文：あんな<ruby>服<rt>ふく (fuku)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 日文：<span style="color:#F39C12">あんな</span><span style="color:#3498DB"><ruby>服<rt>ふく (fuku)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：我想要那樣的衣服。
 
 ## 關係說明

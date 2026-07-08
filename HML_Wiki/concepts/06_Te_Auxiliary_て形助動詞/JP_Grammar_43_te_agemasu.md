@@ -15,13 +15,15 @@ replaces:
 - **代替方案**：若要主動協助他人，口語中常用 [[JP_Grammar_35_mashou_ka|〜ましょうか]]（我來…吧？），或在商務場合使用更謙遜的「お/ご＋動詞＋します」。
 
 ## 實用例句
-- 日文：<ruby>新人<rt>しんじん (shinjin)</rt></ruby>に<ruby>仕事<rt>しごと (shigoto)</rt></ruby>のやり<ruby>方<rt>かた (kata)</rt></ruby>を<ruby>教<rt>おしえ (oshie)</rt></ruby>てあげます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>新人<rt>しんじん (shinjin)</rt></ruby>に</span><span style="color:#F39C12"><ruby>仕事<rt>しごと (shigoto)</rt></ruby>の</span><span style="color:#3498DB">やり<ruby>方<rt>かた (kata)</rt></ruby>を<ruby>教<rt>おしえ (oshie)</rt></ruby>てあげます。</span>
 - 中文：我教新人工作的方法。（對晚輩使用，合適）
-- 日文：<ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>が<ruby>重<rt>おも (omo)</rt></ruby>そうだから<ruby>運<rt>はこ (hako)</rt></ruby>んであげるよ。
+- 日文：<span style="color:#2ECC71"><ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>が</span><span style="color:#FF477E"><ruby>重<rt>おも (omo)</rt></ruby>そうだから</span><span style="color:#3498DB"><ruby>運<rt>はこ (hako)</rt></ruby>んであげるよ。</span>
 - 中文：行李看起來很重，我幫你搬吧。（對熟人/朋友使用）
-- 日文：<ruby>時間<rt>じかん (jikan)</rt></ruby>があればプレゼンをチェックしてあげます。
+- 日文：<span style="color:#FF477E"><ruby>時間<rt>じかん (jikan)</rt></ruby>があれば</span><span style="color:#3498DB">プレゼンをチェックしてあげます。</span>
 - 中文：如果有時間的話，我幫你檢查簡報。（對晚輩/平輩）
-- 日文：パソコンが<ruby>壊<rt>こわ (kowa)</rt></ruby>れたので<ruby>修理<rt>しゅうり (shuuri)</rt></ruby>してあげました。
+- 日文：<span style="color:#2ECC71">パソコンが</span><span style="color:#FF477E"><ruby>壊<rt>こわ (kowa)</rt></ruby>れたので</span><span style="color:#3498DB"><ruby>修理<rt>しゅうり (shuuri)</rt></ruby>してあげました。</span>
 - 中文：因為電腦壞了，我幫他修好了。
 
 ## 關係說明

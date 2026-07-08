@@ -11,9 +11,11 @@ contradicts:
 表示移動的目的地（に）或方向（へ）。
 
 ## 實用例句
-- 日文：<ruby>日本<rt>にほん (nihon)</rt></ruby>に<ruby>行<rt>い (i)</rt></ruby>きます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>日本<rt>にほん (nihon)</rt></ruby>に</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>きます。</span>
 - 中文：去日本。
-- 日文：<ruby>學校<rt>がっこう (gakkou)</rt></ruby>へ<ruby>來<rt>き (ki)</rt></ruby>ました。
+- 日文：<span style="color:#FF477E"><ruby>學校<rt>がっこう (gakkou)</rt></ruby>へ</span><span style="color:#3498DB"><ruby>來<rt>き (ki)</rt></ruby>ました。</span>
 - 中文：來到學校。
 
 ## 關係說明

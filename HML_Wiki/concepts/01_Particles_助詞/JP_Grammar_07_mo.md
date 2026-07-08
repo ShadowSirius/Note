@@ -11,9 +11,11 @@ related_to:
 表示「也」。會取代或疊加於「は」和「が」之上。
 
 ## 實用例句
-- 日文：<ruby>彼<rt>かれ (kare)</rt></ruby>も<ruby>學生<rt>がくせい (gakusei)</rt></ruby>です。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ (kare)</rt></ruby>も</span><span style="color:#3498DB"><ruby>學生<rt>がくせい (gakusei)</rt></ruby>です。</span>
 - 中文：他也是學生。
-- 日文：<ruby>日本語<rt>にほんご (nihongo)</rt></ruby>も<ruby>英語<rt>えいご (eigo)</rt></ruby>も<ruby>話<rt>はな (hana)</rt></ruby>せます。
+- 日文：<span style="color:#3498DB"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>も<ruby>英語<rt>えいご (eigo)</rt></ruby>も<ruby>話<rt>はな (hana)</rt></ruby>せます。</span>
 - 中文：日文和英文都會說。
 
 ## 關係說明

@@ -19,23 +19,25 @@ derives_from:
 - **義務/警告**：`〜ておかないと`（如果不事先做好…的話，會很麻煩/行不通）
 
 ## 實用例句
-- 日文：<ruby>前<rt>まえ (mae)</rt></ruby>もってホテルを<ruby>予約<rt>よやく (yoyaku)</rt></ruby>しておきます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>前<rt>まえ (mae)</rt></ruby>もって</span><span style="color:#3498DB">ホテルを<ruby>予約<rt>よやく (yoyaku)</rt></ruby>しておきます。</span>
 - 中文：事先預約好飯店。
-- 日文：<ruby>会議<rt>かいぎ (kaigi)</rt></ruby>の<ruby>前<rt>まえ (mae)</rt></ruby>に<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>準備<rt>じゅんび (junbi)</rt></ruby>しておきます。
+- 日文：<span style="color:#FF477E"><ruby>会議<rt>かいぎ (kaigi)</rt></ruby>の<ruby>前<rt>まえ (mae)</rt></ruby>に</span><span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>準備<rt>じゅんび (junbi)</rt></ruby>しておきます。</span>
 - 中文：開會前準備好資料。
-- 日文：<ruby>電池<rt>でんち (denchi)</rt></ruby>を<ruby>変<rt>か (ka)</rt></ruby>えておいた<ruby>方<rt>ほう (hou)</rt></ruby>がいいです。
+- 日文：<span style="color:#3498DB"><ruby>電池<rt>でんち (denchi)</rt></ruby>を<ruby>変<rt>か (ka)</rt></ruby>えておいた<ruby>方<rt>ほう (hou)</rt></ruby>がいいです。</span>
 - 中文：最好先換好電池。
-- 日文：チケットを<ruby>取<rt>と (to)</rt></ruby>っておきました。
+- 日文：<span style="color:#3498DB">チケットを<ruby>取<rt>と (to)</rt></ruby>っておきました。</span>
 - 中文：已經事先買好票了。
-- 日文：<ruby>會議<rt>かいぎ (kaigi)</rt></ruby>の<ruby>前<rt>まえ (mae)</rt></ruby>に<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでおいてください。
+- 日文：<span style="color:#FF477E"><ruby>會議<rt>かいぎ (kaigi)</rt></ruby>の<ruby>前<rt>まえ (mae)</rt></ruby>に</span><span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでおいてください。</span>
 - 中文：開會前請事先讀好資料。（請求形式）
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>までに<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでおかないと。
+- 日文：<span style="color:#FF477E"><ruby>明日<rt>あした (ashita)</rt></ruby>までに</span><span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでおかないと。</span>
 - 中文：明天之前必須先讀好資料（如果不讀會很麻煩）。
-- 日文：<ruby>電車<rt>でんしゃ (densha)</rt></ruby>の<ruby>時刻<rt>じこく (jikoku)</rt></ruby>を<ruby>確か<rt>たしか (tashika)</rt></ruby>めておかないといけません。
+- 日文：<span style="color:#3498DB"><ruby>電車<rt>でんしゃ (densha)</rt></ruby>の<ruby>時刻<rt>じこく (jikoku)</rt></ruby>を<ruby>確か<rt>たしか (tashika)</rt></ruby>めておかないといけません。</span>
 - 中文：必須先確認電車時刻。
-- 日文：ノートパソコンは<ruby>点検<rt>てんけん (tenken)</rt></ruby>しておかないと<ruby>困<rt>こま (koma)</rt></ruby>ります。
+- 日文：<span style="color:#2ECC71">ノートパソコンは</span><span style="color:#3498DB"><ruby>点検<rt>てんけん (tenken)</rt></ruby>しておかないと<ruby>困<rt>こま (koma)</rt></ruby>ります。</span>
 - 中文：筆電得先檢查好否則會很麻煩。
-- 日文：お<ruby>客<rt>きゃく (kyaku)</rt></ruby><ruby>様<rt>さま (sama)</rt></ruby>に<ruby>連絡<rt>れんらく (renraku)</rt></ruby>しておかないと。
+- 日文：<span style="color:#3498DB">お<ruby>客<rt>きゃく (kyaku)</rt></ruby><ruby>様<rt>さま (sama)</rt></ruby>に<ruby>連絡<rt>れんらく (renraku)</rt></ruby>しておかないと。</span>
 - 中文：得先跟客人聯絡好。
 
 ## 關係說明

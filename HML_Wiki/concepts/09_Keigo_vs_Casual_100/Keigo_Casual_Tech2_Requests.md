@@ -30,23 +30,24 @@ sibling_of:
 
 ## 📊 15 組實用請求句對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 請看 / 看一下 | <ruby>見てください<rt>みてください</rt></ruby> | <ruby>見てみて<rt>みてみて</rt></ruby> | *Mite kudasai* ➡️ *Mite mite* (疊詞，有「看嘛看嘛」之意) |
-| 2 | 請給我看 / 讓我看看 | <ruby>見せてください<rt>みせてください</rt></ruby> | <ruby>見せて<rt>みせて</rt></ruby> | *Misete kudasai* ➡️ *Misete* (常用於想看對方手中物品時) |
-| 3 | 請借我 / 借我一下 | <ruby>貸してください<rt>かしてください</rt></ruby> | <ruby>貸して<rt>かして</rt></ruby> | *Kashite kudasai* ➡️ *Kashite* |
-| 4 | 請教我 / 告訴我 | <ruby>教えてください<rt>おしえてください</rt></ruby> | <ruby>教えて<rt>おしえて</rt></ruby> | *Oshiete kudasai* ➡️ *Oshiete* (可指傳授知識或告知資訊) |
-| 5 | 請聽我說 / 聽著聽著 | <ruby>聞いてください<rt>きいてください</rt></ruby> | <ruby>聞いて聞いて<rt>きいてきいて</rt></ruby> | *Kiite kudasai* ➡️ *Kiite kiite* (常用於興奮地要分享八卦/消息) |
-| 6 | 請不要勉強自己 | <ruby>無理しないでください<rt>むりしないでください</rt></ruby> | <ruby>無理しないで<rt>むりしないで</rt></ruby> | *Muri shinai de kudasai* ➡️ *Muri shinai de* (體貼關心用語) |
-| 7 | 請慢慢來 / 請好好休息 | <ruby>ゆっくりしてください<rt>ゆっくりしてください</rt></ruby> | ゆっくりして | *Yukkuri shite kudasai* ➡️ *Yukkuri shite* |
-| 8 | 請不要擔心 / 不用擔心 | <ruby>心配しないでください<rt>しんぱいしないでください</rt></ruby> | <ruby>心配しないで<rt>しんぱいしないで</rt></ruby> | *Shimpai shinai de kudasai* ➡️ *Shimpai shinai de* |
-| 9 | 請用日語說 | <ruby>日本語で言ってください<rt>にほんごでいってください</rt></ruby> | <ruby>日本語で言って<rt>にほんごでいって</rt></ruby> | *Nihongo de itte kudasai* ➡️ *Nihongo de itte* |
-| 10 | 請等一下 | <ruby>待ってください<rt>まってください</rt></ruby> | <ruby>待って<rt>まって</rt></ruby> | *Matte kudasai* ➡️ *Matte* |
-| 11 | 請等一下 / 等等 | <ruby>ちょっと待ってください<rt>ちょっとまってください</rt></ruby> | ちょっと待って | *Chotto matte kudasai* ➡️ *Chotto matte* (非常高頻) |
-| 12 | 請稍候 / 請稍等 | <ruby>少々お待ちください<rt>しょうしょうおまちください</rt></ruby> | ちょっと待って | *Shooshoo omachi kudasai* (職場服務用語) ➡️ *Chotto matte* |
-| 13 | 請再說一遍 | <ruby>もう一度言ってください<rt>もういちどいってください</rt></ruby> | <ruby>もう一回言って<rt>もういっかいいって</rt></ruby> | *Moo ichido itte kudasai* ➡️ *Moo ikkai itte* (口語偏好用 `一回` 代替 `一度`) |
-| 14 | 請說慢一點 | <ruby>ゆっくり話してください<rt>ゆっくりはなしてください</rt></ruby> | <ruby>ゆっくり話して<rt>ゆっくりはなして</rt></ruby> | *Yukkuri hanashite kudasai* ➡️ *Yukkuri hanashite* |
-| 15 | 請傳訊息給我 | <ruby>メッセージを送ってください<rt>めっせーじをおくってください</rt></ruby> | メッセージ<ruby>送って<rt>おくって</rt></ruby> | *Messeji o okutte kudasai* ➡️ *Messeji okutte* (口語常省略受格助詞 `を`) |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|請看 / 看一下| <span style="color:#3498DB"><ruby>見てください<rt>みてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>見てみて<rt>みてみて</rt></ruby></span> |*Mite kudasai* ➡️ *Mite mite* (疊詞，有「看嘛看嘛」之意)|
+|2|請給我看 / 讓我看看| <span style="color:#3498DB"><ruby>見せてください<rt>みせてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>見せて<rt>みせて</rt></ruby></span> |*Misete kudasai* ➡️ *Misete* (常用於想看對方手中物品時)|
+|3|請借我 / 借我一下| <span style="color:#3498DB"><ruby>貸してください<rt>かしてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>貸して<rt>かして</rt></ruby></span> |*Kashite kudasai* ➡️ *Kashite*|
+|4|請教我 / 告訴我| <span style="color:#3498DB"><ruby>教えてください<rt>おしえてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>教えて<rt>おしえて</rt></ruby></span> |*Oshiete kudasai* ➡️ *Oshiete* (可指傳授知識或告知資訊)|
+|5|請聽我說 / 聽著聽著| <span style="color:#3498DB"><ruby>聞いてください<rt>きいてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>聞いて聞いて<rt>きいてきいて</rt></ruby></span> |*Kiite kudasai* ➡️ *Kiite kiite* (常用於興奮地要分享八卦/消息)|
+|6|請不要勉強自己| <span style="color:#3498DB"><ruby>無理しないでください<rt>むりしないでください</rt></ruby></span> | <span style="color:#3498DB"><ruby>無理しないで<rt>むりしないで</rt></ruby></span> |*Muri shinai de kudasai* ➡️ *Muri shinai de* (體貼關心用語)|
+|7|請慢慢來 / 請好好休息| <span style="color:#3498DB"><ruby>ゆっくりしてください<rt>ゆっくりしてください</rt></ruby></span> | <span style="color:#FF477E">ゆっくり</span><span style="color:#3498DB">して</span> |*Yukkuri shite kudasai* ➡️ *Yukkuri shite*|
+|8|請不要擔心 / 不用擔心| <span style="color:#3498DB"><ruby>心配しないでください<rt>しんぱいしないでください</rt></ruby></span> | <span style="color:#3498DB"><ruby>心配しないで<rt>しんぱいしないで</rt></ruby></span> |*Shimpai shinai de kudasai* ➡️ *Shimpai shinai de*|
+|9|請用日語說| <span style="color:#3498DB"><ruby>日本語で言ってください<rt>にほんごでいってください</rt></ruby></span> | <span style="color:#3498DB"><ruby>日本語で言って<rt>にほんごでいって</rt></ruby></span> |*Nihongo de itte kudasai* ➡️ *Nihongo de itte*|
+|10|請等一下| <span style="color:#3498DB"><ruby>待ってください<rt>まってください</rt></ruby></span> | <span style="color:#3498DB"><ruby>待って<rt>まって</rt></ruby></span> |*Matte kudasai* ➡️ *Matte*|
+|11|請等一下 / 等等| <span style="color:#3498DB"><ruby>ちょっと待ってください<rt>ちょっとまってください</rt></ruby></span> | <span style="color:#FF477E">ちょっと</span><span style="color:#3498DB">待って</span> |*Chotto matte kudasai* ➡️ *Chotto matte* (非常高頻)|
+|12|請稍候 / 請稍等| <span style="color:#3498DB"><ruby>少々お待ちください<rt>しょうしょうおまちください</rt></ruby></span> | <span style="color:#FF477E">ちょっと</span><span style="color:#3498DB">待って</span> |*Shooshoo omachi kudasai* (職場服務用語) ➡️ *Chotto matte*|
+|13|請再說一遍| <span style="color:#3498DB"><ruby>もう一度言ってください<rt>もういちどいってください</rt></ruby></span> | <span style="color:#3498DB"><ruby>もう一回言って<rt>もういっかいいって</rt></ruby></span> |*Moo ichido itte kudasai* ➡️ *Moo ikkai itte* (口語偏好用 `一回` 代替 `一度`)|
+|14|請說慢一點| <span style="color:#3498DB"><ruby>ゆっくり話してください<rt>ゆっくりはなしてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>ゆっくり話して<rt>ゆっくりはなして</rt></ruby></span> |*Yukkuri hanashite kudasai* ➡️ *Yukkuri hanashite*|
+|15|請傳訊息給我| <span style="color:#3498DB"><ruby>メッセージを送ってください<rt>めっせーじをおくってください</rt></ruby></span> | <span style="color:#F39C12">メッセージ</span><span style="color:#3498DB"><ruby>送って<rt>おくって</rt></ruby></span> |*Messeji o okutte kudasai* ➡️ *Messeji okutte* (口語常省略受格助詞 `を`)|
 
 ---
 

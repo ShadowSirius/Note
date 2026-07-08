@@ -11,9 +11,11 @@ replaces:
 表示原因或理由（因為...）。語氣比「から」更柔和客觀，常用於委婉託辭或商務場合。
 
 ## 實用例句
-- 日文：<ruby>雨<rt>あめ (ame)</rt></ruby>が<ruby>降<rt>ふ (fu)</rt></ruby>るので、<ruby>遲<rt>おく (oku)</rt></ruby>れました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>雨<rt>あめ (ame)</rt></ruby>が</span><span style="color:#FF477E"><ruby>降<rt>ふ (fu)</rt></ruby>るので、</span><span style="color:#3498DB"><ruby>遲<rt>おく (oku)</rt></ruby>れました。</span>
 - 中文：因為下雨所以遲到了。
-- 日文：<ruby>頭<rt>あたま (atama)</rt></ruby>が<ruby>痛<rt>いた (ita)</rt></ruby>いので、<ruby>先<rt>さき (saki)</rt></ruby>に<ruby>帰<rt>かえ (kae)</rt></ruby>ります。
+- 日文：<span style="color:#2ECC71"><ruby>頭<rt>あたま (atama)</rt></ruby>が</span><span style="color:#FF477E"><ruby>痛<rt>いた (ita)</rt></ruby>いので、</span><span style="color:#FF477E"><ruby>先<rt>さき (saki)</rt></ruby>に</span><span style="color:#3498DB"><ruby>帰<rt>かえ (kae)</rt></ruby>ります。</span>
 - 中文：因為頭痛，先回去了。
 
 ## 關係說明

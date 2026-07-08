@@ -15,15 +15,17 @@ related_to:
 表示許可（可以做某事）。
 
 ## 實用例句
-- 日文：<ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもいいですか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもいいですか。</span>
 - 中文：可以拍照嗎？
-- 日文：ここで<ruby>休<rt>やす (yasu)</rt></ruby>んでもいいです。
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB"><ruby>休<rt>やす (yasu)</rt></ruby>んでもいいです。</span>
 - 中文：可以在這裡休息。
-- 日文：エアコンをつけてもいいですよ。
+- 日文：<span style="color:#3498DB">エアコンをつけてもいいですよ。</span>
 - 中文：可以開冷氣喔。（給予對方許可）
-- 日文：<ruby>質問<rt>しつもん (shitsumon)</rt></ruby>してもいいですか。
+- 日文：<span style="color:#3498DB"><ruby>質問<rt>しつもん (shitsumon)</rt></ruby>してもいいですか。</span>
 - 中文：我可以提問嗎？
-- 日文：<ruby>今日<rt>きょう (kyou)</rt></ruby>は<ruby>早く<rt>はや (haya)</rt></ruby><ruby>帰<rt>かえ (kae)</rt></ruby>ってもいいです。
+- 日文：<span style="color:#2ECC71"><ruby>今日<rt>きょう (kyou)</rt></ruby>は</span><span style="color:#FF477E"><ruby>早く<rt>はや (haya)</rt></ruby></span><span style="color:#3498DB"><ruby>帰<rt>かえ (kae)</rt></ruby>ってもいいです。</span>
 - 中文：今天可以早點回家。
 
 ## 關係說明

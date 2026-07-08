@@ -14,13 +14,15 @@ contradicts:
 3. **現象或生理感覺產生**：表示某個現象「自然而然地浮現或產生」（例如下起雨來、冷了起來）。
 
 ## 實用例句
-- 日文：<ruby>仕事<rt>しごと (shigoto)</rt></ruby>が<ruby>忙<rt>いそが (isoga)</rt></ruby>しくなってきました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>仕事<rt>しごと (shigoto)</rt></ruby>が</span><span style="color:#3498DB"><ruby>忙<rt>いそが (isoga)</rt></ruby>しくなってきました。</span>
 - 中文：工作開始忙起來了。（時間持續/狀態改變）
-- 日文：コーヒーを<ruby>買<rt>か (ka)</rt></ruby>ってきます。<ruby>少し<rt>すこし (sukoshi)</rt></ruby><ruby>待<rt>ま (ma)</rt></ruby>っていてください。
+- 日文：<span style="color:#3498DB">コーヒーを<ruby>買<rt>か (ka)</rt></ruby>ってきます。</span><span style="color:#FF477E"><ruby>少し<rt>すこし (sukoshi)</rt></ruby></span><span style="color:#3498DB"><ruby>待<rt>ま (ma)</rt></ruby>っていてください。</span>
 - 中文：我去買杯咖啡，請稍微等我一下。（去去就回）
-- 日文：お<ruby>客<rt>きゃく (kyaku)</rt></ruby>さんが<ruby>増<rt>ふ (fu)</rt></ruby>えてきましたね。
+- 日文：<span style="color:#2ECC71">お<ruby>客<rt>きゃく (kyaku)</rt></ruby>さんが</span><span style="color:#3498DB"><ruby>増<rt>ふ (fu)</rt></ruby>えてきましたね。</span>
 - 中文：客人多起來了呢。（狀態逐漸顯現）
-- 日文：<ruby>冷蔵庫<rt>れいぞうこ (reizouko)</rt></ruby>から<ruby>飲み物<rt>のみもの (nomimono)</rt></ruby>を<ruby>取<rt>と (to)</rt></ruby>ってきてください。
+- 日文：<span style="color:#FF477E"><ruby>冷蔵庫<rt>れいぞうこ (reizouko)</rt></ruby>から</span><span style="color:#3498DB"><ruby>飲み物<rt>のみもの (nomimono)</rt></ruby>を<ruby>取<rt>と (to)</rt></ruby>ってきてください。</span>
 - 中文：請去冰箱把飲料拿過來。（拿了之後帶回來）
 
 ## 關係說明

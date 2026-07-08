@@ -15,13 +15,15 @@ sibling_of:
 - 語氣比口語的 `てはいけません` 更加嚴肅、生硬，帶有「絕對不容許」的公權力或倫理道德強制力。
 
 ## 實用例句
-- 日文：<ruby>会場<rt>かいじょう (kaijou)</rt></ruby>で<ruby>騒<rt>さわ (sawa)</rt></ruby>いではならない。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>会場<rt>かいじょう (kaijou)</rt></ruby>で</span><span style="color:#3498DB"><ruby>騒<rt>さわ (sawa)</rt></ruby>いではならない。</span>
 - 中文：不得在會場內喧嘩。（法規/公告）
-- 日文：<ruby>禁止<rt>きんし (kinshi)</rt></ruby>の<ruby>場所<rt>ばしょ (basho)</rt></ruby>に<ruby>入<rt>はい (hai)</rt></ruby>ってはならない。
+- 日文：<span style="color:#F39C12"><ruby>禁止<rt>きんし (kinshi)</rt></ruby>の</span><span style="color:#FF477E"><ruby>場所<rt>ばしょ (basho)</rt></ruby>に</span><span style="color:#3498DB"><ruby>入<rt>はい (hai)</rt></ruby>ってはならない。</span>
 - 中文：不得進入禁止區域。
-- 日文：<ruby>被害者<rt>ひがいしゃ (higaisha)</rt></ruby>のプライバシーを<ruby>犯<rt>おか (oka)</rt></ruby>してはならない。
+- 日文：<span style="color:#F39C12"><ruby>被害者<rt>ひがいしゃ (higaisha)</rt></ruby>の</span><span style="color:#3498DB">プライバシーを<ruby>犯<rt>おか (oka)</rt></ruby>してはならない。</span>
 - 中文：不得侵犯受害者的隱私。（法律/新聞報導）
-- 日文：<ruby>危険<rt>きけん (kiken)</rt></ruby>を<ruby>侮<rt>あなど (anado)</rt></ruby>ってはならない。
+- 日文：<span style="color:#3498DB"><ruby>危険<rt>きけん (kiken)</rt></ruby>を<ruby>侮<rt>あなど (anado)</rt></ruby>ってはならない。</span>
 - 中文：不可輕視危險。
 
 ## 關係說明

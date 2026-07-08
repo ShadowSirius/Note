@@ -19,9 +19,11 @@ sibling_of:
 用於抬高對方（長輩、上司、顧客）的動作、狀態，表示敬意。
 
 ## 實用例句
-- 日文：先生はもうお帰りになりました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71">先生は</span><span style="color:#FF477E">もう</span><span style="color:#3498DB">お帰りになりました</span>。
   中文：老師已經回去了。
-- 日文：先生がいらっしゃいます。
+- 日文：<span style="color:#2ECC71">先生が</span><span style="color:#3498DB">いらっしゃいます</span>。
   中文：老師在/老師來了。
 
 ## 學習提示

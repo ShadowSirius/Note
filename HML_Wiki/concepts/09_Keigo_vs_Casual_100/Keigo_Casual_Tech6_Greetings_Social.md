@@ -33,24 +33,25 @@ sibling_of:
 
 ## 📊 16 組實用社交寒暄對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 好久不見 | <ruby>お久しぶりですね<rt>おひさしぶりですね</rt></ruby> | <ruby>久しぶり<rt>ひさしぶり</rt></ruby> | *O-hisashiburi desu ne* ➡️ *Hisashiburi* (見面問候) |
-| 2 | 恭喜 | <ruby>おめでとうございます<rt>おめでとうございます</rt></ruby> | おめでとう | *Omedetoo gozaimasu* ➡️ *Omedetoo* |
-| 3 | 生日快樂 | <ruby>お誕生日おめでとうございます<rt>おたんじょうびおめでとうございます</rt></ruby> | <ruby>誕生日<rt>たんじょうび</rt></ruby>おめでとう | *Otanjoubi omedetoo gozaimasu* ➡️ *Tanjoubi omedetoo* |
-| 4 | 對不起 / 抱歉 | すみません | ごめん | *Sumimasen* ➡️ *Gomen* (對朋友致歉最常用) |
-| 5 | 失禮了 / 對不起喔 | <ruby>失礼しました<rt>しつれいしました</rt></ruby> | ごめんね | *Shitsurei shimashita* ➡️ *Gomen ne* |
-| 6 | 請先 / 您先請 | どうぞ / <ruby>お先にどうぞ<rt>おさきにどうぞ</rt></ruby> | お先に / 先どうぞ | *Osaki ni doozo* ➡️ *Osaki ni* / *Saki doozo* |
-| 7 | 請加油 | <ruby>頑張ってください<rt>がんばってください</rt></ruby> | 頑張って | *Gambatte kudasai* ➡️ *Gambatte* |
-| 8 | 請小心 / 注意安全 | <ruby>気をつけてください<rt>きをつけてください</rt></ruby> | 気をつけて | *Ki o tsukete kudasai* ➡️ *Ki o tsukete* (出門或分別時常用) |
-| 9 | 歡迎再來 / 請再來 | <ruby>また来てください<rt>またきてください</rt></ruby> | また来てね | *Mata kite kudasai* ➡️ *Mata kite ne* |
-| 10 | 要回去了嗎？ | <ruby>もう帰りますか<rt>もうかえりますか</rt></ruby> | もう<ruby>帰る<rt>かえ</rt></ruby>の？ | *Moo kaerimasu ka* ➡️ *Moo kaeru no?* (詢問對方是否準備回家) |
-| 11 | 洗過澡了嗎？ | <ruby>お風呂に入りましたか<rt>おふろにはいりましたか</rt></ruby> | お<ruby>風呂入<rt>ふろはい</rt></ruby>った？ | *Ofuro ni hairimashita ka* ➡️ *Ofuro haitta?* (省略 `に`) |
-| 12 | 已經起床了嗎？ | <ruby>もう起きましたか<rt>もうおきましたか</rt></ruby> | もう<ruby>起きた<rt>おきた</rt></ruby>？ | *Moo okimashita ka* ➡️ *Moo okita?* (早上確認狀態) |
-| 13 | 謝謝 | ありがとうございます | ありがとう | *Arigatou gozaimasu* ➡️ *Arigatou* |
-| 14 | 請多指教 | よろしくお願いします | よろしく | *Yoroshiku onegai shimasu* ➡️ *Yoroshiku* (見面、拜託人或道別) |
-| 15 | 累了呢 / 辛苦了 | <ruby>疲れましたね<rt>つかれましたね</rt></ruby> | <ruby>疲れました<rt>つかれました</rt></ruby> / 疲れた | *Tsukaremashita ne* ➡️ *Tsukaremashita* / *Tsukareta* (表達共情或自述) |
-| 16 | 再聯絡喔 | <ruby>また連絡してください<rt>またれんらくしてください</rt></ruby> | また連絡してね | *Mata renraku shite kudasai* ➡️ *Mata renraku shite ne* (告別常用) |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|好久不見| <span style="color:#3498DB"><ruby>お久しぶりですね<rt>おひさしぶりですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>久しぶり<rt>ひさしぶり</rt></ruby></span> |*O-hisashiburi desu ne* ➡️ *Hisashiburi* (見面問候)|
+|2|恭喜| <span style="color:#3498DB"><ruby>おめでとうございます<rt>おめでとうございます</rt></ruby></span> | <span style="color:#3498DB">おめでとう</span> |*Omedetoo gozaimasu* ➡️ *Omedetoo*|
+|3|生日快樂| <span style="color:#3498DB"><ruby>お誕生日おめでとうございます<rt>おたんじょうびおめでとうございます</rt></ruby></span> | <span style="color:#F39C12"><ruby>誕生日<rt>たんじょうび</rt></ruby></span><span style="color:#3498DB">おめでとう</span> |*Otanjoubi omedetoo gozaimasu* ➡️ *Tanjoubi omedetoo*|
+|4|對不起 / 抱歉| <span style="color:#3498DB">すみません</span> | <span style="color:#3498DB">ごめん</span> |*Sumimasen* ➡️ *Gomen* (對朋友致歉最常用)|
+|5|失禮了 / 對不起喔| <span style="color:#3498DB"><ruby>失礼しました<rt>しつれいしました</rt></ruby></span> | <span style="color:#3498DB">ごめんね</span> |*Shitsurei shimashita* ➡️ *Gomen ne*|
+|6|請先 / 您先請| <span style="color:#3498DB">どうぞ</span> / <span style="color:#3498DB"><ruby>お先にどうぞ<rt>おさきにどうぞ</rt></ruby></span> | <span style="color:#FF477E">お先に</span> / <span style="color:#FF477E">先</span><span style="color:#3498DB">どうぞ</span> |*Osaki ni doozo* ➡️ *Osaki ni* / *Saki doozo*|
+|7|請加油| <span style="color:#3498DB"><ruby>頑張ってください<rt>がんばってください</rt></ruby></span> | <span style="color:#3498DB">頑張って</span> |*Gambatte kudasai* ➡️ *Gambatte*|
+|8|請小心 / 注意安全| <span style="color:#3498DB"><ruby>気をつけてください<rt>きをつけてください</rt></ruby></span> | <span style="color:#3498DB">気をつけて</span> |*Ki o tsukete kudasai* ➡️ *Ki o tsukete* (出門或分別時常用)|
+|9|歡迎再來 / 請再來| <span style="color:#3498DB"><ruby>また來てください -> また来てください<rt>またきてください</rt></ruby></span> | <span style="color:#FF477E">また</span><span style="color:#3498DB">来てね</span> |*Mata kite kudasai* ➡️ *Mata kite ne*|
+|10|要回去了嗎？| <span style="color:#3498DB"><ruby>もう帰りますか<rt>もうかえりますか</rt></ruby></span> | <span style="color:#FF477E">もう</span><span style="color:#3498DB"><ruby>帰る<rt>かえ</rt></ruby>の？</span> |*Moo kaerimasu ka* ➡️ *Moo kaeru no?* (詢問對方是否準備回家)|
+|11|洗過澡了嗎？| <span style="color:#3498DB"><ruby>お風呂に入りましたか<rt>おふろにはいりましたか</rt></ruby></span> | <span style="color:#3498DB">お<ruby>風呂入<rt>ふろはい</rt></ruby>った？</span> |*Ofuro ni hairimashita ka* ➡️ *Ofuro haitta?* (省略 `に`)|
+|12|已經起床了嗎？| <span style="color:#3498DB"><ruby>もう起きましたか<rt>もうおきましたか</rt></ruby></span> | <span style="color:#FF477E">もう</span><span style="color:#3498DB"><ruby>起きた<rt>おきた</rt></ruby>？</span> |*Moo okimashita ka* ➡️ *Moo okita?* (早上確認狀態)|
+|13|謝謝| <span style="color:#3498DB">ありがとうございます</span> | <span style="color:#3498DB">ありがとう</span> |*Arigatou gozaimasu* ➡️ *Arigatou*|
+|14|請多指教| <span style="color:#3498DB">よろしくお願いします</span> | <span style="color:#3498DB">よろしく</span> |*Yoroshiku onegai shimasu* ➡️ *Yoroshiku* (見面、拜託人或道別)|
+|15|累了呢 / 辛苦了| <span style="color:#3498DB"><ruby>疲れましたね<rt>つかれましたね</rt></ruby></span> | <span style="color:#3498DB"><ruby>疲れました<rt>つかれました</rt></ruby> / 疲れた</span> |*Tsukaremashita ne* ➡️ *Tsukaremashita* / *Tsukareta* (表達共情或自述)|
+|16|再聯絡喔| <span style="color:#3498DB"><ruby>また連絡してください<rt>またれんらくしてください</rt></ruby></span> | <span style="color:#FF477E">また</span><span style="color:#3498DB">連絡してね</span> |*Mata renraku shite kudasai* ➡️ *Mata renraku shite ne* (告別常用)|
 
 ---
 

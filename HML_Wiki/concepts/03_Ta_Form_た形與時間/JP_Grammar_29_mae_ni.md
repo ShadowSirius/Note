@@ -11,9 +11,11 @@ contradicts:
 表示在某動作或時間點之前（在...之前）。
 
 ## 實用例句
-- 日文：<ruby>寢<rt>ね (ne)</rt></ruby>る<ruby>前<rt>まえ (mae)</rt></ruby>に、<ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>讀<rt>よ (yo)</rt></ruby>みます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>寢<rt>ね (ne)</rt></ruby>る</span><span style="color:#FF477E"><ruby>前<rt>まえ (mae)</rt></ruby>に、</span><span style="color:#3498DB"><ruby>本<rt>ほん (hon)</rt></ruby>を<ruby>讀<rt>よ (yo)</rt></ruby>みます。</span>
 - 中文：睡覺之前會看書。
-- 日文：<ruby>食事<rt>しょくじ (shokuji)</rt></ruby>の<ruby>前<rt>まえ (mae)</rt></ruby>に、<ruby>手<rt>て (te)</rt></ruby>を<ruby>洗<rt>あら (ara)</rt></ruby>います。
+- 日文：<span style="color:#F39C12"><ruby>食事<rt>しょくじ (shokuji)</rt></ruby>の</span><span style="color:#FF477E"><ruby>前<rt>まえ (mae)</rt></ruby>に、</span><span style="color:#3498DB"><ruby>手<rt>て (te)</rt></ruby>を<ruby>洗<rt>あら (ara)</rt></ruby>います。</span>
 - 中文：吃飯前要洗手。
 
 ## 關係說明

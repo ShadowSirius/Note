@@ -16,24 +16,24 @@ sibling_of:
 
 ---
 
-## 📊 話題啟動與詢問句型表 (14 句)
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
 
 | 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
 |:---:|:---|:---|:---|:---|
-| 1 | 週末過得怎麼樣？ | 週末はどうだった？ | *Shuumatsu wa doo datta?* | `どうだった` 為 `どうでしたか` 的口語過去式。 |
-| 2 | 今天過得怎麼樣？ | 今日はどんな1日だった？ | *Kyou wa donna ichinichi datta?* | 關心對方一整天的生活情況（今天是個怎樣的一天？）。 |
-| 3 | 這週末有空嗎？ | 今週末暇？ | *Konshuumatsu hima?* | `暇`（有空/閒暇），口語直接上揚，代表「要約你嗎」。 |
-| 4 | 你現在想做點什麼？ | 何がしたい気分？ | *Nani ga shitai kibun?* | `気分` 指心情/氛圍。「處於想做什麼的狀態」。 |
-| 5 | 你推薦什麼？ | おすすめは何？ | *Osusume wa nani?* | 點餐或選物時的高頻問句（推薦的是什麼？）。 |
-| 6 | 你是在哪裡長大的？ | どこで育ったの？ | *Doko de sodatta no?* | `育った`（成長/長大）。`の` 用於加強語意與提問。 |
-| 7 | 你在這裡住了多久？ | ここに住んでどのくらい？ | *Koko ni sunde dono kurai?* | `住んで` 為 `住む` 的て形。`どのくらい` 詢問期間長短。 |
-| 8 | 最近的洗手間在哪裡？ | 1番近いトイレはどこ？ | *Ichiban chikai toire wa doko?* | `1番近い` 最近的。 |
-| 9 | 這家店幾點關門？ | お店の閉まる時間は何時？ | *Omise no shimaru jikan wa nanji?* | `閉まる時間` 關店時間。 |
-| 10 | 下班後你去哪裡了？ | 仕事の後どこ行ったの？ | *Shigoto no ato doko itta no?* | `仕事の後` 下班後。`行った` 為 `行く` 的過去式。 |
-| 11 | 今天早餐吃了什麼？ | 今日朝ご飯何食べた？ | *Kyou asagohan nani tabeta?* | `何食べた？` 吃了什麼？（省略賓格助詞 `を`）。 |
-| 12 | 抱歉，你剛才說什麼？ | ごめん。今なんて言ったっけ？ | *Gomen. Ima nante itta kke?* | `なんて`（什麼）。`〜っけ` 用於回想或確認忘記的事。 |
-| 13 | 我剛才說到哪裡了？ | 私さっきどこまで話したっけ？ | *Watashi sakki doko made hanashita kke?* | `さっき`（剛才）。`どこまで` 到哪裡。 |
-| 14 | 最近有她的消息嗎？ | 最近彼女から連絡あった？ | *Saikin kanojo kara renraku atta?* | `あった` 有（`ありましたか` 的口語過去式）。 |
+| 1 | 週末過得怎麼樣？ | <span style="color:#2ECC71">週末は</span><span style="color:#3498DB">どうだった</span>？ | *Shuumatsu wa doo datta?* | `どうだった` 為 `どうでしたか` 的口語過去式。 |
+| 2 | 今天過得怎麼樣？ | <span style="color:#2ECC71">今日は</span><span style="color:#F39C12">どんな</span><span style="color:#3498DB">1日だった</span>？ | *Kyou wa donna ichinichi datta?* | 關心對方一整天的生活情況（今天是個怎樣的一天？）。 |
+| 3 | 這週末有空嗎？ | <span style="color:#FF477E">今週末</span><span style="color:#3498DB">暇</span>？ | *Konshuumatsu hima?* | `暇`（有空/閒暇），口語直接上揚，代表「要約你嗎」。 |
+| 4 | 你現在想做點什麼？ | <span style="color:#2ECC71">何が</span><span style="color:#F39C12">したい</span><span style="color:#3498DB">気分</span>？ | *Nani ga shitai kibun?* | `気分` 指心情/氛圍。「處於想做什麼的狀態」。 |
+| 5 | 你推薦什麼？ | <span style="color:#2ECC71">おすすめは</span><span style="color:#3498DB">何</span>？ | *Osusume wa nani?* | 點餐或選物時的高頻問句（推薦的是什麼？）。 |
+| 6 | 你是在哪裡長大的？ | <span style="color:#FF477E">どこで</span><span style="color:#3498DB">育ったの</span>？ | *Doko de sodatta no?* | `育った`（成長/長大）。`の` 用於加強語意與提問。 |
+| 7 | 你在這裡住了多久？ | <span style="color:#FF477E">ここに</span><span style="color:#3498DB">住んで</span><span style="color:#3498DB">どのくらい</span>？ | *Koko ni sunde dono kurai?* | `住んで` 為 `住む` 的て形。`どのくらい` 詢問期間長短。 |
+| 8 | 最近的洗手間在哪裡？ | <span style="color:#F39C12">1番近い</span><span style="color:#2ECC71">トイレは</span><span style="color:#3498DB">どこ</span>？ | *Ichiban chikai toire wa doko?* | `1番近い` 最近的。 |
+| 9 | 這家店幾點關門？ | <span style="color:#F39C12">お店の</span><span style="color:#F39C12">閉まる</span><span style="color:#2ECC71">時間は</span><span style="color:#3498DB">何時</span>？ | *Omise no shimaru jikan wa nanji?* | `閉まる時間` 關店時間。 |
+| 10 | 下班後你去哪裡了？ | <span style="color:#FF477E">仕事の後</span><span style="color:#FF477E">どこ</span><span style="color:#3498DB">行ったの</span>？ | *Shigoto no ato doko itta no?* | `仕事の後` 下班後。`行った` 為 `行く` 的過去式。 |
+| 11 | 今天早餐吃了什麼？ | <span style="color:#FF477E">今日</span><span style="color:#2ECC71">朝ご飯</span><span style="color:#2ECC71">何</span><span style="color:#3498DB">食べた</span>？ | *Kyou asagohan nani tabeta?* | `何食べた？` 吃了什麼？（省略賓格助詞 `を`）。 |
+| 12 | 抱歉，你剛才說什麼？ | ごめん。<span style="color:#FF477E">今</span><span style="color:#F39C12">なんて</span><span style="color:#3498DB">言ったっけ</span>？ | *Gomen. Ima nante itta kke?* | `なんて`（什麼）。`〜っけ` 用於回想或確認忘記的事。 |
+| 13 | 我剛才說到哪裡了？ | <span style="color:#2ECC71">私</span><span style="color:#FF477E">さっき</span><span style="color:#FF477E">どこまで</span><span style="color:#3498DB">話したっけ</span>？ | *Watashi sakki doko made hanashita kke?* | `さっき`（剛才）。`どこまで` 到哪裡。 |
+| 14 | 最近有她的消息嗎？ | <span style="color:#FF477E">最近</span><span style="color:#2ECC71">彼女から</span><span style="color:#2ECC71">連絡</span><span style="color:#3498DB">あった</span>？ | *Saikin kanojo kara renraku atta?* | `あった` 有（`ありましたか` 的口語過去式）。 |
 
 ---
 

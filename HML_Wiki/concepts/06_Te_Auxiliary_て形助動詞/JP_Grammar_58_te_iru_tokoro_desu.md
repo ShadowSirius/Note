@@ -12,13 +12,15 @@ refines:
 - **強調此刻瞬間**：比起一般敘述進行狀態的 `〜ています`，`〜ているところです` 更加強調「此時此刻，該動作正在發生的那一秒/那一刻」，常用於回答他人「你現在在幹嘛？」或交代工作進度的緊急感。
 
 ## 實用例句
-- 日文：<ruby>今<rt>いま (ima)</rt></ruby>メールを<ruby>書<rt>か (ka)</rt></ruby>いているところです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>今<rt>いま (ima)</rt></ruby></span><span style="color:#3498DB">メールを<ruby>書<rt>か (ka)</rt></ruby>いているところです。</span>
 - 中文：我現在正在寫電子郵件。（正在寫的那一刻）
-- 日文：ただ<ruby>今<rt>いま (ima)</rt></ruby>、<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>準備<rt>じゅんび (junbi)</rt></ruby>しているところです。
+- 日文：<span style="color:#FF477E">ただ<ruby>今<rt>いま (ima)</rt></ruby>、</span><span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>準備<rt>じゅんび (junbi)</rt></ruby>しているところです。</span>
 - 中文：我目前正忙著準備資料。
-- 日文：<ruby>今<rt>いま (ima)</rt></ruby>は<ruby>掃除<rt>そうじ (souji)</rt></ruby>をしているところです。
+- 日文：<span style="color:#2ECC71"><ruby>今<rt>いま (ima)</rt></ruby>は</span><span style="color:#3498DB"><ruby>掃除<rt>そうじ (souji)</rt></ruby>をしているところです。</span>
 - 中文：我現在正在打掃呢。
-- 日文：すみません。<ruby>出<rt>de (de)</rt></ruby>かける<ruby>準備<rt>じゅんび (junbi)</rt></ruby>をしているところです。
+- 日文：すみません。<span style="color:#3498DB"><ruby>出<rt>de (de)</rt></ruby>かける<ruby>準備<rt>じゅんび (junbi)</rt></ruby>をしているところです。</span>
 - 中文：不好意思，我正準備要出門。（正處於出門準備的當下）
 
 ## 關係說明

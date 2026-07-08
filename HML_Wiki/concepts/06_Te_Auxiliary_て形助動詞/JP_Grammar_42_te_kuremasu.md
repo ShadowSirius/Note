@@ -15,13 +15,15 @@ replaces:
 - **接受者**：是第一人稱的「我」或我方人員（通常可省略 `私に`）。
 
 ## 實用例句
-- 日文：<ruby>友達<rt>ともだち (tomodachi)</rt></ruby>がレポートを<ruby>見<rt>み (mi)</rt></ruby>てくれました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>友達<rt>ともだち (tomodachi)</rt></ruby>が</span><span style="color:#3498DB">レポートを<ruby>見<rt>み (mi)</rt></ruby>てくれました。</span>
 - 中文：朋友幫我看了報告。（感激朋友）
-- 日文：<ruby>先輩<rt>せんぱい (senpai)</rt></ruby>は<ruby>質問<rt>しつもん (shitsumon)</rt></ruby>に<ruby>丁寧<rt>ていねい (teinei)</rt></ruby>に<ruby>答<rt>こた (kota)</rt></ruby>えてくれます。
+- 日文：<span style="color:#2ECC71"><ruby>先輩<rt>せんぱい (senpai)</rt></ruby>は</span><span style="color:#3498DB"><ruby>質問<rt>しつもん (shitsumon)</rt></ruby>に</span><span style="color:#FF477E"><ruby>丁寧<rt>ていねい (teinei)</rt></ruby>に</span><span style="color:#3498DB"><ruby>答<rt>こた (kota)</rt></ruby>えてくれます。</span>
 - 中文：前輩總是耐心地回答我的問題。
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby><ruby>駅<rt>えき (eki)</rt></ruby>まで<ruby>車<rt>くるま (kuruma)</rt></ruby>で<ruby>送<rt>おく (oku)</rt></ruby>ってくれます。
+- 日文：<span style="color:#FF477E"><ruby>明日<rt>あした (ashita)</rt></ruby></span><span style="color:#FF477E"><ruby>駅<rt>えき (eki)</rt></ruby>まで</span><span style="color:#FF477E"><ruby>車<rt>くるま (kuruma)</rt></ruby>で</span><span style="color:#3498DB"><ruby>送<rt>おく (oku)</rt></ruby>ってくれます。</span>
 - 中文：他明天會開車送我到車站。
-- 日文：<ruby>忙<rt>いそが (isoga)</rt></ruby>しいのに<ruby>時間<rt>じかん (jikan)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってくれて<ruby>助<rt>たす (tasu)</rt></ruby>かりました。
+- 日文：<span style="color:#FF477E"><ruby>忙<rt>いそが (isoga)</rt></ruby>しいのに</span><span style="color:#3498DB"><ruby>時間<rt>じかん (jikan)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ってくれて</span><span style="color:#3498DB"><ruby>助<rt>たす (tasu)</rt></ruby>かりました。</span>
 - 中文：謝謝你這麼忙還特地抽空，真是幫了大忙。
 
 ## 關係說明

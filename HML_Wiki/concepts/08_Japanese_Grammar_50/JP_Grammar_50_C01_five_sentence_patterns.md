@@ -18,11 +18,13 @@ sibling_of:
 先判斷動詞需要幾個參與者，再決定 が、を、に、から、へ、で、まで 等格助詞。
 
 ## 實用例句
-- 日文：桜が咲きます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71">桜が</span><span style="color:#3498DB">咲きます</span>。
   中文：櫻花開了/開花。
-- 日文：子供がご飯を食べます。
+- 日文：<span style="color:#2ECC71">子供が</span><span style="color:#3498DB">ご飯を食べます</span>。
   中文：小孩吃飯。
-- 日文：母が妹に手紙を送ります。
+- 日文：<span style="color:#2ECC71">母が</span><span style="color:#FF477E">妹に</span><span style="color:#3498DB">手紙を送ります</span>。
   中文：媽媽寄信給妹妹。
 
 ## 學習提示

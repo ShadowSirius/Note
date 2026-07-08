@@ -17,13 +17,15 @@ related_to:
 - 由於此說法較為直接，主要用於對晚輩、平輩或熟人。對長輩或商務場合，應使用更禮貌的表達。
 
 ## 實用例句
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>早く<ruby>連絡<rt>れんらく (renraku)</rt></ruby>して<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>明日<rt>あした (ashita)</rt></ruby></span><span style="color:#FF477E">早く</span><span style="color:#3498DB"><ruby>連絡<rt>れんらく (renraku)</rt></ruby>して<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：希望你明天早點聯絡我。
-- 日文：この<ruby>問題<rt>もんだい (mondai)</rt></ruby>を<ruby>一緒に<rt>いっしょに (isshoni)</rt></ruby><ruby>解決<rt>かいけつ (kaiketsu)</rt></ruby>してほしい。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>問題<rt>もんだい (mondai)</rt></ruby>を</span><span style="color:#FF477E"><ruby>一緒に<rt>いっしょに (isshoni)</rt></ruby></span><span style="color:#3498DB"><ruby>解決<rt>かいけつ (kaiketsu)</rt></ruby>してほしい。</span>
 - 中文：希望我們能一起解決這個問題。
-- 日文：<ruby>時間<rt>じかん (jikan)</rt></ruby>があればアドバイスして<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 日文：<span style="color:#FF477E"><ruby>時間<rt>じかん (jikan)</rt></ruby>があれば</span><span style="color:#3498DB">アドバイスして<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：如果有時間的話，希望你能給我一些建議。
-- 日文：<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>今夜<rt>こんや (konya)</rt></ruby>までにまとめて<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。
+- 日文：<span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を</span><span style="color:#FF477E"><ruby>今夜<rt>こんや (konya)</rt></ruby>までに</span><span style="color:#3498DB">まとめて<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
 - 中文：希望你今晚之前把資料整理好。
 
 ## 關係說明

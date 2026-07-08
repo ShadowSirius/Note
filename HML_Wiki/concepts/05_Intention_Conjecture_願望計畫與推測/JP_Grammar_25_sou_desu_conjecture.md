@@ -11,9 +11,11 @@ sibling_of:
 表示根據眼前情況所做的直覺判斷（看起來好像... / 快要...）。
 
 ## 實用例句
-- 日文：<ruby>今<rt>いま (ima)</rt></ruby>にも<ruby>雨<rt>あめ (ame)</rt></ruby>が<ruby>降<rt>ふ (fu)</rt></ruby>りそうです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>今<rt>いま (ima)</rt></ruby>にも</span><span style="color:#2ECC71"><ruby>雨<rt>あめ (ame)</rt></ruby>が</span><span style="color:#3498DB"><ruby>降<rt>ふ (fu)</rt></ruby>りそうです。</span>
 - 中文：看起來隨時會下雨的樣子。
-- 日文：このケーキは<ruby>美味<rt>おい (oi)</rt></ruby>しそうです。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#2ECC71">ケーキは</span><span style="color:#3498DB"><ruby>美味<rt>おい (oi)</rt></ruby>しそうです。</span>
 - 中文：這個蛋糕看起來很好吃。
 
 ## 關係說明

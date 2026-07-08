@@ -16,24 +16,24 @@ sibling_of:
 
 ---
 
-## 📊 讚美、支持與關係肯定句型表 (15 句)
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
 
 | 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
 |:---:|:---|:---|:---|:---|
-| 1 | 你真的很溫柔呢。 | あなたって本当に優しいね。 | *Anata tte hontoo ni yasashii ne* | `あなたって` 表主題強調（「你這個人啊...」）。 |
-| 2 | 你真的很體貼呢。 | あなたって本当に思いやりがあるね。 | *Anata tte hontoo ni omoiyari ga aru ne* | `思いやり` 指體貼、關懷他人。`思いやりがある` 有體貼心。 |
-| 3 | 你真的很厲害喔。 | あなたって本当にすごいよ。 | *Anata tte hontoo ni sugoi yo* | 常用於對他人能力的由衷讚賞。 |
-| 4 | 你真的很有才能呢。 | あなたって本当に才能があるよね。 | *Anata tte hontoo ni sainou ga aru yo ne* | `才能`（才能）。 |
-| 5 | 你的幽默感真的很棒！ | ユーモアのセンスが抜群だね。 | *Yuumoa no sensu ga batsugun dane* | `ユーモア` 幽默。`センス` 品味/感官。`抜群` 出類拔萃。 |
-| 6 | 我真的很尊敬你喔。 | 本当に尊敬しているよ。 | *Hontoo ni sonkei shite iru yo* | `尊敬する` 的現在進行式，表持續的尊敬態度。 |
-| 7 | 我由衷地信任你喔。 | 心から信頼しているよ。 | *Kokoro kara shinrai shite iru yo* | `心から` 由衷地/從心底。`信頼する` 信任/信賴。 |
-| 8 | 跟你在一起讓我感到自在。 | 一緒にいると落ち着くよ。 | *Issho ni iru to ochitsuku yo* | `〜と` 表條件（一旦...就）。`落ち着く` 平靜/感到放鬆。 |
-| 9 | 能跟你在一起真的很幸福。 | 一緒にいられて幸せだな。 | *Issho ni irate shiawase da na* | `いられて` 為 `いる` 的可能形。`幸せ` 幸福。 |
-| 10 | 今天成了最棒的一天喔。 | 今日は最高の1日になったよ。 | *Kyou wa saikou no ichinichi ni natta yo* | `になった` 變成了（`になる` 的過去式）。常用於約定聚會結束時。 |
-| 11 | 我最喜歡你囉。 | 一番大好きだよ。 | *Ichiban daisuki dayo* | `一番` 最/第一。表示強烈好意。 |
-| 12 | 謝謝你陪在我身邊。 | そばにいてくれてありがとう。 | *Soba ni ite kurete arigatou* | `そばにいる`（在身邊）。`〜てくれてありがとう` 感謝陪伴。 |
-| 13 | 我隨時都會支持你的。 | いつでも力になるよ。 | *Itsu demo chikara ni naru yo* | `力になる` 成為力量/提供支持。友情支撐的最強話語。 |
-| 14 | 我們一起創造許多美好的回憶吧。 | たくさん思い出作ろうね。 | *Takusan omoide tsukurou ne* | `思い出` 回憶。`作ろう` 為 `作る` 的意向形（創造吧）。 |
+| 1 | 你真的很溫柔呢。 | <span style="color:#2ECC71">あなたって</span><span style="color:#FF477E">本当に</span><span style="color:#3498DB">優しいね</span>。 | *Anata tte hontoo ni yasashii ne* | `あなたって` 表主題強調（「你這個人啊...」）。 |
+| 2 | 你真的很體貼呢。 | <span style="color:#2ECC71">あなたって</span><span style="color:#FF477E">本当に</span><span style="color:#2ECC71">思いやりが</span><span style="color:#3498DB">あるね</span>。 | *Anata tte hontoo ni omoiyari ga aru ne* | `思いやり` 指體貼、關懷他人。`思いやりがある` 有體貼心。 |
+| 3 | 你真的很厲害喔。 | <span style="color:#2ECC71">あなたって</span><span style="color:#FF477E">本当に</span><span style="color:#3498DB">すごいよ</span>。 | *Anata tte hontoo ni sugoi yo* | 常用於對他人能力的由衷讚賞。 |
+| 4 | 你真的很有才能呢。 | <span style="color:#2ECC71">あなたって</span><span style="color:#FF477E">本当に</span><span style="color:#2ECC71">才能が</span><span style="color:#3498DB">あるよね</span>。 | *Anata tte hontoo ni sainou ga aru yo ne* | `才能`（才能）。 |
+| 5 | 你的幽默感真的很棒！ | <span style="color:#F39C12">ユーモアの</span><span style="color:#2ECC71">センスが</span><span style="color:#3498DB">抜群だね</span>。 | *Yuumoa no sensu ga batsugun dane* | `ユーモア` 幽默。`センス` 品味/感官。`抜群` 出類拔萃。 |
+| 6 | 我真的很尊敬你喔。 | <span style="color:#FF477E">本当に</span><span style="color:#3498DB">尊敬しているよ</span>。 | *Hontoo ni sonkei shite iru yo* | `尊敬する` 的現在進行式，表持續的尊敬態度。 |
+| 7 | 我由衷地信任你喔。 | <span style="color:#FF477E">心から</span><span style="color:#3498DB">信頼しているよ</span>。 | *Kokoro kara shinrai shite iru yo* | `心から` 由衷地/從心底。`信頼する` 信任/信賴。 |
+| 8 | 跟你在一起讓我感到自在。 | <span style="color:#FF477E">一緒にいると</span><span style="color:#3498DB">落ち着くよ</span>。 | *Issho ni iru to ochitsuku yo* | `〜と` 表條件（一旦...就）。`落ち着く` 平靜/感到放鬆。 |
+| 9 | 能跟你在一起真的很幸福。 | <span style="color:#FF477E">一緒にいられて</span><span style="color:#3498DB">幸せだな</span>。 | *Issho ni irate shiawase da na* | `いられて` 為 `いる` 的可能形。`幸せ` 幸福。 |
+| 10 | 今天成了最棒的一天喔。 | <span style="color:#2ECC71">今日は</span><span style="color:#F39C12">最高の</span><span style="color:#3498DB">1日になったよ</span>。 | *Kyou wa saikou no ichinichi ni natta yo* | `になった` 變成了（`概念上` 的過去式）。常用於約定聚會結束時。 |
+| 11 | 我最喜歡你囉。 | <span style="color:#FF477E">一番</span><span style="color:#3498DB">大好きだよ</span>。 | *Ichiban daisuki dayo* | `一番` 最/第一。表示強烈好意。 |
+| 12 | 謝謝你陪在我身邊。 | <span style="color:#FF477E">そばに</span><span style="color:#3498DB">いてくれて</span><span style="color:#3498DB">ありがとう</span>。 | *Soba ni ite kurete arigatou* | `そばにいる`（在身邊）。`〜てくれてありがとう` 感謝陪伴。 |
+| 13 | 我隨時都會支持你的。 | <span style="color:#FF477E">いつでも</span><span style="color:#3498DB">力になるよ</span>。 | *Itsu demo chikara ni naru yo* | `力になる` 成為力量/提供支持。友情支撐的最強話語。 |
+| 14 | 我們一起創造許多美好的回憶吧。 | <span style="color:#FF477E">たくさん</span><span style="color:#2ECC71">思い出</span><span style="color:#3498DB">作ろうね</span>。 | *Takusan omoide tsukurou ne* | `思い出` 回憶。`作ろう` 為 `作る` 的意向形（創造吧）。 |
 
 ---
 

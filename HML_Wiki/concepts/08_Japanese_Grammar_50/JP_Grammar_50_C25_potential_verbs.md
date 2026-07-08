@@ -19,9 +19,11 @@ sibling_of:
 從能力、條件、許可三個角度說明「能不能做」。注意可能句的主體常用 が。
 
 ## 實用例句
-- 日文：漢字が読めます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71">漢字が</span><span style="color:#3498DB">読めます</span>。
   中文：看得懂漢字。
-- 日文：ここで写真が撮れます。
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#2ECC71">写真が</span><span style="color:#3498DB">撮れます</span>。
   中文：這裡可以拍照。
 
 ## 學習提示

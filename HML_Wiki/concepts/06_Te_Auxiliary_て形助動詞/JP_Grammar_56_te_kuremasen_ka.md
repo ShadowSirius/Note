@@ -22,13 +22,15 @@ related_to:
 5. `〜ていただけないでしょうか`（極其客氣的商務敬語請求）
 
 ## 實用例句
-- 日文：<ruby>窓<rt>まど (mado)</rt></ruby>を<ruby>開<rt>あ (a)</rt></ruby>けてくれませんか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>窓<rt>まど (mado)</rt></ruby>を<ruby>開<rt>あ (a)</rt></ruby>けてくれませんか。</span>
 - 中文：可以幫我把窗戶打開嗎？
-- 日文：この<ruby>文章<rt>ぶんしょう (bunshou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでくれませんか。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>文章<rt>ぶんしょう (bunshou)</rt></ruby>を<ruby>読<rt>よ (yo)</rt></ruby>んでくれませんか。</span>
 - 中文：能幫我看一下這段文章嗎？
-- 日文：<ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>送<rt>おく (oku)</rt></ruby>ってくれませんか。
+- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>送<rt>おく (oku)</rt></ruby>ってくれませんか。</span>
 - 中文：能把照片發給我嗎？
-- 日文：<ruby>少し<rt>すこし (sukoshi)</rt></ruby>だけ<ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってくれませんか。
+- 日文：<span style="color:#FF477E"><ruby>少し<rt>すこし (sukoshi)</rt></ruby>だけ</span><span style="color:#3498DB"><ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってくれませんか。</span>
 - 中文：可以稍微幫我一下嗎？
 
 ## 關係說明

@@ -29,18 +29,19 @@ sibling_of:
 
 ## 📊 10 組實用請求許可對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 可以使用嗎？ | <ruby>使ってもいいですか<rt>つかってもいいですか</rt></ruby> | <ruby>使っていい<rt>つかっていい</rt></ruby>？ | *Tsukatte mo ii desu ka* ➡️ *Tsukatte ii?* |
-| 2 | 可以拍照嗎？ | <ruby>写真を撮ってもいいですか<rt>しゃしんをとってもいいですか</rt></ruby> | <ruby>写真撮っていい<rt>しゃしんとっていい</rt></ruby>？ | *Shashin o totte mo ii desu ka* ➡️ *Shashin totte ii?* (省略 `を`) |
-| 3 | 可以打開嗎？ | <ruby>開けてもいいですか<rt>あけてもいいですか</rt></ruby> | <ruby>開けていい<rt>あけていい</rt></ruby>？ | *Akete mo ii desu ka* ➡️ *Akete ii?* |
-| 4 | 可以進去嗎？ | <ruby>入ってもいいですか<rt>はいってもいいですか</rt></ruby> | <ruby>入っていい<rt>はいっていい</rt></ruby>？ | *Haitte mo ii desu ka* ➡️ *Haitte ii?* (如進入房間、車內) |
-| 5 | 可以坐這裡嗎？ | <ruby>座ってもいいですか<rt>すわってもいいですか</rt></ruby> | <ruby>座っていい<rt>すわっていい</rt></ruby>？ | *Suwatte mo ii desu ka* ➡️ *Suwatte ii?* |
-| 6 | 可以一起去嗎？ | <ruby>一緒に行ってもいいですか<rt>いっしょにいってもいいですか</rt></ruby> | <ruby>一緒に行っていい<rt>いっしょにいっていい</rt></ruby>？ | *Issho ni itte mo ii desu ka* ➡️ *Issho ni itte ii?* (語彙中 `来てもいい` 亦常意譯為去) |
-| 7 | 晚一點可以嗎？ | <ruby>後でいいですか<rt>あとでいいですか</rt></ruby> | <ruby>後でいい<rt>あとでいい</rt></ruby>？ | *Ato de ii desu ka* ➡️ *Ato de ii?* (名詞 + でいい + 疑問) |
-| 8 | 可以打電話嗎？ | <ruby>電話してもいいですか<rt>でんわしてもいいですか</rt></ruby> | <ruby>電話していい<rt>でんわしていい</rt></ruby>？ | *Denwa shite mo ii desu ka* ➡️ *Denwa shite ii?* |
-| 9 | 請打電話給我 | <ruby>電話してください<rt>でんわしてください</rt></ruby> | <ruby>電話して<rt>でんわして</rt></ruby> | *Denwa shite kudasai* ➡️ *Denwa shite* (屬於技法二簡化請求) |
-| 10 | 再聯絡喔 | <ruby>また連絡してください<rt>またれんらくしてください</rt></ruby> | <ruby>また連絡してね<rt>またれんらくしてね</rt></ruby> | *Mata renraku shite kudasai* ➡️ *Mata renraku shite ne* |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|可以使用嗎？| <span style="color:#3498DB"><ruby>使ってもいいですか<rt>つかってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>使っていい<rt>つかっていい</rt></ruby>？</span> |*Tsukatte mo ii desu ka* ➡️ *Tsukatte ii?*|
+|2|可以拍照嗎？| <span style="color:#3498DB"><ruby>写真を撮ってもいいですか<rt>しゃしんをとってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>写真撮っていい<rt>しゃしんとっていい</rt></ruby>？</span> |*Shashin o totte mo ii desu ka* ➡️ *Shashin totte ii?* (省略 `を`)|
+|3|可以打開嗎？| <span style="color:#3498DB"><ruby>開けてもいいですか<rt>あけてもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>開けていい<rt>あけていい</rt></ruby>？</span> |*Akete mo ii desu ka* ➡️ *Akete ii?*|
+|4|可以進去嗎？| <span style="color:#3498DB"><ruby>入ってもいいですか<rt>はいってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>入っていい<rt>はいっていい</rt></ruby>？</span> |*Haitte mo ii desu ka* ➡️ *Haitte ii?* (如進入房間、車內)|
+|5|可以坐這裡嗎？| <span style="color:#3498DB"><ruby>座ってもいいですか<rt>すわってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>座っていい<rt>すわっていい</rt></ruby>？</span> |*Suwatte mo ii desu ka* ➡️ *Suwatte ii?*|
+|6|可以一起去嗎？| <span style="color:#3498DB"><ruby>一緒に行ってもいいですか<rt>いっしょにいってもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>一緒に行っていい<rt>いっしょにいっていい</rt></ruby>？</span> |*Issho ni itte mo ii desu ka* ➡️ *Issho ni itte ii?* (語彙中 `来てもいい` 亦常意譯為去)|
+|7|晚一點可以嗎？| <span style="color:#3498DB"><ruby>後でいいですか<rt>あとでいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>後でいい<rt>あとでいい</rt></ruby>？</span> |*Ato de ii desu ka* ➡️ *Ato de ii?* (名詞 + でいい + 疑問)|
+|8|可以打電話嗎？| <span style="color:#3498DB"><ruby>電話してもいいですか<rt>でんわしてもいいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>電話していい<rt>でんわしていい</rt></ruby>？</span> |*Denwa shite mo ii desu ka* ➡️ *Denwa shite ii?*|
+|9|請打電話給我| <span style="color:#3498DB"><ruby>電話してください<rt>でんわしてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>電話して<rt>でんわして</rt></ruby></span> |*Denwa shite kudasai* ➡️ *Denwa shite* (屬於技法二簡化請求)|
+|10|再聯絡喔| <span style="color:#3498DB"><ruby>また連絡してください<rt>またれんらくしてください</rt></ruby></span> | <span style="color:#3498DB"><ruby>また連絡してね<rt>またれんらくしてね</rt></ruby></span> |*Mata renraku shite kudasai* ➡️ *Mata renraku shite ne*|
 
 ---
 

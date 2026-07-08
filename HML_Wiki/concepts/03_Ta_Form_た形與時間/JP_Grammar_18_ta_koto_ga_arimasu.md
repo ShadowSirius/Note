@@ -11,9 +11,11 @@ sibling_of:
 表示過去的經驗（曾經做過某事）。
 
 ## 實用例句
-- 日文：<ruby>私<rt>わたし (watashi)</rt></ruby>は<ruby>富士山<rt>ふじさん (fujisan)</rt></ruby>に<ruby>登<rt>のぼ (nobo)</rt></ruby>ったことがあります。
+> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし (watashi)</rt></ruby>は</span><span style="color:#FF477E"><ruby>富士山<rt>ふじさん (fujisan)</rt></ruby>に</span><span style="color:#3498DB"><ruby>登<rt>のぼ (nobo)</rt></ruby>ったことがあります。</span>
 - 中文：我曾經登過富士山。
-- 日文：<ruby>壽司<rt>すし (sushi)</rt></ruby>を<ruby>食<rt>た (ta)</rt></ruby>べたことがありますか。
+- 日文：<span style="color:#3498DB"><ruby>壽司<rt>すし (sushi)</rt></ruby>を<ruby>食<rt>た (ta)</rt></ruby>べたことがありますか。</span>
 - 中文：你吃過壽司嗎？
 
 ## 關係說明

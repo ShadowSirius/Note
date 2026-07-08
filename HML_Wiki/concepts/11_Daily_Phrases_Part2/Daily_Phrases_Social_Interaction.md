@@ -16,21 +16,23 @@ sibling_of:
 
 ---
 
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
 ## 📊 日常社交與承諾句型表 (11 句)
 
 | 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
 |:---:|:---|:---|:---|:---|
-| 1 | 很高興再次見到你。 | <ruby>また会えて嬉しいよ<rt>またあえてうれしいよ</rt></ruby> | *Mata aete ureshii yo* | `会えて` 是 `会う` 的可能形て形。表示「能見面感到高興」。 |
-| 2 | 很高興能直接見面。 | <ruby>直接会えて嬉しいな<rt>ちょくせつあえてうれしいな</rt></ruby> | *Chokunsetsu aete ureshii na* | `直接` 指親自見面（非視訊/文字）。句尾 `な` 帶有自我感嘆。 |
-| 3 | 很高興能跟你聊天。 | <ruby>話せてよかったよ<rt>はなせてよかったよ</rt></ruby> | *Hanasete yokatta yo* | `話せて` 為 `話す` 的可能形て形。用於談話結束後的告別。 |
-| 4 | 謝謝你特地抽空。 | <ruby>時間を作ってくれてありがとう<rt>じかんをつくってくれてありがとう</rt></ruby> | *Jikan o tsukutte kurete arigatou* | `〜てくれてありがとう` 感謝對方為自己做某事（抽空/撥時間）。 |
-| 5 | 我現在過去喔。 | <ruby>今すぐ行くね<rt>いますぐいくね</rt></ruby> | *Ima sugu iku ne* | 日語中「我去你那邊」要用動詞 `行く`（以對方為中心）。 |
-| 6 | 晚點再聯絡你喔。 | <ruby>後でまた連絡するね<rt>あとでまたれんらくするね</rt></ruby> | *Ato de mata renraku suru ne* | `後で`（晚點）、`また`（再）。極高頻的對話收尾語。 |
-| 7 | 我們保持聯絡喔。 | <ruby>連絡を取り合おうね<rt>れんらくをとりあおうね</rt></ruby> | *Renraku o toriaou ne* | `取り合う` 互相取得。`〜おう` 為意向形，表示提議。 |
-| 8 | 我們近期再聚聚喔。 | <ruby>また近いうちに会おうね<rt>またちかいうちにあおうね</rt></ruby> | *Mata chikai uchi ni aou ne* | `近いうちに` 意為「近期之內」。 |
-| 9 | 我馬上傳訊息給你喔。 | <ruby>すぐにメッセージを送るね<rt>すぐにめっせーじをおくるね</rt></ruby> | *Sugu ni messeeji o okuru ne* | `すぐに`（立刻/馬上）。`メッセージ` 簡稱 `メッセ`。 |
-| 10 | 你到了那邊打給我。 | <ruby>向こうに着いたら電話してね<rt>むこうについたらでんわしてね</rt></ruby> | *Mukou ni tsuitara denwa shite ne* | `〜たら` 表示「一旦...之後」。常用於一方出發或旅行時的叮嚀。 |
-| 11 | 祝你旅途愉快喔。 | <ruby>良い旅をね<rt>いいたびをね</rt></ruby> | *Ii tabi o ne* | 簡短的旅遊祝福。完整說法為 `良い旅をしてください`。 |
+| 1 | 很高興再次見到你。 | <span style="color:#FF477E"><ruby>また<rt>また</rt></ruby></span><span style="color:#3498DB"><ruby>会えて嬉しいよ<rt>あえてうれしいよ</rt></ruby></span> | *Mata aete ureshii yo* | `会えて` 是 `会う` 的可能形て形。表示「能見面感到高興」。 |
+| 2 | 很高興能直接見面。 | <span style="color:#FF477E"><ruby>直接<rt>ちょくせつ</rt></ruby></span><span style="color:#3498DB"><ruby>会えて嬉しいな<rt>あえてうれしいな</rt></ruby></span> | *Chokunsetsu aete ureshii na* | `直接` 指親自見面（非視訊/文字）。句尾 `な` 帶有自我感嘆。 |
+| 3 | 很高興能跟你聊天。 | <span style="color:#3498DB"><ruby>話せてよかったよ<rt>はなせてよかったよ</rt></ruby></span> | *Hanasete yokatta yo* | `話せて` 為 `話す` 的可能形て形。用於談話結束後的告別。 |
+| 4 | 謝謝你特地抽空。 | <span style="color:#2ECC71"><ruby>時間を作って<rt>じかんをつくって</rt></ruby></span><span style="color:#3498DB"><ruby>くれてありがとう<rt>くれてありがとう</rt></ruby></span> | *Jikan o tsukutte kurete arigatou* | `〜てくれてありがとう` 感謝對方為自己做某事（抽空/撥時間）。 |
+| 5 | 我現在過去喔。 | <span style="color:#FF477E"><ruby>今すぐ<rt>いますぐ</rt></ruby></span><span style="color:#3498DB"><ruby>行くね<rt>いくね</rt></ruby></span> | *Ima sugu iku ne* | 日語中「我去你那邊」要用動詞 `行く`（以對方為中心）。 |
+| 6 | 晚點再聯絡你喔。 | <span style="color:#FF477E"><ruby>後で<rt>あとで</rt></ruby></span><span style="color:#FF477E"><ruby>また<rt>また</rt></ruby></span><span style="color:#3498DB"><ruby>連絡するね<rt>れんらくするね</rt></ruby></span> | *Ato de mata renraku suru ne* | `後で`（晚點）、`また`（再）。極高頻的對話收尾語。 |
+| 7 | 我們保持聯絡喔。 | <span style="color:#2ECC71"><ruby>連絡を<rt>れんらくを</rt></ruby></span><span style="color:#3498DB"><ruby>取り合おうね<rt>とりあおうね</rt></ruby></span> | *Renraku o toriaou ne* | `取り合う` 互相取得。`〜おう` 為意向形，表示提議。 |
+| 8 | 我們近期再聚聚喔。 | <span style="color:#FF477E"><ruby>また<rt>また</rt></ruby></span><span style="color:#FF477E"><ruby>近いうちに<rt>ちかいうちに</rt></ruby></span><span style="color:#3498DB"><ruby>会おうね<rt>あおうね</rt></ruby></span> | *Mata chikai uchi ni aou ne* | `近いうちに` 意為「近期之內」。 |
+| 9 | 我馬上傳訊息給你喔。 | <span style="color:#FF477E"><ruby>すぐに<rt>すぐに</rt></ruby></span><span style="color:#2ECC71"><ruby>メッセージを<rt>めっせーじを</rt></ruby></span><span style="color:#3498DB"><ruby>送るね<rt>おくるね</rt></ruby></span> | *Sugu ni messeeji o okuru ne* | `すぐに`（立刻/馬上）。`メッセージ` 簡稱 `メッセ`。 |
+| 10 | 你到了那邊打給我。 | <span style="color:#FF477E"><ruby>向こうに<rt>むこうに</rt></ruby></span><span style="color:#3498DB"><ruby>着いたら<rt>ついたら</rt></ruby></span><span style="color:#3498DB"><ruby>電話してね<rt>でんわしてね</rt></ruby></span> | *Mukou ni tsuitara denwa shite ne* | `〜たら` 表示「一旦...之後」。常用於一方出發或旅行時的叮嚀。 |
+| 11 | 祝你旅途愉快喔。 | <span style="color:#F39C12"><ruby>良い<rt>いい</rt></ruby></span><span style="color:#2ECC71"><ruby>旅をね<rt>たびをね</rt></ruby></span> | *Ii tabi o ne* | 簡短的旅遊祝福。完整說法為 `良い旅をしてください`。 |
 
 ---
 

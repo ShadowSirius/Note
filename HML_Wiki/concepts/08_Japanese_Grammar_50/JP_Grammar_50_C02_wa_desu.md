@@ -19,9 +19,11 @@ sibling_of:
 以 A 作為主題，對 A 進行說明或判定。は 標示主題，不等於主格 が。
 
 ## 實用例句
-- 日文：私は学生です。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71">私は</span><span style="color:#3498DB">学生です</span>。
   中文：我是學生。
-- 日文：これは本です。
+- 日文：<span style="color:#2ECC71">これは</span><span style="color:#3498DB">本です</span>。
   中文：這是書。
 
 ## 學習提示

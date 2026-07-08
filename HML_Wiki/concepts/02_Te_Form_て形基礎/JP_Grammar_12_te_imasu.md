@@ -16,17 +16,19 @@ sibling_of:
 1. 表示正在進行的動作（正在...）；2. 表示動作後的狀態殘留。
 
 ## 實用例句
-- 日文：<ruby>今<rt>いま (ima)</rt></ruby>、<ruby>日本語<rt>にほんご (nihongo)</rt></ruby>を<ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>しています。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>今<rt>いま (ima)</rt></ruby>、</span><span style="color:#3498DB"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>を<ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>しています。</span>
 - 中文：現在正在學習日語。
-- 日文：<ruby>田中<rt>たなか (tanaka)</rt></ruby>さんは<ruby>結婚<rt>けっこん (kekkon)</rt></ruby>しています。
+- 日文：<span style="color:#2ECC71"><ruby>田中<rt>たなか (tanaka)</rt></ruby>さんは</span><span style="color:#3498DB"><ruby>結婚<rt>けっこん (kekkon)</rt></ruby>しています。</span>
 - 中文：田中先生已經結婚了（狀態）。
-- 日文：<ruby>今晩<rt>こんばん (konban)</rt></ruby>ご<ruby>飯<rt>はん (han)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>っています。
+- 日文：<span style="color:#FF477E"><ruby>今晩<rt>こんばん (konban)</rt></ruby></span><span style="color:#3498DB">ご<ruby>飯<rt>はん (han)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>っています。</span>
 - 中文：我今晚正在做飯。
-- 日文：<ruby>彼<rt>かれ (kare)</rt></ruby>は<ruby>日本語<rt>にほんご (nihongo)</rt></ruby>を<ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>しています。
+- 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ (kare)</rt></ruby>は</span><span style="color:#3498DB"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>を<ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>しています。</span>
 - 中文：他正在學習日語。
-- 日文：<ruby>友達<rt>ともだち (tomodachi)</rt></ruby>は<ruby>今<rt>いま (ima)</rt></ruby><ruby>映画<rt>えいが (eiga)</rt></ruby>を<ruby>見<rt>み (mi)</rt></ruby>ています。
+- 日文：<span style="color:#2ECC71"><ruby>友達<rt>ともだち (tomodachi)</rt></ruby>は</span><span style="color:#FF477E"><ruby>今<rt>いま (ima)</rt></ruby></span><span style="color:#3498DB"><ruby>映画<rt>えいが (eiga)</rt></ruby>を<ruby>見<rt>み (mi)</rt></ruby>ています。</span>
 - 中文：朋友現在正在看電影。
-- 日文：<ruby>犬<rt>いぬ (inu)</rt></ruby>が<ruby>外<rt>そと (soto)</rt></ruby>で<ruby>遊<rt>あそ (aso)</rt></ruby>んでいます。
+- 日文：<span style="color:#2ECC71"><ruby>犬<rt>いぬ (inu)</rt></ruby>が</span><span style="color:#FF477E"><ruby>外<rt>そと (soto)</rt></ruby>で</span><span style="color:#3498DB"><ruby>遊<rt>あそ (aso)</rt></ruby>んでいます。</span>
 - 中文：狗正在外面玩耍。
 
 ## 關係說明

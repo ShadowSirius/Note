@@ -11,9 +11,11 @@ related_to:
 表示所有格、屬性、關係或修飾（的）。
 
 ## 實用例句
-- 日文：<ruby>私<rt>わたし (watashi)</rt></ruby>の<ruby>本<rt>ほん (hon)</rt></ruby>です。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12"><ruby>私<rt>わたし (watashi)</rt></ruby>の</span><span style="color:#3498DB"><ruby>本<rt>ほん (hon)</rt></ruby>です。</span>
 - 中文：是我的書。
-- 日文：<ruby>日本語<rt>にほんご (nihongo)</rt></ruby>の<ruby>先生<rt>せんせい (sensei)</rt></ruby>です。
+- 日文：<span style="color:#F39C12"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>の</span><span style="color:#3498DB"><ruby>先生<rt>せんせい (sensei)</rt></ruby>です。</span>
 - 中文：是日語老師。
 
 ## 關係說明

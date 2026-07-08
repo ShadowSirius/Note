@@ -31,21 +31,22 @@ sibling_of:
 
 ## 📊 13 組實用疑問句對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 你好嗎？ | <ruby>お元気ですか<rt>おげんきですか</rt></ruby> | <ruby>元気<rt>げんき</rt></ruby>？ | *O-genki desu ka* ➡️ *Genki?* (常用於打招呼) |
-| 2 | 是嗎？/ 原來如此 | <ruby>そうですか<rt>そうですか</rt></ruby> | <ruby>そうなんだ<rt>そうなんだ</rt></ruby> / そう？ | *Soo desu ka* ➡️ *Soo nanda* (恍然大悟的確認) |
-| 3 | 真的嗎？ | <ruby>本当ですか<rt>ほんとうですか</rt></ruby> | <ruby>本当に<rt>ほんとうに</rt></ruby>？ | *Hontoo desu ka* ➡️ *Hontoo ni?* (口語常加強尾音) |
-| 4 | 在哪裡？ | <ruby>どこですか<rt>どこですか</rt></ruby> | どこ？ | *Doko desu ka* ➡️ *Doko?* |
-| 5 | 哪一個？/ 哪邊？ | <ruby>どちらですか<rt>どちらですか</rt></ruby> | どっち？ | *Dochira desu ka* ➡️ *Docchi?* (後者指向方向或二選一) |
-| 6 | 什麼時候？ | <ruby>いつですか<rt>いつですか</rt></ruby> | いつ？ | *Itsu desu ka* ➡️ *Itsu?* |
-| 7 | 是誰？ | <ruby>誰ですか<rt>だれですか</rt></ruby> | 誰？ | *Dare desu ka* ➡️ *Dare?* |
-| 8 | 是什麼？ | <ruby>何ですか<rt>なんですか</rt></ruby> | 何？ | *Nan desu ka* ➡️ *Nani?* (口語轉為單獨的「何」) |
-| 9 | 肚子餓了嗎？ | <ruby>お腹空きましたか<rt>おなかすきましたか</rt></ruby> | <ruby>お腹空いた<rt>おなかすいた</rt></ruby>？ | *Onaka sukimashita ka* ➡️ *Onaka suita?* (動詞過去式普通形) |
-| 10 | 很好玩嗎？ | <ruby>楽しかったですか<rt>たのしかったですか</rt></ruby> | <ruby>楽しかった<rt>たのしかった</rt></ruby>？ | *Tanoshikatta desu ka* ➡️ *Tanoshikatta?* (過去式) |
-| 11 | 好吃嗎？(已吃完) | <ruby>美味しかったですか<rt>おいしかったですか</rt></ruby> | <ruby>美味しかった<rt>おいしかった</rt></ruby>？ | *Oishikatta desu ka* ➡️ *Oishikatta?* (過去式確認) |
-| 12 | 現在方便嗎？ | <ruby>今大丈夫ですか<rt>いまだいじょうぶですか</rt></ruby> | <ruby>今大丈夫<rt>いまだいじょうぶ</rt></ruby>？ | *Ima daijoobu desu ka* ➡️ *Ima daijoobu?* (打擾他人時的前置語) |
-| 13 | 現在忙嗎？ | <ruby>今忙しいですか<rt>いまいそがしいですか</rt></ruby> | <ruby>今忙しい<rt>いまいそがしい</rt></ruby>？ | *Ima isogashii desu ka* ➡️ *Ima isogashii?* |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|你好嗎？| <span style="color:#3498DB"><ruby>お元気ですか<rt>おげんきですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>元気<rt>げんき</rt></ruby>？</span> |*O-genki desu ka* ➡️ *Genki?* (常用於打招呼)|
+|2|是嗎？/ 原來如此| <span style="color:#3498DB"><ruby>そうですか<rt>そうですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>そうなんだ<rt>そうなんだ</rt></ruby> / そう？</span> |*Soo desu ka* ➡️ *Soo nanda* (恍然大悟的確認)|
+|3|真的嗎？| <span style="color:#3498DB"><ruby>本当ですか<rt>ほんとうですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>本当に<rt>ほんとうに</rt></ruby>？</span> |*Hontoo desu ka* ➡️ *Hontoo ni?* (口語常加強尾音)|
+|4|在哪裡？| <span style="color:#3498DB"><ruby>どこですか<rt>どこですか</rt></ruby></span> | <span style="color:#FF477E">どこ</span>？ |*Doko desu ka* ➡️ *Doko?*|
+|5|哪一個？/ 哪邊？| <span style="color:#3498DB"><ruby>どちらですか<rt>どちらですか</rt></ruby></span> | <span style="color:#FF477E">どっち</span>？ |*Dochira desu ka* ➡️ *Docchi?* (後者指向方向或二選一)|
+|6|什麼時候？| <span style="color:#3498DB"><ruby>いつですか<rt>いつですか</rt></ruby></span> | <span style="color:#FF477E">いつ</span>？ |*Itsu desu ka* ➡️ *Itsu?*|
+|7|是誰？| <span style="color:#3498DB"><ruby>誰ですか<rt>だれですか</rt></ruby></span> | <span style="color:#3498DB">誰</span>？ |*Dare desu ka* ➡️ *Dare?*|
+|8|是什麼？| <span style="color:#3498DB"><ruby>何ですか<rt>なんですか</rt></ruby></span> | <span style="color:#3498DB">何</span>？ |*Nan desu ka* ➡️ *Nani?* (口語轉為單獨的「何」)|
+|9|肚子餓了嗎？| <span style="color:#3498DB"><ruby>お腹空きましたか<rt>おなかすきましたか</rt></ruby></span> | <span style="color:#3498DB"><ruby>お腹空いた<rt>おなかすいた</rt></ruby>？</span> |*Onaka sukimashita ka* ➡️ *Onaka suita?* (動詞過去式普通形)|
+|10|很好玩嗎？| <span style="color:#3498DB"><ruby>楽しかったですか<rt>たのしかったですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>楽しかった<rt>たのしかった</rt></ruby>？</span> |*Tanoshikatta desu ka* ➡️ *Tanoshikatta?* (過去式)|
+|11|好吃嗎？(已吃完)| <span style="color:#3498DB"><ruby>美味しかったですか<rt>おいしかったですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>美味しかった<rt>おいしかった</rt></ruby>？</span> |*Oishikatta desu ka* ➡️ *Oishikatta?* (過去式確認)|
+|12|現在方便嗎？| <span style="color:#3498DB"><ruby>今大丈夫ですか<rt>いまだいじょうぶですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>今大丈夫<rt>いまだいじょうぶ</rt></ruby>？</span> |*Ima daijoobu desu ka* ➡️ *Ima daijoobu?* (打擾他人時的前置語)|
+|13|現在忙嗎？| <span style="color:#3498DB"><ruby>今忙しいですか<rt>いまいそがしいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>今忙しい<rt>いまいそがしい</rt></ruby>？</span> |*Ima isogashii desu ka* ➡️ *Ima isogashii?*|
 
 ---
 

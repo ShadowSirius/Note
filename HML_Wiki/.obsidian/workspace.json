@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C07_ga_vs_wa.md",
-                "mode": "source",
+                "file": "concepts/01_Particles_助詞/JP_Grammar_05_de.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JP_Grammar_50_C07_ga_vs_wa"
+              "title": "JP_Grammar_05_de"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "e4df729a91bcf32f",
   "lastOpenFiles": [
+    "concepts/01_Particles_助詞/JP_Grammar_01_wa_desu.md",
+    "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Scenarios.md",
+    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C07_ga_vs_wa.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Map.canvas",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech6_Greetings_Social.md",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech5_Negation_Potential.md",
@@ -214,8 +217,6 @@
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Index.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Conversational_Queries.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Social_Interaction.md",
-    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Invitations_Plans.md",
-    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Index.md",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Map.canvas",
     "concepts/Japanese_Grammar_Map.canvas",
     "derived",

@@ -34,23 +34,24 @@ sibling_of:
 
 ## 📊 15 組生理感受與感嘆對照表
 
-| 編號 | 中文翻譯 | 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) | 羅馬拼音 (口語) & 備註 |
-|:---:|:---|:---|:---|:---|
-| 1 | 是啊 / 對啊 | <ruby>そうですね<rt>そうですね</rt></ruby> | そうだね | *Soo desu ne* ➡️ *Soo dane* (表示贊同對方的意見) |
-| 2 | 沒關係 / 沒問題的 | <ruby>大丈夫ですよ<rt>だいじょうぶですよ</rt></ruby> | <ruby>大丈夫だよ<rt>だいじょうぶだよ</rt></ruby> | *Daijoobu desu yo* ➡️ *Daijoobu dayo* (安慰或確認無礙) |
-| 3 | 真高興 / 好開心 | <ruby>嬉しいですね<rt>うれしいですね</rt></ruby> | <ruby>嬉しい<rt>うれしい</rt></ruby> | *Ureshii desu ne* ➡️ *Ureshii* (い形容詞) |
-| 4 | 真有趣 / 好玩 | <ruby>面白いですね<rt>おもしろいですね</rt></ruby> | <ruby>面白い<rt>おもしろい</rt></ruby> | *Omoshiroi desu ne* ➡️ *Omoshiroi* (い形容詞) |
-| 5 | 好吃 / 味道不錯 | <ruby>美味しいですね<rt>おいしいですね</rt></ruby> | <ruby>おいしい<rt>おいしい</rt></ruby> | *Oishii desu ne* ➡️ *Oishii* |
-| 6 | 好可愛喔 | <ruby>可愛いですね<rt>かわいいですね</rt></ruby> | <ruby>可愛い<rt>かわいい</rt></ruby> | *Kawaii desu ne* ➡️ *Kawaii* |
-| 7 | 好漂亮喔 / 好乾淨 | <ruby>綺麗ですね<rt>きれいですね</rt></ruby> | <ruby>綺麗<rt>きれい</rt></ruby> | *Kirei desu ne* ➡️ *Kirei* (な形容詞，口語亦常講 `綺麗だね`) |
-| 8 | 好厲害喔 / 太棒了 | <ruby>すごいですね<rt>すごいですね</rt></ruby> | すごい | *Sugoi desu ne* ➡️ *Sugoi* |
-| 9 | 熱嗎？ | <ruby>暑いですか<rt>あついですか</rt></ruby> | <ruby>暑い<rt>あつい</rt></ruby>？ | *Atsui desu ka* ➡️ *Atsui?* (氣溫或觸感) |
-| 10 | 冷嗎？ | <ruby>寒いですか<rt>さむいですか</rt></ruby> | <ruby>寒い<rt>さむい</rt></ruby>？ | *Samui desu ka* ➡️ *Samui?* (多指天氣冷) |
-| 11 | 累了嗎？ | <ruby>疲れましたか<rt>つかれましたか</rt></ruby> | <ruby>疲れた<rt>つかれた</rt></ruby>？ | *Tsukaremashita ka* ➡️ *Tsukareta?* (動詞過去疑問 ➡️ 過去口語) |
-| 12 | 痛嗎？ | <ruby>痛いですか<rt>いたいですか</rt></ruby> | <ruby>痛い<rt>いたい</rt></ruby>？ | *Itai desu ka* ➡️ *Itai?* |
-| 13 | 很難呢 | <ruby>難しいですね<rt>むずかしいですね</rt></ruby> | <ruby>難しい<rt>むずかしい</rt></ruby> | *Muzukashii desu ne* ➡️ *Muzukashii* |
-| 14 | 想睡覺嗎？ | <ruby>眠いですか<rt>ねむいですか</rt></ruby> | <ruby>眠い<rt>ねむい</rt></ruby>？ | *Nemui desu ka* ➡️ *Nemui?* |
-| 15 | 好想睡喔 | <ruby>眠いですね<rt>ねむいですね</rt></ruby> | <ruby>眠い<rt>ねむい</rt></ruby> | *Nemui desu ne* ➡️ *Nemui* |
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+|編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
+|:---:|:---| :--- | :--- |:---|
+|1|是啊 / 對啊| <span style="color:#3498DB"><ruby>そうですね<rt>そうですね</rt></ruby></span> | <span style="color:#3498DB">そうだね</span> |*Soo desu ne* ➡️ *Soo dane* (表示贊同對方的意見)|
+|2|沒關係 / 沒問題的| <span style="color:#3498DB"><ruby>大丈夫ですよ<rt>だいじょうぶですよ</rt></ruby></span> | <span style="color:#3498DB"><ruby>大丈夫だよ<rt>だいじょうぶだよ</rt></ruby></span> |*Daijoobu desu yo* ➡️ *Daijoobu dayo* (安慰或確認無礙)|
+|3|真高興 / 好開心| <span style="color:#3498DB"><ruby>嬉しいですね<rt>うれしいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>嬉しい<rt>うれしい</rt></ruby></span> |*Ureshii desu ne* ➡️ *Ureshii* (い形容詞)|
+|4|真有趣 / 好玩| <span style="color:#3498DB"><ruby>面白いですね<rt>おもしろいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>面白い<rt>おもしろい</rt></ruby></span> |*Omoshiroi desu ne* ➡️ *Omoshiroi* (い形容詞)|
+|5|好吃 / 味道不錯| <span style="color:#3498DB"><ruby>美味しいですね<rt>おいしいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>おいしい<rt>おいしい</rt></ruby></span> |*Oishii desu ne* ➡️ *Oishii*|
+|6|好可愛喔| <span style="color:#3498DB"><ruby>可愛いですね<rt>かわいいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>可愛い<rt>かわいい</rt></ruby></span> |*Kawaii desu ne* ➡️ *Kawaii*|
+|7|好漂亮喔 / 好乾淨| <span style="color:#3498DB"><ruby>綺麗ですね<rt>きれいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>綺麗<rt>きれい</rt></ruby></span> |*Kirei desu ne* ➡️ *Kirei* (な形容詞，口語亦常講 `綺麗だね`)|
+|8|好厲害喔 / 太棒了| <span style="color:#3498DB"><ruby>すごいですね<rt>すごいですね</rt></ruby></span> | <span style="color:#3498DB">すごい</span> |*Sugoi desu ne* ➡️ *Sugoi*|
+|9|熱嗎？| <span style="color:#3498DB"><ruby>暑いですか<rt>あついですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>暑い<rt>あつい</rt></ruby>？</span> |*Atsui desu ka* ➡️ *Atsui?* (氣溫或觸感)|
+|10|冷嗎？| <span style="color:#3498DB"><ruby>寒いですか<rt>さむいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>寒い<rt>さむい</rt></ruby>？</span> |*Samui desu ka* ➡️ *Samui?* (多指天氣冷)|
+|11|累了嗎？| <span style="color:#3498DB"><ruby>疲れましたか<rt>つかれましたか</rt></ruby></span> | <span style="color:#3498DB"><ruby>疲れた<rt>つかれた</rt></ruby>？</span> |*Tsukaremashita ka* ➡️ *Tsukareta?* (動詞過去疑問 ➡️ 過去口語)|
+|12|痛嗎？| <span style="color:#3498DB"><ruby>痛いですか<rt>いたいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>痛い<rt>いたい</rt></ruby>？</span> |*Itai desu ka* ➡️ *Itai?*|
+|13|很難呢| <span style="color:#3498DB"><ruby>難しいですね<rt>むずかしいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>難しい<rt>むずかしい</rt></ruby></span> |*Muzukashii desu ne* ➡️ *Muzukashii*|
+|14|想睡覺嗎？| <span style="color:#3498DB"><ruby>眠いですか<rt>ねむいですか</rt></ruby></span> | <span style="color:#3498DB"><ruby>眠い<rt>ねむい</rt></ruby>？</span> |*Nemui desu ka* ➡️ *Nemui?*|
+|15|好想睡喔| <span style="color:#3498DB"><ruby>眠いですね<rt>ねむいですね</rt></ruby></span> | <span style="color:#3498DB"><ruby>眠い<rt>ねむい</rt></ruby></span> |*Nemui desu ne* ➡️ *Nemui*|
 
 ---
 

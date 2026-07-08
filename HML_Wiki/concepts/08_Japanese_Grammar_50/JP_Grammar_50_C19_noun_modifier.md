@@ -19,9 +19,11 @@ sibling_of:
 用句子直接修飾名詞，修飾節內不用 の 連接動詞句。
 
 ## 實用例句
-- 日文：昨日買った本を読みます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12">昨日買った</span><span style="color:#3498DB">本を読みます</span>。
   中文：讀昨天買的書。
-- 日文：駅にいる人は先生です。
+- 日文：<span style="color:#F39C12">駅にいる</span><span style="color:#2ECC71">人は</span><span style="color:#3498DB">先生です</span>。
   中文：在車站的人是老師。
 
 ## 學習提示

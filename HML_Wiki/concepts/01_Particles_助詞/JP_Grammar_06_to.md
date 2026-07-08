@@ -7,9 +7,11 @@
 1. 表示並列（和）；2. 表示動作的共同參與者（和...一起）。
 
 ## 實用例句
-- 日文：りんごとみかんを<ruby>買<rt>か (ka)</rt></ruby>いました。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB">りんごとみかんを<ruby>買<rt>か (ka)</rt></ruby>いました。</span>
 - 中文：買了蘋果和橘子。
-- 日文：<ruby>友達<rt>ともだち (tomodachi)</rt></ruby>と<ruby>映畫<rt>えいが (eiga)</rt></ruby>を<ruby>見<rt>み (mi)</rt></ruby>ました。
+- 日文：<span style="color:#FF477E"><ruby>友達<rt>ともだち (tomodachi)</rt></ruby>と</span><span style="color:#3498DB"><ruby>映畫<rt>えいが (eiga)</rt></ruby>を<ruby>見<rt>み (mi)</rt></ruby>ました。</span>
 - 中文：和朋友一起看了電影。
 
 ## 關係說明

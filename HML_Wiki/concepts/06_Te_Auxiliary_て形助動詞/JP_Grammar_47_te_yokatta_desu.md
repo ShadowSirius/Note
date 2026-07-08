@@ -15,13 +15,15 @@ uses:
 - 通常用於在遇到潛在困難或風險後，結果卻順利解決的放鬆感。
 
 ## 實用例句
-- 日文：<ruby>早く<rt>はや (haya)</rt></ruby><ruby>出<rt>で (de)</rt></ruby>て<ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby>よかったです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>早く<rt>はや (haya)</rt></ruby></span><span style="color:#3498DB"><ruby>出<rt>で (de)</rt></ruby>て</span><span style="color:#FF477E">本当に</span><span style="color:#3498DB">よかったです。</span>
 - 中文：早點出門真是太好了。
-- 日文：<ruby>電車<rt>でんしゃ (densha)</rt></ruby>が<ruby>遅<rt>おく (oku)</rt></ruby>れても<ruby>間に合<rt>まにあ (mania)</rt></ruby>ってよかったです。
+- 日文：<span style="color:#2ECC71"><ruby>電車<rt>でんしゃ (densha)</rt></ruby>が</span><span style="color:#3498DB"><ruby>遅<rt>おく (oku)</rt></ruby>れても<ruby>間に合<rt>まにあ (mania)</rt></ruby>ってよかったです。</span>
 - 中文：電車雖然晚了，但幸好有趕上。
-- 日文：<ruby>資料<rt>しりょう (shiryou)</rt></ruby>を<ruby>事前<rt>じぜん (jizen)</rt></ruby>に<ruby>送<rt>おく (oku)</rt></ruby>っておいてよかったね。
+- 日文：<span style="color:#3498DB"><ruby>資料<rt>しりょう (shiryou)</rt></ruby>を</span><span style="color:#FF477E"><ruby>事前<rt>じぜん (jizen)</rt></ruby>に</span><span style="color:#3498DB"><ruby>送<rt>おく (oku)</rt></ruby>っておいてよかったね。</span>
 - 中文：幸好有事先把資料寄出去呢。
-- 日文：みんな<ruby>無事<rt>ぶじ (buji)</rt></ruby>で<ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby>よかったです。
+- 日文：<span style="color:#2ECC71">みんな</span><span style="color:#3498DB"><ruby>無事<rt>ぶじ (buji)</rt></ruby>で</span><span style="color:#FF477E"><ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby></span><span style="color:#3498DB">よかったです。</span>
 - 中文：大家都平安無事，真是太好了。
 
 ## 關係說明

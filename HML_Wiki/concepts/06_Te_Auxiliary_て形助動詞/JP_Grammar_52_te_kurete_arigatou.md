@@ -15,13 +15,15 @@ sibling_of:
 - 後項的 `ありがとう` 可以依對象的親疏遠近，調整為更客氣的 `ありがとうございます` 或敬語表現。
 
 ## 實用例句
-- 日文：<ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってくれて<ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby>ありがとう。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>ってくれて</span><span style="color:#FF477E"><ruby>本当に<rt>ほんとうに (hontouni)</rt></ruby></span><span style="color:#3498DB">ありがとう。</span>
 - 中文：很謝謝你的幫忙。
-- 日文：<ruby>今日<rt>きょう (kyou)</rt></ruby>も<ruby>早く<rt>はや (haya)</rt></ruby><ruby>連絡<rt>れんらく (renraku)</rt></ruby>してくれてありがとう。
+- 日文：<span style="color:#FF477E"><ruby>今日<rt>きょう (kyou)</rt></ruby>も</span><span style="color:#FF477E"><ruby>早く<rt>はや (haya)</rt></ruby></span><span style="color:#3498DB"><ruby>連絡<rt>れんらく (renraku)</rt></ruby>してくれてありがとう。</span>
 - 中文：今天也謝謝你這麼快與我聯絡。
-- 日文：<ruby>親切<rt>しんせつ (shinsetsu)</rt></ruby>に<ruby>教<rt>おしえ (oshie)</rt></ruby>えてくれてありがとうございました。
+- 日文：<span style="color:#FF477E"><ruby>親切<rt>しんせつ (shinsetsu)</rt></ruby>に</span><span style="color:#3498DB"><ruby>教<rt>おしえ (oshie)</rt></ruby>えてくれてありがとうございました。</span>
 - 中文：謝謝您親切地教導我。（敬體）
-- 日文：素敵なプレゼントを<ruby>選<rt>えら (era)</rt></ruby>んでくれてありがとう。
+- 日文：<span style="color:#F39C12">素敵な</span><span style="color:#3498DB">プレゼントを<ruby>選<rt>えら (era)</rt></ruby>んでくれてありがとう。</span>
 - 中文：謝謝你為我挑選了這麼棒的禮物。
 
 ## 關係說明

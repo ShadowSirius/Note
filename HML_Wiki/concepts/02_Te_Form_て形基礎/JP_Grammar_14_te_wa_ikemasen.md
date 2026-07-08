@@ -13,15 +13,18 @@ parent_of:
 ## 用法說明
 表示禁止（不可以做某事 / 不准...）。
 
-- 日文：ここでタバコを<ruby>吸<rt>す (su)</rt></ruby>ってはいけません。
+## 實用例句
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB">タバコを<ruby>吸<rt>す (su)</rt></ruby>ってはいけません。</span>
 - 中文：這裡不准吸菸。
-- 日文：<ruby>教室<rt>きょうしつ (kyoushitsu)</rt></ruby>で<ruby>騒<rt>さわ (sawa)</rt></ruby>いではいけません。
+- 日文：<span style="color:#FF477E"><ruby>教室<rt>きょうしつ (kyoushitsu)</rt></ruby>で</span><span style="color:#3498DB"><ruby>騒<rt>さわ (sawa)</rt></ruby>いではいけません。</span>
 - 中文：教室裡不准吵鬧。
-- 日文：<ruby>試験中<rt>しけんちゅう (shikenchuu)</rt></ruby>にスマホを<ruby>触<rt>さわ (sawa)</rt></ruby>ってはいけません。
+- 日文：<span style="color:#FF477E"><ruby>試驗中<rt>しけんちゅう (shikenchuu)</rt></ruby>に</span><span style="color:#3498DB">スマホを<ruby>觸<rt>さわ (sawa)</rt></ruby>ってはいけません。</span>
 - 中文：考試時不能碰手機。
-- 日文：<ruby>電車<rt>でんしゃ (densha)</rt></ruby>の<ruby>中<rt>なか (naka)</rt></ruby>で<ruby>騒<rt>さわ (sawa)</rt></ruby>いではいけないよ。
+- 日文：<span style="color:#FF477E"><ruby>電車<rt>でんしゃ (densha)</rt></ruby>の<ruby>中<rt>なか (naka)</rt></ruby>で</span><span style="color:#3498DB"><ruby>騒<rt>さわ (sawa)</rt></ruby>いではいけないよ。</span>
 - 中文：在電車裡不可以吵鬧喔。
-- 日文：<ruby>危険<rt>きけん (kiken)</rt></ruby>な<ruby>場所<rt>ばしょ (basho)</rt></ruby>へ<ruby>１人<rt>ひとり (hitori)</rt></ruby>で<ruby>行<rt>い (i)</rt></ruby>ってはいけません。
+- 日文：<span style="color:#F39C12"><ruby>危險<rt>きけん (kiken)</rt></ruby>な</span><span style="color:#FF477E"><ruby>場所<rt>ばしょ (basho)</rt></ruby>へ</span><span style="color:#FF477E"><ruby>１人<rt>ひとり (hitori)</rt></ruby>で</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>ってはいけません。</span>
 - 中文：危險的地方不可以一個人去。
 
 ## 關係說明

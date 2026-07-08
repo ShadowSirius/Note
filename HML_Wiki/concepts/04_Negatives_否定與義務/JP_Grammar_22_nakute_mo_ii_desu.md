@@ -11,9 +11,11 @@ contradicts:
 表示不必要、沒必要（不...也可以）。
 
 ## 實用例句
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>は<ruby>來<rt>こ (ko)</rt></ruby>なくてもいいです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#2ECC71"><ruby>明日<rt>あした (ashita)</rt></ruby>は</span><span style="color:#3498DB"><ruby>來<rt>こ (ko)</rt></ruby>なくてもいいです。</span>
 - 中文：明天不來也可以。
-- 日文：<ruby>靴<rt>くつ (kutsu)</rt></ruby>を<ruby>脫<rt>ぬ (nu)</rt></ruby>がなくてもいいですよ。
+- 日文：<span style="color:#3498DB"><ruby>靴<rt>くつ (kutsu)</rt></ruby>を<ruby>脫<rt>ぬ (nu)</rt></ruby>がなくてもいいですよ。</span>
 - 中文：不用脫鞋子也沒關係喔。
 
 ## 關係說明

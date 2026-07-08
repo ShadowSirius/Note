@@ -7,9 +7,11 @@
 表示同時進行兩個動作（一邊...一邊...），後半段為主要動作。
 
 ## 實用例句
-- 日文：<ruby>音樂<rt>おんがく (ongaku)</rt></ruby>を<ruby>聽<rt>き (ki)</rt></ruby>きながら<ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>します。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>音樂<rt>おんがく (ongaku)</rt></ruby>を<ruby>聽<rt>き (ki)</rt></ruby>きながら</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>します。</span>
 - 中文：一邊聽音樂一邊學習。
-- 日文：<ruby>步<rt>ある (aru)</rt></ruby>きながら<ruby>電話<rt>でんわ (denwa)</rt></ruby>をかけます。
+- 日文：<span style="color:#FF477E"><ruby>步<rt>ある (aru)</rt></ruby>きながら</span><span style="color:#3498DB"><ruby>電話<rt>でんわ (denwa)</rt></ruby>をかけます。</span>
 - 中文：一邊走路一邊打電話。
 
 ## 關係說明

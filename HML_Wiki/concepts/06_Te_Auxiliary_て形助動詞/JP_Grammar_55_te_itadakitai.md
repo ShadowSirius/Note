@@ -16,13 +16,15 @@ related_to:
 - 用於商務書信、對上司、客戶或長輩，能極為客氣、莊重地向對方提出「希望對方配合」的要求，避免直接命令的無禮。
 
 ## 實用例句
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>の<ruby>会議<rt>かいぎ (kaigi)</rt></ruby>には<ruby>時間通り<rt>じかんどおり (jikandoori)</rt></ruby>に<ruby>出席<rt>しゅっせき (shusseki)</rt></ruby>していただきたいです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12"><ruby>明日の<rt>あしたの (ashitano)</rt></ruby></span><span style="color:#2ECC71"><ruby>会議<rt>かいぎ (kaigi)</rt></ruby>には</span><span style="color:#FF477E"><ruby>時間通り<rt>じかんどおり (jikandoori)</rt></ruby>に</span><span style="color:#3498DB"><ruby>出席<rt>しゅっせき (shusseki)</rt></ruby>していただきたいです。</span>
 - 中文：希望明天的會議您能準時出席。
-- 日文：こちらの<ruby>書類<rt>しょるい (shorui)</rt></ruby>を<ruby>確認<rt>かくにん (kakunin)</rt></ruby>していただきたい。
+- 日文：<span style="color:#F39C12">こちらの</span><span style="color:#3498DB"><ruby>書類<rt>しょるい (shorui)</rt></ruby>を<ruby>確認<rt>かくにん (kakunin)</rt></ruby>していただきたい。</span>
 - 中文：希望您能確認這份文件。
-- 日文：できればメールでお<ruby>返事<rt>へんじ (henji)</rt></ruby>をいただきたいです。
+- 日文：<span style="color:#FF477E">できれば</span><span style="color:#FF477E">メールで</span><span style="color:#3498DB">お<ruby>返事<rt>へんじ (henji)</rt></ruby>をいただきたいです。</span>
 - 中文：如果可以的話，希望能收到您的郵件回覆。
-- 日文：<ruby>予約<rt>よやく (yoyaku)</rt></ruby>の<ruby>変更<rt>へんこう (henkou)</rt></ruby>は<ruby>早め<rt>はやめ (hayame)</rt></ruby>にしていただきたいです。
+- 日文：<span style="color:#F39C12"><ruby>予約<rt>よやく (yoyaku)</rt></ruby>の</span><span style="color:#2ECC71"><ruby>変更<rt>へんこう (henkou)</rt></ruby>は</span><span style="color:#FF477E"><ruby>早め<rt>はやめ (hayame)</rt></ruby>に</span><span style="color:#3498DB">していただきたいです。</span>
 - 中文：預約的變更希望能請您儘早辦理。
 
 ## 關係說明

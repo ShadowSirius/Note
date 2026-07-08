@@ -7,9 +7,11 @@
 標記動作的直接對象（賓語）。
 
 ## 實用例句
-- 日文：ご<ruby>飯<rt>はん (han)</rt></ruby>を<ruby>食<rt>た (ta)</rt></ruby>べます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB">ご<ruby>飯<rt>はん (han)</rt></ruby>を<ruby>食<rt>た (ta)</rt></ruby>べます。</span>
 - 中文：吃飯。
-- 日文：<ruby>水<rt>みず (mizu)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>みます。
+- 日文：<span style="color:#3498DB"><ruby>水<rt>みず (mizu)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>みます。</span>
 - 中文：喝水。
 
 ## 關係說明

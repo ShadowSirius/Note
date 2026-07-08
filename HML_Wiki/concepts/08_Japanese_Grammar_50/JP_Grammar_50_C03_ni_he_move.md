@@ -19,13 +19,15 @@ sibling_of:
 に 強調到達點，へ 強調方向，を 表示經過範圍，から 表示起點。
 
 ## 實用例句
-- 日文：学校に行きます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">学校に</span><span style="color:#3498DB">行きます</span>。
   中文：去學校。
-- 日文：日本へ旅行します。
+- 日文：<span style="color:#FF477E">日本へ</span><span style="color:#3498DB">旅行します</span>。
   中文：去日本旅行。
-- 日文：橋を渡ります。
+- 日文：<span style="color:#3498DB">橋を渡ります</span>。
   中文：過橋。
-- 日文：家から出ます。
+- 日文：<span style="color:#FF477E">家から</span><span style="color:#3498DB">出ます</span>。
   中文：從家裡出去。
 
 ## 學習提示

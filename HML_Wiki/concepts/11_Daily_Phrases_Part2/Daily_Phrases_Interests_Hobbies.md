@@ -16,27 +16,27 @@ sibling_of:
 
 ---
 
-## 📊 個人興趣與喜好句型表 (17 句)
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
 
 | 編號 | 中文翻譯 | 日文口語 | 假名標音 & 羅馬拼音 | 💡 語意解析與文法貼士 |
 |:---:|:---|:---|:---|:---|
-| 1 | 有什麼興趣愛好嗎？ | 趣味はある？ | *Shumi wa aru?* | 詢問對方嗜好的最常用發問。 |
-| 2 | 你喜歡什麼類型的音樂？ | どんな音楽が好き？ | *Donna ongaku ga suki?* | `どんな`（什麼樣的）。口語常省略助詞 `が`。 |
-| 3 | 你喜歡做菜嗎？ | 料理は好き？ | *Ryouri wa suki?* | `料理`（做菜）。 |
-| 4 | 你喜歡旅行嗎？ | 旅行は好き？ | *Ryokou wa suki?* | `旅行`（旅行）。 |
-| 5 | 你喜歡戶外活動嗎？ | アウトドアは好き？ | *Autodoa wa suki?* | `アウトドア` 為 Outdoor（戶外）。 |
-| 6 | 你最喜歡的興趣是什麼？ | お気に入りの趣味は何？ | *O-kiniiri no shumi wa nani?* | `お気に入り` 為最中意、最喜愛的。 |
-| 7 | 紅茶和咖啡你喜歡哪一個？ | 紅茶とコーヒーどっちが好き？ | *Kocha to koohii docchi ga suki?* | `どっち` 為二選一時使用的口語代名詞。 |
-| 8 | 你對咖啡有偏好/講究嗎？ | コーヒーの好みはある？ | *Koohii no konomi wa aru?* | `好み` 指喜好或偏好的口味/種類。 |
-| 9 | 你最喜歡的季節是什麼？ | 好きな季節は何？ | *Sukina kisetsu wa nani?* | `季節`（季節）。 |
-| 10 | 你有兄弟姊妹嗎？ | 兄弟はいる？ | *Kyoudai wa iru?* | 日文 `兄弟` 通常泛指手足（包含姊妹）。 |
-| 11 | 你有養寵物嗎？ | ペットは飼ってる？ | *Petto wa katteru?* | `飼ってる` 是 `飼っている` 的縮音口語（養著）。 |
-| 12 | 你去過音樂祭嗎？ | 音楽フェスに行ったことある？ | *Ongaku fesu ni itta koto aru?* | `〜たこと（が）ある`（有過...的經驗）。 |
-| 13 | 你英文學了多久了？ | 英語をどのくらい勉強してる？ | *Eigo o dono kurai benkyou shiteru?* | `勉強してる`（正在學習中，為正在進行式縮音）。 |
-| 14 | 這個單字用英文怎麼說？ | この単語は英語でどういうの？ | *Kono tango wa eigo de doo iu no?* | `どういうの`（怎麼說的呢，為 `どう言いますか` 的口語）。 |
-| 15 | 你能推薦一本好書嗎？ | 良い本を教えてくれない？ | *Ii hon o oshiete kurenai?* | `教えてくれない？`（不能告訴我嗎？）。 |
-| 16 | 你週末平時都怎麼過？ | いつも休日はどうやって過ごしてる？ | *Itsumo kyuujitsu wa doo yatte sugoshiteru?* | `どうやって`（如何/以何種方式）。`過ごす` 度過時間。 |
-| 17 | 你是怎麼維持身材的？ | どうやって体型を維持してるの？ | *Doo yatte taikei o iji shiteru no?* | `体型`（體型/身材）。`維持する`（維持）。 |
+| 1 | 有什麼興趣愛好嗎？ | <span style="color:#2ECC71">趣味は</span><span style="color:#3498DB">ある</span>？ | *Shumi wa aru?* | 詢問對方嗜好的最常用發問。 |
+| 2 | 你喜歡什麼類型的音樂？ | <span style="color:#F39C12">どんな</span><span style="color:#2ECC71">音樂が</span><span style="color:#3498DB">好き</span>？ | *Donna ongaku ga suki?* | `どんな`（什麼樣的）。口語常省略助詞 `が`。 |
+| 3 | 你喜歡做菜嗎？ | <span style="color:#2ECC71">料理は</span><span style="color:#3498DB">好き</span>？ | *Ryouri wa suki?* | `料理`（做菜）。 |
+| 4 | 你喜歡旅行嗎？ | <span style="color:#2ECC71">旅行は</span><span style="color:#3498DB">好き</span>？ | *Ryokou wa suki?* | `旅行`（旅行）。 |
+| 5 | 你喜歡戶外活動嗎？ | <span style="color:#2ECC71">アウトドアは</span><span style="color:#3498DB">好き</span>？ | *Autodoa wa suki?* | `アウトドア` 為 Outdoor（戶外）。 |
+| 6 | 你最喜歡的興趣是什麼？ | <span style="color:#F39C12">お気に入りの</span><span style="color:#2ECC71">趣味は</span><span style="color:#3498DB">何</span>？ | *O-kiniiri no shumi wa nani?* | `お気に入り` 為最中意、最喜愛的。 |
+| 7 | 紅茶和咖啡你喜歡哪一個？ | <span style="color:#2ECC71">紅茶と</span><span style="color:#2ECC71">コーヒー</span><span style="color:#2ECC71">どっちが</span><span style="color:#3498DB">好き</span>？ | *Kocha to koohii docchi ga suki?* | `どっち` 為二選一時使用的口語代名詞。 |
+| 8 | 你對咖啡有偏好/講究嗎？ | <span style="color:#F39C12">コーヒーの</span><span style="color:#2ECC71">好みは</span><span style="color:#3498DB">ある</span>？ | *Koohii no konomi wa aru?* | `好み` 指喜好或偏好的口味/種類。 |
+| 9 | 你最喜歡的季節是什麼？ | <span style="color:#F39C12">好きな</span><span style="color:#2ECC71">季節は</span><span style="color:#3498DB">何</span>？ | *Sukina kisetsu wa nani?* | `季節`（季節）。 |
+| 10 | 你有兄弟姊妹嗎？ | <span style="color:#2ECC71">兄弟は</span><span style="color:#3498DB">いる</span>？ | *Kyoudai wa iru?* | 日文 `兄弟` 通常泛指手足（包含姊妹）。 |
+| 11 | 你有養寵物嗎？ | <span style="color:#2ECC71">ペットは</span><span style="color:#3498DB">飼ってる</span>？ | *Petto wa katteru?* | `飼ってる` 是 `飼っている` 的縮音口語（養著）。 |
+| 12 | 你去過音樂祭嗎？ | <span style="color:#FF477E">音樂フェスに</span><span style="color:#F39C12">行った</span><span style="color:#2ECC71">こと</span><span style="color:#3498DB">ある</span>？ | *Ongaku fesu ni itta koto aru?* | `〜たこと（が）ある`（有過...的經驗）。 |
+| 13 | 你英文學了多久了？ | <span style="color:#2ECC71">英語を</span><span style="color:#FF477E">どのくらい</span><span style="color:#3498DB">勉強してる</span>？ | *Eigo o dono kurai benkyou shiteru?* | `勉強してる`（正在學習中，為正在進行式縮音）。 |
+| 14 | 這個單字用英文怎麼說？ | <span style="color:#F39C12">この</span><span style="color:#2ECC71">単語は</span><span style="color:#FF477E">英語で</span><span style="color:#3498DB">どういうの</span>？ | *Kono tango wa eigo de doo iu no?* | `どういうの`（怎麼說的呢，為 `どう言いますか` 的口語）。 |
+| 15 | 你能推薦一本好書嗎？ | <span style="color:#F39C12">良い</span><span style="color:#2ECC71">本を</span><span style="color:#3498DB">教えてくれない</span>？ | *Ii hon o oshiete kurenai?* | `教えてくれない？`（不能告訴我嗎？）。 |
+| 16 | 你週末平時都怎麼過？ | <span style="color:#FF477E">いつも</span><span style="color:#2ECC71">休日は</span><span style="color:#FF477E">どうやって</span><span style="color:#3498DB">過ごしてる</span>？ | *Itsumo kyuujitsu wa doo yatte sugoshiteru?* | `どうやって`（如何/以何種方式）。`過ごす` 度過時間。 |
+| 17 | 你是怎麼維持身材的？ | <span style="color:#FF477E">どうやって</span><span style="color:#2ECC71">體型を</span><span style="color:#3498DB">維持してるの</span>？ | *Doo yatte taikei o iji shiteru no?* | `體型`（體型/身材）。`維持する`（維持）。 |
 
 ---
 

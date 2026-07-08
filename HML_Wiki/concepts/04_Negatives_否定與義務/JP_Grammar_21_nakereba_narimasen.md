@@ -11,9 +11,11 @@ contradicts:
 表示義務或必須（必須做某事 / 不得不...）。
 
 ## 實用例句
-- 日文：<ruby>每日<rt>まいにち (mainichi)</rt></ruby><ruby>宿題<rt>しゅくだい (shukudai)</rt></ruby>をしなければなりません。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>每日<rt>まいにち (mainichi)</rt></ruby></span><span style="color:#3498DB"><ruby>宿題<rt>しゅくだい (shukudai)</rt></ruby>をしなければなりません。</span>
 - 中文：每天都必須做功課。
-- 日文：<ruby>藥<rt>くすり (kusuri)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>まなければなりません。
+- 日文：<span style="color:#3498DB"><ruby>藥<rt>くすり (kusuri)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>まなければなりません。</span>
 - 中文：必須吃藥。
 
 ## 關係說明

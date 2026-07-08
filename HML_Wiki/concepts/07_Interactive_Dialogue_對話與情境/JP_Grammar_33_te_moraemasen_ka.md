@@ -13,37 +13,39 @@ refines:
 用於請求他人為自己做某事。比單純的 `〜てください` 更為客氣、委婉，能夠給對方拒絕的餘地，是日常生活中向陌生人、長輩或上司求助時必備的句型。
 
 ## 實用例句
-- 日文：こちらの<ruby>書類<rt>しょるい (shorui)</rt></ruby>を<ruby>印刷<rt>いんさつ (insatsu)</rt></ruby>していただけますか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#F39C12">こちらの</span><span style="color:#3498DB"><ruby>書類<rt>しょるい (shorui)</rt></ruby>を<ruby>印刷<rt>いんさつ (insatsu)</rt></ruby>していただけますか。</span>
 - 中文：這份文件可以請您幫我列印嗎？
-- 日文：<ruby>明日<rt>あした (ashita)</rt></ruby>までに<ruby>申請<rt>しんせい (shinsei)</rt></ruby>を<ruby>送<rt>おく (oku)</rt></ruby>っていただけますか。
+- 日文：<span style="color:#FF477E"><ruby>明日<rt>あした (ashita)</rt></ruby>までに</span><span style="color:#3498DB"><ruby>申請<rt>しんせい (shinsei)</rt></ruby>を<ruby>送<rt>おく (oku)</rt></ruby>っていただけますか。</span>
 - 中文：可否請您在明天之前送出申請？
-- 日文：<ruby>少し<rt>すこ (suko)</rt></ruby>ゆっくり<ruby>話<rt>はな (hana)</rt></ruby>していただけますか。
+- 日文：<span style="color:#FF477E"><ruby>少し<rt>すこ (suko)</rt></ruby></span><span style="color:#FF477E">ゆっくり</span><span style="color:#3498DB"><ruby>話<rt>はな (hana)</rt></ruby>していただけますか。</span>
 - 中文：能請您說得稍微慢一點嗎？
-- 日文：この<ruby>部分<rt>ぶぶん (bubun)</rt></ruby>をもう<ruby>一度<rt>いちど (ichido)</rt></ruby><ruby>説明<rt>せつめい (setsumei)</rt></ruby>していただけますか。
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>部分<rt>ぶぶん (bubun)</rt></ruby>を</span><span style="color:#FF477E">もう<ruby>一度<rt>いちど (ichido)</rt></ruby></span><span style="color:#3498DB"><ruby>説明<rt>せつめい (setsumei)</rt></ruby>していただけますか。</span>
 - 中文：這一部分能請您再說明一次嗎？
-- 日文：<ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもらえませんか。
+- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもらえませんか。</span>
 - 中文：能幫我拍張照片嗎？
-- 日文：<ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>っていただけないでしょうか。
+- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>っていただけないでしょうか。</span>
 - 中文：能不能麻煩您幫我拍張照片呢？（更為禮貌）
-- 日文：<ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>預<rt>あずか (azuka)</rt></ruby>ってもらえませんか。
+- 日文：<span style="color:#3498DB"><ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>預<rt>あずか (azuka)</rt></ruby>ってもらえませんか。</span>
 - 中文：能幫我寄放行李嗎？
-- 日文：タクシーを<ruby>呼<rt>よ (yo)</rt></ruby>んでもらえませんか。
+- 日文：<span style="color:#3498DB">タクシーを<ruby>呼<rt>よ (yo)</rt></ruby>んでもらえませんか。</span>
 - 中文：能幫我叫輛計程車嗎？
-- 日文：ラインを<ruby>教<rt>おしえ (oshie)</rt></ruby>てもらえませんか。
+- 日文：<span style="color:#3498DB">ラインを<ruby>教<rt>おしえ (oshie)</rt></ruby>てもらえませんか。</span>
 - 中文：能告訴我您的 Line 嗎？
-- 日文：あれを<ruby>取<rt>と (to)</rt></ruby>ってもらえませんか。
+- 日文：<span style="color:#3498DB">あれを<ruby>取<rt>と (to)</rt></ruby>ってもらえませんか。</span>
 - 中文：能幫我拿一下那個嗎？
-- 日文：<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>してもらえませんか。
+- 日文：<span style="color:#3498DB"><ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>してもらえませんか。</span>
 - 中文：能借我雨傘嗎？
-- 日文：お<ruby>弁当<rt>べんとう (bentou)</rt></ruby>を<ruby>温<rt>あたた (atata)</rt></ruby>めてもらえませんか。
+- 日文：<span style="color:#3498DB">お<ruby>弁当<rt>べんとう (bentou)</rt></ruby>を<ruby>温<rt>あたた (atata)</rt></ruby>めてもらえませんか。</span>
 - 中文：能幫我加熱便當嗎？
-- 日文：スプーンを<ruby>持<rt>も (mo)</rt></ruby>って<ruby>来<rt>き (ki)</rt></ruby>てもらえませんか。
+- 日文：<span style="color:#3498DB">スプーンを<ruby>持<rt>も (mo)</rt></ruby>って<ruby>来<rt>き (ki)</rt></ruby>てもらえませんか。</span>
 - 中文：能幫我拿個湯匙來嗎？
-- 日文：クーラーを<ruby>消<rt>け (ke)</rt></ruby>してもらえませんか。
+- 日文：<span style="color:#3498DB">クーラーを<ruby>消<rt>け (ke)</rt></ruby>してもらえませんか。</span>
 - 中文：能幫我關掉冷氣嗎？
-- 日文：<ruby>日本語<rt>にほんご (nihongo)</rt></ruby>で<ruby>話<rt>はな (hana)</rt></ruby>してもらえませんか。
+- 日文：<span style="color:#FF477E"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>で</span><span style="color:#3498DB"><ruby>話<rt>はな (hana)</rt></ruby>してもらえませんか。</span>
 - 中文：能請您用日語說嗎？
-- 日文：<ruby>地図<rt>ちず (chizu)</rt></ruby>を<ruby>書<rt>か (ka)</rt></ruby>いてもらえませんか。
+- 日文：<span style="color:#3498DB"><ruby>地図<rt>ちず (chizu)</rt></ruby>を<ruby>書<rt>か (ka)</rt></ruby>いてもらえませんか。</span>
 - 中文：能幫我畫張地圖嗎？
 
 ## 關係說明

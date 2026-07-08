@@ -13,13 +13,15 @@ replaces:
 - **非常委婉體貼**：語氣溫和，把決定權留給對方，常用於對客人、上司或長輩提出關心或選項。
 
 ## 實用例句
-- 日文：<ruby>暑<rt>あつ (atsu)</rt></ruby>いので<ruby>少し<rt>すこし (sukoshi)</rt></ruby><ruby>休<rt>やす (yasu)</rt></ruby>んではいかがですか。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>暑<rt>あつ (atsu)</rt></ruby>いので</span><span style="color:#FF477E"><ruby>稍微<rt>すこし (sukoshi)</rt></ruby></span><span style="color:#3498DB"><ruby>休<rt>やす (yasu)</rt></ruby>んではいかがですか。</span>
 - 中文：天氣很熱，稍微休息一下如何呢？（關心對方）
-- 日文：<ruby>先<rt>さき (saki)</rt></ruby>に<ruby>食事<rt>しょくじ (shokuji)</rt></ruby>をしてはいかがですか。
+- 日文：<span style="color:#FF477E"><ruby>先<rt>さき (saki)</rt></ruby>に</span><span style="color:#3498DB"><ruby>食事<rt>しょくじ (shokuji)</rt></ruby>をしてはいかがですか。</span>
 - 中文：要不要先用餐呢？
-- 日文：<ruby>今日<rt>きょう (kyou)</rt></ruby>はタクシーを<ruby>使<rt>つか (tsuka)</rt></ruby>ってはいかがですか。
+- 日文：<span style="color:#2ECC71"><ruby>今日<rt>きょう (kyou)</rt></ruby>は</span><span style="color:#3498DB">タクシーを<ruby>使<rt>つか (tsuka)</rt></ruby>ってはいかがですか。</span>
 - 中文：今天搭計程車如何呢？（提議）
-- 日文：お<ruby>客<rt>きゃく (kyaku)</rt></ruby><ruby>様<rt>さま (sama)</rt></ruby>、この<ruby>席<rt>せき (seki)</rt></ruby>をご<ruby>利用<rt>riyou (riyou)</rt></ruby>になってはいかがですか。
+- 日文：<span style="color:#2ECC71">お<ruby>客<rt>きゃく (kyaku)</rt></ruby><ruby>様<rt>さま (sama)</rt></ruby>、</span><span style="color:#F39C12">この</span><span style="color:#3498DB"><ruby>席<rt>せき (seki)</rt></ruby>をご<ruby>利用<rt>riyou (riyou)</rt></ruby>になってはいかがですか。</span>
 - 中文：貴賓，您使用這個座位如何呢？（服務人員的體貼建議）
 
 ## 關係說明

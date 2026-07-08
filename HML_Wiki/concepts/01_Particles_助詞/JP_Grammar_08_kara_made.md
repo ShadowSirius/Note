@@ -7,9 +7,11 @@
 表示時間或空間的起點（から）與終點（まで）。
 
 ## 實用例句
-- 日文：９<ruby>時<rt>じ (ji)</rt></ruby>から５<ruby>時<rt>じ (ji)</rt></ruby>まで<ruby>働<rt>はたら (hatara)</rt></ruby>きます。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">９<ruby>時<rt>じ (ji)</rt></ruby>から５<ruby>時<rt>じ (ji)</rt></ruby>まで</span><span style="color:#3498DB"><ruby>働<rt>はたら (hatara)</rt></ruby>きます。</span>
 - 中文：從9點工作到5點。
-- 日文：<ruby>東京<rt>とうきょう (toukyou)</rt></ruby>から<ruby>大阪<rt>おおさか (oosaka)</rt></ruby>まで<ruby>行<rt>い (i)</rt></ruby>きます。
+- 日文：<span style="color:#FF477E"><ruby>東京<rt>とうきょう (toukyou)</rt></ruby>から<ruby>大阪<rt>おおさか (oosaka)</rt></ruby>まで</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>きます。</span>
 - 中文：從東京去到大阪。
 
 ## 關係說明

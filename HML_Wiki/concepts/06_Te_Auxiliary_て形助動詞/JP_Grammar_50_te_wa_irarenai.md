@@ -13,13 +13,15 @@ prevents:
 - 常帶有「必須立刻採取行動」的緊迫感。
 
 ## 實用例句
-- 日文：もう<ruby>待<rt>ま (ma)</rt></ruby>ってはいられない。<ruby>連絡<rt>れんらく (renraku)</rt></ruby>してみよう。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">もう</span><span style="color:#3498DB"><ruby>待<rt>ま (ma)</rt></ruby>ってはいられない。</span><span style="color:#3498DB"><ruby>連絡<rt>れんらく (renraku)</rt></ruby>してみよう。</span>
 - 中文：不能再等了。聯絡看看吧。
-- 日文：<ruby>時間<rt>じかん (jikan)</rt></ruby>がないから<ruby>悩<rt>なや (naya)</rt></ruby>んではいられない。
+- 日文：<span style="color:#FF477E"><ruby>時間<rt>じかん (jikan)</rt></ruby>がないから</span><span style="color:#3498DB"><ruby>悩<rt>なや (naya)</rt></ruby>んではいられない。</span>
 - 中文：時間不多了，不能再煩惱了。（必須做決定）
-- 日文：クレームが<ruby>多い<rt>おお (oo)</rt></ruby>。<ruby>対策<rt>たいさく (taisaku)</rt></ruby>なしではいられない。
+- 日文：<span style="color:#2ECC71">クレームが</span><span style="color:#3498DB"><ruby>多い<rt>おお (oo)</rt></ruby>。</span><span style="color:#3498DB"><ruby>対策<rt>たいさく (taisaku)</rt></ruby>なしではいられない。</span>
 - 中文：抱怨（投訴）太多了，不能不採取對策。
-- 日文：<ruby>今回<rt>こんかい (konkai)</rt></ruby>こそ<ruby>動<rt>うご (ugo)</rt></ruby>かずにはいられない。
+- 日文：<span style="color:#FF477E"><ruby>今回<rt>こんかい (konkai)</rt></ruby>こそ</span><span style="color:#3498DB"><ruby>動<rt>うご (ugo)</rt></ruby>かずにはいられない。</span>
 - 中文：這次真的不能不採取行動。（雙重否定：不由得必須行動）
 
 ## 關係說明

@@ -11,9 +11,11 @@ related_to:
 用於提出明確建議或勸告（最好... / 還是...比較好）。
 
 ## 實用例句
-- 日文：<ruby>早<rt>はや (haya)</rt></ruby>く<ruby>寢<rt>ね (ne)</rt></ruby>たほうがいいですよ。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>早<rt>はや (haya)</rt></ruby>く</span><span style="color:#3498DB"><ruby>寢<rt>ね (ne)</rt></ruby>たほうがいいですよ。</span>
 - 中文：最好早點睡喔。
-- 日文：<ruby>病院<rt>びょういん (byouin)</rt></ruby>に<ruby>行<rt>い (i)</rt></ruby>ったほうがいいです。
+- 日文：<span style="color:#FF477E"><ruby>病院<rt>びょういん (byouin)</rt></ruby>に</span><span style="color:#3498DB"><ruby>行<rt>い (i)</rt></ruby>ったほうがいいです。</span>
 - 中文：還是去醫院比較好。
 
 ## 關係說明

@@ -11,9 +11,11 @@ related_to:
 表示說話者個人的計畫、意圖或打算（打算...）。
 
 ## 實用例句
-- 日文：<ruby>來年<rt>らいねん (rainen)</rt></ruby>、<ruby>日本<rt>にほん (nihon)</rt></ruby>へ<ruby>留學<rt>りゅうがく (ryuugaku)</rt></ruby>するつもりです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E"><ruby>來年<rt>らいねん (rainen)</rt></ruby>、</span><span style="color:#FF477E"><ruby>日本<rt>にほん (nihon)</rt></ruby>へ</span><span style="color:#3498DB"><ruby>留學<rt>りゅうがく (ryuugaku)</rt></ruby>するつもりです。</span>
 - 中文：我打算明年去日本留學。
-- 日文：タバコはもう<ruby>吸<rt>す (su)</rt></ruby>わないつもりです。
+- 日文：<span style="color:#2ECC71">タバコは</span><span style="color:#FF477E">もう</span><span style="color:#3498DB"><ruby>吸<rt>す (su)</rt></ruby>わないつもりです。</span>
 - 中文：我打算不再吸菸了。
 
 ## 關係說明

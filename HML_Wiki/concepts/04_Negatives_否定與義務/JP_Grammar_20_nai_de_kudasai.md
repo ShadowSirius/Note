@@ -11,9 +11,11 @@ contradicts:
 要求對方不要做某事（請不要...）。
 
 ## 實用例句
-- 日文：<ruby>寫真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>らないでください。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#3498DB"><ruby>寫真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>らないでください。</span>
 - 中文：請不要拍照。
-- 日文：<ruby>無理<rt>むり (muri)</rt></ruby>をしないでください。
+- 日文：<span style="color:#3498DB"><ruby>無理<rt>むり (muri)</rt></ruby>をしないでください。</span>
 - 中文：請不要勉強。
 
 ## 關係說明

@@ -19,9 +19,11 @@ sibling_of:
 表示傳聞，即「聽說...」。常與 `〜によると`（根據...）搭配使用，標示資訊來源。
 
 ## 實用例句
-- 日文：ニュースによると、台風が来るそうです。
+> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+
+- 日文：<span style="color:#FF477E">ニュースによると、</span><span style="color:#2ECC71">台風が</span><span style="color:#3498DB">来るそうです</span>。
   中文：根據新聞，聽說颱風要來。
-- 日文：王さんは台北へ行くと言っています。
+- 日文：<span style="color:#2ECC71">王さんは</span><span style="color:#FF477E">台北へ</span><span style="color:#3498DB">行くと言っています</span>。
   中文：王先生說他要去台北。
 
 ## 學習提示
