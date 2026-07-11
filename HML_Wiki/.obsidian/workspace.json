@@ -11,14 +11,12 @@
             "id": "e4df729a91bcf32f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "concepts/11_Daily_Phrases_Part2/Daily_Phrases_State_Reactions.md",
-                "mode": "source",
-                "source": false
+                "file": "raw/archive/Japanese_Grammar_50.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Daily_Phrases_State_Reactions"
+              "icon": "lucide-file-text",
+              "title": "Japanese_Grammar_50"
             }
           }
         ]
@@ -185,6 +183,16 @@
   },
   "active": "e4df729a91bcf32f",
   "lastOpenFiles": [
+    "raw/Grammar_ni.md",
+    "raw/life_setence.md",
+    "raw/usual_setence.md",
+    "raw/README.md",
+    "index.md",
+    "CONTEXT.md",
+    "raw/archive/Japanese_Grammar_50_ocr.md",
+    "raw/archive/Japanese_Grammar_50.pdf",
+    "derived/README.md",
+    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_State_Reactions.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Requests_Help.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Invitations_Plans.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Interests_Hobbies.md",
@@ -203,19 +211,10 @@
     "concepts/01_Particles_助詞/JP_Grammar_05_de.md",
     "concepts/01_Particles_助詞/JP_Grammar_01_wa_desu.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Map.canvas",
-    "concepts/08_Japanese_Grammar_50/JP_Grammar_50_C07_ga_vs_wa.md",
-    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech6_Greetings_Social.md",
-    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech5_Negation_Potential.md",
-    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech3_Permissions.md",
-    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech2_Requests.md",
-    "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech4_Invitations.md",
-    "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Praise_Support.md",
     "concepts/08_Japanese_Grammar_50/update_drills_part2.py",
     "concepts/08_Japanese_Grammar_50/update_drills_part1.py",
     "concepts/08_Japanese_Grammar_50/extracted_examples.json",
     "concepts/08_Japanese_Grammar_50/extract_examples.json.py",
-    "concepts/10_Basic_English_850/Basic_English_Phrasal_Verbs.md",
-    "concepts/10_Basic_English_850/Basic_English_Pros_Cons.md",
     "concepts/10_Basic_English_850/Basic_English_Map.canvas",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Map.canvas",
     "concepts/Japanese_Grammar_Map.canvas",
