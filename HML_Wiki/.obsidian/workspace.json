@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f3fb43d6909ef19",
+        "id": "90a8c6a107e60f59",
         "type": "tabs",
         "children": [
           {
-            "id": "e4df729a91bcf32f",
+            "id": "f9f6d33986d211b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "raw/archive/Japanese_Grammar_50.pdf"
+                "file": "concepts/07_Interactive_Dialogue_對話與情境/JP_Grammar_34_masen_ka.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Japanese_Grammar_50"
+              "icon": "lucide-file",
+              "title": "JP_Grammar_34_masen_ka"
             }
           }
         ]
@@ -181,8 +183,10 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "e4df729a91bcf32f",
+  "active": "f9f6d33986d211b5",
   "lastOpenFiles": [
+    "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Travel_Hotel.md",
+    "raw/archive/Japanese_Grammar_50.pdf",
     "raw/Grammar_ni.md",
     "raw/life_setence.md",
     "raw/usual_setence.md",
@@ -190,7 +194,6 @@
     "index.md",
     "CONTEXT.md",
     "raw/archive/Japanese_Grammar_50_ocr.md",
-    "raw/archive/Japanese_Grammar_50.pdf",
     "derived/README.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_State_Reactions.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Requests_Help.md",
@@ -200,7 +203,6 @@
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Conversational_Queries.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Responses.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Scenarios.md",
-    "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Travel_Hotel.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Vocab_Verbs.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Daily_Life.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Grammar_32_wo_kudasai.md",
@@ -209,7 +211,6 @@
     "concepts/01_Particles_助詞/JP_Grammar_04_wo.md",
     "concepts/01_Particles_助詞/JP_Grammar_06_to.md",
     "concepts/01_Particles_助詞/JP_Grammar_05_de.md",
-    "concepts/01_Particles_助詞/JP_Grammar_01_wa_desu.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Map.canvas",
     "concepts/08_Japanese_Grammar_50/update_drills_part2.py",
     "concepts/08_Japanese_Grammar_50/update_drills_part1.py",
