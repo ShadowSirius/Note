@@ -66,6 +66,8 @@
 ## 🗣️ 生活對話與情境應用
 - [[JP_Dialogue_Responses|情境對話應答]] (Dialogue Responses)
 - [[JP_Dialogue_Scenarios|日語生活情境會話]] (Dialogue Scenarios)
+- [[JP_Dialogue_Travel_Hotel|日語情境會話：旅行、交通與實用生活篇]] (Dialogue Travel Hotel)
+- [[JP_Dialogue_Daily_Life|日語日常社交與實用表達篇]] (Dialogue Daily Life)
 - [[JP_Vocab_Verbs|高頻核心動詞短語清單 (66個)]] (High-Frequency Verbs)
 
 ---

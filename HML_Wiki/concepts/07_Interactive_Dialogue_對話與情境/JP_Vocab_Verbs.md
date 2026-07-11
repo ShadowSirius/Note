@@ -6,91 +6,93 @@ illustrates:
 
 本表彙整了影片中所出現的 66 個高頻日文動詞與常用動詞短語，並進行邏輯分類，以便左右腦協同記憶。
 
+> [!tip] 句子結構色彩：🟢主語/主題（#2ECC71） \| 🔵核心/謂語（#3498DB） \| 🟠修飾語/賓語（#E67E22） \| 🔴時間/場所/副詞（#E74C3C）
+
 ---
 
 ## 🍳 一、 飲食與日常生理 (Eating, Drinking & Basics)
-1. お<ruby>茶<rt>ちゃ (cha)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>みます：喝茶
-2. <ruby>水<rt>みず (mizu)</rt></ruby>を<ruby>飲<rt>の (no)</rt></ruby>みます：喝水
-3. <ruby>朝<rt>あさ (asa)</rt></ruby>ごはんを<ruby>食<rt>た (ta)</rt></ruby>べます：吃早餐
-4. ラーメンを<ruby>食<rt>た (ta)</rt></ruby>べます：吃拉麵
-5. タバコを<ruby>吸<rt>す (su)</rt></ruby>います：抽菸
-6. <ruby>服<rt>ふく (fuku)</rt></ruby>を<ruby>着<rt>き (ki)</rt></ruby>ます：穿衣服
-7. <ruby>靴<rt>くつ (kutsu)</rt></ruby>を<ruby>履<rt>は (ha)</rt></ruby>きます：穿鞋子
-8. <ruby>帽子<rt>ぼうし (boushi)</rt></ruby>をかぶります：戴帽子
-9. <ruby>部屋<rt>へや (heya)</rt></ruby>を<ruby>掃除<rt>そうじ (souji)</rt></ruby>します：打掃房間
-10. ちょっと<ruby>休<rt>やす (yasu)</rt></ruby>みます：稍微休息
+1. <span style="color:#E67E22"><ruby>お茶<rt>ちゃ</rt></ruby>を</span><span style="color:#3498DB"><ruby>飲<rt>の</rt></ruby>みます</span>：喝茶
+2. <span style="color:#E67E22"><ruby>水<rt>みず</rt></ruby>を</span><span style="color:#3498DB"><ruby>飲<rt>の</rt></ruby>みます</span>：喝水
+3. <span style="color:#E67E22"><ruby>朝<rt>あさ</rt></ruby>ごはんを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べます</span>：吃早餐
+4. <span style="color:#E67E22">ラーメンを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べます</span>：吃拉麵
+5. <span style="color:#E67E22">タバコを</span><span style="color:#3498DB"><ruby>吸<rt>す</rt></ruby>います</span>：抽菸
+6. <span style="color:#E67E22"><ruby>服<rt>ふく</rt></ruby>を</span><span style="color:#3498DB"><ruby>着<rt>き</rt></ruby>ます</span>：穿衣服
+7. <span style="color:#E67E22"><ruby>靴<rt>くつ</rt></ruby>を</span><span style="color:#3498DB"><ruby>履<rt>は</rt></ruby>きます</span>：穿鞋子
+8. <span style="color:#E67E22"><ruby>帽子<rt>ぼうし</rt></ruby>を</span><span style="color:#3498DB">かぶります</span>：戴帽子
+9. <span style="color:#E67E22"><ruby>部屋<rt>へや</rt></ruby>を</span><span style="color:#3498DB"><ruby>掃除<rt>そうじ</rt></ruby>します</span>：打掃房間
+10. <span style="color:#E74C3C">ちょっと</span><span style="color:#3498DB"><ruby>休<rt>やす</rt></ruby>ます</span>：稍微休息
 
 ---
 
 ## 🚗 二、 移動與交通 (Movement & Travel)
-11. <ruby>台灣<rt>たいわん (taiwan)</rt></ruby>へ<ruby>帰<rt>かえ (kae)</rt></ruby>ります：回台灣
-12. レストランに<ruby>入<rt>はい (hai)</rt></ruby>ります：進餐廳
-13. <ruby>部屋<rt>へや (heya)</rt></ruby>に<ruby>入<rt>はい (hai)</rt></ruby>ります：進房間
-14. <ruby>今<rt>いま (ima)</rt></ruby>から<ruby>行<rt>い (i)</rt></ruby>きます：現在去
-15. <ruby>道<rt>みち (michi)</rt></ruby>を<ruby>歩<rt>ある (aru)</rt></ruby>きます：走在路上
-16. <ruby>道<rt>みち (michi)</rt></ruby>を<ruby>渡<rt>わた (wata)</rt></ruby>ります：過馬路
-17. <ruby>電車<rt>でんしゃ (densha)</rt></ruby>に<ruby>乗<rt>お (o)</rt></ruby>ります：搭電車
-18. <ruby>電車<rt>でんしゃ (densha)</rt></ruby>を<ruby>降<rt>お (o)</rt></ruby>ります：下電車
-19. <ruby>大阪駅<rt>おおさかえき (oosakaeki)</rt></ruby>で<ruby>乗<rt>の (no)</rt></ruby>り<ruby>換<rt>か (ka)</rt></ruby>えます：在大阪站換車
-20. あの<ruby>信号<rt>しんごう (shingou)</rt></ruby>を<ruby>曲<rt>まが (maga)</rt></ruby>ります：在那個紅綠燈轉彎
-21. まっすぐ<ruby>行<rt>い (i)</rt></ruby>きます：直直走
+11. <span style="color:#E74C3C"><ruby>台湾<rt>たいわん</rt></ruby>へ</span><span style="color:#3498DB"><ruby>帰<rt>かえ</rt></ruby>ります</span>：回台灣
+12. <span style="color:#E74C3C">レストランに</span><span style="color:#3498DB"><ruby>入<rt>はい</rt></ruby>ります</span>：進餐廳
+13. <span style="color:#E74C3C"><ruby>部屋<rt>へや</rt></ruby>に</span><span style="color:#3498DB"><ruby>入<rt>はい</rt></ruby>ります</span>：進房間
+14. <span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby>から</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>きます</span>：現在去
+15. <span style="color:#E67E22"><ruby>道<rt>みち</rt></ruby>を</span><span style="color:#3498DB"><ruby>歩<rt>ある</rt></ruby>きます</span>：走在路上
+16. <span style="color:#E67E22"><ruby>道<rt>みち</rt></ruby>を</span><span style="color:#3498DB"><ruby>渡<rt>わた</rt></ruby>ります</span>：過馬路
+17. <span style="color:#E67E22"><ruby>電車<rt>でんしゃ</rt></ruby>に</span><span style="color:#3498DB"><ruby>乗<rt>の</rt></ruby>ります</span>：搭電車
+18. <span style="color:#E67E22"><ruby>電車<rt>でんしゃ</rt></ruby>を</span><span style="color:#3498DB"><ruby>降<rt>お</rt></ruby>ります</span>：下電車
+19. <span style="color:#E74C3C"><ruby>大阪駅<rt>おおさかえき</rt></ruby>で</span><span style="color:#3498DB">乗り<ruby>換<rt>か</rt></ruby>えます</span>：在大阪站換車
+20. <span style="color:#E67E22">あの<ruby>信号<rt>しんごう</rt></ruby>を</span><span style="color:#3498DB"><ruby>曲<rt>まが</rt></ruby>ります</span>：在那個紅綠燈轉彎
+21. <span style="color:#E74C3C">まっすぐ</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>きます</span>：直直走
 
 ---
 
 ## 🗣️ 三、 社交與言語溝通 (Social & Communication)
-22. <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>と<ruby>話<rt>はな (hana)</rt></ruby>します：和朋友說話
-23. お<ruby>店<rt>みせ (mise)</rt></ruby>の<ruby>人<rt>ひと (hito)</rt></ruby>に<ruby>言<rt>い (i)</rt></ruby>います：對店員說
-24. <ruby>彼<rt>かれ (kare)</rt></ruby>に<ruby>道<rt>みち (michi)</rt></ruby>を<ruby>教<rt>おしえ (oshie)</rt></ruby>ます：告訴他路怎麼走
-25. <ruby>仕事<rt>しごと (shigoto)</rt></ruby>を<ruby>手伝<rt>てつだ (tetsuda)</rt></ruby>います：幫忙工作
-26. <ruby>台灣<rt>たいわん (taiwan)</rt></ruby>を<ruby>紹介<rt>しょうかい (shoukai)</rt></ruby>します：介紹台灣
-27. <ruby>使<rt>つか (tsuka)</rt></ruby>い<ruby>方<rt>かた (kata)</rt></ruby>を<ruby>説明<rt>せつめい (setsumei)</rt></ruby>します：說明使用方法
-28. <ruby>心配<rt>しんぱい (shinpai)</rt></ruby>します：擔心
-29. 歌を<ruby>歌<rt>うた (uta)</rt></ruby>います：唱歌
-30. <ruby>名前<rt>なまえ (namae)</rt></ruby>を<ruby>記入<rt>きにゅう (kinyuu)</rt></ruby>します：填寫姓名
+22. <span style="color:#E67E22"><ruby>友達<rt>ともだち</rt></ruby>と</span><span style="color:#3498DB"><ruby>話<rt>はな</rt></ruby>します</span>：和朋友說話
+23. <span style="color:#E67E22">お<ruby>店<rt>みせ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に</span><span style="color:#3498DB"><ruby>言<rt>い</rt></ruby>います</span>：對店員說
+24. <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>に</span><span style="color:#E67E22"><ruby>道<rt>みち</rt></ruby>を</span><span style="color:#3498DB"><ruby>教<rt>おしえ</rt></ruby>ます</span>：告訴他路怎麼走
+25. <span style="color:#E67E22"><ruby>仕事<rt>しごと</rt></ruby>を</span><span style="color:#3498DB"><ruby>手伝<rt>てつだ</rt></ruby>います</span>：幫忙工作
+26. <span style="color:#E67E22"><ruby>台湾<rt>たいわん</rt></ruby>を</span><span style="color:#3498DB"><ruby>紹介<rt>しょうかい</rt></ruby>します</span>：介紹台灣
+27. <span style="color:#E67E22"><ruby>使<rt>つか</rt></ruby>い<ruby>方<rt>かた</rt></ruby>を</span><span style="color:#3498DB"><ruby>説明<rt>せつめい</rt></ruby>します</span>：說明使用方法
+28. <span style="color:#3498DB"><ruby>心配<rt>しんぱい</rt></ruby>します</span>：擔心
+29. <span style="color:#E67E22">歌を</span><span style="color:#3498DB"><ruby>歌<rt>うた</rt></ruby>います</span>：唱歌
+30. <span style="color:#E67E22"><ruby>名前<rt>なまえ</rt></ruby>を</span><span style="color:#3498DB"><ruby>記入<rt>きにゅう</rt></ruby>します</span>：填寫姓名
 
 ---
 
 ## 👜 四、 日常物品操作 (Actions on Items)
-31. <ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ります：拍照
-32. <ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>持<rt>も (mo)</rt></ruby>ます：提行李
-33. <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>貸<rt>か (ka)</rt></ruby>します：借雨傘給朋友
-34. <ruby>友達<rt>ともだち (tomodachi)</rt></ruby>に<ruby>傘<rt>かさ (kasa)</rt></ruby>を<ruby>借<rt>か (ka)</rt></ruby>ります：向朋友借雨傘
-35. お<ruby>土産<rt>みやげ (miyage)</rt></ruby>を<ruby>買<rt>か (ka)</rt></ruby>います：買名產
-36. クレジットカードを<ruby>使<rt>つか (tsuka)</rt></ruby>います：使用信用卡
-37. チケットを<ruby>売<rt>う (u)</rt></ruby>ります：售票
-38. <ruby>荷物<rt>にもつ (nimotsu)</rt></ruby>を<ruby>置<rt>お (o)</rt></ruby>きます：放行李
-39. <ruby>動物<rt>どうぶつ (doubutsu)</rt></ruby>に<ruby>觸<rt>さわ (sawa)</rt></ruby>ります：觸摸動物
-40. お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>出<rt>だ (da)</rt></ruby>します：拿錢出來
-41. <ruby>財布<rt>さいふ (saifu)</rt></ruby>をなくします：弄丟錢包
-42. お<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>払<rt>はら (hara)</rt></ruby>います：付錢
-43. カバンを<ruby>開<rt>あ (a)</rt></ruby>けます：打開包包
-44. <ruby>財布<rt>さいふ (saifu)</rt></ruby>にお<ruby>金<rt>かね (kane)</rt></ruby>を<ruby>入<rt>い (i)</rt></ruby>れます：把錢放入錢包
-45. <ruby>台灣<rt>たいわん (taiwan)</rt></ruby>ドルを<ruby>日本円<rt>にほんえん (nihongen)</rt></ruby>に<ruby>替<rt>か (ka)</rt></ruby>えます：將台幣兌換為日圓
-46. <ruby>窗<rt>まど (mado)</rt></ruby>を<ruby>閉<rt>し (shi)</rt></ruby>めます：關窗戶
-47. ゴミを<ruby>捨<rt>す (su)</rt></ruby>てます：丟垃圾
-48. <ruby>財布<rt>さいふ (saifu)</rt></ruby>を<ruby>落<rt>おと (oto)</rt></ruby>します：掉落錢包
-49. お<ruby>弁当<rt>べんとう (bentou)</rt></ruby>を<ruby>温<rt>あたた (atata)</rt></ruby>めます：加熱便當
-50. プレゼントを<ruby>包<rt>つつ (tsutsu)</rt></ruby>みます：包裝禮物
-51. ボタンを<ruby>押<rt>お (o)</rt></ruby>します：按按鈕
-52. ビールを<ruby>注文<rt>ちゅうもん (chuumon)</rt></ruby>します：點啤酒
-53. お<ruby>醤油<rt>しょうゆ (shouyu)</rt></ruby>を<ruby>取<rt>と (to)</rt></ruby>ります：拿醬油
-54. カバンを<ruby>返品<rt>へんぴん (henpin)</rt></ruby>します：退貨包包
-55. 衣服を<ruby>試着<rt>しちゃく (shichaku)</rt></ruby>します：試穿衣服
+31. <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#3498DB"><ruby>撮<rt>と</rt></ruby>ります</span>：拍照
+32. <span style="color:#E67E22"><ruby>荷物<rt>にもつ</rt></ruby>を</span><span style="color:#3498DB"><ruby>持<rt>も</rt></ruby>ちます</span>：提行李
+33. <span style="color:#2ECC71"><ruby>友達<rt>ともだち</rt></ruby>に</span><span style="color:#E67E22"><ruby>傘<rt>かさ</rt></ruby>を</span><span style="color:#3498DB"><ruby>貸<rt>か</rt></ruby>します</span>：借雨傘給朋友
+34. <span style="color:#2ECC71"><ruby>友達<rt>ともだち</rt></ruby>に</span><span style="color:#E67E22"><ruby>傘<rt>かさ</rt></ruby>を</span><span style="color:#3498DB"><ruby>借<rt>か</rt></ruby>ります</span>：向朋友借雨傘
+35. <span style="color:#E67E22">お<ruby>土産<rt>みやげ</rt></ruby>を</span><span style="color:#3498DB"><ruby>買<rt>か</rt></ruby>います</span>：買名產
+36. <span style="color:#E67E22">クレジットカードを</span><span style="color:#3498DB"><ruby>使<rt>つか</rt></ruby>います</span>：使用信用卡
+37. <span style="color:#E67E22">チケットを</span><span style="color:#3498DB"><ruby>売<rt>う</rt></ruby>ります</span>：售票
+38. <span style="color:#E67E22"><ruby>荷物<rt>にもつ</rt></ruby>を</span><span style="color:#3498DB"><ruby>置<rt>お</rt></ruby>きます</span>：放行李
+39. <span style="color:#E67E22"><ruby>動物<rt>どうぶつ</rt></ruby>に</span><span style="color:#3498DB"><ruby>触<rt>さわ</rt></ruby>ります</span>：觸摸動物
+40. <span style="color:#E67E22">お<ruby>金<rt>かね</rt></ruby>を</span><span style="color:#3498DB"><ruby>出<rt>だ</rt></ruby>します</span>：拿錢出來
+41. <span style="color:#E67E22"><ruby>財布<rt>さいふ</rt></ruby>を</span><span style="color:#3498DB">なくします</span>：弄丟錢包
+42. <span style="color:#E67E22">お<ruby>金<rt>かね</rt></ruby>を</span><span style="color:#3498DB"><ruby>払<rt>はら</rt></ruby>います</span>：付錢
+43. <span style="color:#E67E22">カバンを</span><span style="color:#3498DB"><ruby>開<rt>あ</rt></ruby>けます</span>：打開包包
+44. <span style="color:#E74C3C"><ruby>財布<rt>さいふ</rt></ruby>に</span><span style="color:#E67E22">お<ruby>金<rt>かね</rt></ruby>を</span><span style="color:#3498DB"><ruby>入<rt>い</rt></ruby>れます</span>：把錢放入錢包
+45. <span style="color:#E67E22"><ruby>台湾<rt>たいわん</rt></ruby>ドルを</span><span style="color:#E67E22"><ruby>日本円<rt>にほんえん</rt></ruby>に</span><span style="color:#3498DB"><ruby>替<rt>か</rt></ruby>えます</span>：將台幣兌換為日圓
+46. <span style="color:#E67E22"><ruby>窓<rt>まど</rt></ruby>を</span><span style="color:#3498DB"><ruby>閉<rt>し</rt></ruby>めます</span>：關窗戶
+47. <span style="color:#E67E22">ゴミを</span><span style="color:#3498DB"><ruby>捨<rt>す</rt></ruby>てます</span>：丟垃圾
+48. <span style="color:#E67E22"><ruby>財布<rt>さいふ</rt></ruby>を</span><span style="color:#3498DB"><ruby>落<rt>おと</rt></ruby>します</span>：掉落錢包
+49. <span style="color:#E67E22">お<ruby>弁当<rt>べんとう</rt></ruby>を</span><span style="color:#3498DB"><ruby>温<rt>あたた</rt></ruby>めます</span>：加熱便當
+50. <span style="color:#E67E22">プレゼントを</span><span style="color:#3498DB"><ruby>包<rt>つつ</rt></ruby>みます</span>：包裝禮物
+51. <span style="color:#E67E22">ボタンを</span><span style="color:#3498DB"><ruby>押<rt>お</rt></ruby>します</span>：按按鈕
+52. <span style="color:#E67E22">ビールを</span><span style="color:#3498DB"><ruby>注文<rt>ちゅうもん</rt></ruby>します</span>：點啤酒
+53. <span style="color:#E67E22">お<ruby>醤油<rt>しょうゆ</rt></ruby>を</span><span style="color:#3498DB"><ruby>取<rt>と</rt></ruby>ります</span>：拿醬油
+54. <span style="color:#E67E22">カバンを</span><span style="color:#3498DB"><ruby>返品<rt>へんぴん</rt></ruby>します</span>：退貨包包
+55. <span style="color:#E67E22">衣服を</span><span style="color:#3498DB"><ruby>試着<rt>しちゃく</rt></ruby>します</span>：試穿衣服
 
 ---
 
 ## 🏨 五、 觀光、時間與旅行狀態 (Travel, Time & States)
-56. <ruby>駅<rt>えき (eki)</rt></ruby>まで<ruby>送<rt>おく (oku)</rt></ruby>ります：送到車站
-57. <ruby>駅<rt>えき (eki)</rt></ruby>まで<ruby>迎<rt>むか (muka)</rt></ruby>えに<ruby>行<rt>い (i)</rt></ruby>きます：去車站接人
-58. <ruby>部屋<rt>へや (heya)</rt></ruby>の<ruby>鍵<rt>かぎ (kagi)</rt></ruby>をもらいました / もらえました：拿到房間鑰匙
-59. <ruby>富士山<rt>ふじさん (fujisan)</rt></ruby>を<ruby>見<rt>み (mi)</rt></ruby>ます：看富士山
-60. <ruby>急<rt>いそ (iso)</rt></ruby>ぎます：趕時間 / 急忙
-61. <ruby>計畫書<rt>けいかくしょ (keikakusho)</rt></ruby>を<ruby>作<rt>つく (tsuku)</rt></ruby>ります：做計劃書 / 提案書
-62. ホテルに<ruby>泊<rt>と (to)</rt></ruby>まります：住宿飯店
-63. バスを<ruby>待<rt>ま (ma)</rt></ruby>ちます：等公車
-64. タクシーを<ruby>呼<rt>よ (yo)</rt></ruby>びます：叫計程車
-65. お<ruby>金<rt>かね (kane)</rt></ruby>が<ruby>足<rt>た (ta)</rt></ruby>りません：錢不夠
-66. <ruby>鍵<rt>かぎ (kagi)</rt></ruby>を<ruby>忘<rt>わす (wasu)</rt></ruby>れました：忘記帶鑰匙
+56. <span style="color:#E74C3C"><ruby>駅<rt>えき</rt></ruby>まで</span><span style="color:#3498DB"><ruby>送<rt>おく</rt></ruby>ります</span>：送到車站
+57. <span style="color:#E74C3C"><ruby>駅<rt>えき</rt></ruby>まで</span><span style="color:#3498DB"><ruby>迎<rt>むか</rt></ruby>えに<ruby>行<rt>い</rt></ruby>きます</span>：去車站接人
+58. <span style="color:#E67E22"><ruby>部屋<rt>へや</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>を</span><span style="color:#3498DB">もらいました / もらえました</span>：拿到房間鑰匙
+59. <span style="color:#E67E22"><ruby>富士山<rt>ふじさん</rt></ruby>を</span><span style="color:#3498DB"><ruby>見<rt>み</rt></ruby>ます</span>：看富士山
+60. <span style="color:#3498DB"><ruby>急<rt>いそ</rt></ruby>ぎます</span>：趕時間 / 急忙
+61. <span style="color:#E67E22"><ruby>計画書<rt>けいかくしょ</rt></ruby>を</span><span style="color:#3498DB"><ruby>作<rt>つく</rt></ruby>ります</span>：做計劃書 / 提案書
+62. <span style="color:#E74C3C">ホテルに</span><span style="color:#3498DB"><ruby>泊<rt>と</rt></ruby>まります</span>：住宿飯店
+63. <span style="color:#E67E22">バスを</span><span style="color:#3498DB"><ruby>待<rt>ま</rt></ruby>ちます</span>：等公車
+64. <span style="color:#E67E22">タクシーを</span><span style="color:#3498DB"><ruby>呼<rt>よ</rt></ruby>びます</span>：叫計程車
+65. <span style="color:#2ECC71">お<ruby>金<rt>かね</rt></ruby>が</span><span style="color:#3498DB"><ruby>足<rt>た</rt></ruby>りません</span>：錢不夠
+66. <span style="color:#E67E22"><ruby>鍵<rt>かぎ</rt></ruby>を</span><span style="color:#3498DB"><ruby>忘<rt>わす</rt></ruby>れました</span>：忘記帶鑰匙
 
 ---
 
