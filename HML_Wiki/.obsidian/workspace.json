@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/12_Core_Vocabulary/JP_Vocab_10_nature_weather.md",
-                "mode": "source",
+                "file": "concepts/12_Core_Vocabulary/JP_Vocab_09_work_school.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JP_Vocab_10_nature_weather"
+              "title": "JP_Vocab_09_work_school"
             }
           }
         ]
@@ -185,18 +185,22 @@
   },
   "active": "f9f6d33986d211b5",
   "lastOpenFiles": [
+    "concepts/12_Core_Vocabulary/JP_Vocab_04_people_family.md",
+    "concepts/Japanese_Learning_System.md",
+    "concepts/Japanese_Grammar_Index.md",
+    "concepts/12_Core_Vocabulary/Core_Vocabulary_Index.md",
+    "高頻詞彙索引 @part_of.md",
+    "concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index.md",
+    "語法 50 索引 @part_of.md",
+    "@part_of.md",
+    "concepts/12_Core_Vocabulary/JP_Vocab_10_nature_weather.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_07_objects_home.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_12_question_words.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_01_core_verbs.md",
-    "concepts/12_Core_Vocabulary/Core_Vocabulary_Index.md",
-    "concepts/Japanese_Learning_System.md",
     "concepts/LLM Compiler.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_05_food_drink.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_06_places_transport.md",
-    "concepts/12_Core_Vocabulary/JP_Vocab_10_nature_weather.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_11_adverbs_connectors.md",
-    "concepts/12_Core_Vocabulary/JP_Vocab_04_people_family.md",
-    "concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_03_time_numbers.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_09_work_school.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_08_body_health.md",
@@ -208,7 +212,6 @@
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech2_Requests.md",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech1_Questions.md",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_Tech5_Negation_Potential.md",
-    "concepts/03_Ta_Form_た形與時間/JP_Grammar_17_tari_tari_shimasu.md",
     "index.md.tmp.16396.5433f409a4e6",
     "concepts/Japanese_Learning_System.md.tmp.16396.72ab294e4d18",
     "concepts/12_Core_Vocabulary_高頻詞彙/Core_Vocabulary_Index.md.tmp.16396.2c5b7885e4b2",
@@ -218,9 +221,6 @@
     "concepts/12_Core_Vocabulary_高頻詞彙/JP_Vocab_05_food_drink.md.tmp.16396.cdff506e01d1",
     "concepts/12_Core_Vocabulary_高頻詞彙/JP_Vocab_04_people_family.md.tmp.16396.32fd35ff5d04",
     "concepts/12_Core_Vocabulary_高頻詞彙/JP_Vocab_03_time_numbers.md.tmp.16396.2249a7c478de",
-    "concepts/07_Interactive_Dialogue_對話與情境/JP_Grammar_34_masen_ka.md",
-    "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Travel_Hotel.md",
-    "raw/Grammar_ni.md",
     "concepts/11_Daily_Phrases_Part2/Daily_Phrases_Map.canvas",
     "concepts/10_Basic_English_850/Basic_English_Map.canvas",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Map.canvas",
