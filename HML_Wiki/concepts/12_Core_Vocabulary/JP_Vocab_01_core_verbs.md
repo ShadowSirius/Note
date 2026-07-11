@@ -124,12 +124,12 @@ related_to:
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → て形請求 [[JP_Grammar_11_te_kudasai\ | <span style="color:#3498DB">〜てください]]</span> | ご飯を**食べてください**。 | 請吃飯。 |
-| → 進行 [[JP_Grammar_12_te_imasu\ | <span style="color:#3498DB">〜ています]]</span> | 今、ご飯を**食べています**。 | 現在正在吃飯。 |
-| → 願望 [[JP_Grammar_15_tai_desu\ | <span style="color:#3498DB">〜たいです]]</span> | ご飯を**食べたいです**。 | 想吃飯。 |
-| → 經驗 [[JP_Grammar_18_ta_koto_ga_arimasu\ | <span style="color:#E67E22">〜たこと</span><span style="color:#2ECC71">が</span><span style="color:#3498DB">あります]]</span> | 寿司（すし）を**食べたことがあります**。 | 吃過壽司。 |
-| → 禁止 [[JP_Grammar_14_te_wa_ikemasen\ | <span style="color:#2ECC71">〜ては</span><span style="color:#3498DB">いけません]]</span> | ここでご飯を**食べてはいけません**。 | 這裡不可以吃東西。 |
-| → 邀約 [[JP_Grammar_34_masen_ka\ | <span style="color:#3498DB">〜ませんか]]</span> | 一緒（いっしょ）にご飯を**食べませんか**。 | 要不要一起吃飯？ |
+| → て形請求 [[JP_Grammar_11_te_kudasai\|〜てください]] | <span style="color:#E67E22">ご飯を</span><span style="color:#3498DB">**食べてください**</span>。 | 請吃飯。 |
+| → 進行 [[JP_Grammar_12_te_imasu\|〜ています]] | <span style="color:#E74C3C">今、</span><span style="color:#E67E22">ご飯を</span><span style="color:#3498DB">**食べています**</span>。 | 現在正在吃飯。 |
+| → 願望 [[JP_Grammar_15_tai_desu\|〜たいです]] | <span style="color:#E67E22">ご飯を</span><span style="color:#3498DB">**食べたいです**</span>。 | 想吃飯。 |
+| → 經驗 [[JP_Grammar_18_ta_koto_ga_arimasu\|〜たことがあります]] | <span style="color:#E67E22">寿司（すし）を</span><span style="color:#3498DB">**食べたことがあります**</span>。 | 吃過壽司。 |
+| → 禁止 [[JP_Grammar_14_te_wa_ikemasen\|〜てはいけません]] | <span style="color:#E74C3C">ここで</span><span style="color:#E67E22">ご飯を</span><span style="color:#3498DB">**食べてはいけません**</span>。 | 這裡不可以吃東西。 |
+| → 邀約 [[JP_Grammar_34_masen_ka\|〜ませんか]] | <span style="color:#E74C3C">一緒に</span><span style="color:#E67E22">ご飯を</span><span style="color:#3498DB">**食べませんか**</span>？ | 要不要一起吃飯？ |
 
 ### 3️⃣ Response Drill（應答練習）
 
