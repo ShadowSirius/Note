@@ -10,6 +10,8 @@ Welcome to your Obsidian-based personal knowledge base.
 
 ## 📖 Quick Links (快速入口)
 
+- **[[concepts/Japanese_Learning_System|🎌 日語學習系統（總指揮中心）]]**：整合詞彙、文法、口說訓練與間隔複習的每日學習流程。
+- **[[Core_Vocabulary_Index|日語高頻詞彙 480 核心詞]]**：12 副主題詞彙（動詞、形容詞、時間、飲食、交通…），附假名、羅馬字與常用搭配。
 - **[[concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index|日語語法新思維 50核心文法]]**：從 PDF 拆解出的 50 核心日語語法知識卡片。
 - **[[concepts/Japanese_Grammar_Index|日文高頻文法索引 (58句型)]]**：原有 N5/N4 基本句型卡片索引。
 - **[[concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Index|日語敬語與口語對照 100句]]**：整理自高頻會話對比影片，包含 7 大轉換技法與視覺化 Canvas 關係地圖。
