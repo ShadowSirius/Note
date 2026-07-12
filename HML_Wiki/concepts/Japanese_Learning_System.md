@@ -17,6 +17,10 @@ related_to:
 | 日語語法新思維 50   | 理論（為什麼這樣用）      | [[Japanese_Grammar_50_Index]] |
 | 敬語 vs 口語 100 | 語體切換            | [[Keigo_Casual_100_Index]]    |
 | 日常必備常用句 100  | 情境實戰            | [[Daily_Phrases_Index]]       |
+| 地道口說 200     | 情境與情感表達      | [[JP_Conversation_Index]]     |
+| 詞類語形變化      | 變形基準與核心理論    | [[JP_Grammar_Verb_Conjugation\|動詞]] / [[JP_Grammar_Adjective_Conjugation\|形容詞]] / [[JP_Grammar_Noun_Conjugation\|名詞]] |
+| 常用詞性與疑問詞    | 副詞、接續詞及疑問詞對照 | [[JP_Grammar_Other_Part_Of_Speech\|常用詞性]] / [[JP_Grammar_Interrogative_Conjugation\|疑問詞對照]] |
+| 造句法與口語精簡    | 骨架搭建、成分權重與口語精簡 | [[JP_Sentence_Construction_Guide]] |
 
 ## 📅 每日流程（30〜45 分鐘）
 
@@ -57,7 +61,7 @@ related_to:
 | 第 1 月 | [[JP_Vocab_01_core_verbs\|詞彙 01]]/[[JP_Vocab_02_adjectives\|02]]/[[JP_Vocab_03_time_numbers\|03]]/[[JP_Vocab_12_question_words\|12]] ＋ 文法卡 01〜15（見 [[Japanese_Grammar_Index\|文法索引]]） | 能自我介紹＋描述一天作息 |
 | 第 2 月 | [[JP_Vocab_04_people_family\|詞彙 04]]〜[[JP_Vocab_07_objects_home\|07]] ＋ 文法卡 16〜35 | 能點餐、問路、購物（旅遊生存） |
 | 第 3 月 | [[JP_Vocab_08_body_health\|詞彙 08]]〜[[JP_Vocab_11_adverbs_connectors\|11]] ＋ 文法卡 36〜58 | 能表達請求、建議、經驗（≈ N5 完成、N4 過半） |
-| 第 4 月起 | [[Keigo_Casual_100_Index\|敬語 100]] ＋ [[Daily_Phrases_Index\|常用句 100]] 精熟 | 能依對象切換丁寧體／普通體 |
+| 第 4 月起 | [[Keigo_Casual_100_Index\|敬語 100]] ＋ [[Daily_Phrases_Index\|常用句 100]] ＋ [[JP_Conversation_Index\|地道口說 200]] 精熟 | 能依對象切換丁寧體／普通體 |
 
 ## 💡 給台灣學習者的三個提醒
 1. **漢字是雙面刃**：看得懂不等於會唸，一律以假名讀音為準（例：勉強≠勉強、手紙＝信）。

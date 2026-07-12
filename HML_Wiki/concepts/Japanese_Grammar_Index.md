@@ -69,6 +69,12 @@
 - [[JP_Dialogue_Travel_Hotel|日語情境會話：旅行、交通與實用生活篇]] (Dialogue Travel Hotel)
 - [[JP_Dialogue_Daily_Life|日語日常社交與實用表達篇]] (Dialogue Daily Life)
 - [[JP_Vocab_Verbs|高頻核心動詞短語清單 (66個)]] (High-Frequency Verbs)
+- [[JP_Grammar_Verb_Conjugation|動詞分類與九大語形變化指南]]
+- [[JP_Grammar_Adjective_Conjugation|形容詞變化指南（い形容詞・な形容詞）]]
+- [[JP_Grammar_Noun_Conjugation|名詞變化與接續指南]]
+- [[JP_Grammar_Other_Part_Of_Speech|日語生活常用其他詞性指南（副詞・接續詞・指示代名詞）]]
+- [[JP_Grammar_Interrogative_Conjugation|日語疑問詞與詞性對應指南]]
+- [[JP_Sentence_Construction_Guide|日語造句、成分剖析與口語精簡指引]]
 
 ---
 *提示：請在命令列執行 `python .obsidian/scripts/sync_wikilink_types.py` 以自動將文法卡片間的關聯同步至 Frontmatter YAML，Dataview 與 Graph 檢視將能同步取用。*
