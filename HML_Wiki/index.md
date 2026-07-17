@@ -18,9 +18,9 @@ Welcome to your Obsidian-based personal knowledge base.
 - **[[concepts/10_Basic_English_850/Basic_English_Index|Basic English (基礎英語) 850字與18核心動詞]]**：整理自熱門簡化英語學習法影片，包含 18核心運作詞、片語代換技法與視覺化 Canvas 關係地圖。
 - **[[concepts/11_Daily_Phrases_Part2/Daily_Phrases_Index|日語日常必備常用句 (第2彈) 100句]]**：整理自高頻口說訓練影片，將 100 句劃分為 7 大對話主題，包含拼音標音、文法小貼士與 Canvas 地圖。
 - **[[concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Index|情境實戰對話（旅遊三情境）]]**：飯店退房報修、餐廳糾錯分帳、超市結帳服務——針對壓力測試找出的 13 條缺口補齊，含 FSI 四式口說訓練。
-- **[[concepts/14_N3_Grammar_Selection/N3_Grammar_Index|N3 文法精選（索引 96 項＋Top 40 卡）]]**：索引全覆蓋、精選卡深耕的 N3 模組；40 張完整卡（stub 已全數補完）。
-- **[[concepts/15_N2_Grammar_Selection/N2_Grammar_Index|N2 文法精選（索引 115 項＋Top 40 卡）]]**：30 張完整卡＋10 張 stub；啟動門檻 N3 複習正確率 ≥ 80%。
-- **[[concepts/16_N1_Grammar_Selection/N1_Grammar_Index|N1 文法索引地圖（126 項）]]**：純索引層＋未來 Top 40 候選清單；卡片化待 N2 達標後啟動。
+- **[[concepts/14_N3_Grammar_Selection/N3_Grammar_Index|N3 文法精選（77 張完整卡）]]**：全索引已 wikilink 化，涵蓋標準 N3 範圍。
+- **[[concepts/15_N2_Grammar_Selection/N2_Grammar_Index|N2 文法精選（78 張完整卡）]]**：全索引已 wikilink 化；啟動門檻 N3 複習正確率 ≥ 80%。
+- **[[concepts/16_N1_Grammar_Selection/N1_Grammar_Index|N1 文法（87 張完整卡）]]**：全索引已 wikilink 化，涵蓋文語遺留、極端強調、逆接讓步等 9 大類；啟動門檻 N2 複習正確率 ≥ 80%。
 
 ## 🛠️ Tooling & Scripts
 

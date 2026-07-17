@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/Japanese_Learning_System.md",
+                "file": "concepts/16_N1_Grammar_Selection/JP_N1_17_no_kiwami.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Japanese_Learning_System"
+              "title": "JP_N1_17_no_kiwami"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "f9f6d33986d211b5",
   "lastOpenFiles": [
+    "concepts/16_N1_Grammar_Selection/JP_N1_30_bakoso.md",
+    "concepts/16_N1_Grammar_Selection/JP_N1_23_naidewaokanai.md",
+    "concepts/Japanese_Learning_System.md",
     "concepts/15_N2_Grammar_Selection/N2_Grammar_Index.md",
     "concepts/15_N2_Grammar_Selection/JP_N2_09_ueni.md",
     "concepts/15_N2_Grammar_Selection/JP_N2_02_nimokakawarazu.md",
@@ -202,7 +205,6 @@
     "concepts/15_N2_Grammar_Selection/JP_N2_14_karatoitte.md",
     "concepts/15_N2_Grammar_Selection/JP_N2_01_nikagirazu.md",
     "concepts/16_N1_Grammar_Selection/N1_Grammar_Index.md",
-    "concepts/Japanese_Learning_System.md",
     "concepts/Japanese_Grammar_Map.canvas",
     "concepts/Japanese_Grammar_Index.md",
     "concepts/07_Interactive_Dialogue_對話與情境/JP_Dialogue_Responses.md",
@@ -211,8 +213,6 @@
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Map.canvas",
     "concepts/09_Keigo_vs_Casual_100/Keigo_Casual_100_Index.md",
     "concepts/12_Core_Vocabulary/JP_Vocab_01_core_verbs.md",
-    "concepts/12_Core_Vocabulary/Core_Vocabulary_Index.md",
-    "concepts/JP_Sentence_Construction_Guide.md",
     "concepts/10_Basic_English_850/Basic_English_Map.canvas",
     "raw/jap_sentence",
     "raw/新增資料夾",

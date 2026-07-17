@@ -19,7 +19,7 @@ related_to:
 
 - 日文：<span style="color:#FF477E">この<ruby>味<rt>あじ</rt></ruby>は</span><span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>ならではだ。</span>
   中文：這個味道是這家店獨有的。
-- 日文：<span style="color:#2ECC71">京都<ruby>ならではの</ruby></span><span style="color:#3498DB"><ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだ。</span>
+- 日文：<span style="color:#2ECC71">京都ならではの</span><span style="color:#3498DB"><ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんだ。</span>
   中文：享受了唯有京都才有的氛圍。
 
 ## 關係說明

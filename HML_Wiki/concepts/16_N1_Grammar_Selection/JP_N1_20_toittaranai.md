@@ -17,7 +17,7 @@ related_to:
 ## 實用例句
 > [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
 
-- 日文：<span style="color:#FF477E">あの<ruby>時<rt>とき</rt></ruby>の</span><span style="color:#2ECC71">恥<ruby>ずかしさ</ruby>と</span><span style="color:#3498DB">いったらなかった。</span>
+- 日文：<span style="color:#FF477E">あの<ruby>時<rt>とき</rt></ruby>の</span><span style="color:#2ECC71"><ruby>恥<rt>は</rt></ruby>ずかしさと</span><span style="color:#3498DB">いったらなかった。</span>
   中文：那時候的丟臉程度真是無以言表。
 - 日文：<span style="color:#FF477E">この<ruby>暑<rt>あつ</rt></ruby>さと</span><span style="color:#3498DB">いったらない。</span>
   中文：這股熱簡直熱得不得了。

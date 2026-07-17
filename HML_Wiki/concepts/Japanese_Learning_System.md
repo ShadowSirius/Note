@@ -22,9 +22,9 @@ related_to:
 | 常用詞性與疑問詞    | 副詞、接續詞及疑問詞對照 | [[JP_Grammar_Other_Part_Of_Speech\|常用詞性]] / [[JP_Grammar_Interrogative_Conjugation\|疑問詞對照]] |
 | 造句法與口語精簡    | 骨架搭建、成分權重與口語精簡 | [[JP_Sentence_Construction_Guide]] |
 | 情境實戰對話      | 旅遊與服務業場景（飯店/餐廳/超市）  | [[JP_Dialogue_Index]] |
-| N3 文法精選       | 進階文法（索引全覆蓋＋Top 40 精選卡） | [[N3_Grammar_Index]] |
-| N2 文法精選       | 中高級文法（索引 115 項＋Top 40 精選卡） | [[N2_Grammar_Index]] |
-| N1 文法索引       | 最高級文法地圖（純索引 126 項，卡片待啟動） | [[N1_Grammar_Index]] |
+| N3 文法精選       | 進階文法（77 張完整卡，全索引已連結） | [[N3_Grammar_Index]] |
+| N2 文法精選       | 中高級文法（78 張完整卡，全索引已連結） | [[N2_Grammar_Index]] |
+| N1 文法索引       | 最高級文法（87 張完整卡，全索引已連結） | [[N1_Grammar_Index]] |
 
 ## 📅 每日流程（30〜45 分鐘）
 
@@ -67,10 +67,9 @@ related_to:
 | 第 3 月 | [[JP_Vocab_08_body_health\|詞彙 08]]〜[[JP_Vocab_11_adverbs_connectors\|11]] ＋ 文法卡 36〜58 | 能表達請求、建議、經驗（≈ N5 完成、N4 過半） |
 | 第 4 月起 | [[Keigo_Casual_100_Index\|敬語 100]] ＋ [[Daily_Phrases_Index\|常用句 100]] ＋ [[JP_Conversation_Index\|地道口說 200]] 精熟 | 能依對象切換丁寧體／普通體 |
 | 第 5 月 | [[JP_Dialogue_Index\|情境實戰對話]]：旅遊三情境（[[JP_Dialogue_Hotel_Checkout_Issues\|飯店]]／[[JP_Dialogue_Restaurant_Service_Payment\|餐廳]]／[[JP_Dialogue_Supermarket_Checkout_Service\|超市]]）含例外處理 | 能在飯店報修換房、餐廳糾錯分帳、超市詢問服務——不看手機完成整段對話 |
-| 第 6 月 | [[N3_Grammar_Index\|N3 精選]] 完整卡 01〜30（每日 1 卡＋FSI drill 照舊流程） | 能用 わけだ／うちに／〜てもらう 系統造句並口說 |
-| 第 7 月 | N3 stub 卡 31〜40 補完 ＋ [[JP_Conversation_Index\|地道口說]] 各篇「輸出訓練 - 進階」drill 全部過一輪 | 被動語感轉主動輸出：看中文能即時說出慣用語（如 空気を読む、案の定） |
-| 第 8 月起 | [[N2_Grammar_Index\|N2 精選]] 完整卡 01〜30（模組已建好，門檻達標即啟動） | N3 精選卡複習正確率 ≥ 80% 才啟動 N2 |
-| 第 10 月起 | N2 stub 卡 31〜40 補完 ＋ 評估 [[N1_Grammar_Index\|N1 索引]] 卡片化（Top 40 候選已列） | N2 精選卡複習正確率 ≥ 80% 才啟動 N1 卡片化 |
+| 第 6〜7 月 | [[N3_Grammar_Index\|N3 精選]] 77 張完整卡（每日 1〜2 卡＋FSI drill 照舊流程）＋ [[JP_Conversation_Index\|地道口說]] 各篇「輸出訓練 - 進階」drill 全部過一輪 | 能用 わけだ／うちに／〜てもらう 系統造句並口說；被動語感轉主動輸出（如 空気を読む、案の定 能即時說出） |
+| 第 8〜9 月 | [[N2_Grammar_Index\|N2 精選]] 78 張完整卡（門檻：N3 精選卡複習正確率 ≥ 80% 才啟動） | 能用 にもかかわらず／ざるを得ない／からといって 等中高級句型表達複雜語意 |
+| 第 10 月起 | [[N1_Grammar_Index\|N1 索引]] 87 張完整卡（門檻：N2 精選卡複習正確率 ≥ 80% 才啟動） | 能理解並使用書面／文語表現（べからず、に堪えない等），聽讀新聞社論無礙 |
 
 ## 💡 給台灣學習者的三個提醒
 1. **漢字是雙面刃**：看得懂不等於會唸，一律以假名讀音為準（例：勉強≠勉強、手紙＝信）。

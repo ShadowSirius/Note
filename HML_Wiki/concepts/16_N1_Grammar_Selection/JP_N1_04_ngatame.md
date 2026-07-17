@@ -18,7 +18,7 @@ related_to:
 
 - 日文：<span style="color:#2ECC71">彼女は</span><span style="color:#FF477E"><ruby>家族<rt>かぞく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>らんがために、</span><span style="color:#3498DB"><ruby>必死<rt>ひっし</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いた。</span>
   中文：她為了守護家人，拼命地工作。
-- 日文：<span style="color:#FF477E"><ruby>生<rt>い</rt></ruby>き<ruby>残<rt>のこ</rt></ruby>らんがために、</span><span style="color:#3498DB"><ruby>あらゆる<ruby>手段<rt>しゅだん</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くした。</span>
+- 日文：<span style="color:#FF477E"><ruby>生<rt>い</rt></ruby>き<ruby>残<rt>のこ</rt></ruby>らんがために、</span><span style="color:#3498DB">あらゆる<ruby>手段<rt>しゅだん</rt></ruby>を<ruby>尽<rt>つ</rt></ruby>くした。</span>
   中文：為了生存下去，用盡了一切手段。
 
 ## 關係說明

@@ -19,7 +19,7 @@ related_to:
 
 - 日文：<span style="color:#FF477E">ご<ruby>心配<rt>しんぱい</rt></ruby>には</span><span style="color:#3498DB"><ruby>及<rt>およ</rt></ruby>びません。</span>
   中文：不必擔心。
-- 日文：<span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>は</span><span style="color:#FF477E">本場<ruby>には</ruby></span><span style="color:#3498DB"><ruby>及<rt>およ</rt></ruby>ばない。</span>
+- 日文：<span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>は</span><span style="color:#FF477E">本場には</span><span style="color:#3498DB"><ruby>及<rt>およ</rt></ruby>ばない。</span>
   中文：這家店的味道比不上正宗的。
 
 ## 關係說明
