@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 related_to:
   - "[[JP_Grammar_20_nai_de_kudasai]]"
 ---

@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 replaces:
   - "[[JP_Grammar_10_kara_reason]]"
 ---

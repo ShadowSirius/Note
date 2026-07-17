@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 contradicts:
   - "[[JP_Grammar_13_te_mo_ii_desu]]"
 parent_of:

@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 extends:
   - "[[JP_Grammar_38_te_mimasu]]"
 ---

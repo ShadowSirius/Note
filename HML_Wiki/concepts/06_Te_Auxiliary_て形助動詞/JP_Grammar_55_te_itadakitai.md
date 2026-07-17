@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 refines:
   - "[[JP_Grammar_41_te_hoshii_desu]]"
 related_to:

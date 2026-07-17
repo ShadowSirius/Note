@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[Keigo_Casual_100_Index]]"
 ---

@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_03_ni_he]]"
   - "[[JP_Grammar_05_de]]"

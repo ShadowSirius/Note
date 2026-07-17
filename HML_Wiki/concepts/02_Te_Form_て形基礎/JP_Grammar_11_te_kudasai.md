@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 contradicts:
   - "[[JP_Grammar_20_nai_de_kudasai]]"
 parent_of:

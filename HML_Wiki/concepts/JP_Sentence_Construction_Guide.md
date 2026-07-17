@@ -1,3 +1,7 @@
+---
+part_of:
+  - "[[Japanese_Learning_System]]"
+---
 # 🇯🇵 日語造句、成分剖析與口語精簡指引
 
 > [!important] 句子結構色彩標記：

@@ -1,3 +1,7 @@
+---
+part_of:
+  - "[[Japanese_Learning_System]]"
+---
 # 🇯🇵 日語名詞變化與接續指南
 
 > [!important] 句子結構色彩標記：

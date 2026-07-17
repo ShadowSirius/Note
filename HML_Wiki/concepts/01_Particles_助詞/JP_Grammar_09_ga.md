@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 contradicts:
   - "[[JP_Grammar_01_wa_desu]]"
 ---

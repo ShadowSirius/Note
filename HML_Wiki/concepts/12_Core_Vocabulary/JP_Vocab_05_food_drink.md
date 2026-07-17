@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_32_wo_kudasai]]"
   - "[[JP_Grammar_34_masen_ka]]"

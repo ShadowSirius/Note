@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 illustrates:
   - "[[JP_Grammar_42_te_kuremasu]]"
 sibling_of:

@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_50_C02_wa_desu]]"
   - "[[Daily_Phrases_Index]]"

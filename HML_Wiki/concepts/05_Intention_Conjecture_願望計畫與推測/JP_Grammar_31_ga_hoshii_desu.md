@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 child_of:
   - "[[JP_Grammar_15_tai_desu]]"
 ---

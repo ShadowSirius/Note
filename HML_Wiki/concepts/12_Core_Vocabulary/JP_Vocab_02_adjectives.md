@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_09_ga]]"
   - "[[JP_Grammar_31_ga_hoshii_desu]]"

@@ -1,3 +1,7 @@
+---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
+---
 # 〜を
 
 ## 規則與接續

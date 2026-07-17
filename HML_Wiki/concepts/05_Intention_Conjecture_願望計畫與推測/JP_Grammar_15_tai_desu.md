@@ -1,4 +1,6 @@
 ---
+part_of:
+  - "[[Japanese_Grammar_Index]]"
 parent_of:
   - "[[JP_Grammar_31_ga_hoshii_desu]]"
 related_to:

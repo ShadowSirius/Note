@@ -1,3 +1,7 @@
+---
+part_of:
+  - "[[Japanese_Learning_System]]"
+---
 # 🇯🇵 日語生活常用其他詞性指南（副詞・接續詞・指示代名詞）
 
 > [!important] 句子結構色彩標記：
