@@ -1,4 +1,8 @@
 ---
+extends:
+  - "[[JP_Vocab_13_time_expressions]]"
+  - "[[JP_Vocab_14_dates_frequency]]"
+  - "[[JP_Vocab_03_time_numbers]]"
 part_of:
   - "[[Japanese_Learning_System]]"
 prerequisite_for:
@@ -26,10 +30,13 @@ related_to:
 | 10  | [[JP_Vocab_10_nature_weather\|自然、天氣與季節]]   | 30  | ⭐       |
 | 11  | [[JP_Vocab_11_adverbs_connectors\|副詞與接續詞]] | 40  | ⭐⭐⭐     |
 | 12  | [[JP_Vocab_12_question_words\|疑問詞與萬用短句]]   | 30  | ⭐⭐⭐ 最優先 |
+| 13  | [[JP_Vocab_13_time_expressions\|時間表現深化]]     | 45  | ⭐⭐      |
+| 14  | [[JP_Vocab_14_dates_frequency\|日期與頻度深化]]    | 40  | ⭐⭐      |
 
 ## 🔗 與文法模組的關係
 - 本模組為 [[Japanese_Grammar_Index|高頻文法索引 @prerequisite_for]] 的詞彙基礎：文法卡片的例句與 FSI 替換練習皆從這裡取詞。
 - 動詞副中的「類別」標記直接對應 [[JP_Grammar_50_C10_verb_types_te_form|動詞分類與て形 @related_to]]。
+- [[JP_Vocab_13_time_expressions|時間表現深化 @extends]] 與 [[JP_Vocab_14_dates_frequency|日期與頻度深化 @extends]] 皆為 [[JP_Vocab_03_time_numbers|時間與數量 @extends]] 的深化卡，兩者互為 @sibling_of，補充〜に規則、順序詞辨義、日付特殊讀音與頻率階梯。
 
 ## 📖 使用方式
 1. **先讀優先度 ⭐⭐⭐ 的四副**（動詞、形容詞、時間、疑問詞＋副詞），這約 200 詞覆蓋日常對話 70% 以上。

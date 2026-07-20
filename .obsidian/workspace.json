@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HML_Wiki/concepts/17_Food_Vocabulary_食べ物/JP_Food_06_seafood.md",
+                "file": "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_04_lodging_onsen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JP_Food_06_seafood"
+              "title": "JP_Travel_04_lodging_onsen"
             }
           }
         ]
@@ -184,5 +184,13 @@
     }
   },
   "active": "84ab3d640ba51dd2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_04_lodging_onsen.md.tmp.17955.ec04573cd03a",
+    "HML_Wiki/concepts/18_Travel_旅行/Travel_Index.md",
+    "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_04_lodging_onsen.md",
+    "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_03_asking_directions.md",
+    "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_02_directions_roads.md",
+    "HML_Wiki/concepts/18_Travel_旅行/JP_Travel_01_transport.md",
+    "HML_Wiki/concepts/17_Food_Vocabulary_食べ物/JP_Food_06_seafood.md"
+  ]
 }

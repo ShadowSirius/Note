@@ -81,6 +81,7 @@
 - [[JP_Grammar_Noun_Conjugation|名詞變化與接續指南]]
 - [[JP_Grammar_Other_Part_Of_Speech|日語生活常用其他詞性指南（副詞・接續詞・指示代名詞）]]
 - [[JP_Grammar_Interrogative_Conjugation|日語疑問詞與詞性對應指南]]
+- [[JP_Grammar_Demonstratives_KoSoADo|指示詞こそあど系統：記憶與應用指南]]
 - [[JP_Sentence_Construction_Guide|日語造句、成分剖析與口語精簡指引]]
 
 ---

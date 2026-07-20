@@ -16,13 +16,14 @@ part_of:
   - "[[JP_Food_12_taste_texture]]"
   - "[[JP_Food_13_drinks_sweets]]"
   - "[[JP_Food_14_nimono_aemono_tsukemono]]"
+  - "[[JP_Food_15_coffee]]"
 related_to:
   - "[[Core_Vocabulary_Index]]"
   - "[[JP_Vocab_05_food_drink]]"
 ---
-# 飲食詞彙總索引（14 副主題）
+# 飲食詞彙總索引（15 副主題）
 
-本模組收錄「食べ物」主題詞彙，依語境分為 14 副小卡，涵蓋餐廳應對、主食料理、食材原料、烹調技法到味覺表現，總計約 500+ 詞。原始資料來自使用者手抄筆記 `raw/food_vocab_raw_20260719.md`，已逐字校對讀音並修正錯誤（詳見各卡片內 ⚠️ 標註）。
+本模組收錄「食べ物」主題詞彙，依語境分為 15 副小卡，涵蓋餐廳應對、主食料理、食材原料、烹調技法到味覺表現，總計約 500+ 詞。原始資料來自使用者手抄筆記 `raw/food_vocab_raw_20260719.md`，已逐字校對讀音並修正錯誤（詳見各卡片內 ⚠️ 標註）。
 
 ## 📋 詞彙副列表
 
@@ -42,6 +43,7 @@ related_to:
 | 12 | [[JP_Food_12_taste_texture\|味覺與口感]] | 五味、擬態語、評價程度 |
 | 13 | [[JP_Food_13_drinks_sweets\|飲料與甜點]] | 水系、茶咖啡奶、酒類、甜點 |
 | 14 | [[JP_Food_14_nimono_aemono_tsukemono\|煮物・和え物・漬物・サラダ]] | 原稿空白區段，依主題補全 |
+| 15 | [[JP_Food_15_coffee\|コーヒー用語（咖啡）]] | 風味/焙煎/研磨/沖泡方法/萃取時間/店內點餐 |
 
 ## 🔗 結構關係（各分卡 @part_of 本索引）
 > 說明：以下型別標記為 `@part_of`，意指各分卡為本索引之組成部分（結構反向標註於索引頁，方便從索引一覽全貌並同步至 frontmatter）。
@@ -60,6 +62,7 @@ related_to:
 - [[JP_Food_12_taste_texture|味覺與口感 @part_of]]
 - [[JP_Food_13_drinks_sweets|飲料與甜點 @part_of]]
 - [[JP_Food_14_nimono_aemono_tsukemono|煮物・和え物・漬物・サラダ @part_of]]
+- [[JP_Food_15_coffee|コーヒー用語 @part_of]]
 
 ## 🗺️ 主題分組導覽
 - **場景與流程**：01 餐廳種類 → 02 用餐用語 → 點餐、結帳、邀約句型
