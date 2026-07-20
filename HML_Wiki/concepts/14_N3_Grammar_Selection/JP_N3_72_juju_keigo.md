@@ -1,7 +1,11 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
+related_to:
+  - "[[JP_N3_22_temorau]]"
+  - "[[JP_N3_23_tekureru]]"
+  - "[[JP_N3_26_teitadakemasenka]]"
 ---
 # 授受敬語〜ていただく／〜させていただく／〜くださる／〜てくださいませんか
 
@@ -16,7 +20,7 @@ jlpt: N3
   用於表達「可以請您……嗎？」比 `〜てください` 更委婉、客氣。
 
 ## 用法說明
-這組敬語屬於「授受表現」的禮貌說法，常用在請求、感謝、正式場合自我表述。`〜ていただく／〜てくださる` 分別比 `〜てもらう／〜てくれる` 更正式；`〜てくださいませんか` 則比 `〜てください` 更委婉。  
+這組敬語屬於「授受表現」的禮貌說法，常用在請求、感謝、正式場合自我表述。`〜ていただく／〜てくださる` 分別比 [[JP_N3_22_temorau|〜てもらう @related_to]]／[[JP_N3_23_tekureru|〜てくれる @related_to]] 更正式；`〜てくださいませんか` 則比 `〜てください` 更委婉，可對照 [[JP_N3_26_teitadakemasenka|〜ていただけませんか @related_to]]。  
 另外，`〜させていただく` 常用來表示「在對方允許下做某事」，適合正式發言，但若過度使用會顯得過於客套。
 
 ## 實用例句
@@ -30,6 +34,14 @@ jlpt: N3
 
 - 日文：<span style="color:#FF477E"><ruby>恐<rt>おそ</rt></ruby>れ<ruby>入<rt>い</rt></ruby>りますが、</span><span style="color:#2ECC71">この<ruby>資料<rt>しりょう</rt></ruby>を</span><span style="color:#3498DB"><ruby>確認<rt>かくにん</rt></ruby>してくださいませんか。</span>  
   中文：不好意思，可以請您確認這份資料嗎？
+
+## 關係說明
+- [[JP_N3_22_temorau|〜てもらう @related_to]]
+- [[JP_N3_23_tekureru|〜てくれる @related_to]]
+- [[JP_N3_26_teitadakemasenka|〜ていただけませんか @related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -68,9 +80,6 @@ jlpt: N3
 | 核心 | 確認（かくにん）してくださいませんか。 | 可以請您確認嗎？ |
 | 前置 | 恐（おそ）れ入（い）りますが、確認してくださいませんか。 | 不好意思，可以請您確認嗎？ |
 | 完整 | 恐れ入りますが、この資料（しりょう）を確認してくださいませんか。 | 不好意思，可以請您確認這份資料嗎？ |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

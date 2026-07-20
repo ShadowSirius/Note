@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 sibling_of:
   - "[[JP_Grammar_52_te_kurete_arigatou]]"
 ---

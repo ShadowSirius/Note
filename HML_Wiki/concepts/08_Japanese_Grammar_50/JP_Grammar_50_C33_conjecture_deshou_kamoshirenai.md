@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_09_ni_chigainai]]"
 sibling_of:
   - "[[JP_Grammar_50_C32_hou_ga_ii]]"
   - "[[JP_Grammar_50_C34_to_iu]]"
@@ -34,6 +37,7 @@ sibling_of:
 - [[JP_Grammar_50_C32_hou_ga_ii|上一課 @sibling_of]]
 - [[JP_Grammar_50_C34_to_iu|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_09_ni_chigainai|N3〜に違いない 進階課 @related_to]]
 
 ---
 

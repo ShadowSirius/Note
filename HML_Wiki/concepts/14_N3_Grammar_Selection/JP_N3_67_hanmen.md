@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜反面
 
@@ -26,6 +26,9 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>勉強<rt>べんきょう</rt></ruby>は</span><span style="color:#FF477E"><ruby>楽<rt>たの</rt></ruby>しい<ruby>反面<rt>はんめん</rt></ruby></span><span style="color:#3498DB">、<ruby>時間<rt>じかん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなることもある。</span>
   中文：學習雖然有趣，但另一方面也可能會時間不夠。
+
+## 關係說明
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 
@@ -67,9 +70,6 @@ jlpt: N3
 | 擴展 1 | 彼は優しい反面、 | 他雖然溫柔，但另一方面…… |
 | 擴展 2 | 彼は優しい反面、決めたことはなかなか変えない。 | 他雖然溫柔，但一旦決定了就不太會改變。 |
 | 擴展 3 | 彼は優しい反面、決めたことはなかなか変えないし、少し頑固だ。 | 他雖然溫柔，但一旦決定就不太會改變，而且有點固執。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

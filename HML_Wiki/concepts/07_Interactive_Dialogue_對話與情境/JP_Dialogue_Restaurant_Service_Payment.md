@@ -1,9 +1,4 @@
 ---
-part_of:
-  - "[[JP_Dialogue_Index]]"
-related_to:
-  - "[[JP_Dialogue_Travel_Hotel]]"
-  - "[[JP_Vocab_05_food_drink]]"
 jlpt: N4
 ---
 # 日語情境會話：餐廳帶位、糾錯與分帳篇

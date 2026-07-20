@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 refines:
   - "[[JP_Grammar_41_te_hoshii_desu]]"
 related_to:

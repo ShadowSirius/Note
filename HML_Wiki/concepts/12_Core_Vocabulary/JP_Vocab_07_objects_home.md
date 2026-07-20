@@ -1,6 +1,4 @@
 ---
-part_of:
-  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_50_C01_five_sentence_patterns]]"
   - "[[JP_Grammar_36_te_arimasu]]"

@@ -1,6 +1,4 @@
 ---
-part_of:
-  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_33_te_moraemasen_ka]]"
   - "[[JP_Grammar_21_nakereba_narimasen]]"

@@ -1,7 +1,10 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
+related_to:
+  - "[[JP_N3_71_kenjougo_verbs]]"
+  - "[[JP_N3_53_oninaru]]"
 ---
 # 敬語動詞（尊敬語）いらっしゃる／おっしゃる／召し上がる／〜られる
 
@@ -13,7 +16,7 @@ jlpt: N3
 
 ## 用法說明
 這組文法用來提高對方或第三者的身分，表示「對上位者的動作表示敬意」。其中 `いらっしゃる／おっしゃる／召し上がる` 是固定的尊敬動詞，語感自然且常見；`〜られる` 則是通用型尊敬表現，但要注意它也可能是被動形，需靠上下文判斷。  
-與謙讓語不同，尊敬語是「抬高對方」，不是「降低自己」；例如 `伺う／申し上げる／いただく` 屬於謙讓語，不能混用。
+與 [[JP_N3_71_kenjougo_verbs|謙讓語 @related_to]] 不同，尊敬語是「抬高對方」，不是「降低自己」；例如 `伺う／申し上げる／いただく` 屬於謙讓語，不能混用。與 [[JP_N3_53_oninaru|お〜になる @related_to]] 同屬尊敬語系統。
 
 ## 實用例句
 > [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
@@ -26,6 +29,13 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>お客様<rt>きゃくさま</rt></ruby>は</span><span style="color:#E67E22"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#3498DB"><ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でケーキを<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりました</span>。
   中文：客人下午三點在車站前的店裡吃了蛋糕。
+
+## 關係說明
+- [[JP_N3_71_kenjougo_verbs|敬語動詞（謙讓語）@related_to]]
+- [[JP_N3_53_oninaru|お〜になる @related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -64,9 +74,6 @@ jlpt: N3
 | 核心 | 社長は来られます。 | 社長會來。 |
 | 追加時間 | 社長は午後三時に来られます。 | 社長下午三點會來。 |
 | 追加場所 | 社長は午後三時に会社へ来られます。 | 社長下午三點會來公司。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

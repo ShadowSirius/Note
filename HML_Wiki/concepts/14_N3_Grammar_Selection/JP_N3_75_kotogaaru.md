@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜ことがある（経験）
 
@@ -24,6 +24,9 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71">私は</span><span style="color:#E67E22"><ruby>以前<rt>いぜん</rt></ruby></span><span style="color:#3498DB">この<ruby>店<rt>みせ</rt></ruby>のラーメンを<ruby>食<rt>た</rt></ruby>べたことがあります。</span>
   中文：我以前曾經吃過這家店的拉麵。
+
+## 關係說明
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 
@@ -64,9 +67,6 @@ jlpt: N3
 | 核心 | 行（い）ったことがあります。 | 曾經去過。 |
 | 擴展 1 | 北海道（ほっかいどう）へ行ったことがあります。 | 曾經去過北海道。 |
 | 擴展 2 | 私（わたし）は一度北海道へ行ったことがあります。 | 我曾經去過北海道一次。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

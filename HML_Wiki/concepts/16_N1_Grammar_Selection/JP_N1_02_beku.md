@@ -1,7 +1,7 @@
 ---
+jlpt: N1
 part_of:
   - "[[N1_Grammar_Index]]"
-jlpt: N1
 related_to:
   - "[[JP_Grammar_50_C45_hazu_desu_beki_desu]]"
 ---

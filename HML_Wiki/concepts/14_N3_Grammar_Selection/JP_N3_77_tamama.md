@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜たまま
 
@@ -25,6 +25,11 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>子<rt>こ</rt></ruby>どもは</span><span style="color:#FF477E"><ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いたまま</span><span style="color:#3498DB"><ruby>寝<rt>ね</rt></ruby>てしまった。</span>
   中文：孩子穿著鞋就睡著了。
+
+## 關係說明
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -63,9 +68,6 @@ jlpt: N3
 | 核心 | 窓(まど)を開(あ)けたまま。 | 開著窗。 |
 | 擴充 1 | 窓(まど)を開(あ)けたまま寝(ね)てしまった。 | 開著窗就睡著了。 |
 | 擴充 2 | 窓(まど)を開(あ)けたまま寝(ね)てしまったので、朝(あさ)は寒(さむ)かった。 | 因為開著窗就睡著了，所以早上很冷。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_13_toshitemo]]"
 sibling_of:
   - "[[JP_Grammar_50_C22_tara_conditional]]"
   - "[[JP_Grammar_50_C24_n_desu]]"
@@ -32,6 +35,7 @@ sibling_of:
 - [[JP_Grammar_50_C22_tara_conditional|上一課 @sibling_of]]
 - [[JP_Grammar_50_C24_n_desu|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_13_toshitemo|N3〜としても 進階課 @related_to]]
 
 ---
 

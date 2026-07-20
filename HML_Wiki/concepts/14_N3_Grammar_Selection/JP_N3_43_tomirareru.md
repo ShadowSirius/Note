@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜とみられる
 
@@ -26,6 +26,12 @@ jlpt: N3
 
 - 日文：<span style="color:#E67E22"><ruby>新<rt>あたら</rt></ruby>しい<ruby>資料<rt>しりょう</rt></ruby>によると、</span><span style="color:#2ECC71"><ruby>原因<rt>げんいん</rt></ruby>は</span><span style="color:#FF477E"><ruby>機械<rt>きかい</rt></ruby>の<ruby>故障<rt>こしょう</rt></ruby>と</span><span style="color:#3498DB">みられる。</span>
   中文：根據新資料來看，原因被認為是機械故障。
+
+## 關係說明
+- [[JP_N3_64_nikimatteiru|〜に決まっている（語氣更主觀斷定）@related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -64,9 +70,6 @@ jlpt: N3
 | 核心 | 犯行(はんこう)とみられる。 | 被認為是犯行。 |
 | 擴張1 | 計画的(けいかくてき)な犯行(はんこう)とみられる。 | 被認為是有計畫的犯行。 |
 | 擴張2 | この事件(じけん)は計画的(けいかくてき)な犯行(はんこう)とみられる。 | 這起事件被認為是有計畫的犯行。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

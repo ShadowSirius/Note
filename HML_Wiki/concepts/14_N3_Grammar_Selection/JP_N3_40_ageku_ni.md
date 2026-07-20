@@ -1,7 +1,7 @@
 ---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 related_to:
   - "[[JP_N3_39_noni]]"
 ---
@@ -28,6 +28,7 @@ related_to:
 
 ## 關係說明
 - [[JP_N3_39_noni|〜のに @related_to]]
+- [[JP_N3_66_sueni|〜末に（較中性的過程結果表現）@related_to]]
 - [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---

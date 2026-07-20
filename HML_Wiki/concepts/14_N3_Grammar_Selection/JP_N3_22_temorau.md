@@ -1,7 +1,7 @@
 ---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 related_to:
   - "[[JP_N3_23_tekureru]]"
   - "[[JP_Grammar_50_C35_te_moraemasen_ka_request]]"

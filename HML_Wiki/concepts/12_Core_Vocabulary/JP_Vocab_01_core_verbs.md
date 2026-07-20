@@ -1,6 +1,4 @@
 ---
-part_of:
-  - "[[Core_Vocabulary_Index]]"
 prerequisite_for:
   - "[[JP_Grammar_50_C10_verb_types_te_form]]"
 related_to:

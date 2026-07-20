@@ -1,7 +1,7 @@
 ---
+jlpt: N2
 part_of:
   - "[[N2_Grammar_Index]]"
-jlpt: N2
 related_to:
   - "[[JP_N2_28_nitsurete]]"
   - "[[JP_N2_29_nisotte]]"

@@ -1,7 +1,7 @@
 ---
+jlpt: N1
 part_of:
   - "[[Japanese_Learning_System]]"
-jlpt: N1
 related_to:
   - "[[N2_Grammar_Index]]"
 ---
@@ -106,7 +106,7 @@ related_to:
 - [[JP_N1_72_nikatakunai|〜にかたくない]]（不難...（想像等））
 - [[JP_N1_05_nbakarini|〜んばかり]]（見上，文末用法「んばかりだ」同卡收錄）
 - [[JP_N1_73_kagondehanai|〜と言っても過言ではない]]（說...也不為過）
-- [[JP_N1_74_niwashinobinai|〜には忍びない]]（不忍心...）
+- [[JP_N1_74_niwashinobinai|〜に忍びない]]（不忍心...）
 - [[JP_N1_50_teshikarubekida|〜てしかるべきだ]]（見上，文末斷定用法）
 - [[JP_N1_18_teyamanai|〜てやまない]]（見上，文末詠嘆用法）
 - [[JP_N1_75_mamire|〜まみれ]]（滿是...、沾滿...）

@@ -1,10 +1,10 @@
 ---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 related_to:
-  - "[[JP_N3_27_toshite]]"
   - "[[JP_N3_29_nitaishite]]"
+  - "[[JP_N3_27_toshite]]"
 ---
 # 〜にとって
 

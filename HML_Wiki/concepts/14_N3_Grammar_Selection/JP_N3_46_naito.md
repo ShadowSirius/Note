@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜ないと（いけない）
 
@@ -24,6 +24,10 @@ jlpt: N3
 
 - 日文：<span style="color:#FF477E"><ruby>明日<rt>あした</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>があるから、</span><span style="color:#2ECC71"><ruby>今日<rt>きょう</rt></ruby>は</span><span style="color:#E67E22"><ruby>早<rt>はや</rt></ruby>く</span><span style="color:#3498DB"><ruby>寝<rt>ね</rt></ruby>ないといけない。</span>
   中文：因為明天有工作，所以今天必須早點睡。
+
+## 關係說明
+- [[JP_N3_48_tekaradenaito|〜てからでないと（先後條件的義務表現）@related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 
@@ -64,9 +68,6 @@ jlpt: N3
 | 核心 | 行（い）かないといけない。 | 必須去。 |
 | 場所を追加 | 会社（かいしゃ）に行（い）かないといけない。 | 必須去公司。 |
 | 時間を追加 | 朝（あさ）8時（じ）までに会社（かいしゃ）に行（い）かないといけない。 | 必須在早上8點前去公司。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

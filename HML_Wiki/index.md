@@ -21,6 +21,7 @@ Welcome to your Obsidian-based personal knowledge base.
 - **[[concepts/14_N3_Grammar_Selection/N3_Grammar_Index|N3 文法精選（77 張完整卡）]]**：全索引已 wikilink 化，涵蓋標準 N3 範圍。
 - **[[concepts/15_N2_Grammar_Selection/N2_Grammar_Index|N2 文法精選（78 張完整卡）]]**：全索引已 wikilink 化；啟動門檻 N3 複習正確率 ≥ 80%。
 - **[[concepts/16_N1_Grammar_Selection/N1_Grammar_Index|N1 文法（87 張完整卡）]]**：全索引已 wikilink 化，涵蓋文語遺留、極端強調、逆接讓步等 9 大類；啟動門檻 N2 複習正確率 ≥ 80%。
+- **[[concepts/17_Food_Vocabulary_食べ物/Food_Vocabulary_Index|食べ物單字卡（14 張主題卡）]]**：外食場景／食材／廚房五感三大軸，每卡含 🧠 記憶鉤、⚠️ 易混淆對比與 ✚ 補充詞；原始筆記讀音錯誤已全數校正。
 
 ## 🛠️ Tooling & Scripts
 

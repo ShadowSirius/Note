@@ -1,7 +1,7 @@
 ---
+jlpt: N3
 part_of:
   - "[[Japanese_Learning_System]]"
-jlpt: N3
 ---
 # N3 文法精選索引
 

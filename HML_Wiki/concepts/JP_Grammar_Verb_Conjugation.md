@@ -1,7 +1,3 @@
----
-part_of:
-  - "[[Japanese_Learning_System]]"
----
 # 🇯🇵 日語動詞分類與九大語形變化指南
 
 > [!important] 句子結構色彩標記：

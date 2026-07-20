@@ -63,11 +63,18 @@
 57. [[JP_Grammar_57_te_wa_ikaga_desu_ka|〜てはいかがですか]]
 58. [[JP_Grammar_58_te_iru_tokoro_desu|〜ているところです]]
 
+## 📘 Japanese Grammar 50 補充教材（N5-N4 全50課）
+- [[Japanese_Grammar_50_Index|Japanese Grammar 50 索引（C01-C50）@related_to]]：另一套涵蓋 N5-N4 範圍、以句型為主軸的 50 課補充教材，與上方 01-58 號文法卡片有大量主題重疊，可交叉參照。
+
 ## 🗣️ 生活對話與情境應用
+- [[JP_Dialogue_Index|情境對話總索引]] (Dialogue Index)
 - [[JP_Dialogue_Responses|情境對話應答]] (Dialogue Responses)
 - [[JP_Dialogue_Scenarios|日語生活情境會話]] (Dialogue Scenarios)
 - [[JP_Dialogue_Travel_Hotel|日語情境會話：旅行、交通與實用生活篇]] (Dialogue Travel Hotel)
 - [[JP_Dialogue_Daily_Life|日語日常社交與實用表達篇]] (Dialogue Daily Life)
+- [[JP_Dialogue_Hotel_Checkout_Issues|飯店退房問題應對]] (Dialogue Hotel Checkout Issues)
+- [[JP_Dialogue_Restaurant_Service_Payment|餐廳服務與付款]] (Dialogue Restaurant Service Payment)
+- [[JP_Dialogue_Supermarket_Checkout_Service|超市結帳服務]] (Dialogue Supermarket Checkout Service)
 - [[JP_Vocab_Verbs|高頻核心動詞短語清單 (66個)]] (High-Frequency Verbs)
 - [[JP_Grammar_Verb_Conjugation|動詞分類與九大語形變化指南]]
 - [[JP_Grammar_Adjective_Conjugation|形容詞變化指南（い形容詞・な形容詞）]]

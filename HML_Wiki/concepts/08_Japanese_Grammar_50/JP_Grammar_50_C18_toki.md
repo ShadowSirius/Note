@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_15_tabi_ni]]"
 sibling_of:
   - "[[JP_Grammar_50_C17_tari_tari]]"
   - "[[JP_Grammar_50_C19_noun_modifier]]"
@@ -32,6 +35,7 @@ sibling_of:
 - [[JP_Grammar_50_C17_tari_tari|上一課 @sibling_of]]
 - [[JP_Grammar_50_C19_noun_modifier|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_15_tabi_ni|N3〜たびに 進階課 @related_to]]
 
 ---
 

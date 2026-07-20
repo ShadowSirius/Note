@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N5
 contradicts:
   - "[[JP_Grammar_20_nai_de_kudasai]]"
 parent_of:

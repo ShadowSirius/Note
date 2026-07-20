@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 parent_of:
   - "[[JP_Grammar_55_te_itadakitai]]"
 related_to:

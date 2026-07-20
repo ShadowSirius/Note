@@ -1,6 +1,4 @@
 ---
-part_of:
-  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_19_ta_hou_ga_ii_desu]]"
 ---

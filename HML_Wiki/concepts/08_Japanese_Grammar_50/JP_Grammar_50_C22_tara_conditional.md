@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_14_nara]]"
 sibling_of:
   - "[[JP_Grammar_50_C21_shoju_actions]]"
   - "[[JP_Grammar_50_C23_temo_conditional]]"
@@ -32,6 +35,7 @@ sibling_of:
 - [[JP_Grammar_50_C21_shoju_actions|上一課 @sibling_of]]
 - [[JP_Grammar_50_C23_temo_conditional|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_14_nara|N3〜なら 進階課 @related_to]]
 
 ---
 

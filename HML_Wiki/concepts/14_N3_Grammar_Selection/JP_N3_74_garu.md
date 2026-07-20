@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜がる
 
@@ -30,6 +30,11 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>彼女<rt>かのじょ</rt></ruby>は</span><span style="color:#FF477E"><ruby>犬<rt>いぬ</rt></ruby>を<ruby>怖<rt>こわ</rt></ruby>がるので、</span><span style="color:#3498DB"><ruby>近<rt>ちか</rt></ruby>づかない。</span>
   中文：她怕狗，所以不會靠近。
+
+## 關係說明
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -69,9 +74,6 @@ jlpt: N3
 | 擴展 1 | 弟（おとうと）は欲（ほ）しがっている。 | 弟弟很想要。 |
 | 擴展 2 | 弟（おとうと）は新（あたら）しいゲームを欲（ほ）しがっている。 | 弟弟很想要新的遊戲。 |
 | 擴展 3 | 弟（おとうと）は新（あたら）しいゲームを欲（ほ）しがっているので、誕生日（たんじょうび）まで待（ま）っている。 | 因為弟弟很想要新的遊戲，所以一直等到生日。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

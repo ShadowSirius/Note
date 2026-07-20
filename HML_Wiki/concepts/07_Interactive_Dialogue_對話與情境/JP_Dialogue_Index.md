@@ -1,7 +1,3 @@
----
-part_of:
-  - "[[Japanese_Learning_System]]"
----
 # 模組索引：07 Interactive Dialogue 對話與情境
 
 ## 模組定位

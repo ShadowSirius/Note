@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜さえ〜ば
 
@@ -18,7 +18,7 @@ jlpt: N3
 ## 實用例句
 > [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#FF477E"><ruby>お金<rt>かね</rt></ruby>さえあれば</span><span style="color:#3498DB">、<ruby>海<rt>かい</rt></ruby><ruby>外<rt>がい</rt></ruby><ruby>旅<rt>りょ</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ける。</span>  
+- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#FF477E"><ruby>お金<rt>かね</rt></ruby>さえあれば</span><span style="color:#3498DB">、<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>ける。</span>  
   中文：只要我有錢，就能去海外旅行。
 
 - 日文：<span style="color:#FF477E"><ruby>練習<rt>れんしゅう</rt></ruby>さえすれば</span><span style="color:#3498DB">、だれでも<ruby>上手<rt>じょうず</rt></ruby>になります。</span>  
@@ -26,6 +26,12 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>が</span><span style="color:#FF477E"><ruby>来<rt>き</rt></ruby>さえすれば</span><span style="color:#3498DB">、<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>始<rt>はじ</rt></ruby>められる。</span>  
   中文：只要他來，會議就能開始。
+
+## 關係說明
+- [[JP_N3_60_dake|〜だけ（相近的限定語感）@related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -63,10 +69,7 @@ jlpt: N3
 |---|---|---|
 | 核心 | お金(かね)さえあれば。 | 只要有錢。 |
 | 擴充 1 | お金(かね)さえあれば、留学(りゅうがく)できます。 | 只要有錢，就可以留學。 |
-| 擴充 2 | お金(かね)さえあれば、来年(らいねん)は<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>へ留学(りゅうがく)したいです。 | 只要有錢，我想明年去日本留學。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+| 擴充 2 | お金(かね)さえあれば、来年(らいねん)は<ruby>日本<rt>にほん</rt></ruby>へ留学(りゅうがく)したいです。 | 只要有錢，我想明年去日本留學。 |
 
 ---
 *Created: 2026-07-17*

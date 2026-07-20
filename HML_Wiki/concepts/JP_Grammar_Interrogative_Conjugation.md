@@ -1,7 +1,3 @@
----
-part_of:
-  - "[[Japanese_Learning_System]]"
----
 # 🇯🇵 日語疑問詞與詞性對應指南 (Interrogatives & Word Classes)
 
 > [!important] 句子結構色彩標記：

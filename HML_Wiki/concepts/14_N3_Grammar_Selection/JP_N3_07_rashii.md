@@ -1,10 +1,10 @@
 ---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 related_to:
-  - "[[JP_Grammar_50_C46_hearsay_sou_desu]]"
   - "[[JP_N3_08_you_da]]"
+  - "[[JP_Grammar_50_C46_hearsay_sou_desu]]"
 ---
 # 〜らしい
 

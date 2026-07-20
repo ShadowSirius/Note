@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜んじゃないか
 
@@ -27,6 +27,12 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71">この<ruby>値段<rt>ねだん</rt></ruby>は</span><span style="color:#FF477E"><ruby>少<rt>すこ</rt></ruby>し</span><span style="color:#3498DB"><ruby>高<rt>たか</rt></ruby>すぎるんじゃないか。</span>
   中文：這個價格，是不是有點太貴了？
+
+## 關係說明
+- [[JP_N3_64_nikimatteiru|〜に決まっている（語氣更斷定）@related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -65,9 +71,6 @@ jlpt: N3
 | 核心 | 高（たか）すぎるんじゃないか。 | 是不是太貴了？ |
 | 加入主題 | この値段（ねだん）は高（たか）すぎるんじゃないか。 | 這個價格，是不是太貴了？ |
 | 加入副詞 | この値段（ねだん）は、少（すこ）し高（たか）すぎるんじゃないか。 | 這個價格，是不是有點太貴了？ |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

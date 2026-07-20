@@ -1,7 +1,7 @@
 ---
+jlpt: N2
 part_of:
   - "[[Japanese_Learning_System]]"
-jlpt: N2
 related_to:
   - "[[N3_Grammar_Index]]"
   - "[[N1_Grammar_Index]]"
@@ -83,7 +83,6 @@ related_to:
 - [[JP_N2_66_darake|〜だらけ]]（滿是...，同まみれ但泛用範圍更廣）
 - [[JP_N2_67_ge|〜げ]]（看起來...的樣子，如 悲しげ）
 - [[JP_N2_35_osoregaaru|〜恐れがある]]（恐怕會...，帶負面風險的推測）
-- [[JP_N2_13_kanenai|〜かねない]]（很可能會（發生壞事）...）
 
 ## 六、程度限度
 - [[JP_N2_06_amari|〜あまり]]（因過於... — 程度過頭導致的結果）
@@ -122,7 +121,7 @@ related_to:
 - [[JP_N1_49_nikoshitakotohanai|〜に越したことはない]]（最好是...、莫過於...）
 - [[JP_N1_70_mademonai|〜までもない]]（用不著...、不必...）
 - [[JP_N2_73_naidewairarenai|〜ないではいられない]]（禁不住...、不由自主地...）
-- [[JP_Grammar_50_te_wa_irarenai|〜ずにはいられない]]（禁不住要...（同上，語感略書面））
+- [[JP_N2_79_zuniwairarenai|〜ずにはいられない]]（禁不住要...（同上，語感略書面））
 - [[JP_N2_74_tewakanawanai|〜てはかなわない]]（...得受不了）
 - [[JP_N2_75_tewatamaranai|〜てはたまらない]]（...得受不了（同上更口語））
 
@@ -145,7 +144,7 @@ related_to:
 - [[N3_Grammar_Index|N3 文法索引 @related_to]]
 - [[N1_Grammar_Index|N1 文法索引 @related_to]]
 - 完整卡（帶 FSI Pattern Drill）：JP_N2_01 ~ JP_N2_78（本模組全數 78 張卡皆已完成，無待擴充 stub）
-- 跨級去重連結：26 項連至 16_N1_Grammar_Selection、1 項（〜に決まっている）連至 14_N3_Grammar_Selection、1 項（〜ずにはいられない）連至 06_Te_Auxiliary_て形助動詞
+- 跨級去重連結：26 項連至 16_N1_Grammar_Selection、1 項（〜に決まっている）連至 14_N3_Grammar_Selection、〜ずにはいられない 已建立獨立筆記 [[JP_N2_79_zuniwairarenai]]（2026-07-19）
 - 尚無專屬卡（純文字保留）：〜といっても
 
 ---

@@ -1,4 +1,5 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:

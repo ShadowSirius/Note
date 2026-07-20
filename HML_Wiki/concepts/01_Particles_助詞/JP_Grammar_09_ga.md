@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N5
 contradicts:
   - "[[JP_Grammar_01_wa_desu]]"
 ---

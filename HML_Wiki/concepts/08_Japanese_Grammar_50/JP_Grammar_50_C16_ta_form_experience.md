@@ -1,8 +1,12 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_18_ta_tokoro_da]]"
+  - "[[JP_N3_19_ta_bakari_da]]"
 sibling_of:
   - "[[JP_Grammar_50_C15_potential_form]]"
   - "[[JP_Grammar_50_C17_tari_tari]]"
@@ -32,6 +36,8 @@ sibling_of:
 - [[JP_Grammar_50_C15_potential_form|上一課 @sibling_of]]
 - [[JP_Grammar_50_C17_tari_tari|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_18_ta_tokoro_da|N3〜たところだ 進階課 @related_to]]
+- [[JP_N3_19_ta_bakari_da|N3〜たばかりだ 進階課 @related_to]]
 
 ---
 

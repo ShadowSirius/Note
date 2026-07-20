@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜ことなく
 
@@ -25,6 +25,11 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#FF477E"><ruby>泣<rt>な</rt></ruby>くことなく</span><span style="color:#3498DB"><ruby>真<rt>しん</rt></ruby><ruby>実<rt>じつ</rt></ruby>を<ruby>話<rt>はな</rt></ruby>した。</span>
   中文：他沒有哭就說出了真相。
+
+## 關係說明
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -64,9 +69,6 @@ jlpt: N3
 | 擴展1 | 彼は休むことなく働いた。 | 他不休息地工作了。 |
 | 擴展2 | 彼は毎日休むことなく働いた。 | 他每天都不停歇地工作。 |
 | 擴展3 | 彼は毎日朝から夜まで休むことなく働いた。 | 他每天從早到晚都不停歇地工作。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

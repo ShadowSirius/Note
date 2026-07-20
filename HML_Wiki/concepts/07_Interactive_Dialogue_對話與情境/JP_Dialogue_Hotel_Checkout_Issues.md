@@ -1,9 +1,4 @@
 ---
-part_of:
-  - "[[JP_Dialogue_Index]]"
-related_to:
-  - "[[JP_Dialogue_Travel_Hotel]]"
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
 jlpt: N4
 ---
 # 日語情境會話：飯店退房與問題處理篇

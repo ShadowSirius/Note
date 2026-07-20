@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 contradicts:
   - "[[JP_Grammar_46_te_kimasu]]"
 ---

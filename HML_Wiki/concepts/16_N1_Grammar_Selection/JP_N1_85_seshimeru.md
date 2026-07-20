@@ -1,8 +1,6 @@
 ---
-part_of:
-  - "[[N1_Grammar_Index]]"
 jlpt: N1
-related_to:
+part_of:
   - "[[N1_Grammar_Index]]"
 ---
 # 〜せしめる

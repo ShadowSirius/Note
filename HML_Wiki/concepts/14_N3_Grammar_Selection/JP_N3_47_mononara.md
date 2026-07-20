@@ -1,7 +1,9 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
+related_to:
+  - "[[JP_N3_14_nara]]"
 ---
 # 〜ものなら
 
@@ -26,6 +28,12 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71">あの<ruby>機械<rt>きかい</rt></ruby>は</span><span style="color:#FF477E"><ruby>素人<rt>しろうと</rt></ruby>が<ruby>触<rt>さわ</rt></ruby>るものなら、</span><span style="color:#3498DB">すぐに<ruby>壊<rt>こわ</rt></ruby>れてしまうよ。</span>
   中文：那台機器如果外行人一碰，可是會立刻壞掉喔。
+
+## 關係說明
+- [[JP_N3_14_nara|〜なら @related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -64,9 +72,6 @@ jlpt: N3
 | 核心 | 行けるものなら。 | 如果能去的話。 |
 | 擴展 1 | 行けるものなら、行ってみたい。 | 如果能去的話，我想去看看。 |
 | 擴展 2 | 今すぐ行けるものなら、行ってみたい。 | 如果現在立刻能去的話，我很想去看看。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

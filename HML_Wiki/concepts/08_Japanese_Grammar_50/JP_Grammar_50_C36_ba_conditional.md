@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_12_ba_hodo]]"
 sibling_of:
   - "[[JP_Grammar_50_C35_te_moraemasen_ka_request]]"
   - "[[JP_Grammar_50_C37_volitional_non_volitional_2]]"
@@ -32,6 +35,7 @@ sibling_of:
 - [[JP_Grammar_50_C35_te_moraemasen_ka_request|上一課 @sibling_of]]
 - [[JP_Grammar_50_C37_volitional_non_volitional_2|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_12_ba_hodo|N3〜ば〜ほど 進階課 @related_to]]
 
 ---
 

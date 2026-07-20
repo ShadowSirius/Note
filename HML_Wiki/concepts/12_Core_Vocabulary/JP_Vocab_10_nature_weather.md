@@ -1,6 +1,4 @@
 ---
-part_of:
-  - "[[Core_Vocabulary_Index]]"
 related_to:
   - "[[JP_Grammar_26_sou_desu_hearsay]]"
   - "[[JP_Grammar_25_sou_desu_conjecture]]"

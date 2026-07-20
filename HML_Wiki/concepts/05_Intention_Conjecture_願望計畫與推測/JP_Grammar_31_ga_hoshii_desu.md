@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N5
 child_of:
   - "[[JP_Grammar_15_tai_desu]]"
 ---

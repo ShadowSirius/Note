@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 replaces:
   - "[[JP_Grammar_19_ta_hou_ga_ii_desu]]"
 ---

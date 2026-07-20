@@ -1,7 +1,10 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
+related_to:
+  - "[[JP_N3_39_noni]]"
+  - "[[JP_N3_14_nara]]"
 ---
 # 〜たら〜のに
 
@@ -25,6 +28,13 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>君<rt>きみ</rt></ruby>が</span><span style="color:#FF477E"><ruby>先<rt>さき</rt></ruby>に<ruby>知<rt>し</rt></ruby>っていたら</span><span style="color:#3498DB">、<ruby>手伝<rt>てつだ</rt></ruby>えたのに。</span>
   中文：要是你早點知道，我就能幫忙了。
+
+## 關係說明
+- [[JP_N3_39_noni|〜のに @related_to]]
+- [[JP_N3_14_nara|〜なら @related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
+
+---
 
 ## 🎯 FSI Pattern Drill
 
@@ -63,9 +73,6 @@ jlpt: N3
 | 核心 | 間(ま)に合(あ)ったのに。 | 就能趕上了。 |
 | 擴展 1 | もっと早(はや)く出発(しゅっぱつ)したら、間(ま)に合(あ)ったのに。 | 要是更早出發，就能趕上了。 |
 | 擴展 2 | 私(わたし)がもっと早(はや)く出発(しゅっぱつ)したら、会議(かいぎ)に間(ま)に合(あ)ったのに。 | 我要是更早出發，就能趕上會議了。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*

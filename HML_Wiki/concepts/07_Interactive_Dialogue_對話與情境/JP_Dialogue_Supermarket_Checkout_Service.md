@@ -1,9 +1,4 @@
 ---
-part_of:
-  - "[[JP_Dialogue_Index]]"
-related_to:
-  - "[[JP_Dialogue_Daily_Life]]"
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
 jlpt: N4
 ---
 # 日語情境會話：超市尋物與結帳服務篇

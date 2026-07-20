@@ -1,8 +1,11 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_25_sasetemorau]]"
 sibling_of:
   - "[[JP_Grammar_50_C46_hearsay_sou_desu]]"
   - "[[JP_Grammar_50_C48_honorific_keigo]]"
@@ -34,6 +37,7 @@ sibling_of:
 - [[JP_Grammar_50_C46_hearsay_sou_desu|上一課 @sibling_of]]
 - [[JP_Grammar_50_C48_honorific_keigo|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_25_sasetemorau|N3〜させてもらう 進階課 @related_to]]
 
 ---
 

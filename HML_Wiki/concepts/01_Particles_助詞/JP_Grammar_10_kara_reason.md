@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N5
 replaces:
   - "[[JP_Grammar_27_node]]"
 ---

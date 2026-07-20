@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 extends:
   - "[[JP_Grammar_38_te_mimasu]]"
 ---

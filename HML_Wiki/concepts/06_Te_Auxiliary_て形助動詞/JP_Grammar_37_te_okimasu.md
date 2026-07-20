@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N4
 derives_from:
   - "[[JP_Grammar_36_te_arimasu]]"
 ---

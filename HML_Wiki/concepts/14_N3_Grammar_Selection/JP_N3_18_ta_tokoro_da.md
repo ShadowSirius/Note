@@ -1,7 +1,7 @@
 ---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 related_to:
   - "[[JP_N3_19_ta_bakari_da]]"
   - "[[JP_Grammar_50_C16_ta_form_experience]]"

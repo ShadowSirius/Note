@@ -1,6 +1,5 @@
 ---
-part_of:
-  - "[[Japanese_Grammar_Index]]"
+jlpt: N5
 contradicts:
   - "[[JP_Grammar_14_te_wa_ikemasen]]"
 prevents:

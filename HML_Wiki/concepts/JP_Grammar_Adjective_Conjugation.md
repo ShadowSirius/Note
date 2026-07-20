@@ -1,7 +1,3 @@
----
-part_of:
-  - "[[Japanese_Learning_System]]"
----
 # 🇯🇵 日語形容詞變化指南（い形容詞・な形容詞）
 
 > [!important] 句子結構色彩標記：

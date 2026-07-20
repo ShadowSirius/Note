@@ -1,8 +1,12 @@
 ---
+jlpt: N4
 derives_from:
   - "[[Japanese_Grammar_50_ocr]]"
 part_of:
   - "[[Japanese_Grammar_50_Index]]"
+related_to:
+  - "[[JP_N3_22_temorau]]"
+  - "[[JP_N3_26_teitadakemasenka]]"
 sibling_of:
   - "[[JP_Grammar_50_C34_to_iu]]"
   - "[[JP_Grammar_50_C36_ba_conditional]]"
@@ -32,6 +36,8 @@ sibling_of:
 - [[JP_Grammar_50_C34_to_iu|上一課 @sibling_of]]
 - [[JP_Grammar_50_C36_ba_conditional|下一課 @sibling_of]]
 - [[Japanese_Grammar_50_Index|日語關鍵文法 50 @part_of]]
+- [[JP_N3_22_temorau|N3〜てもらう 進階課 @related_to]]
+- [[JP_N3_26_teitadakemasenka|N3〜ていただけませんか 進階課 @related_to]]
 
 ---
 

@@ -1,7 +1,7 @@
-﻿---
+---
+jlpt: N3
 part_of:
   - "[[N3_Grammar_Index]]"
-jlpt: N3
 ---
 # 〜ということだ
 
@@ -25,6 +25,10 @@ jlpt: N3
 
 - 日文：<span style="color:#2ECC71"><ruby>新聞<rt>しんぶん</rt></ruby>では</span>、<span style="color:#FF477E"><ruby>来月<rt>らいげつ</rt></ruby>から</span><span style="color:#3498DB"><ruby>料金<rt>りょうきん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる</span><span style="color:#3498DB">ということだ。</span>
   中文：據報紙說，下個月費用會上漲。
+
+## 關係說明
+- [[JP_N3_07_rashii|〜らしい（同屬傳聞推測）@related_to]]
+- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 
@@ -62,9 +66,6 @@ jlpt: N3
 | 核心 | 休講（きゅうこう）だということだ。 | 聽說是停課。 |
 | 擴展1 | 先生（せんせい）によると、休講（きゅうこう）だということだ。 | 據老師說，是停課。 |
 | 擴展2 | 先生（せんせい）によると、明日（あした）は休講（きゅうこう）だということだ。 | 據老師說，明天停課。 |
-
-## 關係說明
-- [[N3_Grammar_Index|N3 文法索引 @part_of]]
 
 ---
 *Created: 2026-07-17*
