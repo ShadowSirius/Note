@@ -64,7 +64,7 @@
 58. [[JP_Grammar_58_te_iru_tokoro_desu|〜ているところです]]
 
 ## 📘 Japanese Grammar 50 補充教材（N5-N4 全50課）
-- [[Japanese_Grammar_50_Index|Japanese Grammar 50 索引（C01-C50）@related_to]]：另一套涵蓋 N5-N4 範圍、以句型為主軸的 50 課補充教材，與上方 01-58 號文法卡片有大量主題重疊，可交叉參照。
+- [[Japanese_Grammar_50_Index|Japanese Grammar 50 索引（C01-C50）@related_to]]：另套涵蓋 N5-N4 範圍、以句型為主軸的 50 課補充教材，與上方 01-58 號文法卡有大量主題重疊，可交叉參照。
 
 ## 🗣️ 生活對話與情境應用
 - [[JP_Dialogue_Index|情境對話總索引]] (Dialogue Index)
@@ -85,5 +85,5 @@
 - [[JP_Sentence_Construction_Guide|日語造句、成分剖析與口語精簡指引]]
 
 ---
-*提示：請在命令列執行 `python .obsidian/scripts/sync_wikilink_types.py` 以自動將文法卡片間的關聯同步至 Frontmatter YAML，Dataview 與 Graph 檢視將能同步取用。*
+*提示：請在命令列執行 `python .obsidian/scripts/sync_wikilink_types.py` 以自動將文法卡間的關聯同步 Frontmatter YAML，Dataview 與 Graph 檢視將能同步用。*
 

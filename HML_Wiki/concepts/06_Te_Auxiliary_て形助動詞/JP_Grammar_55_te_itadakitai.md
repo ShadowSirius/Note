@@ -12,21 +12,21 @@ related_to:
 - 否定形式：`〜ないでいただきたい`（希望對方不要做某事）
 
 ## 用法說明
-表示說話者「希望對方（為自己）做某個動作」。
+表示說者「希望對方（為自己）做某個動作」。
 - 是 [[JP_Grammar_41_te_hoshii_desu|〜てほしいです]] 的謙遜敬語形式。
-- 用於商務書信、對上司、客戶或長輩，能極為客氣、莊重地向對方提出「希望對方配合」的要求，避免直接命令的無禮。
+- 用於商務書信、對上司、客戶長輩，能極為客氣、莊重地向對方提出「希望對方配合」的要求，避免直接命令的無禮。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#F39C12"><ruby>明日の<rt>あしたの (ashitano)</rt></ruby></span><span style="color:#2ECC71"><ruby>会議<rt>かいぎ (kaigi)</rt></ruby>には</span><span style="color:#FF477E"><ruby>時間通り<rt>じかんどおり (jikandoori)</rt></ruby>に</span><span style="color:#3498DB"><ruby>出席<rt>しゅっせき (shusseki)</rt></ruby>していただきたいです。</span>
-- 中文：希望明天的會議您能準時出席。
-- 日文：<span style="color:#F39C12">こちらの</span><span style="color:#3498DB"><ruby>書類<rt>しょるい (shorui)</rt></ruby>を<ruby>確認<rt>かくにん (kakunin)</rt></ruby>していただきたい。</span>
-- 中文：希望您能確認這份文件。
-- 日文：<span style="color:#FF477E">できれば</span><span style="color:#FF477E">メールで</span><span style="color:#3498DB">お<ruby>返事<rt>へんじ (henji)</rt></ruby>をいただきたいです。</span>
-- 中文：如果可以的話，希望能收到您的郵件回覆。
-- 日文：<span style="color:#F39C12"><ruby>予約<rt>よやく (yoyaku)</rt></ruby>の</span><span style="color:#2ECC71"><ruby>変更<rt>へんこう (henkou)</rt></ruby>は</span><span style="color:#FF477E"><ruby>早め<rt>はやめ (hayame)</rt></ruby>に</span><span style="color:#3498DB">していただきたいです。</span>
-- 中文：預約的變更希望能請您儘早辦理。
+- 日文：<span style="color:#F39C12"><ruby>明日<rt>あした</rt></ruby>の</span><span style="color:#2ECC71"><ruby>会議<rt>かいぎ</rt></ruby>には</span><span style="color:#FF477E"><ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>りに</span><span style="color:#3498DB"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいです。</span>
+- 中文：希望明天的會議您準時出席。
+- 日文：<span style="color:#F39C12">こちらの</span><span style="color:#3498DB"><ruby>書類<rt>しょるい</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>していただきたい。</span>
+- 中文：希望您確認這份文件。
+- 日文：<span style="color:#FF477E">できれば</span><span style="color:#FF477E">メールで</span><span style="color:#3498DB">お<ruby>返事<rt>へんじ</rt></ruby>をいただきたいです。</span>
+- 中文：如果可以的話，希望能收到您郵件回覆。
+- 日文：<span style="color:#F39C12"><ruby>予約<rt>よやく</rt></ruby>の</span><span style="color:#2ECC71"><ruby>変更<rt>へんこう</rt></ruby>は</span><span style="color:#FF477E"><ruby>早<rt>はや</rt></ruby>めに</span><span style="color:#3498DB">していただきたいです。</span>
+- 中文：預約的變更希望能請您早辦。
 
 ## 關係說明
 - 是口語中希望他人做事 [[JP_Grammar_41_te_hoshii_desu|〜てほしいです @refines]] 在敬語和正式商務語氣上的精確細化。
@@ -37,40 +37,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）していただきたいです。
-> （希望明天的會議您能準時出席。）
+> <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span>
+> （希望明天的會議您準時出席。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 参加（さんか）して | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に**参加（さんか）していただきたいです**。 | 希望明天的會議您能準時參加。 |
-| 報告（ほうこく）して | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に**報告（ほうこく）していただきたいです**。 | 希望明天的會議您能準時報告。 |
-| 発表（はっぴょう）して | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に**発表（はっぴょう）していただきたいです**。 | 希望明天的會議您能準時發表。 |
-| 連絡（れんらく）して | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に**連絡（れんらく）していただきたいです**。 | 希望明天的會議您能準時聯絡。 |
+| <span style="color:#3498DB"><ruby>参加<rt>さんか</rt></ruby>して</span> | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>参加<rt>さんか</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時參加。 |
+| <span style="color:#3498DB"><ruby>報告<rt>ほうこく</rt></ruby>して</span> | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>報告<rt>ほうこく</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時報告。 |
+| <span style="color:#3498DB"><ruby>発表<rt>はっぴょう</rt></ruby>して</span> | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>発表<rt>はっぴょう</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時發表。 |
+| <span style="color:#3498DB"><ruby>連絡<rt>れんらく</rt></ruby>して</span> | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>連絡<rt>れんらく</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時聯絡。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 普通形（ふつうけい） | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）して**いただきたい**。 | 希望明天的會議您能準時出席。（常體） |
-| 否定形（ひていけい） | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）**しないでいただきたいです**。 | 希望明天的會議您不要準時出席。 |
-| 疑問形（ぎもんけい） | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）していただきたいのです**か**。 | 您是希望明天的會議能準時出席嗎？ |
-| 口語形（こうごけい） | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）して**ほしいです**。 | 希望明天的會議你能準時出席。（口語） |
+|  普通形（ふつうけい）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#3498DB"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたい</span> | 希望明天的會議您準時出席。（常體） |
+|  否定形（ひていけい）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>しないで</span><span style="color:#E74C3C">いただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您要準時出席。 |
+|  疑問形（ぎもんけい）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいので</span><span style="color:#3498DB">すか</span> | 您希望明天的會議能準時出席嗎 |
+|  口語形（こうごけい）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>してほしいで</span><span style="color:#3498DB">す</span> | 希望明天的會議你準時出席。（口語） |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）していただきたいですか。 | はい、時間通り（じかんどおり）に出席（しゅっせき）していただきたいです。 | 希望明天的會議您能準時出席嗎？ / 是的，希望能準時出席。 |
-| こちらの書類（しょるい）を確認（かくにん）していただきたいですか。 | はい、確認（かくにん）していただきたいです。 | 希望能請您確認這份文件嗎？ / 是的，希望能請您確認。 |
-| メールでお返事（へんじ）をいただきたいですか。 | はい、お返事（へんじ）をいただきたいです。 | 希望能收到您的郵件回覆嗎？ / 是的，希望能收到您的回覆。 |
+| <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#E74C3C"><ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時出席嗎 / 是的，希望能準時出席。 |
+| <span style="color:#E67E22">こちらの<ruby>書類<rt>しょるい</rt></ruby>を</span><span style="color:#E74C3C"><ruby>確認<rt>かくにん</rt></ruby>していただきたいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#E74C3C"><ruby>確認<rt>かくにん</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望能請您認這份文件嗎 / 是的，希望能請您認。 |
+| <span style="color:#E74C3C">メールで</span><span style="color:#E67E22">お<ruby>返事<rt>へんじ</rt></ruby>を</span><span style="color:#E74C3C">いただきたいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#E67E22">お<ruby>返事<rt>へんじ</rt></ruby>を</span><span style="color:#E74C3C">いただきたいで</span><span style="color:#3498DB">す</span> | 希望能收到您郵件回覆嗎 / 是的，希望能收到您回覆。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心（かくしん） | いただきたいです。 | 希望您能。 |
-| +動作（どうさ） | 出席（しゅっせき）していただきたいです。 | 希望您能出席。 |
-| +修飾（しゅうしょく） | 時間通り（じかんどおり）に出席（しゅっせき）していただきたいです。 | 希望您能準時出席。 |
-| +時間（じかん） | 明日（あした）の会議（かいぎ）には時間通り（じかんどおり）に出席（しゅっせき）していただきたいです。 | 希望明天的會議您能準時出席。 |
+| 核心 | <span style="color:#E74C3C">いただきたいで</span><span style="color:#3498DB">す</span> | 希望您。 |
+| +動作 | <span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望您出席。 |
+| +修飾 | <span style="color:#E74C3C"><ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望您準時出席。 |
+| +時間 | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>に</span><span style="color:#E74C3C">は<ruby>時間<rt>じかん</rt></ruby><ruby>通<rt>とう</rt></ruby>り（じかんどおり）に</span><span style="color:#E74C3C"><ruby>出席<rt>しゅっせき</rt></ruby>していただきたいで</span><span style="color:#3498DB">す</span> | 希望明天的會議您準時出席。 |

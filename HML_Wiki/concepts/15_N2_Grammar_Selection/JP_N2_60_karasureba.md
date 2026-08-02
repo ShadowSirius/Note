@@ -14,10 +14,10 @@ related_to:
 表示「從...的立場、角度來看」，強調站在前項所指的人或事物的觀點來評論、判斷後項，語感比「〜にとって」更客觀分析，常用於比較不同立場之間的看法差異。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71"><ruby>初心者<rt>しょしんしゃ</rt></ruby>からすれば、</span><span style="color:#3498DB">この<ruby>説明書<rt>せつめいしょ</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しすぎる。</span>
-  中文：從初學者的角度來看，這本說明書太難了。
+- 日文：<span style="color:#2ECC71"><ruby>初心者<rt>しょしんしゃ</rt></ruby>からすれば、</span><span style="color:#3498DB">この<ruby>説明書<rt>せつめいしょ</rt></ruby>は<ruby>難<rt>むつか</rt></ruby>しすぎる。</span>
+  中文：從初學者的角度來看，這本說書太難了。
 - 日文：<span style="color:#2ECC71"><ruby>専門家<rt>せんもんか</rt></ruby>からすると、</span><span style="color:#3498DB">その<ruby>方法<rt>ほうほう</rt></ruby>は<ruby>効率<rt>こうりつ</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いそうだ。</span>
   中文：從專家的角度來看，那個方法效率似乎不太好。
 
@@ -30,35 +30,35 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 初心者（しょしんしゃ）からすれば、この説明書（せつめいしょ）は難（むずか）しすぎる。
-> （從初學者的角度來看，這本說明書太難了。）
+> <span style="color:#E74C3C"><ruby>初心者<rt>しょしんしゃ</rt></ruby>から</span><span style="color:#3498DB">すれば</span><span style="color:#2ECC71">この<ruby>説明書<rt>せつめいしょ</rt></ruby>は</span><span style="color:#3498DB"><ruby>難<rt>むつか</rt></ruby>しすぎる</span>
+> （從初學者的角度來看，這本說書太難了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 親（おや） | **親からすれば**、子供はいつまでも子供だ。 | 從父母的角度來看，孩子永遠都是孩子。 |
-| 外国人（がいこくじん） | **外国人からすると**、この習慣（しゅうかん）は不思議（ふしぎ）だ。 | 從外國人的角度來看，這個習俗很不可思議。 |
+|  <ruby>親<rt>おや</rt></ruby>（おや）  | <span style="color:#E74C3C"><ruby>親<rt>したし</rt></ruby>から</span><span style="color:#3498DB">すれば</span><span style="color:#2ECC71"><ruby>子供<rt>こども</rt></ruby>は</span><span style="color:#E74C3C">いつまで</span><span style="color:#3498DB">も<ruby>子供<rt>こども</rt></ruby>だ</span> | 從父母的角度來看，孩子永遠都是孩子。 |
+|  <ruby>外国人<rt>がいこくじん</rt></ruby>（がいこくじん）  | <span style="color:#E74C3C"><ruby>外国人<rt>がいこくじん</rt></ruby>から</span><span style="color:#E67E22">すると</span><span style="color:#2ECC71">この<ruby>習慣<rt>しゅうかん</rt></ruby>は</span><span style="color:#3498DB"><ruby>不思議<rt>ふしぎ</rt></ruby>だ</span> | 從外國人的角度來看，這個習俗很不可思議。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → にとって（單純立場，不含推測） | 初心者にとって、この説明書は難しい。 | 對初學者來說，這本說明書很難（單純陳述立場）。 |
+| <span style="color:#3498DB">→</span><span style="color:#E67E22">にと</span><span style="color:#3498DB">って（<ruby>單純<rt>たんじゅん</rt></ruby><ruby>立場<rt>たちば</rt></ruby>，<ruby>不<rt>ふ</rt></ruby><ruby>含<rt>がん</rt></ruby><ruby>推測<rt>すいそく</rt></ruby>）</span> | <span style="color:#E74C3C"><ruby>初心者<rt>しょしんしゃ</rt></ruby>に</span><span style="color:#3498DB">とって</span><span style="color:#2ECC71">この<ruby>説明書<rt>せつめいしょ</rt></ruby>は</span><span style="color:#3498DB"><ruby>難<rt>むずか</rt></ruby>しい</span> | 對初學者來說這本說書很難（單純陳述立場）。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| その方法はどう思いますか。 | 専門家（せんもんか）**からすると**、効率が悪いそうです。 | 從專家的角度來看，效率似乎不太好。 |
+| <span style="color:#2ECC71">その<ruby>方法<rt>ほうほう</rt></ruby>は</span><span style="color:#3498DB">どう<ruby>思<rt>おも</rt></ruby>いますか</span> | <span style="color:#E74C3C"><ruby>専門家<rt>せんもんか</rt></ruby>から</span><span style="color:#E67E22">すると</span><span style="color:#2ECC71"><ruby>効率<rt>こうりつ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>悪<rt>わる</rt></ruby>いそうで</span><span style="color:#3498DB">す</span> | 從專家的角度來看，效率似乎不太好。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 難しすぎる。 | 太難了。 |
-| +立場 | **初心者からすれば**、難しすぎる。 | 從初學者的角度來看，太難了。 |
-| +補述 | 何も知らない初心者からすれば、この説明書は難しすぎて理解（りかい）できない。 | 從什麼都不懂的初學者角度來看，這本說明書太難，根本無法理解。 |
+| 核心 | <span style="color:#3498DB"><ruby>難<rt>むつか</rt></ruby>しすぎる</span> | 太難了。 |
+| +立場 | <span style="color:#E74C3C"><ruby>初心者<rt>しょしんしゃ</rt></ruby>から</span><span style="color:#3498DB">すれば</span><span style="color:#3498DB"><ruby>難<rt>むつか</rt></ruby>しすぎる</span> | 從初學者的角度來看，太難了。 |
+| +補述 | <span style="color:#2ECC71"><ruby>何<rt>なに</rt></ruby>も</span><span style="color:#E74C3C"><ruby>知<rt>し</rt></ruby>らない<ruby>初心者<rt>しょしんしゃ</rt></ruby>から</span><span style="color:#3498DB">すれば</span><span style="color:#2ECC71">この<ruby>説明書<rt>せつめいしょ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>難<rt>むつか</rt></ruby>しすぎて<ruby>理解<rt>りかい</rt></ruby>で</span><span style="color:#3498DB">きない</span> | 從什麼都不懂初學者角度來看，這本說書太難，根本無法理解。 |
 
 ---
 *Created: 2026-07-17*

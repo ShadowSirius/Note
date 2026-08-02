@@ -19,18 +19,18 @@ sibling_of:
 先判斷動詞需要幾個參與者，再決定 が、を、に、から、へ、で、まで 等格助詞。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71">桜が</span><span style="color:#3498DB">咲きます</span>。
+- 日文：<span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span>。
   中文：櫻花開了/開花。
-- 日文：<span style="color:#2ECC71">子供が</span><span style="color:#3498DB">ご飯を食べます</span>。
+- 日文：<span style="color:#2ECC71"><ruby>子供<rt>こども</rt></ruby>が</span><span style="color:#3498DB">ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます</span>。
   中文：小孩吃飯。
-- 日文：<span style="color:#2ECC71">母が</span><span style="color:#FF477E">妹に</span><span style="color:#3498DB">手紙を送ります</span>。
+- 日文：<span style="color:#2ECC71"><ruby>母<rt>はは</rt></ruby>が</span><span style="color:#FF477E"><ruby>妹<rt>いもうと</rt></ruby>に</span><span style="color:#3498DB"><ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります</span>。
   中文：媽媽寄信給妹妹。
 
 ## 學習提示
-- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪一類，再回到例句確認助詞與動詞形。
-- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡標題關鍵字搜尋校對。
+- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪類，再回到例句確認助詞與動詞形。
+- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡題關鍵字搜尋校對。
 
 ## 關係說明
 - [[JP_Grammar_50_C02_wa_desu|下一課 @sibling_of]]
@@ -41,39 +41,39 @@ sibling_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 桜（さくら）が咲（さ）きます。
+> <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span>
 > （櫻花開了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 花（はな） | 花（はな）が**咲（さ）きます**。 | 花開了。 |
-| 梅（うめ） | 梅（うめ）が**咲（さ）きます**。 | 梅花開了。 |
-| 桃（もも） | 桃（もも）が**咲（さ）きます**。 | 桃花開了。 |
-| 朝顔（あさがお） | 朝顔（あさがお）が**咲（さ）きます**。 | 牽牛花開了。 |
+|  <ruby>花<rt>はな</rt></ruby>（はな）  | <span style="color:#2ECC71"><ruby>花<rt>はな</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 花開了。 |
+|  <ruby>梅<rt>うめ</rt></ruby>（うめ）  | <span style="color:#2ECC71"><ruby>梅<rt>うめ</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 梅花開了。 |
+|  <ruby>桃<rt>もも</rt></ruby>（もも）  | <span style="color:#2ECC71"><ruby>桃<rt>もも</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 桃花開了。 |
+|  <ruby>朝顔<rt>あさがお</rt></ruby>（あさがお）  | <span style="color:#2ECC71"><ruby>朝顔<rt>あさがお</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 牽牛花開了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 否定形 | 桜（さくら）が**咲（さ）きません**。 | 櫻花不開。 |
-| → 過去形 | 桜（さくら）が**咲（さ）きました**。 | 櫻花開了。 |
-| → 疑問形 | 桜（さくら）が咲（さ）きます**か**。 | 櫻花開嗎？ |
-| → 過去否定形 | 桜（さくら）が**咲（さ）きませんでした**。 | 櫻花沒有開。 |
+|  → 否定形  | <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きません</span> | 櫻花不開。 |
+|  → 過去形  | <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きました</span> | 櫻花開了。 |
+|  → 疑問形  | <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きますか</span> | 櫻花開嗎 |
+|  → 過去否定形  | <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#E74C3C"><ruby>咲<rt>さ</rt></ruby>きませんで</span><span style="color:#3498DB">した</span> | 櫻花沒有開。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 桜（さくら）が咲（さ）きましたか。 | はい、桜（さくら）が咲（さ）きました。 | 是的，櫻花開了。 |
-| 梅（うめ）も咲（さ）きましたか。 | いいえ、梅（うめ）はまだ咲（さ）きません。 | 不，梅花還沒開。 |
+| <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きましたか</span> | <span style="color:#3498DB">はい</span><span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きました</span> | 是的，櫻花開了。 |
+| <span style="color:#2ECC71"><ruby>梅<rt>うめ</rt></ruby>も</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きましたか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#2ECC71"><ruby>梅<rt>うめ</rt></ruby>は</span><span style="color:#3498DB">まだ<ruby>咲<rt>さ</rt></ruby>きません</span> | 不，梅花還沒開。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 咲（さ）きます。 | 開花。 |
-| +主語 | **桜（さくら）が**咲（さ）きます。 | 櫻花開花。 |
-| +修飾 | **綺麗（きれい）な**桜（さくら）が咲（さ）きます。 | 美麗的櫻花開花。 |
-| +時間 | **もう**綺麗（きれい）な桜（さくら）が咲（さ）きます。 | 美麗的櫻花已經開花了。 |
+| 核心 | <span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 開花。 |
+| +主語 | <span style="color:#2ECC71"><ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 櫻花開花。 |
+| +修飾 | <span style="color:#2ECC71"><ruby>綺麗<rt>きれい</rt></ruby>な<ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 美麗的櫻花開花。 |
+| +時間 | <span style="color:#2ECC71">もう<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>桜<rt>さくら</rt></ruby>が</span><span style="color:#3498DB"><ruby>咲<rt>さ</rt></ruby>きます</span> | 美麗的櫻花已經開花了。 |

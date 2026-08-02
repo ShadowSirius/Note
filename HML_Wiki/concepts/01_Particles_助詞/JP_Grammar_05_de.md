@@ -9,14 +9,14 @@ contradicts:
 - `名詞 + で`
 
 ## 用法說明
-1. 表示動作進行的場所；2. 表示手段、方法、工具、材料。
+1. 表示動作進行的場所所2. 表示手段、方法、工具、材料。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#FF477E"><ruby>圖書館<rt>としょかん (toshokan)</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう (benkyou)</rt></ruby>します。</span>
+- 日文：<span style="color:#FF477E"><ruby>圖書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します。</span>
 - 中文：在圖書館學習。
-- 日文：<span style="color:#FF477E">ペンで</span><span style="color:#3498DB"><ruby>書<rt>か (ka)</rt></ruby>きます。</span>
+- 日文：<span style="color:#FF477E">ペンで</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>きます。</span>
 - 中文：用鋼筆寫。
 
 ## 關係說明
@@ -27,40 +27,40 @@ contradicts:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 図書館（としょかん）で勉強（べんきょう）します。
+> <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span>
 > （在圖書館學習。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 教室（きょうしつ） | **教室（きょうしつ）**で勉強（べんきょう）します。 | 在教室學習。 |
-| 部屋（へや） | **部屋（へや）**で勉強（べんきょう）します。 | 在房間學習。 |
-| 食堂（しょくどう） | **食堂（しょくどう）**で勉強（べんきょう）します。 | 在餐廳學習。 |
-| 家（うち） | **家（うち）**で勉強（べんきょう）します。 | 在家學習。 |
+|  <ruby>教室<rt>きょうしつ</rt></ruby>（きょうしつ）  | <span style="color:#E74C3C"><ruby>教室<rt>きょうしつ</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在教室學習。 |
+|  <ruby>部屋<rt>へや</rt></ruby>（へや）  | <span style="color:#E74C3C"><ruby>部屋<rt>へや</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在房間學習。 |
+|  <ruby>食堂<rt>しょくどう</rt></ruby>（しょくどう）  | <span style="color:#E74C3C"><ruby>食堂<rt>しょくどう</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在餐廳學習。 |
+|  <ruby>家<rt>いえ</rt></ruby>（うち）  | <span style="color:#E74C3C"><ruby>家<rt>いえ</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在家學習。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 過去形 | 図書館（としょかん）で勉強（べんきょう）**しました**。 | 在圖書館學習了。 |
-| → 否定形 | 図書館（としょかん）で勉強（べんきょう）**しません**。 | 不在圖書館學習。 |
-| → 進行形 | 図書館（としょかん）で勉強（べんきょう）**しています**。 | 正在圖書館學習。 |
-| → 工具/手段句型 | ペンで**書（か）きます**。 | 用鋼筆寫。 |
+|  → 過去形  | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>しました</span> | 在圖書館學習了。 |
+|  → 否定形  | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>しません</span> | 不在圖書館學習。 |
+|  → 進行形  | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>しています</span> | 正在圖書館學習。 |
+|  → 工具/手段句型  | <span style="color:#E74C3C">ペンで</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>きます</span> | 用鋼筆寫。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 何処（どこ）で勉強（べんきょう）しますか。 | 図書館（としょかん）で勉強（べんきょう）します。 | 在圖書館學習。 |
-| 図書館（としょかん）で何をしますか。 | 日本語（にほんご）を勉強（べんきょう）します。 | 學習日語。 |
-| ペンで書（か）きますか。 | いいえ、鉛筆（えんぴつ）で書（か）きます。 | 不，用鉛筆寫。 |
+| <span style="color:#E74C3C"><ruby>何処<rt>どこ</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>しますか</span> | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在圖書館學習。 |
+| <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>を</span><span style="color:#3498DB">しますか</span> | <span style="color:#E67E22"><ruby>日本語<rt>にほんご</rt></ruby>を</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 學習日語。 |
+| <span style="color:#E74C3C">ペンで</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>きますか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C"><ruby>鉛筆<rt>えんぴつ</rt></ruby>で</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>きます</span> | 不，用鉛筆寫。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 勉強（べんきょう）します。 | 學習。 |
-| +場所 | **図書館（としょかん）で**勉強（べんきょう）します。 | 在圖書館學習。 |
-| +目的語 | 図書館（としょかん）で**日本語（にほんご）を**勉強（べんきょう）します。 | 在圖書館學習日語。 |
-| +同伴 | 図書館（としょかん）で**友達（ともだち）と**日本語（にほんご）を勉強（べんきょう）します。 | 在圖書館和朋友學習日語。 |
+| 核心 | <span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 學習。 |
+| +場所 | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在圖書館學習。 |
+| +目的語 | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#E67E22"><ruby>日本語<rt>にほんご</rt></ruby>を</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在圖書館學習日語。 |
+| +同伴 | <span style="color:#E74C3C"><ruby>図書館<rt>としょかん</rt></ruby>で</span><span style="color:#E67E22"><ruby>友達<rt>ともだち</rt></ruby>と</span><span style="color:#E67E22"><ruby>日本語<rt>にほんご</rt></ruby>を</span><span style="color:#3498DB"><ruby>勉強<rt>べんきょう</rt></ruby>します</span> | 在圖書館和朋友學習日語。 |

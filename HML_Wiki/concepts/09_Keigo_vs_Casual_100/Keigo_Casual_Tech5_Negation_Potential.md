@@ -12,88 +12,88 @@ sibling_of:
 ---
 # 技法五：狀態否定與能力限制
 
-在溝通中，適當表達「我不明白」、「我做不到」或「我吃不下」等否定或能力受限的情況，能避免誤會。丁寧體中，動詞的否定多以 `〜ません` 結尾；而在口語中，則全面轉換為簡體的 **`ない形`（普通否定形）**。
+在溝通中，適當表達「我不明白」、「我做不到」或「我吃不下」等否定或能力受限的情況，能避免誤會。丁寧體中，動詞的否定多以 `〜ません` 結尾結尾而在口語中，則全面轉換為簡體的 **`ない形`（普通否定形）**。
 
 ## 💡 語法變形規律
 
 1. **基本否定 (不... / 沒有...)**：
-   - 丁寧體：`[動詞ます形] + ません` ➡️ 口語：`[動詞ない形] + ない`
-   - 例：`わかりません` ➡️ `わからない` (動詞辭書形 `わかる` ➡️ ない形 `わからない`)
-   - 例：`知りません` ➡️ `知らない` (動詞辭書形 `知る` ➡️ ない形 `知らない`)
+   - 丁寧體：`[動詞ます形] + ません` ➡➡ 口語：`[動詞ない形] + ない`
+   - 例：`わかりません` ➡➡ `わからない` (動詞辭書形 `わかる` ➡➡ ない形 `わからない`)
+   - 例：`知りません` ➡➡ `知らない` (動詞辭書形 `知る` ➡➡ ない形 `知らない`)
 2. **能力/潛能限制否定 (不能... / 做不到...)**：
-   - 丁寧體：`[可能動詞/自發動詞] + ません` ➡️ 口語：`[可能動詞/自發動詞] + ない`
-   - 例：`できません` ➡️ `できない` (表示無此能力或無法提供服務)
-   - 例：`聞こえません` ➡️ `聞こえない` (自發動詞，聽不見)
-   - 例：`見えません` ➡️ `見えない` (自發動詞，看不見)
-   - 例：`食べられません` ➡️ `食べられない` (可能動詞，吃不下/對食物過敏無法食用)
+   - 丁寧體：`[可能動詞/自發動詞] + ません` ➡➡ 口語：`[可能動詞/自發動詞] + ない`
+   - 例：`できません` ➡➡ `できない` (表示無此能力或無法提供服務)
+   - 例：`聞こえません` ➡➡ `聞こえない` (自發動詞，聽不見)
+   - 例：`見えません` ➡➡ `見えない` (自發動詞，看不見)
+   - 例：`食べられません` ➡➡ `食べられない` (可能動詞，吃不下/對食物過敏無法食用)
 1. **理解狀態的過去肯定 (我知道了 / 明白了)**：
-   - 丁寧體：`[動詞ます形] + ました` ➡️ 口語：`[動詞た形] + た` (過去式)
-   - 例：`わかりました` ➡️ `わかった` (極為高頻的理解確認語)
+   - 丁寧體：`[動詞ます形] + ました` ➡➡ 口語：`[動詞た形] + た` (過去式)
+   - 例：`わかりました` ➡➡ `わかった` (極為高頻的理解確認語)
 
 ---
 
 ## 📊 8 組實用否定與能力對照表
 
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 |編號|中文翻譯| 丁寧體 (敬語/禮貌) | 口語 (朋友/家人) |羅馬拼音 (口語) & 備註|
 |:---:|:---| :--- | :--- |:---|
-|1|我知道了 / 明白| <span style="color:#3498DB"><ruby>わかりました<rt>わかりました</rt></ruby></span> | <span style="color:#3498DB"><ruby>わかった<rt>わかった</rt></ruby></span> |*Wakarimashita* ➡️ *Wakatta* (已理解對方的要求)|
-|2|不懂 / 不知道 (理解上)| <span style="color:#3498DB"><ruby>わかりません<rt>わかりません</rt></ruby></span> | <span style="color:#3498DB"><ruby>わからない<rt>わからない</rt></ruby></span> |*Wakarimasen* ➡️ *Wakaranai* (表示理解能力或資訊不足)|
-|3|不知道 / 不曉得 (事實上)| <span style="color:#3498DB"><ruby>知りません<rt>しりません</rt></ruby></span> | <span style="color:#3498DB"><ruby>知らない<rt>しらない</rt></ruby></span> |*Shirimasen* ➡️ *Shiranai* (指不知道某人事物、不認識)|
-|4|聽不到 / 聽不見| <span style="color:#3498DB"><ruby>聞こえません<rt>きこえません</rt></ruby></span> | <span style="color:#3498DB"><ruby>聞こえない<rt>きこえない</rt></ruby></span> |*Kikoemasen* ➡️ *Kikoenai* (聲音太小或連線差)|
-|5|看不到 / 看不見| <span style="color:#3498DB"><ruby>見えません<rt>みえません</rt></ruby></span> | <span style="color:#3498DB"><ruby>見えない<rt>みえない</rt></ruby></span> |*Miemasen* ➡️ *Mienai* (視線受阻或字太小)|
-|6|不會 / 做不到| <span style="color:#3498DB"><ruby>できません<rt>できません</rt></ruby></span> | <span style="color:#3498DB"><ruby>できない<rt>できない</rt></ruby></span> |*Dekimasen* ➡️ *Dekinai* (無法勝任、無法完成)|
-|7|不能去| <span style="color:#3498DB"><ruby>行けません<rt>いけません</rt></ruby></span> | <span style="color:#3498DB"><ruby>行けない<rt>いけない</rt></ruby></span> |*Ikemasen* ➡️ *Ikenai* (因日程衝突或身體不適無法赴約)|
-|8|不能吃 / 吃不下| <span style="color:#3498DB"><ruby>食べられません<rt>たべられません</rt></ruby></span> | <span style="color:#3498DB"><ruby>食べられない<rt>たべられない</rt></ruby></span> |*Taberaremasen* ➡️ *Taberarenai* (可能形否定)|
+|1|我知道了 / 明白| <span style="color:#3498DB">わかりました</span> | <span style="color:#3498DB">わかった</span> |*Wakarimashita* ➡➡ *Wakatta* (已理解對方的要求)|
+|2|不懂/ 不知道 (理解上)| <span style="color:#3498DB">わかりません</span> | <span style="color:#3498DB">わからない</span> |*Wakarimasen* ➡➡ *Wakaranai* (表示理解能力或資訊不足)|
+|3|不知道 / 不曉得 (事實上)| <span style="color:#3498DB">知りません</span> | <span style="color:#3498DB">知らない</span> |*Shirimasen* ➡➡ *Shiranai* (指不知道某人事物、不認識)|
+|4|聽不到 / 聽不見| <span style="color:#3498DB">聞こえません</span> | <span style="color:#3498DB">聞こえない</span> |*Kikoemasen* ➡➡ *Kikoenai* (聲音太小或連線差)|
+|5|看不到 / 看不見| <span style="color:#3498DB">見えません</span> | <span style="color:#3498DB">見えない</span> |*Miemasen* ➡➡ *Mienai* (視線受阻或字太小)|
+|6|不會 / 做不到| <span style="color:#3498DB">できません</span> | <span style="color:#3498DB">できない</span> |*Dekimasen* ➡➡ *Dekinai* (無法勝任、無法完成)|
+|7|不能去| <span style="color:#3498DB">行けません</span> | <span style="color:#3498DB">行けない</span> |*Ikemasen* ➡➡ *Ikenai* (因日程衝突或身體不適無法赴約)|
+|8|不能吃 / 吃不下| <span style="color:#3498DB">食べられません</span> | <span style="color:#3498DB">食べられない</span> |*Taberaremasen* ➡➡ *Taberarenai* (可能形否定)|
 
 ---
 
 ## 🔗 關係與連結
 
 - **屬於本專案主頁之子頁面**：[[Keigo_Casual_100_Index|敬語與口語100句總覽 @child_of]]
-- **其他姊妹變形技法**：
+- **其他姊變形技法**：
   - [[Keigo_Casual_Tech1_Questions|技法一：疑問與確認的轉換 @sibling_of]] (在進行否定回答前，通常是透過疑問句發起確認)
-  - [[Keigo_Casual_Tech4_Invitations|技法四：邀請、提議與意向對比 @sibling_of]] (常用於婉拒技法四的熱情提議，如「行く？」➡️「行けない」)
+  - [[Keigo_Casual_Tech4_Invitations|技法四：邀請、提議與意向對比 @sibling_of]] (常用於婉拒技法四的熱情提議，如「行く？」➡「行けない」)
 
 ---
 
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> わかりません ➡️ わからない
-> （不懂 / 不知道）
+> <span style="color:#3498DB">わかりません</span><span style="color:#3498DB">➡➡</span><span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span>
+> （不懂/ 不知道）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 知（し）る | **知（し）らない**。 | 我不知道。 |
-| 聞（き）こえる | **聞（き）こえない**。 | 聽不到。 |
-| 見（み）える | **見（み）えない**。 | 看不到。 |
-| 行（い）ける | **行（い）けない**。 | 不能去。 |
+| <span style="color:#3498DB"><ruby>知<rt>し</rt></ruby>る</span> | <span style="color:#3498DB"><ruby>知<rt>し</rt></ruby>らない</span> | 我不知道。 |
+| <span style="color:#3498DB"><ruby>聞<rt>き</rt></ruby>こえる</span> | <span style="color:#3498DB"><ruby>聞<rt>き</rt></ruby>こえない</span> | 聽不到。 |
+| <span style="color:#3498DB"><ruby>見<rt>み</rt></ruby>える</span> | <span style="color:#3498DB"><ruby>見<rt>み</rt></ruby>えない</span> | 看不到。 |
+| <span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>ける</span> | <span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>けない</span> | 不能去。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| わかりました ➡️ | わかった。 | 明白了。 |
-| 行（い）けません ➡️ | 行（い）けない。 | 不能去。 |
-| 食（た）べられません ➡️ | 食（た）べられない。 | 不能吃。 |
-| 聞（き）こえません ➡️ | 聞（き）こえない。 | 聽不見。 |
+| <span style="color:#3498DB">わかりました</span><span style="color:#3498DB">➡➡</span> | <span style="color:#3498DB">わかった</span> | 明白了。 |
+| <span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>けません</span><span style="color:#3498DB">➡➡</span> | <span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>けない</span> | 不能去。 |
+| <span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられません</span><span style="color:#3498DB">➡➡</span> | <span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられない</span> | 不能吃。 |
+| <span style="color:#3498DB"><ruby>聞<rt>き</rt></ruby>こえません</span><span style="color:#3498DB">➡➡</span> | <span style="color:#3498DB"><ruby>聞<rt>き</rt></ruby>こえない</span> | 聽不見。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| これ、わかる？ | ううん、ちょっとわからない。 | 不，有點不懂。 |
-| 明日（あした）行（い）ける？ | ごめん、明日（あした）は行（い）けない。 | 抱歉，明天不能去。 |
-| 聞（き）こえる？ | ううん、あまり聞（き）こえない。 | 不，不太聽得見。 |
+| <span style="color:#3498DB">これ</span><span style="color:#3498DB">わかる？</span> | <span style="color:#3498DB">ううん</span><span style="color:#E67E22">ちょっと</span><span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span> | 不，有點不懂 |
+| <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby><ruby>行<rt>い</rt></ruby>ける？</span> | <span style="color:#3498DB">ごめん</span><span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>けない</span> | 抱歉，明天不能去。 |
+| <span style="color:#3498DB"><ruby>聞<rt>き</rt></ruby>こえる？</span> | <span style="color:#3498DB">ううん</span><span style="color:#3498DB">あまり<ruby>聞<rt>き</rt></ruby>こえない</span> | 不，不太聽得見。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | わからない。 | 不懂。 |
-| +時間 | **今（いま）は**わからない。 | 現在不知道。 |
-| +主語 | **田中（たなか）さんも**今（いま）はわからない。 | 田中先生現在也不知道。 |
-| +原因 | **理由（りゆう）は**田中（たなか）さんも今（いま）はわからない。 | 田中先生現在也不知道理由。 |
+| 核心 | <span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span> | 不懂 |
+| +時間 | <span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby>は</span><span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span> | 現在不知道。 |
+| +主語 | <span style="color:#2ECC71"><ruby>田中<rt>たなか</rt></ruby>さんも</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby>は</span><span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span> | 田中先生現在也不知道。 |
+| +原因 | <span style="color:#2ECC71"><ruby>理由<rt>りゆう</rt></ruby>は</span><span style="color:#2ECC71"><ruby>田中<rt>たなか</rt></ruby>さんも</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby>は</span><span style="color:#E74C3C">わから</span><span style="color:#3498DB">ない</span> | 田中先生現在也不知道理由。 |

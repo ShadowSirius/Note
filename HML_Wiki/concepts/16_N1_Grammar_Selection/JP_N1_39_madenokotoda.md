@@ -9,10 +9,10 @@ part_of:
 - `動詞辭書形・た形 + まで（のこと）だ`
 
 ## 用法說明
-意為「大不了...而已」，用於表達說話者已做好最壞打算的決心或讓步，語氣沉著、帶「即使...也無所謂，頂多就是...」的豁達或倔強感，常見於表明覺悟的宣示句。也可用於說明「只是...而已」淡化行為的重要性（那只是...罷了）。
+意為「大不了...而已」，用於表達說者已做好最壞打算的決心或讓步語氣沉、帶「即使...也無所謂，頂多就是...」的豁達或倔強感，常見於表明覺悟的宣示句。也可用於說「只是...而已」淡化行為的重要性（那只是...罷了）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#FF477E">ダメなら</span><span style="color:#2ECC71">もう<ruby>一度<rt>いちど</rt></ruby></span><span style="color:#3498DB"><ruby>挑戦<rt>ちょうせん</rt></ruby>するまでだ。</span>
   中文：如果不行的話，大不了再挑戰一次而已。
@@ -27,30 +27,30 @@ part_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> ダメならもう一度（いちど）挑戦（ちょうせん）するまでだ。
+> <span style="color:#2ECC71">ダメならも</span><span style="color:#E74C3C">う<ruby>一度<rt>いちど</rt></ruby><ruby>挑戦<rt>ちょうせん</rt></ruby>するまで</span><span style="color:#3498DB">だ</span>
 > （如果不行的話，大不了再挑戰一次而已。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| やり直（なお）す | 失敗したら**やり直すまでだ**。 | 失敗的話，大不了重新來過而已。 |
-| 諦（あきら）める | 無理なら**諦めるまでのことだ**。 | 不行的話，大不了放棄而已。 |
+| <span style="color:#3498DB">やり<ruby>直<rt>なお</rt></ruby>す</span> | <span style="color:#E74C3C"><ruby>失敗<rt>しっぱい</rt></ruby>したらやり<ruby>直<rt>なお</rt></ruby>すまで</span><span style="color:#3498DB">だ</span> | 失敗的話，大不了重新來過而已。 |
+| <span style="color:#3498DB"><ruby>諦<rt>あきら</rt></ruby>める</span> | <span style="color:#E74C3C"><ruby>無理<rt>むり</rt></ruby>なら<ruby>諦<rt>あきら</rt></ruby>めるまで</span><span style="color:#E67E22">のこと</span><span style="color:#3498DB">だ</span> | 不行的話，大不了放棄而已。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 淡化事實用法 | 本当のことを**言ったまでだ**。 | 只是說出真話而已。 |
+|  → 淡化事實用法  | <span style="color:#E67E22"><ruby>本当<rt>ほんとう</rt></ruby>のこと</span><span style="color:#E74C3C">を<ruby>言<rt>い</rt></ruby>ったまで</span><span style="color:#3498DB">だ</span> | 只是說真話而已。 |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| もし失敗したらどうしますか。 | ダメならもう一度挑戦するまでです。 | 不行的話，大不了再挑戰一次。 |
+| <span style="color:#3498DB">もし<ruby>失敗<rt>しっぱい</rt></ruby>したらどうしますか</span> | <span style="color:#2ECC71">ダメならも</span><span style="color:#E74C3C">う<ruby>一度<rt>いちど</rt></ruby><ruby>挑戦<rt>ちょうせん</rt></ruby>するまで</span><span style="color:#3498DB">です</span> | 不行的話，大不了再挑戰一次。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 挑戦するまでだ。 | 大不了再挑戰而已。 |
-| +條件 | **ダメなら**もう一度挑戦するまでだ。 | 如果不行，大不了再挑戰一次。 |
+| 核心 | <span style="color:#E74C3C"><ruby>挑戦<rt>ちょうせん</rt></ruby>するまで</span><span style="color:#3498DB">だ</span> | 大不了再挑戰而已。 |
+| +條件 | <span style="color:#2ECC71">ダメならも</span><span style="color:#E74C3C">う<ruby>一度<rt>いちど</rt></ruby><ruby>挑戦<rt>ちょうせん</rt></ruby>するまで</span><span style="color:#3498DB">だ</span> | 如果不行，大不了再挑戰一次。 |
 
 ---
 *Created: 2026-07-17*

@@ -12,12 +12,12 @@ contradicts:
 表示不必要、沒必要（不...也可以）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71"><ruby>明日<rt>あした (ashita)</rt></ruby>は</span><span style="color:#3498DB"><ruby>來<rt>こ (ko)</rt></ruby>なくてもいいです。</span>
+- 日文：<span style="color:#2ECC71"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#3498DB"><ruby>來<rt>こ</rt></ruby>なくてもいいです。</span>
 - 中文：明天不來也可以。
-- 日文：<span style="color:#3498DB"><ruby>靴<rt>くつ (kutsu)</rt></ruby>を<ruby>脫<rt>ぬ (nu)</rt></ruby>がなくてもいいですよ。</span>
-- 中文：不用脫鞋子也沒關係喔。
+- 日文：<span style="color:#3498DB"><ruby>靴<rt>くつ</rt></ruby>を<ruby>脫<rt></rt></ruby>てもいいですよ。</span>
+- 中文：不用脫子也沒關係喔
 
 ## 關係說明
 - 解除義務，與強烈要求義務的 [[JP_Grammar_21_nakereba_narimasen|〜なければなりません @contradicts]] 對立。
@@ -27,40 +27,40 @@ contradicts:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 明日（あした）は来（こ）なくてもいいです。
+> <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#2ECC71"><ruby>来<rt>こ</rt></ruby>なくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span>
 > （明天不來也可以。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 学校（がっこう） | 明日（あした）は**学校（がっこう）に行（い）かなくても**いいです。 | 明天不去學校也可以。 |
-| 宿題（しゅくだい） | 明日（あした）は**宿題（しゅくだい）をしなくても**いいです。 | 明天不做功課也可以。 |
-| 早く（はや）起きる（お） | 明日（あした）は**早く（はや）起（お）きなくても**いいです。 | 明天不早起也可以。 |
-| 仕事（しごと） | 明日（あした）は**仕事（しごと）をしなくても**いいです。 | 明天不工作也可以。 |
+|  <ruby>学校<rt>がっこう</rt></ruby>（がっこう）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#E74C3C"><ruby>学校<rt>がっこう</rt></ruby>に</span><span style="color:#2ECC71"><ruby>行<rt>い</rt></ruby>かなくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 明天不去學校也可以。 |
+|  <ruby>宿題<rt>しゅくだい</rt></ruby>（しゅくだい）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#E67E22"><ruby>宿題<rt>しゅくだい</rt></ruby>を</span><span style="color:#2ECC71">しなくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 明天不做功課也可以。 |
+| <span style="color:#2ECC71"><ruby>早<rt>はや</rt></ruby>く（は</span><span style="color:#3498DB">や）<ruby>起<rt>お</rt></ruby>きる（お）</span> | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#2ECC71"><ruby>早<rt>はや</rt></ruby>く（は</span><span style="color:#2ECC71">や）<ruby>起<rt>お</rt></ruby>きなくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 明天不早起也可以。 |
+|  <ruby>仕事<rt>しごと</rt></ruby>（しごと）  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#E67E22"><ruby>仕事<rt>しごと</rt></ruby>を</span><span style="color:#2ECC71">しなくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 明天不工作也可以。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 義務形 | 明日（あした）は**来（こ）なければなりません**。 | 明天必須來。 |
-| → 否定請求形 | 明日（あした）は**来（こ）ないでください**。 | 明天請不要來。 |
-| → 普通形 | 明日（あした）は来（こ）なくても**いいよ**。 | 明天不來也行喔。 |
-| → 過去許可形 | 昨日（きのう）は来（こ）なくても**よかったです**。 | 昨天不來也可以。 |
+|  → 義務形  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>なければなりません</span> | 明天必須來。 |
+|  → 否定請求形  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#E74C3C"><ruby>来<rt>こ</rt></ruby>ないで</span><span style="color:#3498DB">ください</span> | 明天請不要來。 |
+|  → 普通形  | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#2ECC71"><ruby>来<rt>こ</rt></ruby>なくても</span><span style="color:#3498DB">いいよ</span> | 明天不來也行喔 |
+|  → 過去許可形  | <span style="color:#E74C3C"><ruby>昨日<rt>きのう</rt></ruby>は</span><span style="color:#2ECC71"><ruby>来<rt>こ</rt></ruby>なくても</span><span style="color:#E74C3C">よかったで</span><span style="color:#3498DB">す</span> | 昨天不來也可以。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 明日（あした）は学校（がっこう）に行（い）かなければなりませんか。 | いいえ、明日（あした）は行（い）かなくてもいいです。 | 不，明天不去也可以。 |
-| 靴（くつ）を脱（ぬ）がなければなりませんか。 | いいえ、靴（くつ）を脱（ぬ）がなくてもいいですよ。 | 不，不用脫鞋子也沒關係喔。 |
-| 漢字（かんじ）で書（か）かなければなりませんか。 | いいえ、ひらがなで書（か）いてもいいです。 | 不，用平假名寫也可以。 |
+| <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#E74C3C"><ruby>学校<rt>がっこう</rt></ruby>に</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>かなければなりませんか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#2ECC71"><ruby>行<rt>い</rt></ruby>かなくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 不，明天不去也可以。 |
+| <span style="color:#E67E22"><ruby>靴<rt>くつ</rt></ruby>を</span><span style="color:#2ECC71"><ruby>脱<rt>ぬ</rt></ruby>が</span><span style="color:#3498DB">なければなりませんか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E67E22"><ruby>靴<rt>くつ</rt></ruby>を</span><span style="color:#2ECC71"><ruby>脱<rt>ぬ</rt></ruby>が</span><span style="color:#2ECC71">なくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すよ</span> | 不，不用脫子也沒關係喔 |
+| <span style="color:#E74C3C"><ruby>漢字<rt>かんじ</rt></ruby>で</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>かなければなりませんか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#2ECC71">ひらが</span><span style="color:#E74C3C">なで</span><span style="color:#2ECC71"><ruby>書<rt>か</rt></ruby>いても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 不，用平假名寫也可以。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | いいです。 | 可以。 |
-| +許可結尾 | **なくても**いいです。 | 不...也可以。 |
-| +動作 | **来（こ）**なくてもいいです。 | 不來也可以。 |
-| +時間 | **明日（あした）は**来（こ）なくてもいいです。 | 明天不來也可以。 |
+| 核心 | <span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 可以。 |
+| +許可結尾 | <span style="color:#2ECC71">なくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 不...也可以。 |
+| +動作 | <span style="color:#2ECC71"><ruby>来<rt>こ</rt></ruby>なくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 不來也可以。 |
+| +時間 | <span style="color:#E74C3C"><ruby>明日<rt>あした</rt></ruby>は</span><span style="color:#2ECC71"><ruby>来<rt>こ</rt></ruby>なくても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 明天不來也可以。 |

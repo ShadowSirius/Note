@@ -15,9 +15,9 @@ related_to:
 文語否定禁止形，意為「不得...、不可...」，語感比「〜てはいけない」更硬、更具公告／告示性質，常見於標語、規則、格言。與 [[JP_Grammar_50_C45_hazu_desu_beki_desu|〜べき @related_to]] 同源但方向相反：「べき」是應該做，「べからず」是不應該做，且僅用於書面禁令，日常會話幾乎不用。「する」的活用以「すべからず」（文語終止形「す」＋べからず）為慣例主流形式，「するべからず」雖亦可見於現代用例，但正式書面仍以「すべからず」為準。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
-- 日文：<span style="color:#FF477E">この<ruby>庭<rt>にわ</rt></ruby>に</span><span style="color:#3498DB"><ruby>入<rt>はい</rt></ruby>るべからず。</span>
+- 日文：<span style="color:#FF477E">この<ruby>庭<rt>にわ</rt></ruby>に</span><span style="color:#3498DB"><ruby>入<rt>い</rt></ruby>るべからず。</span>
   中文：禁止進入此庭園。
 - 日文：<span style="color:#2ECC71"><ruby>初心<rt>しょしん</rt></ruby>を</span><span style="color:#3498DB"><ruby>忘<rt>わす</rt></ruby>るべからず。</span>
   中文：不可忘記初衷。
@@ -31,30 +31,30 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> この庭（にわ）に入（はい）るべからず。
+> <span style="color:#E74C3C">この<ruby>庭<rt>にわ</rt></ruby>に</span><span style="color:#E74C3C"><ruby>入<rt>い</rt></ruby>るべから</span><span style="color:#3498DB">ず</span>
 > （禁止進入此庭園。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 触（さわ）る | この作品に**触るべからず**。 | 不得觸摸此作品。 |
-| 撮影（さつえい）する | 館内で**撮影すべからず**。 | 館內不得攝影。 |
+| <span style="color:#3498DB"><ruby>触<rt>ふ</rt></ruby>る</span> | <span style="color:#E74C3C">この<ruby>作品<rt>さくひん</rt></ruby>に</span><span style="color:#E74C3C"><ruby>触<rt>ふ</rt></ruby>るべから</span><span style="color:#3498DB">ず</span> | 不得觸摸此作品。 |
+| <span style="color:#3498DB"><ruby>撮影<rt>さつえい</rt></ruby>する</span> | <span style="color:#E74C3C"><ruby>館内<rt>かんない</rt></ruby>で</span><span style="color:#E74C3C"><ruby>撮影<rt>さつえい</rt></ruby>すべから</span><span style="color:#3498DB">ず</span> | 館內得攝影。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 連體形 | **入るべからざる**場所だ。 | 是不得進入的場所。 |
+|  → 連體形  | <span style="color:#E74C3C"><ruby>入<rt>い</rt></ruby>るべから</span><span style="color:#3498DB">ざる<ruby>場所<rt>ばしょ</rt></ruby>だ</span> | 是不得進入的場所。 |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| ここに入ってもいいですか。 | いいえ、入るべからずと書いてあります。 | 不行，上面寫著不得進入。 |
+| <span style="color:#E74C3C">ここに</span><span style="color:#2ECC71"><ruby>入<rt>いっ</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C"><ruby>入<rt>い</rt></ruby>るべから</span><span style="color:#E67E22">ずと</span><span style="color:#3498DB"><ruby>書<rt>か</rt></ruby>いてあります</span> | 不行，上面寫著不得進入。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 入るべからず。 | 不得進入。 |
-| +場所 | **この庭に**入るべからず。 | 不得進入此庭園。 |
+| 核心 | <span style="color:#E74C3C"><ruby>入<rt>い</rt></ruby>るべから</span><span style="color:#3498DB">ず</span> | 不得進入。 |
+| +場所 | <span style="color:#E74C3C">この<ruby>庭<rt>にわ</rt></ruby>に</span><span style="color:#E74C3C"><ruby>入<rt>い</rt></ruby>るべから</span><span style="color:#3498DB">ず</span> | 不得進入此庭園。 |
 
 ---
 *Created: 2026-07-17*

@@ -20,16 +20,16 @@ sibling_of:
 自動詞描述事物自身變化，他動詞描述人對對象施加動作。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71">窓が</span><span style="color:#3498DB">開きます</span>。
-  中文：窗戶開了。
-- 日文：<span style="color:#3498DB">窓を開けます</span>。
-  中文：打開窗戶。
+- 日文：<span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span>。
+  中文：窗戶了。
+- 日文：<span style="color:#3498DB"><ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けます</span>。
+  中文：打開窗戶
 
 ## 學習提示
-- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪一類，再回到例句確認助詞與動詞形。
-- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡標題關鍵字搜尋校對。
+- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪類，再回到例句確認助詞與動詞形。
+- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡題關鍵字搜尋校對。
 
 ## 關係說明
 - [[JP_Grammar_50_C28_volitional_non_volitional|上一課 @sibling_of]]
@@ -41,39 +41,39 @@ sibling_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 窓（まど）が開（あ）きます。
-> （窗戶開了。）
+> <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span>
+> （窗戶了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| ドア（門） | **ドア**が開（あ）きます。 | 門開了。 |
-| 電気（でんき）（燈） | **電気（でんき）**がつきます。 | 燈亮了。 |
-| テレビ（電視） | **テレビ**がつきます。 | 電視開了。 |
-| お湯（ゆ）（熱水） | **お湯（ゆ）**が沸（わ）きます。 | 水滾了。 |
+| <span style="color:#3498DB">ドア（<ruby>門<rt>もん</rt></ruby>）</span> | <span style="color:#2ECC71">ドアが</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span> | 門開了。 |
+|  <ruby>電気<rt>でんき</rt></ruby>（でんき）（<ruby>燈<rt>とう</rt></ruby>）  | <span style="color:#2ECC71"><ruby>電気<rt>でんき</rt></ruby>が</span><span style="color:#3498DB">つきます</span> | 燈亮了。 |
+| <span style="color:#3498DB">テレビ（<ruby>電視<rt>でんし</rt></ruby>）</span> | <span style="color:#2ECC71">テレビが</span><span style="color:#3498DB">つきます</span> | 電視開了。 |
+| <span style="color:#3498DB">お<ruby>湯<rt>ゆ</rt></ruby>（<ruby>熱水<rt>ねっすい</rt></ruby>）</span> | <span style="color:#2ECC71">お<ruby>湯<rt>ゆ</rt></ruby>が</span><span style="color:#3498DB"><ruby>沸<rt>わ</rt></ruby>きます</span> | 水滾了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 他動詞表現 | 窓（まど）を**開（あ）けます**。 | 打開窗戶。 |
-| → 狀態持續（ている） | 窓（まど）が**開（あ）いています**。 | 窗戶開著。 |
-| → 過去形 | 窓（まど）が**開（あ）きました**。 | 窗戶開了。 |
-| → 否定形 | 窓（まど）が**開（あ）きません**。 | 窗戶不開。 |
+|  → 他動詞表現  | <span style="color:#E67E22"><ruby>窓<rt>まど</rt></ruby>を</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>けます</span> | 打開窗戶 |
+|  → 狀態持續（ている）  | <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>いています</span> | 窗戶著。 |
+|  → 過去形  | <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きました</span> | 窗戶了。 |
+|  → 否定形  | <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きません</span> | 窗戶開。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 窓（まど）が開（あ）きましたか。 | はい、窓（まど）が開（あ）きました。 | 是的，窗戶開了。 |
-| どうして窓（まど）が開（あ）きませんか。 | 鍵（かぎ）がかかっていますから、開（あ）きません。 | 因為鎖著，所以開不了。 |
+| <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きましたか</span> | <span style="color:#3498DB">はい</span><span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きました</span> | 是的，窗戶了。 |
+| <span style="color:#2ECC71">どうして<ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きませんか</span> | <span style="color:#2ECC71"><ruby>鍵<rt>かぎ</rt></ruby>が</span><span style="color:#E74C3C">かかっていますから</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きません</span> | 因為鎖著，所以開不了。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 開（あ）きます。 | 開。 |
-| +主語 | **窓（まど）が**開（あ）きます。 | 窗戶開。 |
-| +修飾 | **部屋（へや）の**窓（まど）が開（あ）きます。 | 房間的窗戶開。 |
-| +原因 | **風（かぜ）で**部屋（へや）の窓（まど）が開（あ）きます。 | 風把房間的窗戶吹開了。 |
+| 核心 | <span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span> | 開。 |
+| +主語 | <span style="color:#2ECC71"><ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span> | 窗戶。 |
+| +修飾 | <span style="color:#2ECC71"><ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span> | 房間的窗戶。 |
+| +原因 | <span style="color:#E74C3C"><ruby>風<rt>かぜ</rt></ruby>で</span><span style="color:#2ECC71"><ruby>部屋<rt>へや</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>が</span><span style="color:#3498DB"><ruby>開<rt>ひら</rt></ruby>きます</span> | 風把房間的窗戶開了。 |

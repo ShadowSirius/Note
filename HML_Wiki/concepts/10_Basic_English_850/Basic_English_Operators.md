@@ -27,16 +27,16 @@ sibling_of:
 - **come** (來) / **go** (去) — 空間位移的基本方向
 - **put** (放) / **take** (拿) — 物理位置的改變
 - **give** (給) / **get** (得) — 所有權的轉移
-- **make** (製造/使) — 創造與因果的產生
+- **make** (製造/使) — 創造與因果的產
 - **keep** (保持) / **let** (容許) — 狀態的維持與釋放
 - **seem** (似乎) — 感官上的狀態呈現
 
 ### 2. 輔助與靜態/感知運作詞 (6 個)
 這 6 個動詞用於建立語法關係、靜態持有、基本感知與溝通：
-- **be** (是/存在) — 最核心的狀態與繫詞
+- **be** (是/存在) — 最核心的狀態與繫
 - **have** (有) — 擁有與隸屬關係
 - **do** (做) — 一般性的活動算子與助動詞
-- **say** (說) — 基本的語意輸出與交流
+- **say** (說 — 基本的語意輸出與交流
 - **see** (看) — 視覺感知的基礎
 - **send** (發送) — 物理或資訊的遠程傳遞
 
@@ -53,9 +53,9 @@ sibling_of:
 $$\text{運作詞 (Operator)} + \text{介系詞 (Preposition) / 名詞 (Noun)} \Longrightarrow \text{複雜動詞}$$
 
 ### 對照實例：
-| 複雜動詞 | Basic English 代換公式 | 說明 |
+| 複雜動詞 | Basic English 代換公式 | 說 |
 |:---|:---|:---|
-| **examine** (檢查) | `give a look to` 或 `look at` | 運作詞 `give` + 名詞 `a look` + 介系詞 `to` |
+| **examine** (檢查 | `give a look to` 或 `look at` | 運作詞 `give` + 名詞 `a look` + 介系詞 `to` |
 | **decide** (決定) | `make up one's mind` | 運作詞 `make` + 介系詞 `up` + 名詞 `one's mind` |
 | **enter** (進入) | `go into` | 運作詞 `go` + 介系詞 `into` |
 | **depart** (離開) | `go away` | 運作詞 `go` + 介系詞 `away` |
@@ -69,8 +69,8 @@ $$\text{運作詞 (Operator)} + \text{介系詞 (Preposition) / 名詞 (Noun)} \
 
 - **屬於本專案主頁之子頁面**：[[Basic_English_Index|基礎英語總覽 @child_of]]
 - **其他子概念頁面**：
-  - [[Basic_English_Phrasal_Verbs|動詞片語的代換組合 @sibling_of]] (進一步學習如何將 18 個 Operators 與介系詞組合)
-  - [[Basic_English_Vocabulary_Structure|850單字分類結構 @sibling_of]] (了解 18 個 Operators 在整個詞彙表中的佔比)
+  - [[Basic_English_Phrasal_Verbs|動詞片語的代換組合 @sibling_of]] (進一步習如何將 18 個 Operators 與介系詞組合)
+  - [[Basic_English_Vocabulary_Structure|850單字分類結構 @sibling_of]] (了解 18 個 Operators 在整個詞彙表中的佔)
 
 ---
 
@@ -84,35 +84,35 @@ $$\text{運作詞 (Operator)} + \text{介系詞 (Preposition) / 名詞 (Noun)} \
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| go into the details | We will **go into the details** tomorrow. | 我們明天會深入細節。 |
-| send a word to the maker | We will **send a word to the maker** tomorrow. | 我們明天會給製造商發個消息。 |
-| have a look at the parts | We will **have a look at the parts** tomorrow. | 我們明天會看看這些零件。 |
-| give support to the team | We will **give support to the team** tomorrow. | 我們明天會給予團隊支持。 |
+|  go into the details  |  We will **go into the details** tomorrow.  | 我們明天會深入細節。 |
+|  send a word to the maker  |  We will **send a word to the maker** tomorrow.  | 我們明天會給製造商發個消息。 |
+|  have a look at the parts  |  We will **have a look at the parts** tomorrow.  | 我們明天會看看這些零件。 |
+|  give support to the team  |  We will **give support to the team** tomorrow.  | 我們明天會給予團隊支持。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → Negative | We **will not** make up our mind tomorrow. | 我們明天不會做出決定。 |
-| → Question | **Will we** make up our mind tomorrow? | 我們明天會做出決定嗎？ |
-| → Past Tense | We **made up** our mind yesterday. | 我們昨天做出了決定。 |
-| → Use "decide" | We will **decide** tomorrow. | 我們明天會決定。 |
+|  → Negative  |  We **will not** make up our mind tomorrow.  | 我們明天不會做出決定。 |
+|  → Question  |  **Will we** make up our mind tomorrow?  | 我們明天會做出決定嗎 |
+|  → Past Tense  |  We **made up** our mind yesterday.  | 我們昨天做出了決定。 |
+|  → Use "decide"  |  We will **decide** tomorrow.  | 我們明天會決定。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| Will you make up your mind tomorrow? | Yes, we will make up our mind tomorrow. | 是的，我們明天會做出決定。 |
-| When will they make up their mind? | They will make up their mind next week. | 他們下週會做出決定。 |
-| Did he make up his mind yesterday? | No, he did not make up his mind yesterday. | 不，他昨天沒有做出決定。 |
-| Who will make up their mind tomorrow? | The managers will make up their mind tomorrow. | 經理們明天會做出決定。 |
+|  Will you make up your mind tomorrow?  |  Yes, we will make up our mind tomorrow.  | 是的，我們明天會做出決定。 |
+|  When will they make up their mind?  |  They will make up their mind next week.  | 他們下週會做出決定。 |
+|  Did he make up his mind yesterday?  |  No, he did not make up his mind yesterday.  | 不，他昨天沒有做出決定。 |
+|  Who will make up their mind tomorrow?  |  The managers will make up their mind tomorrow.  | 經理們明天會做出決定。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | Make up your mind. | 做決定。 |
-| +主語 | **We** make up our mind. | 我們做決定。 |
-| +助動詞 | We **will** make up our mind. | 我們將做決定。 |
-| +時間 | We will make up our mind **tomorrow**. | 我們明天會做出決定。 |
-| +條件 | We will make up our mind tomorrow **if we get the facts**. | 如果我們得到事實，我們明天會做出決定。 |
+| 核心 |  Make up your mind.  | 做決定。 |
+| +主語 |  **We** make up our mind.  | 我們做決定。 |
+| +助動詞 |  We **will** make up our mind.  | 我們將做決定。 |
+| +時間 |  We will make up our mind **tomorrow**.  | 我們明天會做出決定。 |
+| +條件 |  We will make up our mind tomorrow **if we get the facts**.  | 如果我們得到事實，我們明天會做出決定。 |

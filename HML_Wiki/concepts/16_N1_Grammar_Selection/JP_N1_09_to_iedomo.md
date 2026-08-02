@@ -11,13 +11,13 @@ related_to:
 - `名詞・普通形 + と言えども`
 
 ## 用法說明
-文語讓步表現，意為「雖說是...（但）」，比「〜といっても」更硬、更具格言／論述性質，常見於評論、演講、諺語，強調即使前項條件成立，後項的例外或反轉依然存在。與 [[JP_N1_08_to_ainaru|〜と相成る @related_to]] 同屬鄭重文語家族，但一為結果宣告、一為讓步轉折。
+文語讓步，意為「雖說..（但）」，比「〜といっても」更硬、更具格言／論述性質，常見於評論、演講、諺語，強調即使前項條件成立，後項的例外或反轉依然存在。與 [[JP_N1_08_to_ainaru|〜と相成る @related_to]] 同屬鄭重文語家族，但一為結果宣告、一為讓步折。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>子供<rt>こども</rt></ruby>と<ruby>言<rt>い</rt></ruby>えども、</span><span style="color:#3498DB"><ruby>侮<rt>あなど</rt></ruby>れない<ruby>実力<rt>じつりょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>っている。</span>
-  中文：雖說是小孩，卻擁有不可小覷的實力。
+  中文：雖說小孩，卻擁有不可小覷實力。
 - 日文：<span style="color:#2ECC71">プロと<ruby>言<rt>い</rt></ruby>えども、</span><span style="color:#3498DB"><ruby>失敗<rt>しっぱい</rt></ruby>することはある。</span>
   中文：即便是專業人士，也是會有失敗的時候。
 
@@ -30,30 +30,30 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 子供（こども）と言（い）えども、侮（あなど）れない実力（じつりょく）を持（も）っている。
-> （雖說是小孩，卻擁有不可小覷的實力。）
+> <span style="color:#E67E22"><ruby>子供<rt>こども</rt></ruby>と</span><span style="color:#2ECC71"><ruby>言<rt>い</rt></ruby>えども</span><span style="color:#E67E22"><ruby>侮<rt>あなど</rt></ruby>れない<ruby>実力<rt>じつりょく</rt></ruby>を</span><span style="color:#3498DB"><ruby>持<rt>も</rt></ruby>っている</span>
+> （雖說小孩，卻擁有不可小覷實力。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 社長（しゃちょう） | **社長と言えども**、規則は守るべきだ。 | 即使是社長也應遵守規則。 |
-| 冗談（じょうだん） | **冗談と言えども**、許されない発言だ。 | 即使是玩笑，也是不被允許的發言。 |
+|  <ruby>社長<rt>しゃちょう</rt></ruby>（しゃちょう）  | <span style="color:#E67E22"><ruby>社長<rt>しゃちょう</rt></ruby>と</span><span style="color:#2ECC71"><ruby>言<rt>い</rt></ruby>えども</span><span style="color:#2ECC71"><ruby>規則<rt>きそく</rt></ruby>は</span><span style="color:#3498DB"><ruby>守<rt>まも</rt></ruby>るべきだ</span> | 即使是社長也應遵守規則。 |
+|  <ruby>冗談<rt>じょうだん</rt></ruby>（じょうだん）  | <span style="color:#E67E22"><ruby>冗談<rt>じょうだん</rt></ruby>と</span><span style="color:#2ECC71"><ruby>言<rt>い</rt></ruby>えども</span><span style="color:#3498DB"><ruby>許<rt>ゆる</rt></ruby>されない<ruby>発言<rt>はつげん</rt></ruby>だ</span> | 即使是玩笑，也是不被允許的發言。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 口語版本 | 子供と**いっても**、侮れない。 | 雖說是小孩，也不容小覷。（一般說法） |
+|  → 口語版本  | <span style="color:#E67E22"><ruby>子供<rt>こども</rt></ruby>と</span><span style="color:#2ECC71">いっても</span><span style="color:#3498DB"><ruby>侮<rt>あなど</rt></ruby>れない</span> | 雖說小孩，也不容小覷（一般說） |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 彼は本当に子供なんですか。 | ええ、子供と言えども実力は侮れません。 | 是的，雖說是小孩，實力卻不容小覷。 |
+| <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>本当<rt>ほんとう</rt></ruby>に</span><span style="color:#E74C3C"><ruby>子供<rt>こども</rt></ruby>なんで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">ええ</span><span style="color:#E67E22"><ruby>子供<rt>こども</rt></ruby>と</span><span style="color:#2ECC71"><ruby>言<rt>い</rt></ruby>えども</span><span style="color:#2ECC71"><ruby>実力<rt>じつりょく</rt></ruby>は</span><span style="color:#3498DB"><ruby>侮<rt>あなど</rt></ruby>れません</span> | 是的，雖說小孩，實力卻不容小覷 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 侮れない実力を持っている。 | 擁有不可小覷的實力。 |
-| +讓步 | **子供と言えども**、侮れない実力を持っている。 | 雖說是小孩，卻擁有不可小覷的實力。 |
+| 核心 | <span style="color:#E67E22"><ruby>侮<rt>あなど</rt></ruby>れない<ruby>実力<rt>じつりょく</rt></ruby>を</span><span style="color:#3498DB"><ruby>持<rt>も</rt></ruby>っている</span> | 擁有不可小覷實力。 |
+| +讓步 | <span style="color:#E67E22"><ruby>子供<rt>こども</rt></ruby>と</span><span style="color:#2ECC71"><ruby>言<rt>い</rt></ruby>えども</span><span style="color:#E67E22"><ruby>侮<rt>あなど</rt></ruby>れない<ruby>実力<rt>じつりょく</rt></ruby>を</span><span style="color:#3498DB"><ruby>持<rt>も</rt></ruby>っている</span> | 雖說小孩，卻擁有不可小覷實力。 |
 
 ---
 *Created: 2026-07-17*

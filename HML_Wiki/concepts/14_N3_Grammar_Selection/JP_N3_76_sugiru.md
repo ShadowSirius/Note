@@ -17,10 +17,10 @@ related_to:
 
 ## 用法說明
 表示程度「過頭、太過」，語感常帶有不舒服、失衡或不適當的負面感。  
-和 `〜あまり` 相比，`〜すぎる` 更直接表達「超過標準」；和 [[JP_N3_58_hodo|〜ほど @related_to]] 相比，`〜ほど` 只是表示程度高，不一定有「過度」的意思。
+和 `〜あまり` 相比，`〜すぎる` 更直接表達「超過標準」」和 [[JP_N3_58_hodo|〜ほど @related_to]] 相比，`〜ほど` 只是表示程度高，不一定有「過度」的意思。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎて</span><span style="color:#FF477E"><ruby>一口<rt>ひとくち</rt></ruby>で<ruby>食<rt>た</rt></ruby>べられない。</span>
   中文：這個蛋糕太甜了，我一口都吃不下。
@@ -40,40 +40,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> このケーキは甘（あま）すぎる。
+> <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎる</span>
 > （這個蛋糕太甜了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| しょっぱい | このスープはしょっぱすぎる。 | 這個湯太鹹了。 |
-| 高（たか）い | このかばんは高（たか）すぎる。 | 這個包包太貴了。 |
-| 静（しず）かだ | この図書館（としょかん）は静（しず）かすぎる。 | 這間圖書館太安靜了。 |
+| <span style="color:#3498DB">しょっぱい</span> | <span style="color:#2ECC71">このスープは</span><span style="color:#3498DB">しょっぱすぎる</span> | 這個湯太鹹了。 |
+| <span style="color:#3498DB"><ruby>高<rt>たか</rt></ruby>い</span> | <span style="color:#2ECC71">このかばんは</span><span style="color:#3498DB"><ruby>高<rt>たか</rt></ruby>すぎる</span> | 這個包包太貴了。 |
+| <span style="color:#3498DB"><ruby>静<rt>しず</rt></ruby>かだ</span> | <span style="color:#2ECC71">この<ruby>図書館<rt>としょかん</rt></ruby>は</span><span style="color:#3498DB"><ruby>静<rt>しず</rt></ruby>かすぎる</span> | 這間圖書館太安靜了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 否定形 | このケーキは甘（あま）すぎない。 | 這個蛋糕不會太甜。 |
-| → 過去形 | このケーキは甘（あま）すぎた。 | 這個蛋糕太甜了（過去）。 |
-| → 理由句を追加 | このケーキは甘（あま）すぎて、全部（ぜんぶ）食（た）べられない。 | 這個蛋糕太甜了，整個都吃不下。 |
+|  → 否定形  | <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎない</span> | 這個蛋糕不會太甜。 |
+|  → 過去形  | <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎた</span> | 這個蛋糕太甜了（過去）。 |
+| <span style="color:#3498DB">→</span><span style="color:#E67E22"><ruby>理由<rt>りゆう</rt></ruby><ruby>句<rt>く</rt></ruby>を</span><span style="color:#3498DB"><ruby>追加<rt>ついか</rt></ruby></span> | <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎて</span><span style="color:#3498DB"><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>食<rt>た</rt></ruby>べられない</span> | 這個蛋糕太甜了，整個都吃不下。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| このスープ、どうですか。 | しょっぱすぎます。 | 這個湯怎麼樣？——太鹹了。 |
-| この部屋（へや）はどうですか。 | 寒（さむ）すぎます。 | 這個房間怎麼樣？——太冷了。 |
-| 今日（きょう）の仕事（しごと）はどうでしたか。 | 忙（いそが）しすぎて、休（やす）む時間（じかん）がありませんでした。 | 今天的工作如何？——太忙了，沒有休息時間。 |
+| <span style="color:#3498DB">このスープ</span><span style="color:#E74C3C">どうで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">しょっぱすぎます</span> | 這個湯怎麼樣？——太鹹了。 |
+| <span style="color:#2ECC71">この<ruby>部屋<rt>へや</rt></ruby>は</span><span style="color:#E74C3C">どうで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB"><ruby>寒<rt>さむ</rt></ruby>すぎます</span> | 這個房間怎麼樣？——太冷了。 |
+| <span style="color:#E74C3C"><ruby>今日<rt>きょう</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>は</span><span style="color:#E74C3C">どうで</span><span style="color:#3498DB">したか</span> | <span style="color:#3498DB"><ruby>忙<rt>いそが</rt></ruby>しすぎて</span><span style="color:#2ECC71"><ruby>休<rt>やす</rt></ruby>む<ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ありませんで</span><span style="color:#3498DB">した</span> | 今天的工作如何？——太忙了，沒有休息時間。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 甘（あま）すぎる。 | 太甜了。 |
-| 追加1 | このケーキは甘（あま）すぎる。 | 這個蛋糕太甜了。 |
-| 追加2 | このケーキは甘（あま）すぎて、飲（の）み物（もの）が欲（ほ）しくなる。 | 這個蛋糕太甜了，會想喝飲料。 |
+| 核心 | <span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎる</span> | 太甜了。 |
+| 追加1 | <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎる</span> | 這個蛋糕太甜了。 |
+| 追加2 | <span style="color:#2ECC71">このケーキは</span><span style="color:#3498DB"><ruby>甘<rt>あま</rt></ruby>すぎて</span><span style="color:#2ECC71"><ruby>飲み物<rt>のみもの</rt></ruby>が</span><span style="color:#3498DB"><ruby>欲<rt>ほっ</rt></ruby>しくなる</span> | 這個蛋糕太甜了，會想喝飲料。 |
 
 ---
 *Created: 2026-07-17*

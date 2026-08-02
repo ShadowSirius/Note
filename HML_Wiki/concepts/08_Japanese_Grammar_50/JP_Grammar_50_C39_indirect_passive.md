@@ -20,14 +20,14 @@ sibling_of:
 所有物被動表示「A 的所有物被 B 施加動作」，且該動作帶有困擾、受害的語氣（間接被動亦同）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#2ECC71">私は</span><span style="color:#FF477E">弟に</span><span style="color:#3498DB">ケーキを食べられました</span>。
+- 日文：<span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#FF477E"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#3498DB">ケーキを<ruby>食<rt>た</rt></ruby>べられました</span>。
   中文：我的蛋糕被弟弟吃掉了。
 
 ## 學習提示
-- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪一類，再回到例句確認助詞與動詞形。
-- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡標題關鍵字搜尋校對。
+- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪類，再回到例句確認助詞與動詞形。
+- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡題關鍵字搜尋校對。
 
 ## 關係說明
 - [[JP_Grammar_50_C38_passive_voice|上一課 @sibling_of]]
@@ -39,38 +39,38 @@ sibling_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 私（わたし）は弟（おとうと）にケーキを食（た）べられました。
+> <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span>
 > （我的蛋糕被弟弟吃掉了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 日記（にっき）を読（よ）まれる（日記被看） | 私（わたし）は弟（おとうと）に**日記（にっき）を読（よ）まれました**。 | 我的日記被弟弟看了。 |
-| 手紙（てがみ）を見（み）られる（信被看） | 私（わたし）は弟（おとうと）に**手紙（てがみ）を見（み）られました**。 | 我的信被弟弟看了。 |
-| カメラを壊（こわ）される（相機被弄壞） | 私（わたし）は弟（おとうと）に**カメラを壊（こわ）されました**。 | 我的相機被弟弟弄壞了。 |
-| パソコンを使（つか）われる（電腦被用） | 私（わたし）は弟（おとうと）に**パソコンを使（つか）われました**。 | 我的電腦被弟弟用了。 |
+| <span style="color:#E67E22"><ruby>日記<rt>にっき</rt></ruby>を</span><span style="color:#3498DB"><ruby>読<rt>よ</rt></ruby>まれる（<ruby>日記<rt>にっき</rt></ruby><ruby>被<rt>ひ</rt></ruby><ruby>看<rt>かん</rt></ruby>）</span> | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22"><ruby>日記<rt>にっき</rt></ruby>を</span><span style="color:#3498DB"><ruby>読<rt>よ</rt></ruby>まれました</span> | 我的日記被弟弟看了。 |
+| <span style="color:#E67E22"><ruby>手紙<rt>てがみ</rt></ruby>を</span><span style="color:#3498DB"><ruby>見<rt>み</rt></ruby>られる（<ruby>信<rt>しん</rt></ruby><ruby>被<rt>ひ</rt></ruby><ruby>看<rt>かん</rt></ruby>）</span> | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22"><ruby>手紙<rt>てがみ</rt></ruby>を</span><span style="color:#3498DB"><ruby>見<rt>み</rt></ruby>られました</span> | 我的信被弟弟看了。 |
+| <span style="color:#E67E22">カメラを</span><span style="color:#3498DB"><ruby>壊<rt>こわ</rt></ruby>される（<ruby>相<rt>そう</rt></ruby><ruby>機<rt>き</rt></ruby><ruby>被<rt>ひ</rt></ruby><ruby>弄<rt>ろう</rt></ruby><ruby>壞<rt>かい</rt></ruby>）</span> | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">カメラを</span><span style="color:#3498DB"><ruby>壊<rt>こわ</rt></ruby>されました</span> | 我的相機被弟弟弄壞了。 |
+| <span style="color:#E67E22">パソコンを</span><span style="color:#3498DB"><ruby>使<rt>つか</rt></ruby>われる（<ruby>電腦<rt>でんのう</rt></ruby><ruby>被用<rt>ひよう</rt></ruby>）</span> | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">パソコンを</span><span style="color:#3498DB"><ruby>使<rt>つか</rt></ruby>われました</span> | 我的電腦被弟弟用了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 主動形 | 弟（おとうと）は私（わたし）のケーキを**食（た）べました**。 | 弟弟吃了我的蛋糕。 |
-| → 否定形 | 私（わたし）は弟（おとうと）にケーキを食（た）べられ**ませんでした**。 | 弟弟沒有吃我的蛋糕。 |
-| → 疑問形 | あなたは弟（おとうと）にケーキを食（た）べられました**か**。 | 你的蛋糕被弟弟吃掉了嗎？ |
+|  → 主動形  | <span style="color:#2ECC71"><ruby>弟<rt>おとうと</rt></ruby>は</span><span style="color:#E67E22"><ruby>私<rt>わたし</rt></ruby>のケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 弟弟吃了我的蛋糕。 |
+|  → 否定形  | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#E74C3C"><ruby>食<rt>た</rt></ruby>べられませんで</span><span style="color:#3498DB">した</span> | 弟弟沒有吃我的蛋糕。 |
+|  → 疑問形  | <span style="color:#2ECC71">あなたは</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられましたか</span> | 你蛋糕被弟弟吃掉了嗎 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| あなたは弟（おとうと）にケーキを食（た）べられましたか。 | はい、食（た）べられました。 | 是的，被吃掉了。 |
-| あなたは誰に日記（にっき）を読（よ）まれましたか。 | 弟（おとうと）に読（よ）まれました。 | 被弟弟看了。 |
+| <span style="color:#2ECC71">あなたは</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられましたか</span> | <span style="color:#3498DB">はい</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span> | 是的，被吃掉了。 |
+| <span style="color:#2ECC71">あなたは</span><span style="color:#E74C3C"><ruby>誰<rt>だれ</rt></ruby>に</span><span style="color:#E67E22"><ruby>日記<rt>にっき</rt></ruby>を</span><span style="color:#3498DB"><ruby>読<rt>よ</rt></ruby>まれましたか</span> | <span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#3498DB"><ruby>読<rt>よ</rt></ruby>まれました</span> | 被弟弟看了。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 食（た）べられました。 | 被吃了。 |
-| +目的 | **ケーキを**食（た）べられました。 | 蛋糕被吃掉了。 |
-| +施事者 | **弟（おとうと）に**ケーキを食（た）べられました。 | 被弟弟吃掉了蛋糕。 |
-| +主語 | **私（わたし）は**弟（おとうと）にケーキを食（た）べられました。 | 我的蛋糕被弟弟吃掉了。 |
+| 核心 | <span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span> | 被吃了。 |
+| +目的 | <span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span> | 蛋糕被吃掉了。 |
+| +施事者 | <span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span> | 被弟弟吃掉了蛋糕。 |
+| +主語 | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#E74C3C"><ruby>弟<rt>おとうと</rt></ruby>に</span><span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べられました</span> | 我的蛋糕被弟弟吃掉了。 |

@@ -12,11 +12,11 @@ related_to:
 表示所有格、屬性、關係或修飾（的）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#F39C12"><ruby>私<rt>わたし (watashi)</rt></ruby>の</span><span style="color:#3498DB"><ruby>本<rt>ほん (hon)</rt></ruby>です。</span>
+- 日文：<span style="color:#F39C12"><ruby>私<rt>わたし</rt></ruby>の</span><span style="color:#3498DB"><ruby>本<rt>ほん</rt></ruby>です。</span>
 - 中文：是我的書。
-- 日文：<span style="color:#F39C12"><ruby>日本語<rt>にほんご (nihongo)</rt></ruby>の</span><span style="color:#3498DB"><ruby>先生<rt>せんせい (sensei)</rt></ruby>です。</span>
+- 日文：<span style="color:#F39C12"><ruby>日本語<rt>にほんご</rt></ruby>の</span><span style="color:#3498DB"><ruby>先生<rt>せんせい</rt></ruby>です。</span>
 - 中文：是日語老師。
 
 ## 關係說明
@@ -27,40 +27,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 私（わたし）の本（ほん）です。
+> <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span>
 > （是我的書。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 車（くるま） | 私（わたし）の**車（くるま）**です。 | 是我的車子。 |
-| 鍵（かぎ） | 私（わたし）の**鍵（かぎ）**です。 | 是我的鑰匙。 |
-| 傘（かさ） | 私（わたし）の**傘（かさ）**です。 | 是我的傘。 |
-| 財布（さいふ） | 私（わたし）の**財布（さいふ）**です。 | 是我的錢包。 |
+|  <ruby>車<rt>くるま</rt></ruby>（くるま）  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的車子。 |
+|  <ruby>鍵<rt>かぎ</rt></ruby>（かぎ）  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>鍵<rt>かぎ</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的鑰匙。 |
+|  <ruby>傘<rt>かさ</rt></ruby>（かさ）  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的傘。 |
+|  <ruby>財布<rt>さいふ</rt></ruby>（さいふ）  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>財布<rt>さいふ</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的錢包。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 否定形 | 私（わたし）の本（ほん）**ではありません**。 | 不是我的書。 |
-| → 過去形 | 私（わたし）の本（ほん）**でした**。 | 以前是我的書。 |
-| → 疑問形 | あなたの本（ほん）です**か**。 | 是你的書嗎？ |
-| → 所有代名詞化 | これは私（わたし）の**の**です。 | 這是我的。 |
+|  → 否定形  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">はありません</span> | 不是我的書。 |
+|  → 過去形  | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">した</span> | 以前是我的書。 |
+|  → 疑問形  | <span style="color:#E74C3C">あなたの<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">すか</span> | 是你書嗎 |
+|  → 所有代名詞化  | <span style="color:#2ECC71">これは</span><span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>のので</span><span style="color:#3498DB">す</span> | 這是我的。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| これは誰（だれ）の本（ほん）ですか。 | それは私（わたし）の本（ほん）です。 | 那是我的書。 |
-| この携帯（けいたい）はあなたのですか。 | はい、それは私（わたし）のです。 | 是的，那是我的。 |
-| それは日本語（にほんご）の先生（せんせい）の本（ほん）ですか。 | いいえ、これは英語（えいご）の先生（せんせい）の本（ほん）です。 | 不，這是英語老師的書。 |
+| <span style="color:#2ECC71">これは</span><span style="color:#E74C3C"><ruby>誰<rt>だれ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">すか</span> | <span style="color:#2ECC71">それは</span><span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 那是我的書。 |
+| <span style="color:#2ECC71">この<ruby>携帯<rt>けいたい</rt></ruby>は</span><span style="color:#E74C3C">あなたので</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#2ECC71">それは</span><span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>ので</span><span style="color:#3498DB">す</span> | 是的，那是我的。 |
+| <span style="color:#2ECC71">それは</span><span style="color:#E74C3C"><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#2ECC71">これは</span><span style="color:#E74C3C"><ruby>英語<rt>えいご</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 不，這是英語老師的書。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 本（ほん）です。 | 是書。 |
-| +所有 | **私（わたし）の**本（ほん）です。 | 是我的書。 |
-| +屬性 | 私（わたし）の**日本語（にほんご）の**本（ほん）です。 | 是我的日語書。 |
-| +指示代名詞 | **これは**私（わたし）の日本語（にほんご）の本（ほん）です。 | 這是我的日語書。 |
+| 核心 | <span style="color:#E74C3C"><ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是書。 |
+| +所有 | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的書。 |
+| +屬性 | <span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 是我的日語書。 |
+| +指示代名詞 | <span style="color:#2ECC71">これは</span><span style="color:#E74C3C"><ruby>私<rt>わたし</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>で</span><span style="color:#3498DB">す</span> | 這是我的日語書。 |

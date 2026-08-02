@@ -14,7 +14,7 @@ related_to:
 表示「正要...的時候（卻）...」，強調事情才正要開始或剛決定要做，就發生了出乎意料、常帶負面色彩的插曲，語感較「最中に」更強調「正要著手的瞬間」，而非動作進行中途。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>出<rt>で</rt></ruby>かけようとした</span><span style="color:#FF477E"><ruby>矢先<rt>やさき</rt></ruby>に、</span><span style="color:#3498DB"><ruby>電話<rt>でんわ</rt></ruby>がかかってきた。</span>
   中文：正要出門的時候，電話打了進來。
@@ -30,35 +30,35 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 出（で）かけようとした矢先（やさき）に、電話（でんわ）がかかってきた。
+> <span style="color:#E67E22"><ruby>出<rt>で</rt></ruby>かけようと</span><span style="color:#E74C3C">した<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#3498DB">かかってきた</span>
 > （正要出門的時候，電話打了進來。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 寝（ね）ようとした | **寝ようとした矢先に**、来客（らいきゃく）があった。 | 正要睡覺的時候，來了客人。 |
-| 就職（しゅうしょく）が決（き）まった | **就職が決まった矢先に**、会社が倒産（とうさん）した。 | 才剛找到工作，公司就倒閉了。 |
+| <span style="color:#E67E22"><ruby>寝<rt>ね</rt></ruby>ようと</span><span style="color:#3498DB">した</span> | <span style="color:#E67E22"><ruby>寝<rt>ね</rt></ruby>ようと</span><span style="color:#E74C3C">した<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#2ECC71"><ruby>来客<rt>らいきゃく</rt></ruby>が</span><span style="color:#3498DB">あった</span> | 正要睡覺的時候，來了客人。 |
+| <span style="color:#2ECC71"><ruby>就職<rt>しゅうしょく</rt></ruby>が</span><span style="color:#3498DB"><ruby>決<rt>き</rt></ruby>まった</span> | <span style="color:#2ECC71"><ruby>就職<rt>しゅうしょく</rt></ruby>が</span><span style="color:#E74C3C"><ruby>決<rt>き</rt></ruby>まった<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#2ECC71"><ruby>会社<rt>かいしゃ</rt></ruby>が</span><span style="color:#3498DB"><ruby>倒産<rt>とうさん</rt></ruby>した</span> | 才剛找到工作，公司就倒閉了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 最中に（區分） | 出かけている最中に、電話がかかってきた。 | 正在外出的途中，電話打了進來（進行中途，非本文法）。 |
+| <span style="color:#3498DB">→</span><span style="color:#E74C3C"><ruby>最中<rt>さいちゅう</rt></ruby>に</span><span style="color:#3498DB">（<ruby>區分<rt>くぶん</rt></ruby>）</span> | <span style="color:#E74C3C"><ruby>出<rt>で</rt></ruby>かけている<ruby>最中<rt>さいちゅう</rt></ruby>に</span><span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#3498DB">かかってきた</span> | 正在外出的途中，電話打了進來（進行中途，非本文法）。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| なぜ出発（しゅっぱつ）が遅（おく）れたんですか。 | 出かけようとした**矢先に**、電話がかかってきたんです。 | 因為正要出門的時候，電話打了進來。 |
+| <span style="color:#2ECC71">なぜ<ruby>出発<rt>しゅっぱつ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>遅<rt>おく</rt></ruby>れたんで</span><span style="color:#3498DB">すか</span> | <span style="color:#E67E22"><ruby>出<rt>で</rt></ruby>かけようと</span><span style="color:#E74C3C">した<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#E74C3C">かかってきたんで</span><span style="color:#3498DB">す</span> | 因為正要出門的時候，電話打了進來。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 電話がかかってきた。 | 電話打了進來。 |
-| +時機 | 出かけようとした**矢先に**、電話がかかってきた。 | 正要出門的時候，電話打了進來。 |
-| +補述 | 急いで出かけようとした矢先に、大事な取引先（とりひきさき）から電話がかかってきた。 | 正要急忙出門的時候，重要客戶打電話來了。 |
+| 核心 | <span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#3498DB">かかってきた</span> | 電話打了進來。 |
+| +時機 | <span style="color:#E67E22"><ruby>出<rt>で</rt></ruby>かけようと</span><span style="color:#E74C3C">した<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#3498DB">かかってきた</span> | 正要出門的時候，電話打了進來。 |
+| +補述 | <span style="color:#E74C3C"><ruby>急<rt>いそ</rt></ruby>いで</span><span style="color:#E67E22"><ruby>出<rt>で</rt></ruby>かけようと</span><span style="color:#E74C3C">した<ruby>矢先<rt>やさき</rt></ruby>に</span><span style="color:#E74C3C"><ruby>大事<rt>だいじ</rt></ruby>な<ruby>取引先<rt>とりひきさき</rt></ruby>から</span><span style="color:#2ECC71"><ruby>電話<rt>でんわ</rt></ruby>が</span><span style="color:#3498DB">かかってきた</span> | 正要急忙出門的時候，重要客戶電話來了。 |
 
 ---
 *Created: 2026-07-17*

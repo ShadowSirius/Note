@@ -12,7 +12,7 @@ related_to:
 ---
 # 日語高頻詞彙索引（480 核心詞）
 
-本模組收錄約 480 個 N5〜N4 最高頻詞彙，依主題分為 12 副，每副皆附假名、羅馬字、中文與常用搭配，並連結至對應文法卡片。
+本模組收錄 480 個 N5〜N4 最高頻詞彙，依主題分為 12 副，每皆附假名、羅馬字、中文與常用搭配，並連結至對應文法卡。
 
 ## 📋 詞彙副列表
 
@@ -34,13 +34,13 @@ related_to:
 | 14  | [[JP_Vocab_14_dates_frequency\|日期與頻度深化]]    | 40  | ⭐⭐      |
 
 ## 🔗 與文法模組的關係
-- 本模組為 [[Japanese_Grammar_Index|高頻文法索引 @prerequisite_for]] 的詞彙基礎：文法卡片的例句與 FSI 替換練習皆從這裡取詞。
+- 本模組為 [[Japanese_Grammar_Index|高頻文法索引 @prerequisite_for]] 的詞彙基礎：文法卡的例句與 FSI 替換練習皆從這裡取詞。
 - 動詞副中的「類別」標記直接對應 [[JP_Grammar_50_C10_verb_types_te_form|動詞分類與て形 @related_to]]。
-- [[JP_Vocab_13_time_expressions|時間表現深化 @extends]] 與 [[JP_Vocab_14_dates_frequency|日期與頻度深化 @extends]] 皆為 [[JP_Vocab_03_time_numbers|時間與數量 @extends]] 的深化卡，兩者互為 @sibling_of，補充〜に規則、順序詞辨義、日付特殊讀音與頻率階梯。
+- [[JP_Vocab_13_time_expressions|時間表現深化 @extends]] 與 [[JP_Vocab_14_dates_frequency|日期與頻度深化 @extends]] 皆為 [[JP_Vocab_03_time_numbers|時間與數量 @extends]] 的深化卡者互為 @sibling_of，補充〜に規則、順序詞辨義、日付特殊讀音與頻率階梯。
 
 ## 📖 使用方式
 1. **先讀優先度 ⭐⭐⭐ 的四副**（動詞、形容詞、時間、疑問詞＋副詞），這約 200 詞覆蓋日常對話 70% 以上。
-2. 每個詞**連同「常用搭配」整句記憶**，不要背孤立單字。
+2. 每詞**連同「常用搭配」整句記憶**，不要背孤立單字。
 3. 學習節奏與複習排程見 [[Japanese_Learning_System|日語學習系統 @part_of]]。
 
 ---

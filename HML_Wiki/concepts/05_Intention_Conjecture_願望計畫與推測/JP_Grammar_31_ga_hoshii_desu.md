@@ -13,17 +13,17 @@ child_of:
 - 否定形式為：`〜は欲しくないです` 或 `〜は入りません`（不需要/不用）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
-- 日文：<span style="color:#3498DB">お<ruby>酒<rt>さけ (sake)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
+- 日文：<span style="color:#3498DB">お<ruby>酒<rt>さけ</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。</span>
 - 中文：我想要酒。
-- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ (sake)</rt></ruby>は</span><span style="color:#3498DB"><ruby>欲<rt>ほ (ho)</rt></ruby>しくないです。</span>
+- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>は</span><span style="color:#3498DB"><ruby>欲<rt>ほっ</rt></ruby>しくないです。</span>
 - 中文：我不要酒。
-- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ (sake)</rt></ruby>は</span><span style="color:#3498DB"><ruby>入<rt>い (i)</rt></ruby>りません。</span>
+- 日文：<span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>は</span><span style="color:#3498DB"><ruby>入<rt>い</rt></ruby>りません。</span>
 - 中文：我不需要酒。
-- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">パンが<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
+- 日文：<span style="color:#F39C12">この</span><span style="color:#3498DB">パンが<ruby>欲<rt>ほ</rt></ruby>しいです。</span>
 - 中文：我想要這個麵包。
-- 日文：<span style="color:#F39C12">あんな</span><span style="color:#3498DB"><ruby>服<rt>ふく (fuku)</rt></ruby>が<ruby>欲<rt>ほ (ho)</rt></ruby>しいです。</span>
+- 日文：<span style="color:#F39C12">あんな</span><span style="color:#3498DB"><ruby>服<rt>ふく</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。</span>
 - 中文：我想要那樣的衣服。
 
 ## 關係說明
@@ -34,40 +34,40 @@ child_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> お酒（さけ）が欲（ほ）しいです。
+> <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span>
 > （我想要酒。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 車（くるま） | **車（くるま）**が欲（ほ）しいです。 | 我想要車。 |
-| 本（ほん） | **本（ほん）**が欲（ほ）しいです。 | 我想要書。 |
-| 服（ふく） | **服（ふく）**が欲（ほ）しいです。 | 我想要衣服。 |
-| パソコン | **パソコン**が欲（ほ）しいです。 | 我想要電腦。 |
+|  <ruby>車<rt>くるま</rt></ruby>（くるま）  | <span style="color:#2ECC71"><ruby>車<rt>くるま</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我想要車。 |
+|  <ruby>本<rt>ほん</rt></ruby>（ほん）  | <span style="color:#2ECC71"><ruby>本<rt>ほん</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我想要書。 |
+|  <ruby>服<rt>ふく</rt></ruby>（ふく）  | <span style="color:#2ECC71"><ruby>服<rt>ふく</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我想要衣服。 |
+| <span style="color:#3498DB">パソコン</span> | <span style="color:#2ECC71">パソコンが</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我想要電腦。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 否定形 | お酒（さけ）は**欲（ほ）しくないです**。 | 我不要酒。 |
-| → 過去形 | お酒（さけ）が**欲（ほ）しかったです**。 | 我以前想要酒。 |
-| → 不需要 | お酒（さけ）は**いりません**。 | 我不需要酒。 |
-| → 疑問形 | あなたもお酒（さけ）が欲（ほ）しいです**か**。 | 你也想要酒嗎？ |
+|  → 否定形  | <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>欲<rt>ほっ</rt></ruby>しくないで</span><span style="color:#3498DB">す</span> | 我不要酒。 |
+|  → 過去形  | <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほっ</rt></ruby>しかったで</span><span style="color:#3498DB">す</span> | 我以前想要酒。 |
+|  → 不需要  | <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>は</span><span style="color:#3498DB">いりません</span> | 我不需要酒。 |
+|  → 疑問形  | <span style="color:#2ECC71">あなたも</span><span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">すか</span> | 你想要酒嗎 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| お酒（さけ）が欲（ほ）しいですか。 | はい、お酒（さけ）が欲（ほ）しいです。 | 是的，我想要酒。 |
-| お酒（さけ）が欲（ほ）しいですか。 | いいえ、お酒（さけ）は欲（ほ）しくないです。お茶（ちゃ）が欲（ほ）しいです。 | 不，我不要酒。我想要茶。 |
-| どんな服（ふく）が欲（ほ）しいですか。 | あんな服（ふく）が欲（ほ）しいです。 | 我想要那樣的衣服。 |
+| <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 是的，我想要酒。 |
+| <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>欲<rt>ほっ</rt></ruby>しくないで</span><span style="color:#3498DB">す</span><span style="color:#2ECC71">お<ruby>茶<rt>ちゃ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 不，我不要酒。我想要茶。 |
+| <span style="color:#2ECC71">どんな<ruby>服<rt>ふく</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">すか</span> | <span style="color:#2ECC71">あんな<ruby>服<rt>ふく</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我想要那樣的衣服。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 欲（ほ）しいです。 | 想要。 |
-| +對象 | **お酒（さけ）が**欲（ほ）しいです。 | 想要酒。 |
-| +程度 | お酒（さけ）が**とても**欲（ほ）しいです。 | 非常想要酒。 |
-| +主語 | **私（わたし）は**お酒（さけ）がとても欲（ほ）しいです。 | 我非常想要酒。 |
+| 核心 | <span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 想要。 |
+| +對象 | <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 想要酒。 |
+| +程度 | <span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#2ECC71">とても</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 非常想要酒。 |
+| +主語 | <span style="color:#2ECC71"><ruby>私<rt>わたし</rt></ruby>は</span><span style="color:#2ECC71">お<ruby>酒<rt>さけ</rt></ruby>が</span><span style="color:#2ECC71">とても</span><span style="color:#E74C3C"><ruby>欲<rt>ほ</rt></ruby>しいで</span><span style="color:#3498DB">す</span> | 我非常想要酒。 |

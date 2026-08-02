@@ -13,7 +13,7 @@ sibling_of:
 # 動詞片語的代換組合 (Phrasal Replacement)
 
 在 Basic English 中，**「片語代換（Phrasal Replacement）」**是其最核心的「技法」。
-奧格登（C.K. Ogden）發現，絕大多數的高級英語動詞本質上只是「基礎動詞 + 方向或名詞」的語意包裝。因此，只要掌握 18 個核心運作詞與介系詞/名詞的搭配，就能完美避開數千個難記的單一動詞，同時保持意思的精確。
+奧格登（C.K. Ogden）發現，絕多數的高級英語動詞本質上只是「基礎動詞 + 方向或名詞」的語意包裝。因此，只要掌握 18 個核心運作詞與介系詞/名詞的搭配，就能完美避開數千個難記的單一動詞，同時保持意思的精確。
 
 ---
 
@@ -21,14 +21,14 @@ sibling_of:
 
 透過將 18 個運作詞與 **20 個方向性介系詞**（如 *in, out, up, down, over, under, through, off, on...*）結合，可以模擬出所有空間物理運動：
 
-- **enter** (進入) ➡️ **go in** / **come in**
-- **escape** (逃跑) ➡️ **get away** / **go free**
-- **disembark** (下車/下船) ➡️ **get off**
-- **insert** (插入) ➡️ **put in**
-- **extract** (拔出) ➡️ **take out**
-- **surrender / abandon** (投降/放棄) ➡️ **give up**
-- **postpone** (延期) ➡️ **put off**
-- **continue** (繼續) ➡️ **go on** / **keep on**
+- **enter** (進入) ➡➡ **go in** / **come in**
+- **escape** (逃跑 ➡➡ **get away** / **go free**
+- **disembark** (下車/下船) ➡➡ **get off**
+- **insert** (插入) ➡➡ **put in**
+- **extract** (拔出) ➡➡ **take out**
+- **surrender / abandon** (投降/放棄) ➡➡ **give up**
+- **postpone** (延期) ➡➡ **put off**
+- **continue** (繼續) ➡➡ **go on** / **keep on**
 
 ---
 
@@ -42,8 +42,8 @@ sibling_of:
 | **comprehend** | 理解 / 明白 | **get the meaning of** | 運作詞 `get` + 名詞短語 |
 | **decide** | 決定 | **make up one's mind** | 運作詞 `make` + 介系詞 + 所有格名詞 |
 | **detect / discover** | 偵測 / 發現 | **see** / **come across** | 運作詞 `see` 或片語 |
-| **examine / inspect** | 檢查 / 檢驗 | **have a look at** / **look at** | 運作詞 `have` + 名詞 + 介系詞 |
-| **investigate** | 調查 | **go into** / **make search into** | 運作詞 `go` / `make` + 名詞化介系短語 |
+| **examine / inspect** | 檢查/ 檢驗 | **have a look at** / **look at** | 運作詞 `have` + 名詞 + 介系詞 |
+| **investigate** | 調查| **go into** / **make search into** | 運作詞 `go` / `make` + 名詞化介系短語 |
 | **receive** | 收到 / 接收 | **get** | 單一高頻運作詞 `get` |
 | **require / demand** | 需要 / 要求 | **make request for** / **ask for** | 運作詞 `make` / `ask` + 介系詞 |
 | **support** | 支持 / 擁護 | **give support to** | 運作詞 `give` + 名詞 + 介系詞 |
@@ -53,7 +53,7 @@ sibling_of:
 
 ## ✍️ 段落級對照演練 (Standard English vs. Basic English)
 
-以下展示三組不同語境下的段落改寫，說明 Basic English 如何用簡單的單字精準傳達複雜的意思：
+以下展示三組不同語境下的段落改寫，說 Basic English 如何用簡單的單字精準傳達複雜的意思：
 
 ### 1. 工業技術說明 (Technical Text)
 *   **標準英語 (Standard)**:
@@ -88,40 +88,40 @@ sibling_of:
 
 > [!tip] Base Sentence
 > Before you put the **machine** together, have a look at the **parts**.
-> （在你組裝機器之前，先檢查一下零件。）
+> （在你裝機器之前，先檢查下零件。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| table / screws | Before you put the **table** together, have a look at the **screws**. | 在你組裝桌子之前，先檢查一下螺絲。 |
-| bed / bolts | Before you put the **bed** together, have a look at the **bolts**. | 在你組裝床之前，先檢查一下螺栓。 |
-| shelf / brackets | Before you put the **shelf** together, have a look at the **brackets**. | 在你組裝架子之前，先檢查一下支架。 |
-| chair / legs | Before you put the **chair** together, have a look at the **legs**. | 在你組裝椅子之前，先檢查一下椅腳。 |
+|  table / screws  |  Before you put the **table** together, have a look at the **screws**.  | 在你裝桌之前，先檢查下螺絲。 |
+|  bed / bolts  |  Before you put the **bed** together, have a look at the **bolts**.  | 在你裝床之前，先檢查下螺栓。 |
+|  shelf / brackets  |  Before you put the **shelf** together, have a look at the **brackets**.  | 在你裝架子之前，先檢查下支架。 |
+|  chair / legs  |  Before you put the **chair** together, have a look at the **legs**.  | 在你裝椅子之前，先檢查下椅腳 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → Negative (main clause) | Before you put the machine together, **do not** have a look at the parts. | 在你組裝機器之前，不要檢查零件。 |
-| → Question (main clause) | Before you put the machine together, **should you** have a look at the parts? | 在你組裝機器之前，你應該檢查零件嗎？ |
-| → Past Tense | Before you **put** the machine **together**, you **had a look at** the parts. | 在你組裝機器之前，你已經檢查過零件了。 |
-| → Use "assemble" & "inspect" | Before you **assemble** the machine, **inspect** the parts. | 在你組裝機器之前，檢查零件。 |
+|  → Negative (main clause)  |  Before you put the machine together, **do not** have a look at the parts.  | 在你裝機器之前，不要檢查件。 |
+|  → Question (main clause)  |  Before you put the machine together, **should you** have a look at the parts?  | 在你裝機器之前，你該檢查件嗎 |
+|  → Past Tense  |  Before you **put** the machine **together**, you **had a look at** the parts.  | 在你裝機器之前，你經檢查零件了。 |
+|  → Use "assemble" & "inspect"  |  Before you **assemble** the machine, **inspect** the parts.  | 在你裝機器之前，檢查件。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| What should I do before I put the machine together? | Before you put the machine together, you should have a look at the parts. | 在我組裝機器之前，我應該做什麼？ |
-| Did he have a look at the parts before he put them together? | Yes, he had a look at the parts before he put them together. | 是的，他在把它們組裝在一起之前檢查了零件。 |
-| When should we have a look at the parts? | You should have a look at them before you put the machine together. | 我們什麼時候應該檢查零件？ |
-| Who put the machine together without having a look at the parts? | The new helper put the machine together without having a look at the parts. | 誰在沒有檢查零件的情況下就把機器組裝好了？ |
+|  What should I do before I put the machine together?  |  Before you put the machine together, you should have a look at the parts.  | 在我組裝機器之前，我應該做什麼？ |
+|  Did he have a look at the parts before he put them together?  |  Yes, he had a look at the parts before he put them together.  | 是的，他在把它們組裝在一起之前檢查零件。 |
+|  When should we have a look at the parts?  |  You should have a look at them before you put the machine together.  | 我們什麼時候應該檢查件？ |
+|  Who put the machine together without having a look at the parts?  |  The new helper put the machine together without having a look at the parts.  | 誰在沒有檢查件的情況下就把機器組裝好了？ |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | Have a look. | 看一看。 |
-| +對象 | Have a look **at the parts**. | 檢查零件。 |
-| +條件 | Have a look at the parts **before you put them together**. | 在組裝它們之前檢查零件。 |
-| +修飾 | Have a look at the parts **carefully** before you put them together. | 在組裝它們之前仔細檢查零件。 |
+| 核心 |  Have a look.  | 看一看。 |
+| +對象 |  Have a look **at the parts**.  | 檢查件。 |
+| +條件 |  Have a look at the parts **before you put them together**.  | 在組裝它們之前檢查件。 |
+| +修飾 |  Have a look at the parts **carefully** before you put them together.  | 在組裝它們之前仔細檢查件。 |

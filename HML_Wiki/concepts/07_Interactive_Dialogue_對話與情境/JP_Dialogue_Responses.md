@@ -5,7 +5,7 @@ related_to:
 ---
 # 情境對話應答
 
-在日語日常互動中，對於他人發出的「邀請」、「主動協助」、「要求許可」或「請求幫忙」，有著固定的禮貌回應範式。學習如何得體地接受或婉拒，對日語溝通至關重要。
+在日語日常互動中，對於他人發出的「邀請」、「主動協助」、「要求許可」或「請求幫」，有著固定的禮貌回應範式。學習如何得體地接受或婉拒，對日語溝通至關重要。
 
 ## ➕ 接受與同意 (Accept & Agree)
 
@@ -15,19 +15,19 @@ related_to:
 
 ### 2. 接受邀請 (針對 `〜ませんか`)
 - 日文：いいですね。
-- 中文：好呀，真不錯呢。
+- 中文：好呀，真不錯呢
 - 日文：はい、いいですよ。
-- 中文：好啊，沒問題。
+- 中文：好啊沒問題。
 
 ### 3. 接受協助或主動好意 (針對 `〜ましょうか` 或服務問詢)
-- 日文：はい、お<ruby>願<rt>ねが (nega)</rt></ruby>いします。
-- 中文：好的，麻煩您了。
+- 日文：はい、お願いします。
+- 中文：好的，麻煩您。
 
 ### 4. 答覆請求與許可 (針對 `〜てもらえませんか` 或 `〜てもいいですか`)
 - 日文：いいですよ。
-- 中文：可以喔。
-- 日文：はい、<ruby>大丈夫<rt>だいじょうぶ (daijoubu)</rt></ruby>ですよ。
-- 中文：好的，沒問題喔。
+- 中文：可以喔
+- 日文：はい、大丈夫ですよ。
+- 中文：好的，沒問題喔
 - 日文：どうぞ。
 - 中文：請（請用 / 請便）。
 
@@ -40,42 +40,42 @@ related_to:
 ## ➖ 拒絕與婉拒 (Decline & Refuse)
 
 ### 1. 否定確認
-- 日文：いいえ、<ruby>違<rt>ちが (chiga)</rt></ruby>います。
+- 日文：いいえ、違います。
 - 中文：不，不是的。
 
 ### 2. 委婉推辭 (最常用的日式婉拒)
 - 日文：すみません、ちょっと…。
 - 中文：不好意思，有點（不方便 / 有事）…
-- 日文：すみません、<ruby>今<rt>いま (ima)</rt></ruby>、<ruby>時間<rt>じかん (jikan)</rt></ruby>がないので。
+- 日文：すみません、今、時間がないので。
 - 中文：不好意思，因為我現在沒時間。
 
 ### 3. 禮貌拒絕提供的好意 (針對 `〜ましょうか` 或袋子/餐具問詢)
-- 日文：<ruby>結構<rt>けっこう (kekkou)</rt></ruby>です。
-- 中文：不用了 / 足夠了。
-- 日文：<ruby>大丈夫<rt>だいじょうぶ (daijoubu)</rt></ruby>です。
+- 日文：結構です。
+- 中文：不用了 / 足夠。
+- 日文：大丈夫です。
 - 中文：沒關係 / 不用了（極為常用）。
-- 日文：<ruby>入<rt>い (i)</rt></ruby>りません。
+- 日文：入りません。
 - 中文：不需要（如：不需要塑膠袋）。
 
 ---
 
 ## 💡 爭取思考時間的「緩衝與等待句」 (Buying Time & Fillers)
 
-在對話中如果突然卡住或需要思考如何組織句子，非母語者可以使用以下「緩衝句/填充詞（Filler）」來自然地爭取時間，避免尷尬的沉默。
+在對話中如果突然卡或需要思考如何組織句子，非母語者可以使用以下「緩衝句/填充詞（Filler）」來自然地爭取時間，避免尷的沉。
 
 ### 1. 💬 日常隨性閒聊情境 (Casual Conversations)
 - **拉長語氣爭取思考**：
   - 日文：<span style="color:#E74C3C">ええと…</span> / <span style="color:#E74C3C">あのう…</span>
-  - 中文：那個... / 呃... (最通用的口頭禪)
+  - 中文：那個... / 呃.. (最通用的口頭禪)
 - **贊同對方並給自己思考空間**：
   - 日文：<span style="color:#2ECC71">そうですね…</span>
-  - 中文：這個嘛... / 確實呢... (最自然的緩衝詞)
+  - 中文：這個嘛... / 確實呢.. (最自然的緩衝詞)
 - **尋找措辭時的自言自語**：
-  - 日文：<span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>て</span><span style="color:#3498DB"><ruby>言<rt>い</rt></ruby>えばいいのかな…</span>
-  - 中文：該怎麼說才好呢...
+  - 日文：<span style="color:#E67E22"><ruby>何<rt>なん</rt></ruby>て</span><span style="color:#3498DB"><ruby>言<rt>い</rt></ruby>えばいいのかな…</span>
+  - 中文：該怎麼說好呢..
 - **回憶忘記的詞彙**：
   - 日文：<span style="color:#2ECC71">ええと、<ruby>何<rt>なん</rt></ruby>でしたっけ…</span>
-  - 中文：呃，是什麼來著...
+  - 中文：呃是什麼來著...
 
 ### 2. 🛒 商店購物/餐廳/問路等日常實用情境 (Everyday Requests)
 - **請求稍候**：
@@ -83,21 +83,21 @@ related_to:
   - 中文：請稍微等一下。
 - **需要看地圖或找錢包時的提示**：
   - 日文：<span style="color:#E74C3C">ちょっと</span><span style="color:#3498DB"><ruby>確認<rt>かくにん</rt></ruby>しますね</span>。
-  - 中文：我稍微確認一下喔。
+  - 中文：我稍微確認一下喔
 - **決定點餐/選購時的猶豫**：
   - 日文：<span style="color:#E74C3C">うーん、どうしようかな…</span>
-  - 中文：嗯，該怎麼辦好呢... / 選哪一個好呢...
+  - 中文：嗯該怎麼辦呢.. / 選哪個好呢..
 
 ### 3. 👔 正式/商務/對長輩情境 (Formal & Business)
 - **禮貌請求稍候（最常用）**：
-  - 日文：<span style="color:#E74C3C"><ruby>少々<rt>しょうしょう</rt></ruby></span><span style="color:#3498DB"><ruby>待<rt>ま</rt></ruby>ちください</span>。
+  - 日文：<span style="color:#E74C3C"><ruby>少<rt>しょう</rt></ruby></span><span style="color:#3498DB"><ruby>待<rt>ま</rt></ruby>ちください</span>。
   - 中文：請稍等片刻。
 - **商務思考/委婉表明需要考慮**：
   - 日文：<span style="color:#E74C3C">ちょっと</span><span style="color:#3498DB"><ruby>考<rt>かんが</rt></ruby>えさせてください</span>。
   - 中文：請讓我稍微考慮/思考一下。
 - **突然被問到難題時的優雅起手式**：
   - 日文：<span style="color:#2ECC71">それは</span><span style="color:#3498DB"><ruby>難<rt>むずか</rt></ruby>しい<ruby>質問<rt>しつもん</rt></ruby>ですね</span>…
-  - 中文：那真是一個困難的問題呢...
+  - 中文：那真是一個困難的問題呢..
 
 ---
 
@@ -109,39 +109,39 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> すみません、今（いま）、時間（じかん）がないので。
+> <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span>
 > （不好意思，因為我現在沒時間。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 宿題（しゅくだい）がある | すみません、今（いま）、**宿題（しゅくだい）があるので**。 | 不好意思，因為我現在有作業。 |
-| 用事（ようじ）がある | すみません、今（いま）、**用事（ようじ）があるので**。 | 不好意思，因為我現在有事。 |
-| お金（かね）がない | すみません、今（いま）、**お金（かね）がないので**。 | 不好意思，因為我現在沒有錢。 |
-| 忙（いそが）しい | すみません、今（いま）、**忙（いそが）しいので**。 | 不好意思，因為我現在很忙。 |
+| <span style="color:#2ECC71"><ruby>宿題<rt>しゅくだい</rt></ruby>が</span><span style="color:#3498DB">ある</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>宿題<rt>しゅくだい</rt></ruby>が</span><span style="color:#E74C3C">あるので</span> | 不好意思，因為我現在有作業。 |
+| <span style="color:#2ECC71"><ruby>用事<rt>ようじ</rt></ruby>が</span><span style="color:#3498DB">ある</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>用事<rt>ようじ</rt></ruby>が</span><span style="color:#E74C3C">あるので</span> | 不好意思，因為我現在有事。 |
+| <span style="color:#2ECC71">お<ruby>金<rt>きん</rt></ruby>が</span><span style="color:#3498DB">ない</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71">お<ruby>金<rt>きん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 不好意思，因為我現在沒有錢。 |
+| <span style="color:#3498DB"><ruby>忙<rt>いそが</rt></ruby>しい</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#E74C3C"><ruby>忙<rt>いそが</rt></ruby>しいので</span> | 不好意思，因為我現在很忙。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 丁寧形（ていねいけい） | すみません、今（いま）、時間（じかん）が**ないのです**。 | 不好意思，我現在沒有時間。（敬體） |
-| 理由（りゆう） | すみません、今（いま）、時間（じかん）が**ないからです**。 | 不好意思，因為我現在沒有時間。 |
-| 過去形（かこけい） | すみません、あの時（とき）、時間（じかん）が**なかったので**。 | 不好意思，因為我那時沒有時間。 |
-| 肯定形（こうていけい） | すみません、今（いま）、時間（じかん）が**あるので**。 | 不好意思，因為我現在有時間。 |
+|  丁寧形（ていねいけい）  | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span><span style="color:#3498DB">す</span> | 不好意思，我現在沒有時間。（敬體） |
+|  理由（りゆう）  | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないから</span><span style="color:#3498DB">です</span> | 不好意思，因為我現在沒有時間。 |
+|  過去形（かこけい）  | <span style="color:#3498DB">すみません</span><span style="color:#3498DB">あの<ruby>時<rt>とき</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">なかったので</span> | 不好意思，因為我那時沒有時間。 |
+|  肯定形（こうていけい）  | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">あるので</span> | 不好意思，因為我現在有時間。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 一緒（いっしょ）にコーヒーを飲み（のみ）ませんか。 | すみません、今（いま）、時間（じかん）がないので。 | 要不要一起喝杯咖啡呢？ / 不好意思，因為我現在沒有時間。 |
-| ちょっと手伝（てつだ）ってもらえませんか。 | すみません、今（いま）、時間（じかん）がないので。 | 能稍微幫我個忙嗎？ / 不好意思，因為我現在沒有時間。 |
-| 一緒（いっしょ）に映画（えいが）を見（み）に行き（いき）ませんか。 | すみません、今（いま）、時間（じかん）がないので。 | 要不要一起去看看電影呢？ / 不好意思，因為我現在沒有時間。 |
+| <span style="color:#E74C3C"><ruby>一緒<rt>いっしょ</rt></ruby>に</span><span style="color:#E67E22">コーヒーを</span><span style="color:#3498DB"><ruby>飲<rt>の</rt></ruby>み（のみ）ませんか</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 要不要一起喝杯咖啡呢 / 不好意思，因為我現在沒有時間。 |
+| <span style="color:#E67E22">ちょっと</span><span style="color:#2ECC71"><ruby>手伝<rt>てつだ</rt></ruby>っても</span><span style="color:#3498DB">らえませんか</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 能稍微幫個忙嗎 / 不好意思，因為我現在沒有時間。 |
+| <span style="color:#E74C3C"><ruby>一緒<rt>いっしょ</rt></ruby>に</span><span style="color:#E67E22"><ruby>映画<rt>えいが</rt></ruby>を</span><span style="color:#E74C3C"><ruby>見<rt>み</rt></ruby>に</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>き（いき）ませんか</span> | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 要不要一起去看看電影呢 / 不好意思，因為我現在沒有時間。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心（かくしん） | 時間（じかん）がないので。 | 因為沒有時間。 |
-| +時間（じかん） | 今（いま）、時間（じかん）がないので。 | 因為現在沒有時間。 |
-| +丁寧（ていねい） | すみません、今（いま）、時間（じかん）がないので。 | 不好意思，因為現在沒有時間。 |
+| 核心 | <span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 因為沒有時間。 |
+| +時間 | <span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 因為現在沒有時間。 |
+| +丁寧 | <span style="color:#3498DB">すみません</span><span style="color:#E74C3C"><ruby>今<rt>いま</rt></ruby></span><span style="color:#2ECC71"><ruby>時間<rt>じかん</rt></ruby>が</span><span style="color:#E74C3C">ないので</span> | 不好意思，因為現在沒有時間。 |

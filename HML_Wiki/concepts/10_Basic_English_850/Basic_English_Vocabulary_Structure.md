@@ -14,7 +14,7 @@ sibling_of:
 
 C.K. Ogden 創立的 Basic English 並非隨機挑選 850 個單字，而是經過嚴密的語言學統計與邏輯推導，挑選出英語中最具**「互補性」**與**「包容性」**的詞彙。
 
-這 850 個單字被稱為 **「Ogden's Basic English Word List」**，其結構呈現一個完美的黃金比例：
+這 850 個單字被稱為 **「Ogden's Basic English Word List」**，其結構呈現一個完美的黃比例：
 
 ```mermaid
 pie title Basic English 850單字結構比例
@@ -35,16 +35,16 @@ pie title Basic English 850單字結構比例
     - 表達抽象概念、社會結構、科學術語或一般範疇。
     - *代表字*：*act, adjustment, agreement, belief, control, detail, government, industry, language, observation, science, transport, year*.
 *   **具象名詞 (Picturable Nouns) — 200 字**：
-    - 指「可以畫出實體圖像」的具體物體、人體部位或動植物。這對初學者的**視覺化記憶**極有幫助。
+    - 指「可以畫出實體圖像」的具體物體、人體部位或動植物。這對初學者的**視覺化記憶**極有幫。
     - *代表字*：*apple, baby, bag, camera, carriage, eye, finger, garden, kettle, pocket, table, umbrella, wheel, window*.
 
 ### 2. 形容詞 (Qualities) — 共 150 字 (佔比 17.6%)
-形容詞用於修飾事物狀態、特徵或評價。奧格登將其拆分為兩大極性：
+形容詞用於修飾事物狀態、特徵評價。奧格登將其拆分為兩大極性：
 *   **一般形容詞 (General Adjectives) — 100 字**：
-    - 表達基礎狀態或正面特徵。
+    - 表達基礎狀態或正面特徵
     - *代表字*：*able, automatic, beautiful, clean, complex, empty, free, natural, simple, wise*.
 *   **反義/否定形容詞 (Opposite Adjectives) — 50 字**：
-    - 用於表達相反特徵或負面狀態，透過「對比」大幅減少單字記憶負擔。
+    - 用於表達相反特徵負面狀態，透過「對比」大幅減少單字記憶負擔。
     - *代表字*：*bad, cold, dirty, false, ill, poor, rough, sad, wrong*.
 
 ### 3. 語法運作詞 (Operators & Grammar) — 共 100 字 (佔比 11.8%)
@@ -59,9 +59,9 @@ pie title Basic English 850單字結構比例
 
 ## 💡 850 字的語意膨脹原理
 
-奧格登指出，850 個字看似極少，但因為英語具有豐富的**「多義性（Polysemy）」**，每個單字平均有 3 至 5 個常用義項。
+奧格登指出，850 個字看似極少，但因為英語具有豐富的**「多義性（Polysemy）」**，每單字平均有 3 至 5 個常用義項。
 例如，`head` 不僅可以代表「頭部（具象名詞）」，也可以代表「領導者（抽象名詞）」或「前方（方向）」。
-因此，透過**語意延伸（Extension）**與**隱喻（Metaphor）**，850 個 Basic English 單字實際能覆蓋的日常語意範疇，相當於一般英語的 **5,000 個單字以上**。
+因此，透過**語意延伸（Extension）**與**隱喻Metaphor）**，850 個 Basic English 單字實際能覆蓋的日常語意範疇，相當於一般英語的 **5,000 個單字以上**。
 
 ---
 
@@ -84,35 +84,35 @@ pie title Basic English 850單字結構比例
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| letters / large number | We can write simple **letters** with a **large number** of words. | 我們可以用大量的單字寫出簡單的信件。 |
-| stories / small number | We can write simple **stories** with a **small number** of words. | 我們可以用少量的單字寫出簡單的故事。 |
-| reports / large number | We can write simple **reports** with a **large number** of words. | 我們可以用大量的單字寫出簡單的報告。 |
-| notes / small number | We can write simple **notes** with a **small number** of words. | 我們可以用少量的單字寫出簡單的筆記。 |
+|  letters / large number  |  We can write simple **letters** with a **large number** of words.  | 我們可以用大量的單字寫出簡單的信件。 |
+|  stories / small number  |  We can write simple **stories** with a **small number** of words.  | 我們可以用少量的單字寫出簡單的故事。 |
+|  reports / large number  |  We can write simple **reports** with a **large number** of words.  | 我們可以用大量的單字寫出簡單的報告。 |
+|  notes / small number  |  We can write simple **notes** with a **small number** of words.  | 我們可以用少量的單字寫出簡單的筆記。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → Negative | We **cannot** write simple books with a small number of words. | 我們不能用少量的單字寫出簡單的書。 |
-| → Question | **Can we** write simple books with a small number of words? | 我們可以用少量的單字寫出簡單的書嗎？ |
-| → Past Tense | We **could** write simple books with a small number of words. | 我們以前可以用少量的單字寫出簡單的書。 |
-| → Passive Voice | Simple books **can be written** with a small number of words. | 簡單的書可以用少量的單字寫出來。 |
+|  → Negative  |  We **cannot** write simple books with a small number of words.  | 我們不能用少量的單字寫出簡單的書。 |
+|  → Question  |  **Can we** write simple books with a small number of words?  | 我們可以用少量的單字寫出簡單的書嗎 |
+|  → Past Tense  |  We **could** write simple books with a small number of words.  | 我們以前可以用少量的單字寫出簡單的書。 |
+|  → Passive Voice  |  Simple books **can be written** with a small number of words.  | 簡單的書可以用少量的單字寫出來。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| Can we write simple books with a small number of words? | Yes, we can write simple books with a small number of words. | 是的，我們可以用少量的單字寫出簡單的書。 |
-| What can we write with a small number of words? | We can write simple books with them. | 我們可以用少量的單字寫出什麼？ |
-| Who can write simple books with a small number of words? | Learners and teachers can write simple books with a small number of words. | 誰可以用少量的單字寫出簡單的書？ |
-| How many words do we need to write simple books? | We only need a small number of words to write them. | 寫簡單的書我們需要多少單字？ |
+|  Can we write simple books with a small number of words?  |  Yes, we can write simple books with a small number of words.  | 是的，我們可以用少量的單字寫出簡單的書。 |
+|  What can we write with a small number of words?  |  We can write simple books with them.  | 我們可以用少量的單字寫出什麼？ |
+|  Who can write simple books with a small number of words?  |  Learners and teachers can write simple books with a small number of words.  | 誰可以用少量的單字寫出簡單的書？ |
+|  How many words do we need to write simple books?  |  We only need a small number of words to write them.  | 寫簡單的書我們需要多少單字？ |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | We write books. | 我們寫書。 |
-| +形容詞 | We write **simple** books. | 我們寫簡單的書。 |
-| +介系詞短語 | We write simple books **with words**. | 我們用單字寫簡單的書。 |
-| +修飾 | We write simple books with **a small number of** words. | 我們用少量的單字寫簡單的書。 |
-| +情態助動詞 | **We can** write simple books with a small number of words. | 我們可以用少量的單字寫簡單的書。 |
+| 核心 |  We write books.  | 我們寫書。 |
+| +形容詞 |  We write **simple** books.  | 我們寫簡單的書。 |
+| +介系詞短語 |  We write simple books **with words**.  | 我們用單字寫簡單的書。 |
+| +修飾 |  We write simple books with **a small number of** words.  | 我們用少量的單字寫簡單的書。 |
+| +情態助動詞 |  **We can** write simple books with a small number of words.  | 我們可以用少量的單字寫簡單的書。 |

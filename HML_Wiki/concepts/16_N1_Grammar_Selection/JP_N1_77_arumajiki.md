@@ -14,7 +14,7 @@ related_to:
 意為「不該有的...（身分不符的行為）」，表示某行為與其身分、立場極不相稱，強烈譴責其不應該發生，語感聚焦於「行為與身分不符」。與 [[JP_N1_01_bekarazu|〜べからず @related_to]] 同屬文語否定表現，但「あるまじき」是連體修飾詞、僅修飾名詞（多為「行為・発言」），「べからず」則獨立作文末禁止斷定。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71">これは</span><span style="color:#FF477E"><ruby>教師<rt>きょうし</rt></ruby>にあるまじき</span><span style="color:#3498DB"><ruby>行為<rt>こうい</rt></ruby>だ。</span>
   中文：這是身為教師不該有的行為。
@@ -30,30 +30,30 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> これは教師（きょうし）にあるまじき行為（こうい）だ。
+> <span style="color:#2ECC71">これは</span><span style="color:#E74C3C"><ruby>教師<rt>きょうし</rt></ruby>に</span><span style="color:#3498DB">あるまじき<ruby>行為<rt>こうい</rt></ruby>だ</span>
 > （這是身為教師不該有的行為。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 医者（いしゃ） | それは**医者にあるまじき**判断だ。 | 那是身為醫生不該有的判斷。 |
-| 政治家（せいじか） | **政治家にあるまじき**発言が問題になった。 | 身為政治家不該有的發言引發了爭議。 |
+|  <ruby>医者<rt>いしゃ</rt></ruby>（いしゃ）  | <span style="color:#2ECC71">それは</span><span style="color:#E74C3C"><ruby>医者<rt>いしゃ</rt></ruby>に</span><span style="color:#3498DB">あるまじき<ruby>判断<rt>はんだん</rt></ruby>だ</span> | 那是身為醫生不該有的判斷。 |
+|  <ruby>政治家<rt>せいじか</rt></ruby>（せいじか）  | <span style="color:#E74C3C"><ruby>政治家<rt>せいじか</rt></ruby>に</span><span style="color:#2ECC71">あるまじき<ruby>発言<rt>はつげん</rt></ruby>が</span><span style="color:#E74C3C"><ruby>問題<rt>もんだい</rt></ruby>に</span><span style="color:#3498DB">なった</span> | 身為政治家不該有的發言引發了爭議。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 換用べからざる | それは許す**べからざる**行為だ。 | 那是不可原諒的行為。（近義文語表現） |
+| <span style="color:#3498DB">→</span><span style="color:#E74C3C"><ruby>換<rt>かん</rt></ruby><ruby>用<rt>よう</rt></ruby>べから</span><span style="color:#3498DB">ざる</span> | <span style="color:#2ECC71">それは</span><span style="color:#E74C3C"><ruby>許<rt>ゆる</rt></ruby>すべから</span><span style="color:#3498DB">ざる<ruby>行為<rt>こうい</rt></ruby>だ</span> | 那是不可原諒的行為。（近義文語表現） |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| その行為をどう思いますか。 | 教師にあるまじき行為だと思います。 | 我認為那是身為教師不該有的行為。 |
+| <span style="color:#E67E22">その<ruby>行為<rt>こうい</rt></ruby>を</span><span style="color:#3498DB">どう<ruby>思<rt>おも</rt></ruby>いますか</span> | <span style="color:#E74C3C"><ruby>教師<rt>きょうし</rt></ruby>に</span><span style="color:#E67E22">あるまじき<ruby>行為<rt>こうい</rt></ruby>だと</span><span style="color:#3498DB"><ruby>思<rt>おも</rt></ruby>います</span> | 我認為那是身為教師不該有的行為。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 行為だ。 | 是這種行為。 |
-| +身分修飾 | **教師にあるまじき**行為だ。 | 是身為教師不該有的行為。 |
+| 核心 | <span style="color:#3498DB"><ruby>行為<rt>こうい</rt></ruby>だ</span> | 是這種行為。 |
+| +身分修飾 | <span style="color:#E74C3C"><ruby>教師<rt>きょうし</rt></ruby>に</span><span style="color:#3498DB">あるまじき<ruby>行為<rt>こうい</rt></ruby>だ</span> | 是身為教師不該有的行為。 |
 
 ---
 *Created: 2026-07-17*

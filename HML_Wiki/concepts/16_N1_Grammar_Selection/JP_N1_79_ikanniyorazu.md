@@ -12,12 +12,12 @@ related_to:
 - `名詞 + いかんによらず`
 
 ## 用法說明
-意為「不管...如何」，表示不論前項狀況、理由、結果如何，後項都不受影響、一律照樣進行，語感類似「〜にかかわらず」但更書面、更強調「不論內容為何都一概不論」，常見於規則、公告類文書。與 [[JP_N1_81_ikannikakawarazu|〜いかんにかかわらず @related_to]] 意義高度重疊，屬同義書面變體，可互換使用。
+意為「不管...如何」，表示不論前項狀理由、結果如何，後項都不受影響、一律照樣進行，語感類似「〜にかかわらず」但更書面、更強調「不論內何都一概不論」，常見於規則、公告類文書。與 [[JP_N1_81_ikannikakawarazu|〜いかんにかかわらず @related_to]] 意義高度重疊，屬同義書面變體，可互換使用。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
-- 日文：<span style="color:#FF477E"><ruby>理由<rt>りゆう</rt></ruby>のいかんによらず、</span><span style="color:#3498DB"><ruby>規則<rt>きそく</rt></ruby><ruby>違反<rt>いはん</rt></ruby>は<ruby>罰<rt>ばっ</rt></ruby>せられる。</span>
+- 日文：<span style="color:#FF477E"><ruby>理由<rt>りゆう</rt></ruby>のいかんによらず、</span><span style="color:#3498DB"><ruby>規則違反<rt>きそくいはん</rt></ruby>は<ruby>罰<rt>ばつ</rt></ruby>せられる。</span>
   中文：不管理由如何，違反規則就會受罰。
 - 日文：<span style="color:#FF477E"><ruby>結果<rt>けっか</rt></ruby>のいかんによらず、</span><span style="color:#3498DB"><ruby>努力<rt>どりょく</rt></ruby>したことに<ruby>意味<rt>いみ</rt></ruby>がある。</span>
   中文：不管結果如何，努力這件事本身就有意義。
@@ -31,30 +31,30 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 理由（りゆう）のいかんによらず、規則違反（きそくいはん）は罰（ばっ）せられる。
+> <span style="color:#E74C3C"><ruby>理由<rt>りゆう</rt></ruby>のいかんに</span><span style="color:#3498DB">よらず</span><span style="color:#2ECC71"><ruby>規則違反<rt>きそくいはん</rt></ruby>は</span><span style="color:#3498DB"><ruby>罰<rt>ばつ</rt></ruby>せられる</span>
 > （不管理由如何，違反規則就會受罰。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 事情（じじょう） | **事情のいかんによらず**、遅刻は遅刻だ。 | 不管情況如何，遲到就是遲到。 |
-| 立場（たちば） | **立場のいかんによらず**、平等に扱う。 | 不管立場如何，都平等對待。 |
+|  <ruby>事情<rt>じじょう</rt></ruby>（じじょう）  | <span style="color:#E74C3C"><ruby>事情<rt>じじょう</rt></ruby>のいかんに</span><span style="color:#3498DB">よらず</span><span style="color:#2ECC71"><ruby>遅刻<rt>ちこく</rt></ruby>は</span><span style="color:#3498DB"><ruby>遅刻<rt>ちこく</rt></ruby>だ</span> | 不管情況如何，遲到就是遲到。 |
+|  <ruby>立場<rt>たちば</rt></ruby>（たちば）  | <span style="color:#E74C3C"><ruby>立場<rt>たちば</rt></ruby>のいかんに</span><span style="color:#3498DB">よらず</span><span style="color:#E74C3C"><ruby>平等<rt>びょうどう</rt></ruby>に</span><span style="color:#3498DB"><ruby>扱<rt>あつか</rt></ruby>う</span> | 不管立場如何，都平等對待。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 換用にかかわらず | 理由の**いかんにかかわらず**、罰せられる。 | 不管理由如何，都會受罰。（同義互換） |
+| <span style="color:#3498DB">→</span><span style="color:#E74C3C"><ruby>換<rt>かん</rt></ruby><ruby>用<rt>よう</rt></ruby>に</span><span style="color:#3498DB">かかわらず</span> | <span style="color:#E74C3C"><ruby>理由<rt>りゆう</rt></ruby>のいかんに</span><span style="color:#3498DB">かかわらず</span><span style="color:#3498DB"><ruby>罰<rt>ばつ</rt></ruby>せられる</span> | 不管理由如何，都會受罰。（同義互換） |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 理由があれば許されますか。 | いいえ、理由のいかんによらず罰せられます。 | 不，不管理由如何都會受罰。 |
+| <span style="color:#2ECC71"><ruby>理由<rt>りゆう</rt></ruby>が</span><span style="color:#3498DB">あれば<ruby>許<rt>ゆる</rt></ruby>されますか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C"><ruby>理由<rt>りゆう</rt></ruby>のいかんに</span><span style="color:#3498DB">よらず<ruby>罰<rt>ばつ</rt></ruby>せられます</span> | 不，不管理由如何都會受罰。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 罰せられる。 | 會受罰。 |
-| +條件 | **理由のいかんによらず**、罰せられる。 | 不管理由如何，都會受罰。 |
+| 核心 | <span style="color:#3498DB"><ruby>罰<rt>ばつ</rt></ruby>せられる</span> | 會受罰。 |
+| +條件 | <span style="color:#E74C3C"><ruby>理由<rt>りゆう</rt></ruby>のいかんに</span><span style="color:#3498DB">よらず</span><span style="color:#3498DB"><ruby>罰<rt>ばつ</rt></ruby>せられる</span> | 不管理由如何，都會受罰。 |
 
 ---
 *Created: 2026-07-17*

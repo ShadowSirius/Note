@@ -10,10 +10,10 @@ part_of:
 - `動詞辭書形 + こと + と相成る`
 
 ## 用法說明
-「〜となる」的文語鄭重表現，意為「就此成為...、終於...」，多用於婚喪喜慶、公告、致辭等正式場合，帶有莊重、宣告性的語感，常以「相成りました」的敬體形式出現於書信與致辭結尾。現代口語幾乎不用，但仍是 N1 讀解與敬語書信題材的常見固定表現，值得收錄。
+「〜となる」的文語鄭重表現，意為「就此成為...、終於...」，多用於婚喪喜慶、公告、致辭等正式場合，帶有莊重、宣告性的語感，常以「相成りました」的敬體形式出現於書信與致辭結尾。現代口語幾乎不用，但仍是 N1 讀解與敬語書信題材的常見固定表現，值錄
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71">このたび</span><span style="color:#3498DB"><ruby>結婚<rt>けっこん</rt></ruby>の<ruby>運<rt>はこ</rt></ruby>びと<ruby>相成<rt>あいな</rt></ruby>りました。</span>
   中文：這次終於決定要結婚了。
@@ -28,30 +28,30 @@ part_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> このたび結婚（けっこん）の運（はこ）びと相成（あいな）りました。
+> <span style="color:#E67E22">このたび<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>運<rt>はこ</rt></ruby>びと</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span>
 > （這次終於決定要結婚了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 移転（いてん） | 事務所の**移転と相成りました**。 | 事務所就此遷移了。 |
-| 退任（たいにん） | 会長の**退任と相成りました**。 | 會長就此卸任了。 |
+|  <ruby>移転<rt>いてん</rt></ruby>（いてん）  | <span style="color:#E67E22"><ruby>事務所<rt>じむしょ</rt></ruby>の<ruby>移転<rt>いてん</rt></ruby>と</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span> | 事務所就此遷移了。 |
+|  <ruby>退任<rt>たいにん</rt></ruby>（たいにん）  | <span style="color:#E67E22"><ruby>会長<rt>かいちょう</rt></ruby>の<ruby>退任<rt>たいにん</rt></ruby>と</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span> | 會長就此卸任了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 較口語版本 | 結婚することに**なりました**。 | 決定要結婚了。（一般說法） |
+|  → 較口語版本  | <span style="color:#E67E22"><ruby>結婚<rt>けっこん</rt></ruby>すること</span><span style="color:#3498DB">になりました</span> | 決定要結婚了。（一般說） |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 何か報告することがありますか。 | はい、結婚の運びと相成りました。 | 有，這次終於決定要結婚了。 |
+| <span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>か<ruby>報告<rt>ほうこく</rt></ruby>すること</span><span style="color:#3498DB">がありますか</span> | <span style="color:#3498DB">はい</span><span style="color:#E67E22"><ruby>結婚<rt>けっこん</rt></ruby>の<ruby>運<rt>はこ</rt></ruby>びと</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span> | 有，這次終於決定要結婚了。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | 結婚と相成りました。 | 就此結婚了。 |
-| +時間 | **このたび**結婚と相成りました。 | 這次就此結婚了。 |
+| 核心 | <span style="color:#E67E22"><ruby>結婚<rt>けっこん</rt></ruby>と</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span> | 就此結婚了。 |
+| +時間 | <span style="color:#E67E22">このたび<ruby>結婚<rt>けっこん</rt></ruby>と</span><span style="color:#3498DB"><ruby>相成<rt>あいな</rt></ruby>りました</span> | 這次就此結婚了。 |
 
 ---
 *Created: 2026-07-17*

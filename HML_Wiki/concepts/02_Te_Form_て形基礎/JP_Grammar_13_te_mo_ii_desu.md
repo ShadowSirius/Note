@@ -16,17 +16,17 @@ related_to:
 表示許可（可以做某事）。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん (shashin)</rt></ruby>を<ruby>撮<rt>と (to)</rt></ruby>ってもいいですか。</span>
-- 中文：可以拍照嗎？
-- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB"><ruby>休<rt>やす (yasu)</rt></ruby>んでもいいです。</span>
+- 日文：<span style="color:#3498DB"><ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ってもいいですか。</span>
+- 中文：可以拍照嗎
+- 日文：<span style="color:#FF477E">ここで</span><span style="color:#3498DB"><ruby>休<rt>やす</rt></ruby>んでもいいです。</span>
 - 中文：可以在這裡休息。
 - 日文：<span style="color:#3498DB">エアコンをつけてもいいですよ。</span>
-- 中文：可以開冷氣喔。（給予對方許可）
-- 日文：<span style="color:#3498DB"><ruby>質問<rt>しつもん (shitsumon)</rt></ruby>してもいいですか。</span>
-- 中文：我可以提問嗎？
-- 日文：<span style="color:#2ECC71"><ruby>今日<rt>きょう (kyou)</rt></ruby>は</span><span style="color:#FF477E"><ruby>早く<rt>はや (haya)</rt></ruby></span><span style="color:#3498DB"><ruby>帰<rt>かえ (kae)</rt></ruby>ってもいいです。</span>
+- 中文：可以開冷氣喔（給予對方許可）
+- 日文：<span style="color:#3498DB"><ruby>質問<rt>しつもん</rt></ruby>してもいいですか。</span>
+- 中文：我可以提問嗎
+- 日文：<span style="color:#2ECC71"><ruby>今日<rt>こんにち</rt></ruby>は</span><span style="color:#FF477E"><ruby>早<rt>はや</rt></ruby>く</span><span style="color:#3498DB"><ruby>帰<rt>かえ</rt></ruby>ってもいいです。</span>
 - 中文：今天可以早點回家。
 
 ## 關係說明
@@ -39,40 +39,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 写真（しゃしん）を撮（と）ってもいいですか。
-> （可以拍照嗎？）
+> <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span>
+> （可以拍照嗎）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| タバコを吸（す）う | **タバコを吸（す）っても**いいですか。 | 可以吸菸嗎？ |
-| 入（はい）る | ここに**入（はい）っても**いいですか。 | 可以進去這裡嗎？ |
-| 座（すわ）る | ここに**座（すわ）っても**いいですか。 | 可以坐在這裡嗎？ |
-| 休（やす）む | ここで**休（やす）んでも**いいですか。 | 可以在這裡休息嗎？ |
+| <span style="color:#E67E22">タバコを</span><span style="color:#3498DB"><ruby>吸<rt>す</rt></ruby>う</span> | <span style="color:#E67E22">タバコを</span><span style="color:#2ECC71"><ruby>吸<rt>す</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以吸菸？ |
+| <span style="color:#3498DB"><ruby>入<rt>い</rt></ruby>る</span> | <span style="color:#E74C3C">ここに</span><span style="color:#2ECC71"><ruby>入<rt>いっ</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以進去這裡嗎 |
+| <span style="color:#3498DB"><ruby>座<rt>すわ</rt></ruby>る</span> | <span style="color:#E74C3C">ここに</span><span style="color:#2ECC71"><ruby>座<rt>すわ</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以坐在這裡嗎 |
+| <span style="color:#3498DB"><ruby>休<rt>やす</rt></ruby>む</span> | <span style="color:#E74C3C">ここで</span><span style="color:#E74C3C"><ruby>休<rt>やす</rt></ruby>んで</span><span style="color:#E74C3C">もいいで</span><span style="color:#3498DB">すか</span> | 可以在這裡休息嗎 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 許可表述 | 写真（しゃしん）を撮（と）っても**いいです**。 | 可以拍照。 |
-| → 禁止表述 | 写真（しゃしん）を撮（と）っては**いけません**。 | 不准拍照。 |
-| → 懇求許可普通形 | 写真（しゃしん）を撮（と）っても**いい**？ | 可以拍照嗎？ |
-| → 強調語氣許可 | 写真（しゃしん）を撮（と）っても**いいですよ**。 | 可以拍照喔。 |
+|  → 許可表述  | <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">す</span> | 可以拍照。 |
+|  → 禁止表述  | <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っては</span><span style="color:#3498DB">いけません</span> | 不准拍照。 |
+|  → 懇求許可普通形  | <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#3498DB">いい？</span> | 可以拍照嗎 |
+|  → 強調語氣許可  | <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すよ</span> | 可以拍照喔 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 写真（しゃしん）を撮（と）ってもいいですか。 | はい、いいですよ。撮（と）ってください。 | 是的，可以喔。請拍吧。 |
-| ここでタバコを吸（す）ってもいいですか。 | いいえ、ここでタバコを吸（す）ってはいけません。 | 不，這裡不准抽菸。 |
-| エアコンをつけてもいいですか。 | はい、つけてもいいですよ。 | 是的，可以開喔。 |
+| <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すよ</span><span style="color:#3498DB"><ruby>撮<rt>と</rt></ruby>ってください</span> | 是的，可以喔請拍吧 |
+| <span style="color:#E74C3C">ここで</span><span style="color:#E67E22">タバコを</span><span style="color:#2ECC71"><ruby>吸<rt>す</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C">ここで</span><span style="color:#E67E22">タバコを</span><span style="color:#2ECC71"><ruby>吸<rt>す</rt></ruby>っては</span><span style="color:#3498DB">いけません</span> | 不，這裡不准抽菸 |
+| <span style="color:#E67E22">エアコンを</span><span style="color:#2ECC71">つけても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">はい</span><span style="color:#2ECC71">つけても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すよ</span> | 是的，可以開喔 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | いいですか。 | 可以嗎？ |
-| +動作 | **撮（と）っても**いいですか。 | 可以拍嗎？ |
-| +目的語 | **写真（しゃしん）を**撮（と）ってもいいですか。 | 可以拍照嗎？ |
-| +場所 | **ここで**写真（しゃしん）を撮（と）ってもいいですか。 | 可以在這裡拍照嗎？ |
+| 核心 | <span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以嗎 |
+| +動作 | <span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以拍嗎 |
+| +目的語 | <span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以拍照嗎 |
+| +場所 | <span style="color:#E74C3C">ここで</span><span style="color:#E67E22"><ruby>写真<rt>しゃしん</rt></ruby>を</span><span style="color:#2ECC71"><ruby>撮<rt>と</rt></ruby>っても</span><span style="color:#E74C3C">いいで</span><span style="color:#3498DB">すか</span> | 可以在這裡拍照嗎 |

@@ -15,19 +15,19 @@ related_to:
 - `動詞（五段：書かれる・読まれる；一段：見られる・食べられる；カ変：来られる）+ られる／れる`：一般尊敬表現，也常用來表示對上位者的動作敬意
 
 ## 用法說明
-這組文法用來提高對方或第三者的身分，表示「對上位者的動作表示敬意」。其中 `いらっしゃる／おっしゃる／召し上がる` 是固定的尊敬動詞，語感自然且常見；`〜られる` 則是通用型尊敬表現，但要注意它也可能是被動形，需靠上下文判斷。  
-與 [[JP_N3_71_kenjougo_verbs|謙讓語 @related_to]] 不同，尊敬語是「抬高對方」，不是「降低自己」；例如 `伺う／申し上げる／いただく` 屬於謙讓語，不能混用。與 [[JP_N3_53_oninaru|お〜になる @related_to]] 同屬尊敬語系統。
+這組文法用來提高對方或第三者的身分，表示「對上位者的動作表示敬意」。其中 `いらっしゃる／おっしゃる／召し上がる` 是固定的尊敬動詞，語感自然且常見常見`〜られる` 則是通用型尊敬表現，但要注意它也可能是被動形，需靠上下文判斷。  
+與 [[JP_N3_71_kenjougo_verbs|謙讓語 @related_to]] 不同，尊敬語是「抬高對方」，不是「降低自己」」例如 `伺う／申し上げる／いただく` 屬於謙讓語，不能混用。與 [[JP_N3_53_oninaru|お〜になる @related_to]] 同屬尊敬語系統。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>部長<rt>ぶちょう</rt></ruby>は</span><span style="color:#E67E22"><ruby>今朝<rt>けさ</rt></ruby></span><span style="color:#3498DB">もう<ruby>会社<rt>かいしゃ</rt></ruby>にいらっしゃいました</span>。
   中文：部長今天早上已經來公司了。
 
 - 日文：<span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#FF477E">この<ruby>計画<rt>けいかく</rt></ruby>について</span><span style="color:#3498DB">「とてもよい」とおっしゃいました</span>。
-  中文：社長對這個計畫說「非常好」。
+  中文：社長對這個計畫說非常好」。
 
-- 日文：<span style="color:#2ECC71"><ruby>お客様<rt>きゃくさま</rt></ruby>は</span><span style="color:#E67E22"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#3498DB"><ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でケーキを<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりました</span>。
+- 日文：<span style="color:#2ECC71">お<ruby>客様<rt>きゃくさま</rt></ruby>は</span><span style="color:#E67E22"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#3498DB"><ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でケーキを<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりました</span>。
   中文：客人下午三點在車站前的店裡吃了蛋糕。
 
 ## 關係說明
@@ -40,40 +40,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 社長（しゃちょう）は午後（ごご）三時（さんじ）に会社（かいしゃ）へ来（こ）られます。  
+> <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#E74C3C"><ruby>会社<rt>かいしゃ</rt></ruby>へ</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>られます</span>
 > （社長下午三點會來公司。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 東京へ行く | 社長は東京へ**いらっしゃいます**。 | 社長要去東京。 |
-| 「すばらしい」と言う | 社長は「すばらしい」と**おっしゃいます**。 | 社長說「太棒了」。 |
-| ケーキを食べる | 社長はケーキを**召し上がります**。 | 社長吃蛋糕。 |
+| <span style="color:#E74C3C"><ruby>東京<rt>とうきょう</rt></ruby>へ</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>く</span> | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>東京<rt>とうきょう</rt></ruby>へ</span><span style="color:#3498DB">いらっしゃいます</span> | 社長要去東京。 |
+| <span style="color:#E67E22">「すばらしい」と</span><span style="color:#3498DB"><ruby>言<rt>い</rt></ruby>う</span> | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E67E22">「すばらしい」と</span><span style="color:#3498DB">おっしゃいます</span> | 社長說太棒了」。 |
+| <span style="color:#E67E22">ケーキを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べる</span> | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E67E22">ケーキを</span><span style="color:#2ECC71"><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>が</span><span style="color:#3498DB">ります</span> | 社長吃蛋糕。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 尊敬語 | 社長は会社に来ます。→ 社長は会社に**来られます**。 | 社長會來公司。 |
-| → 尊敬語 | 部長は会議室にいます。→ 部長は会議室に**いらっしゃいます**。 | 部長在會議室。 |
-| → 尊敬語 | 先生は「今日は休みです」と言います。→ 先生は「今日は休みです」と**おっしゃいます**。 | 老師說「今天休息」。 |
+|  → 尊敬語  | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>会社<rt>かいしゃ</rt></ruby>に</span><span style="color:#3498DB"><ruby>来<rt>き</rt></ruby>ます</span><span style="color:#3498DB">→</span><span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>会社<rt>かいしゃ</rt></ruby>に</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>られます</span> | 社長會來公司。 |
+|  → 尊敬語  | <span style="color:#2ECC71"><ruby>部長<rt>ぶちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>会議室<rt>かいぎしつ</rt></ruby>に</span><span style="color:#3498DB">います</span><span style="color:#3498DB">→</span><span style="color:#2ECC71"><ruby>部長<rt>ぶちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>会議室<rt>かいぎしつ</rt></ruby>に</span><span style="color:#3498DB">いらっしゃいます</span> | 部長在會議室。 |
+|  → 尊敬語  | <span style="color:#2ECC71"><ruby>先生<rt>せんせい</rt></ruby>は</span><span style="color:#E74C3C">「<ruby>今日<rt>こんにち</rt></ruby>は</span><span style="color:#E74C3C"><ruby>休<rt>やす</rt></ruby>みで</span><span style="color:#E67E22">す」と</span><span style="color:#3498DB"><ruby>言<rt>い</rt></ruby>います</span><span style="color:#3498DB">→</span><span style="color:#2ECC71"><ruby>先生<rt>せんせい</rt></ruby>は</span><span style="color:#E74C3C">「<ruby>今日<rt>こんにち</rt></ruby>は</span><span style="color:#E74C3C"><ruby>休<rt>やす</rt></ruby>みで</span><span style="color:#E67E22">す」と</span><span style="color:#3498DB">おっしゃいます</span> | 老師說今天休息」。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 社長はもう来ましたか。 | はい、もう**いらっしゃいました**。 | 是，社長已經來了。 |
-| 先生は何とおっしゃいましたか。 | 「あとで連絡してください」と**おっしゃいました**。 | 老師說「請之後聯絡我」。 |
-| お客様は何を召し上がりますか。 | ケーキを**召し上がります**。 | 客人要吃蛋糕。 |
+| <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#3498DB">もう<ruby>来<rt>き</rt></ruby>ましたか</span> | <span style="color:#3498DB">はい</span><span style="color:#3498DB">もういらっしゃいました</span> | 是，社長已經來了。 |
+| <span style="color:#2ECC71"><ruby>先生<rt>せんせい</rt></ruby>は</span><span style="color:#E67E22"><ruby>何<rt>なん</rt></ruby>と</span><span style="color:#3498DB">おっしゃいましたか</span> | <span style="color:#E67E22">「あと</span><span style="color:#E67E22">で<ruby>連絡<rt>れんらく</rt></ruby>してください」と</span><span style="color:#3498DB">おっしゃいました</span> | 老師說請之後聯絡我」。 |
+| <span style="color:#2ECC71">お<ruby>客様<rt>きゃくさま</rt></ruby>は</span><span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>を</span><span style="color:#2ECC71"><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>が</span><span style="color:#3498DB">りますか</span> | <span style="color:#E67E22">ケーキを</span><span style="color:#2ECC71"><ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>が</span><span style="color:#3498DB">ります</span> | 客人要吃蛋糕。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 社長は来られます。 | 社長會來。 |
-| 追加時間 | 社長は午後三時に来られます。 | 社長下午三點會來。 |
-| 追加場所 | 社長は午後三時に会社へ来られます。 | 社長下午三點會來公司。 |
+| 核心 | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>られます</span> | 社長會來。 |
+| 追加時間 | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>られます</span> | 社長下午三點會來。 |
+| 追加場所 | <span style="color:#2ECC71"><ruby>社長<rt>しゃちょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>午後<rt>ごご</rt></ruby><ruby>三時<rt>さんじ</rt></ruby>に</span><span style="color:#E74C3C"><ruby>会社<rt>かいしゃ</rt></ruby>へ</span><span style="color:#3498DB"><ruby>来<rt>こ</rt></ruby>られます</span> | 社長下午三點會來公司。 |
 
 ---
 *Created: 2026-07-17*

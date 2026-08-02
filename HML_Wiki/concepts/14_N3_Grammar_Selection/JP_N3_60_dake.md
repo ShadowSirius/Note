@@ -19,10 +19,10 @@ related_to:
 
 - `だけ`：單純表示「只有／僅僅」，可直接接在名詞、動詞、形容詞後。
 - `しか〜ない`：也表示「只有」，但必須搭配否定，語氣更強，常帶有「少得可憐」或「除此之外沒有」的感覺。
-- 與 [[JP_N3_61_bakari|〜ばかり @related_to]] 相比，「だけ」是中性的「只有」，「ばかり」則帶有「偏重、失衡」的抱怨語氣；與 [[JP_N3_62_sae|〜さえ @related_to]] 相比，「だけ」不強調意外性，「さえ」則有「連…都」的驚訝語感。
+- 與 [[JP_N3_61_bakari|〜ばかり @related_to]] 相比，「だけ」是中性的「只有」，「ばかり」則帶有「偏重、失衡」的抱怨語氣語氣與 [[JP_N3_62_sae|〜さえ @related_to]] 相比，「だけ」不強調意外性，「さえ」則有「連…都」的驚訝語感。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#3498DB">ラーメンだけです。</span>
   中文：這家店的菜單只有拉麵。
@@ -43,40 +43,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> この店（みせ）のメニューはラーメンだけです。
+> <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">ラーメンだけで</span><span style="color:#3498DB">す</span>
 > （這家店的菜單只有拉麵。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| そば | この店（みせ）のメニューはそばだけです。 | 這家店的菜單只有蕎麥麵。 |
-| サラダ | この店（みせ）のメニューはサラダだけです。 | 這家店的菜單只有沙拉。 |
-| ドリンク | この店（みせ）のメニューはドリンクだけです。 | 這家店的菜單只有飲料。 |
+| <span style="color:#3498DB">そば</span> | <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">そばだけで</span><span style="color:#3498DB">す</span> | 這家店的菜單只有蕎麥麵。 |
+| <span style="color:#3498DB">サラダ</span> | <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">サラダだけで</span><span style="color:#3498DB">す</span> | 這家店的菜單只有沙拉。 |
+| <span style="color:#3498DB">ドリンク</span> | <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">ドリンクだけで</span><span style="color:#3498DB">す</span> | 這家店的菜單只有飲料。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 限定為「今天」 | 会議（かいぎ）は今日（きょう）だけです。 | 會議只有今天。 |
-| → 限定為「週末」 | 勉強（べんきょう）は週末（しゅうまつ）だけします。 | 只在週末讀書。 |
-| → 限定為「水」 | 水（みず）だけ飲（の）みます。 | 只喝水。 |
+|  → 限定為「今天」  | <span style="color:#2ECC71"><ruby>会議<rt>かいぎ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>今日<rt>きょう</rt></ruby>だけで</span><span style="color:#3498DB">す</span> | 會議只有今天。 |
+|  → 限定為「週末」  | <span style="color:#2ECC71"><ruby>勉強<rt>べんきょう</rt></ruby>は</span><span style="color:#E74C3C"><ruby>週末<rt>しゅうまつ</rt></ruby>だけします</span> | 只在週末讀書。 |
+|  → 限定為「水」  | <span style="color:#3498DB"><ruby>水<rt>みず</rt></ruby>だけ<ruby>飲<rt>の</rt></ruby>みます</span> | 只喝水。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 何（なに）を食（た）べますか。 | パンだけ食べます。 | 只吃麵包。 |
-| いつ会議（かいぎ）がありますか。 | 今日（きょう）だけあります。 | 只有今天有會議。 |
-| 何（なに）を飲（の）みますか。 | コーヒーだけ飲みます。 | 只喝咖啡。 |
+| <span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べますか</span> | <span style="color:#3498DB">パンだけ<ruby>食<rt>た</rt></ruby>べます</span> | 只吃麵包。 |
+| <span style="color:#2ECC71">いつ<ruby>会議<rt>かいぎ</rt></ruby>が</span><span style="color:#3498DB">ありますか</span> | <span style="color:#E74C3C"><ruby>今日<rt>きょう</rt></ruby>だけあります</span> | 只有今天有會議。 |
+| <span style="color:#E67E22"><ruby>何<rt>なに</rt></ruby>を</span><span style="color:#3498DB"><ruby>飲<rt>の</rt></ruby>みますか</span> | <span style="color:#3498DB">コーヒーだけ<ruby>飲<rt>の</rt></ruby>みます</span> | 只喝咖啡。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | ラーメンだけです。 | 只有拉麵。 |
-| 擴展 1 | この店（みせ）のメニューはラーメンだけです。 | 這家店的菜單只有拉麵。 |
-| 擴展 2 | この店（みせ）のメニューはラーメンだけで、飲（の）み物（もの）はありません。 | 這家店的菜單只有拉麵，沒有飲料。 |
+| 核心 | <span style="color:#E74C3C">ラーメンだけで</span><span style="color:#3498DB">す</span> | 只有拉麵。 |
+| 擴展 1 | <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">ラーメンだけで</span><span style="color:#3498DB">す</span> | 這家店的菜單只有拉麵。 |
+| 擴展 2 | <span style="color:#2ECC71">この<ruby>店<rt>みせ</rt></ruby>のメニューは</span><span style="color:#E74C3C">ラーメンだけで</span><span style="color:#2ECC71"><ruby>飲み物<rt>のみもの</rt></ruby>は</span><span style="color:#3498DB">ありません</span> | 這家店的菜單只有拉麵，沒有飲料。 |
 
 ---
 *Created: 2026-07-17*

@@ -23,12 +23,12 @@ related_to:
 - 「〜のに」：帶強烈主觀情緒（不滿、驚訝），較口語，不特別強調「同時並存」。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#FF477E"><ruby>忙<rt>いそが</rt></ruby>しいながらも、</span><span style="color:#3498DB"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している。</span>
-  中文：他雖然忙碌，但仍每天運動。
+  中文：他雖然忙碌，但仍每運動。
 - 日文：<span style="color:#2ECC71"><ruby>彼女<rt>かのじょ</rt></ruby>は</span><span style="color:#FF477E">ミスと<ruby>知<rt>し</rt></ruby>りながらも、</span><span style="color:#3498DB">そのまま<ruby>提出<rt>ていしゅつ</rt></ruby>した。</span>
-  中文：她明知是錯的，卻仍然照樣提交了。
+  中文：她知是錯的，卻仍然照樣提交了。
 
 ## 關係說明
 - [[JP_N3_31_mono_no|〜ものの @related_to]]
@@ -40,40 +40,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 彼（かれ）は忙（いそが）しいながらも、毎日（まいにち）運動（うんどう）している。
-> （他雖然忙碌，但仍每天運動。）
+> <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>忙<rt>いそが</rt></ruby>しいなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している</span>
+> （他雖然忙碌，但仍每運動。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 小さい（ちいさい） | この会社は**小さいながらも**、業績がいい。 | 這家公司雖然小，但業績很好。 |
-| 貧しい（まずしい） | 彼は**貧しいながらも**、心は豊かだ。 | 他雖然貧窮，但內心富足。 |
-| 不安だ（ふあんだ） | **不安でありながらも**、前に進んだ。 | 雖然感到不安，但仍向前邁進。 |
-| 新人だ | 彼は**新人でありながらも**、リーダーを任された。 | 他雖然是新人，卻被委以領導職責。 |
+| <span style="color:#3498DB"><ruby>小<rt>ちー</rt></ruby>さい（ちいさい）</span> | <span style="color:#2ECC71">この<ruby>会社<rt>かいしゃ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>小<rt>ちー</rt></ruby>さいなが</span><span style="color:#2ECC71">らも</span><span style="color:#2ECC71"><ruby>業績<rt>ぎょうせき</rt></ruby>が</span><span style="color:#3498DB">いい</span> | 這家公司雖然小，但業績很好。 |
+| <span style="color:#3498DB"><ruby>貧<rt>まず</rt></ruby>しい（まずしい）</span> | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>貧<rt>まず</rt></ruby>しいなが</span><span style="color:#2ECC71">らも</span><span style="color:#2ECC71"><ruby>心<rt>こころ</rt></ruby>は</span><span style="color:#3498DB"><ruby>豊<rt>ゆた</rt></ruby>かだ</span> | 他雖然貧窮，但內富足。 |
+| <span style="color:#3498DB"><ruby>不安<rt>ふあん</rt></ruby>だ（ふあんだ）</span> | <span style="color:#E74C3C"><ruby>不安<rt>ふあん</rt></ruby>で</span><span style="color:#2ECC71">ありなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C"><ruby>前<rt>まえ</rt></ruby>に</span><span style="color:#3498DB"><ruby>進<rt>すす</rt></ruby>んだ</span> | 雖然感到不安，但仍向前邁進。 |
+| <span style="color:#3498DB"><ruby>新人<rt>しんじん</rt></ruby>だ</span> | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>新人<rt>しんじん</rt></ruby>で</span><span style="color:#2ECC71">ありなが</span><span style="color:#2ECC71">らも</span><span style="color:#E67E22">リーダーを</span><span style="color:#3498DB"><ruby>任<rt>まか</rt></ruby>された</span> | 他雖然是新人，卻被委以領導職責。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → ものの | 彼は忙しい**ものの**、毎日運動している。 | 雖然他很忙，但仍每天運動。（語氣更客觀） |
-| → のに | 彼は忙しい**のに**、毎日運動している。 | 他明明很忙，卻每天運動。（帶驚訝語氣） |
-| → 丁寧形 | 彼は忙しいながらも、毎日運動してい**ます**。 | 他雖然忙碌，但仍每天運動。（禮貌形） |
+| <span style="color:#3498DB">→</span><span style="color:#3498DB">ものの</span> | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>忙<rt>いそが</rt></ruby>しいも</span><span style="color:#3498DB">のの</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している</span> | 雖然他很忙，但仍每運動。（語氣更客觀） |
+| <span style="color:#3498DB">→</span><span style="color:#E74C3C">のに</span> | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#E74C3C"><ruby>忙<rt>いそが</rt></ruby>しいのに</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している</span> | 他明明很忙，卻每運動。（帶驚訝語氣） |
+|  → 丁寧形  | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>忙<rt>いそが</rt></ruby>しいなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しています</span> | 他雖然忙碌，但仍每運動。（禮貌形） |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 彼、忙しそうなのに運動する時間あるんですか。 | ええ、忙しいながらも毎日運動しているんです。 | 是啊，雖然忙，但他每天都運動。 |
-| 彼女、ミスに気づいていたんですか。 | ええ、ミスと知りながらも、そのまま提出したそうです。 | 是的，聽說她明知是錯的，卻仍照樣提交了。 |
+| <span style="color:#3498DB"><ruby>彼<rt>かれ</rt></ruby></span><span style="color:#E74C3C"><ruby>忙<rt>いそが</rt></ruby>しそうなのに</span><span style="color:#E74C3C"><ruby>運動<rt>うんどう</rt></ruby>する<ruby>時間<rt>じかん</rt></ruby>あるんで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">ええ</span><span style="color:#2ECC71"><ruby>忙<rt>いそが</rt></ruby>しいなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>しているんで</span><span style="color:#3498DB">す</span> | 是啊雖然忙，但他每都運動。 |
+| <span style="color:#3498DB"><ruby>彼女<rt>かのじょ</rt></ruby></span><span style="color:#E74C3C">ミスに</span><span style="color:#E74C3C"><ruby>気<rt>き</rt></ruby>づいていたんで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">ええ</span><span style="color:#E67E22">ミスと</span><span style="color:#2ECC71"><ruby>知<rt>し</rt></ruby>りなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C">そのまま<ruby>提出<rt>ていしゅつ</rt></ruby>したそうで</span><span style="color:#3498DB">す</span> | 是的，聽說明知是錯的，卻仍照樣提交了。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 運動している。 | 在運動。 |
-| +主語 | **彼は**運動している。 | 他在運動。 |
-| +矛盾狀態 | 彼は**忙しいながらも**、毎日運動している。 | 他雖然忙碌，但仍每天運動。 |
+| 核心 | <span style="color:#3498DB"><ruby>運動<rt>うんどう</rt></ruby>している</span> | 在運動。 |
+| +主語 | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#3498DB"><ruby>運動<rt>うんどう</rt></ruby>している</span> | 他在運動。 |
+| +矛盾狀態 | <span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#2ECC71"><ruby>忙<rt>いそが</rt></ruby>しいなが</span><span style="color:#2ECC71">らも</span><span style="color:#E74C3C"><ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>している</span> | 他雖然忙碌，但仍每運動。 |
 
 ---
 *Created: 2026-07-17*

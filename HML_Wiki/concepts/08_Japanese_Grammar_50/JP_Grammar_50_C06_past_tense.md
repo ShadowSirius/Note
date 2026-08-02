@@ -17,19 +17,19 @@ sibling_of:
 - `Vます語幹 + ました`
 
 ## 核心用法
-ました 可表示過去事件，也可表示動作已完成；否定時要分辨「沒有做過」與「還沒完成」。
+ました 可表示過去事件，也可表示動作已完成完成否定時要分辨「沒有做過」與「還沒完成」。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 \| 🔵核心/謂語 \| 🟠修飾語 \| 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 \|  \| 核心/謂語 \|  \| 修飾語 \|  \| 時間/場所/副詞
 
-- 日文：<span style="color:#FF477E">先月、台北へ</span><span style="color:#3498DB">行きました</span>。
+- 日文：<span style="color:#FF477E"><ruby>先月<rt>せんげつ</rt></ruby>、<ruby>台北<rt>たいほく</rt></ruby>へ</span><span style="color:#3498DB"><ruby>行<rt>い</rt></ruby>きました</span>。
   中文：上個月去了台北。
-- 日文：<span style="color:#FF477E">もう</span><span style="color:#3498DB">晩ご飯を食べました</span>。
-  中文：已經吃過晚餐了。
+- 日文：<span style="color:#FF477E">もう</span><span style="color:#3498DB"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました</span>。
+  中文：已經吃過晚了。
 
 ## 學習提示
-- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪一類，再回到例句確認助詞與動詞形。
-- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡標題關鍵字搜尋校對。
+- 先判斷此句型處理的是「格助詞、動詞變化、條件推量、理由目的、敬語」哪類，再回到例句確認助詞與動詞形。
+- 原始 OCR 逐頁文字保存於 [[Japanese_Grammar_50_ocr|Japanese Grammar 50 OCR @derives_from]]，可用單元號或本卡題關鍵字搜尋校對。
 
 ## 關係說明
 - [[JP_Grammar_50_C05_shoju_verbs|上一課 @sibling_of]]
@@ -41,38 +41,38 @@ sibling_of:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> もう晩（ばん）ご飯（はん）を食（た）べました。
-> （已經吃過晚餐了。）
+> <span style="color:#E67E22">もう<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span>
+> （已經吃過晚了。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 朝（あさ）ご飯（はん） | もう**朝（あさ）ご飯（はん）**を食（た）べました。 | 已經吃過早餐了。 |
-| 昼（ひる）ご飯（はん） | もう**昼（ひる）ご飯（はん）**を食（た）べました。 | 已經吃過午餐了。 |
-| お弁当（べんとう） | もう**お弁当（べんとう）**を食（た）べました。 | 已經吃過便當了。 |
-| おやつ | もう**おやつ**を食（た）べました。 | 已經吃過點心了。 |
+| <span style="color:#3498DB"><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby></span> | <span style="color:#E67E22">もう<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經吃過早餐了。 |
+| <span style="color:#3498DB"><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby></span> | <span style="color:#E67E22">もう<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經吃過午餐了。 |
+| <span style="color:#3498DB">お<ruby>弁当<rt>べんとう</rt></ruby></span> | <span style="color:#E67E22">もうお<ruby>弁当<rt>べんとう</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經吃過便當了。 |
+| <span style="color:#3498DB">おやつ</span> | <span style="color:#E67E22">もうおやつを</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經吃過點心了。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| → 未完形 | 還（まだ）晩（ばん）ご飯（はん）を**食（た）べていません**。 | 還沒吃晚餐。 |
-| → 過去否定形 | 昨日（きのう）は晩（ばん）ご飯（はん）を**食（た）べませんでした**。 | 昨天沒吃晚餐。 |
-| → 疑問形 | もう晩（ばん）ご飯（はん）を食（た）べました**か**。 | 已經吃過晚餐了嗎？ |
+|  → 未完形  | <span style="color:#E67E22"><ruby>還<rt>かん</rt></ruby><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べていません</span> | 還沒吃晚。 |
+|  → 過去否定形  | <span style="color:#E74C3C"><ruby>昨日<rt>きのう</rt></ruby>は</span><span style="color:#E67E22"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#E74C3C"><ruby>食<rt>た</rt></ruby>べませんで</span><span style="color:#3498DB">した</span> | 昨天沒吃晚。 |
+|  → 疑問形  | <span style="color:#E67E22">もう<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べましたか</span> | 已經吃過晚了嗎 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| もう晩（ばん）ご飯（はん）を食（た）べましたか。 | はい、もう食（た）べました。 | 是的，已經吃了。 |
-| いいえ、まだですか。 | いいえ、まだ食（た）べていません。 | 不，還沒有吃。 |
+| <span style="color:#E67E22">もう<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べましたか</span> | <span style="color:#3498DB">はい</span><span style="color:#3498DB">もう<ruby>食<rt>た</rt></ruby>べました</span> | 是的，已經吃了。 |
+| <span style="color:#3498DB">いいえ</span><span style="color:#E74C3C">まだで</span><span style="color:#3498DB">すか</span> | <span style="color:#3498DB">いいえ</span><span style="color:#3498DB">まだ<ruby>食<rt>た</rt></ruby>べていません</span> | 不，還沒有吃。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 食（た）べました。 | 吃了。 |
-| +目的 | **晩（ばん）ご飯（はん）を**食（た）べました。 | 吃了晚餐。 |
-| +副詞 | **もう**晩（ばん）ご飯（はん）を食（た）べました。 | 已經吃了晚餐。 |
-| +場所 | **家（うち）で**もう晩（ばん）ご飯（はん）を食（た）べました。 | 已經在家吃過晚餐了。 |
+| 核心 | <span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 吃了。 |
+| +目的 | <span style="color:#E67E22"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 吃了晚。 |
+| +副詞 | <span style="color:#E67E22">もう<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經吃了晚。 |
+| +場所 | <span style="color:#E74C3C"><ruby>家<rt>いえ</rt></ruby>で</span><span style="color:#E67E22">もう<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>を</span><span style="color:#3498DB"><ruby>食<rt>た</rt></ruby>べました</span> | 已經在家吃過晚了。 |

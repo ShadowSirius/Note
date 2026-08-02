@@ -14,7 +14,7 @@ related_to:
 意為「直到...、甚至到...」，表示範圍延伸到極端的程度或細節，強調涵蓋範圍之廣、之細，常見於列舉大範圍到小範圍、抽象到具體的對照，語感為強調「無一遺漏」。與 [[JP_N1_67_niitatte|〜に至って @related_to]] 字形相近但意義不同：「に至るまで」表「範圍延伸到...」，「に至って」表「到了某（嚴重）階段」。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>大人<rt>おとな</rt></ruby>から</span><span style="color:#FF477E"><ruby>子供<rt>こども</rt></ruby>に<ruby>至<rt>いた</rt></ruby>るまで、</span><span style="color:#3498DB">みんなこの<ruby>歌<rt>うた</rt></ruby>を<ruby>知<rt>し</rt></ruby>っている。</span>
   中文：從大人到小孩，大家都知道這首歌。
@@ -30,30 +30,30 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> 大人（おとな）から子供（こども）に至（いた）るまで、みんなこの歌（うた）を知（し）っている。
+> <span style="color:#E74C3C"><ruby>大人<rt>おとな</rt></ruby>から</span><span style="color:#E74C3C"><ruby>子供<rt>こども</rt></ruby>に</span><span style="color:#E74C3C"><ruby>至<rt>いた</rt></ruby>るまで</span><span style="color:#E67E22">みんなこの<ruby>歌<rt>うた</rt></ruby>を</span><span style="color:#3498DB"><ruby>知<rt>し</rt></ruby>っている</span>
 > （從大人到小孩，大家都知道這首歌。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| 髪型（かみがた） | 服装から**髪型に至るまで**、細かく指定された。 | 從服裝到髮型，都被詳細指定了。 |
-| 食器（しょっき） | 家具から**食器に至るまで**、全て手作りだ。 | 從家具到餐具，全部都是手工製作。 |
+|  <ruby>髪型<rt>かみがた</rt></ruby>（かみがた）  | <span style="color:#E74C3C"><ruby>服装<rt>ふくそう</rt></ruby>から</span><span style="color:#E74C3C"><ruby>髪型<rt>かみがた</rt></ruby>に</span><span style="color:#E74C3C"><ruby>至<rt>いた</rt></ruby>るまで</span><span style="color:#3498DB"><ruby>細<rt>こま</rt></ruby>かく<ruby>指定<rt>してい</rt></ruby>された</span> | 從服裝到髮型，都被詳細指定了。 |
+|  <ruby>食器<rt>しょっき</rt></ruby>（しょっき）  | <span style="color:#E74C3C"><ruby>家具<rt>かぐ</rt></ruby>から</span><span style="color:#E74C3C"><ruby>食器<rt>しょっき</rt></ruby>に</span><span style="color:#E74C3C"><ruby>至<rt>いた</rt></ruby>るまで</span><span style="color:#3498DB"><ruby>全<rt>すべ</rt></ruby>て<ruby>手作<rt>てづく</rt></ruby>りだ</span> | 從家具到餐具，全部都是手工製作。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 | Transformation | Expected Response | Translation |
 |---|---|---|
-| → 換用まで | 細部**まで**丁寧に確認した。 | 連細節都仔細確認過了。（簡化版） |
+| <span style="color:#3498DB">→</span><span style="color:#E74C3C"><ruby>換<rt>かん</rt></ruby><ruby>用<rt>よう</rt></ruby>まで</span> | <span style="color:#E74C3C"><ruby>細部<rt>さいぶ</rt></ruby>まで</span><span style="color:#E74C3C"><ruby>丁寧<rt>ていねい</rt></ruby>に</span><span style="color:#3498DB"><ruby>確認<rt>かくにん</rt></ruby>した</span> | 連細節都仔細確認過了。（簡化版） |
 
 ### 3️⃣ Response Drill（應答練習）
 | Prompt | Expected Response | Translation |
 |---|---|---|
-| どこまで確認しましたか。 | 細部に至るまで、丁寧に確認しました。 | 連細節都仔細確認過了。 |
+| <span style="color:#E74C3C">どこまで</span><span style="color:#3498DB"><ruby>確認<rt>かくにん</rt></ruby>しましたか</span> | <span style="color:#E74C3C"><ruby>細部<rt>さいぶ</rt></ruby>に</span><span style="color:#E74C3C"><ruby>至<rt>いた</rt></ruby>るまで</span><span style="color:#E74C3C"><ruby>丁寧<rt>ていねい</rt></ruby>に</span><span style="color:#3498DB"><ruby>確認<rt>かくにん</rt></ruby>しました</span> | 連細節都仔細確認過了。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 | Step | Sentence | Translation |
 |---|---|---|
-| 核心 | みんな知っている。 | 大家都知道。 |
-| +範圍 | 大人から**子供に至るまで**、みんな知っている。 | 從大人到小孩，大家都知道。 |
+| 核心 | <span style="color:#3498DB">みんな<ruby>知<rt>し</rt></ruby>っている</span> | 大家都知道。 |
+| +範圍 | <span style="color:#E74C3C"><ruby>大人<rt>おとな</rt></ruby>から</span><span style="color:#E74C3C"><ruby>子供<rt>こども</rt></ruby>に</span><span style="color:#E74C3C"><ruby>至<rt>いた</rt></ruby>るまで</span><span style="color:#3498DB">みんな<ruby>知<rt>し</rt></ruby>っている</span> | 從大人到小孩，大家都知道。 |
 
 ---
 *Created: 2026-07-17*

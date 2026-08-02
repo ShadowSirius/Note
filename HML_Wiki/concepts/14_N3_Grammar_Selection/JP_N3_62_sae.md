@@ -14,17 +14,17 @@ related_to:
 - 常見固定型：`〜さえあれば`、`〜さえすれば`、`〜さえしなければ`
 
 ## 用法說明
-表示「連最基本、最意外的東西都包含在內」，語感是「連...都、甚至」。常用來強調最低限度或出乎意料的例子，例如「お金さえあれば」「名前さえ知らない」這類表現。
+表示「連最基本、最意外的東西都包含在內語感是「連...都、甚至」。常用來強調最低限度或出乎意料的例子，例如「お金さえあれば」「名前さえ知らない」這類表現。
 
-與「〜でも」相比，「〜さえ」更強調極端性與驚訝感；與 [[JP_N3_63_made|〜まで @related_to]] 相比，「〜まで」偏向範圍擴大，「〜さえ」則偏向「連這種情況都算進去」的強調。
+與「〜でも」相比，「〜さえ」更強調極端性與驚訝感感與 [[JP_N3_63_made|〜まで @related_to]] 相比，「〜まで」偏向範圍擴大，「〜さえ」則偏向「連這種情況都算進去」的強調。
 
 ## 實用例句
-> [!tip] 句子結構色彩：🟢主語/主題 | 🔵核心/謂語 | 🟠修飾語/理由子句 | 🔴時間/場所/副詞
+> [!tip] 句子結構色彩：：主語/主題 |  | 核心/謂語 |  | 修飾語/理由子句 |  | 時間/場所/副詞
 
 - 日文：<span style="color:#2ECC71"><ruby>彼<rt>かれ</rt></ruby>は</span><span style="color:#FF477E"><ruby>病気<rt>びょうき</rt></ruby>で</span><span style="color:#3498DB"><ruby>水<rt>みず</rt></ruby>さえ<ruby>飲<rt>の</rt></ruby>めなかった。</span>
   中文：他因為生病，連水都喝不下。
 
-- 日文：<span style="color:#2ECC71">お<ruby>金<rt>かね</rt></ruby>さえあれば、</span><span style="color:#3498DB"><ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>ができます。</span>
+- 日文：<span style="color:#2ECC71">お<ruby>金<rt>きん</rt></ruby>さえあれば、</span><span style="color:#3498DB"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>ができます。</span>
   中文：只要有錢，甚至可以出國旅行。
 
 - 日文：<span style="color:#2ECC71"><ruby>子供<rt>こども</rt></ruby>さえ</span><span style="color:#3498DB">スマートフォンを<ruby>使<rt>つか</rt></ruby>いこなす</span><span style="color:#E67E22"><ruby>時代<rt>じだい</rt></ruby>です。</span>
@@ -40,40 +40,40 @@ related_to:
 ## 🎯 FSI Pattern Drill
 
 > [!tip] Base Sentence
-> お金(かね)さえあれば、海外旅行(かいがいりょこう)ができます。
+> <span style="color:#3498DB">お<ruby>金<rt>きん</rt></ruby>(かね)さえあれば</span><span style="color:#2ECC71"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>(かいが</span><span style="color:#2ECC71">いりょこう)が</span><span style="color:#3498DB">できます</span>
 > （只要有錢，甚至可以出國旅行。）
 
 ### 1️⃣ Substitution Drill（替換練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| 時間(じかん) | 時間(じかん)さえあれば、旅行(りょこう)できます。 | 只要有時間，就能旅行。 |
-| 勇気(ゆうき) | 勇気(ゆうき)さえあれば、挑戦(ちょうせん)できます。 | 只要有勇氣，就能挑戰。 |
-| 一言(ひとこと) | 一言(ひとこと)さえあれば、説明(せつめい)できます。 | 只要有一句話，就能說明。 |
+| <span style="color:#3498DB"><ruby>時間<rt>じかん</rt></ruby>(じかん)</span> | <span style="color:#3498DB"><ruby>時間<rt>じかん</rt></ruby>(じかん)さえあれば</span><span style="color:#E74C3C"><ruby>旅行<rt>りょこう</rt></ruby>(りょこう)で</span><span style="color:#3498DB">きます</span> | 只要有時間，就能旅行。 |
+| <span style="color:#3498DB"><ruby>勇気<rt>ゆうき</rt></ruby>(ゆうき)</span> | <span style="color:#3498DB"><ruby>勇気<rt>ゆうき</rt></ruby>(ゆうき)さえあれば</span><span style="color:#E74C3C"><ruby>挑戦<rt>ちょうせん</rt></ruby>(ちょうせん)で</span><span style="color:#3498DB">きます</span> | 只要有勇氣，就能挑戰。 |
+| <span style="color:#E67E22"><ruby>一言<rt>ひとこと</rt></ruby>(ひと</span><span style="color:#E67E22">こと</span><span style="color:#3498DB">)</span> | <span style="color:#E67E22"><ruby>一言<rt>ひとこと</rt></ruby>(ひと</span><span style="color:#E67E22">こと</span><span style="color:#3498DB">)さえあれば</span><span style="color:#E74C3C"><ruby>説明<rt>せつめい</rt></ruby>(せつめい)で</span><span style="color:#3498DB">きます</span> | 只要有一句話，就能說。 |
 
 ### 2️⃣ Transformation Drill（轉換練習）
 
 | Transformation | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| お金(かね)があれば、海外旅行(かいがいりょこう)ができます。 | お金(かね)さえあれば、海外旅行(かいがいりょこう)ができます。 | 只要有錢，就能出國旅行。 |
-| 連絡(れんらく)すれば、すぐ分(わ)かります。 | 連絡(れんらく)さえすれば、すぐ分(わ)かります。 | 只要聯絡，就馬上知道。 |
-| 名前(なまえ)を知(し)っていれば、探(さが)せます。 | 名前(なまえ)さえ知(し)っていれば、探(さが)せます。 | 只要知道名字，就能找得到。 |
+| <span style="color:#2ECC71">お<ruby>金<rt>きん</rt></ruby>(かね)が</span><span style="color:#3498DB">あれば</span><span style="color:#2ECC71"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>(かいが</span><span style="color:#2ECC71">いりょこう)が</span><span style="color:#3498DB">できます</span> | <span style="color:#3498DB">お<ruby>金<rt>きん</rt></ruby>(かね)さえあれば</span><span style="color:#2ECC71"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>(かいが</span><span style="color:#2ECC71">いりょこう)が</span><span style="color:#3498DB">できます</span> | 只要有錢，就能出國旅行。 |
+| <span style="color:#3498DB"><ruby>連絡<rt>れんらく</rt></ruby>(れんらく)すれば</span><span style="color:#3498DB">すぐ<ruby>分<rt>ふん</rt></ruby>(わ)かります</span> | <span style="color:#3498DB"><ruby>連絡<rt>れんらく</rt></ruby>(れんらく)さえすれば</span><span style="color:#3498DB">すぐ<ruby>分<rt>ふん</rt></ruby>(わ)かります</span> | 只要聯絡，就馬上知道。 |
+| <span style="color:#E67E22"><ruby>名前<rt>なまえ</rt></ruby>(なまえ)を</span><span style="color:#3498DB"><ruby>知<rt>ち</rt></ruby>(し)っていれば</span><span style="color:#2ECC71"><ruby>探<rt>たん</rt></ruby>(さが</span><span style="color:#3498DB">)せます</span> | <span style="color:#3498DB"><ruby>名前<rt>なまえ</rt></ruby>(なまえ)さえ<ruby>知<rt>ち</rt></ruby>(し)っていれば</span><span style="color:#2ECC71"><ruby>探<rt>たん</rt></ruby>(さが</span><span style="color:#3498DB">)せます</span> | 只要知道名字，就能找得到。 |
 
 ### 3️⃣ Response Drill（應答練習）
 
 | Prompt | Expected Response | Translation（中文翻譯） |
 |---|---|---|
-| どうすれば、この仕事(しごと)を始(はじ)められますか。 | 経験(けいけん)さえあれば、始(はじ)められます。 | 只要有經驗，就能開始這份工作。 |
-| どうすれば、試験(しけん)に合格(ごうかく)できますか。 | 教科書(きょうかしょ)さえ読(よ)めば、合格(ごうかく)できます。 | 只要讀教科書，就能合格。 |
-| どうしてそんなに早(はや)く終(お)わるんですか。 | 一言(ひとこと)さえ聞(き)けば、すぐ分(わ)かります。 | 只要聽一句話，就立刻明白。 |
+| <span style="color:#3498DB">どうすれば</span><span style="color:#E67E22">この<ruby>仕事<rt>しごと</rt></ruby>(しごと</span><span style="color:#E67E22">)を</span><span style="color:#2ECC71"><ruby>始<rt>し</rt></ruby>(は</span><span style="color:#3498DB">じ)められますか</span> | <span style="color:#3498DB"><ruby>経験<rt>けいけん</rt></ruby>(けいけん)さえあれば</span><span style="color:#2ECC71"><ruby>始<rt>し</rt></ruby>(は</span><span style="color:#3498DB">じ)められます</span> | 只要有經驗，就能開始這份工作。 |
+| <span style="color:#3498DB">どうすれば</span><span style="color:#E74C3C"><ruby>試験<rt>しけん</rt></ruby>(しけん)に</span><span style="color:#E74C3C"><ruby>合格<rt>ごうかく</rt></ruby>(ごうかく)で</span><span style="color:#3498DB">きますか</span> | <span style="color:#3498DB"><ruby>教科書<rt>きょうかしょ</rt></ruby>(きょうかしょ)さえ<ruby>読<rt>どく</rt></ruby>(よ)めば</span><span style="color:#E74C3C"><ruby>合格<rt>ごうかく</rt></ruby>(ごうかく)で</span><span style="color:#3498DB">きます</span> | 只要讀教科書，就能合格。 |
+| <span style="color:#E74C3C">どうしてそんなに</span><span style="color:#2ECC71"><ruby>早<rt>そう</rt></ruby>(は</span><span style="color:#E74C3C">や)く<ruby>終<rt>おわり</rt></ruby>(お)わるんで</span><span style="color:#3498DB">すか</span> | <span style="color:#E67E22"><ruby>一言<rt>ひとこと</rt></ruby>(ひと</span><span style="color:#E67E22">こと</span><span style="color:#3498DB">)さえ<ruby>聞<rt>ぶん</rt></ruby>(き)けば</span><span style="color:#3498DB">すぐ<ruby>分<rt>ふん</rt></ruby>(わ)かります</span> | 只要聽一句話，就立刻明白。 |
 
 ### 4️⃣ Expansion Drill（擴展練習）
 
 | Step | Sentence | Translation（中文翻譯） |
 |---|---|---|
-| 核心 | 旅行(りょこう)ができます。 | 可以旅行。 |
-| 追加條件 | お金(かね)があれば、海外旅行(かいがいりょこう)ができます。 | 只要有錢，就能出國旅行。 |
-| 強調 | お金(かね)さえあれば、海外旅行(かいがいりょこう)ができます。 | 只要有錢，甚至可以出國旅行。 |
+| 核心 | <span style="color:#2ECC71"><ruby>旅行<rt>りょこう</rt></ruby>(りょこう)が</span><span style="color:#3498DB">できます</span> | 可以旅行。 |
+| 追加條件 | <span style="color:#2ECC71">お<ruby>金<rt>きん</rt></ruby>(かね)が</span><span style="color:#3498DB">あれば</span><span style="color:#2ECC71"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>(かいが</span><span style="color:#2ECC71">いりょこう)が</span><span style="color:#3498DB">できます</span> | 只要有錢，就能出國旅行。 |
+| 強調 | <span style="color:#3498DB">お<ruby>金<rt>きん</rt></ruby>(かね)さえあれば</span><span style="color:#2ECC71"><ruby>海外旅行<rt>かいがいりょこう</rt></ruby>(かいが</span><span style="color:#2ECC71">いりょこう)が</span><span style="color:#3498DB">できます</span> | 只要有錢，甚至可以出國旅行。 |
 
 ---
 *Created: 2026-07-17*

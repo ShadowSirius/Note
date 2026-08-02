@@ -132,8 +132,8 @@ related_to:
 - 46. [[JP_Grammar_50_C46_hearsay_sou_desu|C46 - 傳聞：〜そうです・〜と言っています @parent_of]]
 
 ## 使用方式
-- 每張卡片聚焦一個文法單元：接續、核心用法、例句與相鄰單元關係。
-- OCR 原文保留在 raw/archive，可回查頁面文字；卡片文字已整理為可讀繁中筆記。
+- 每卡聚焦一個文法單元：接續、核心用法、例句與相鄰單元關係。
+- OCR 原文保留在 raw/archive，可回查面文字文字卡文字已整理為可讀繁中筆記。
 
 ## 關係說明
-- [[Japanese_Grammar_Index|日文高頻文法索引 N5/N4 @related_to]]：與主索引 01-58 號文法卡片主題多有重疊，可交叉參照。
+- [[Japanese_Grammar_Index|日文高頻文法索引 N5/N4 @related_to]]：與主索引 01-58 號文法卡主題多有重疊，可交叉參照。
