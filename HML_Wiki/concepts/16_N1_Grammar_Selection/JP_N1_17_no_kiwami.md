@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_16_no_itari]]"
+- '[[JP_N1_16_no_itari]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜のきわみ
 

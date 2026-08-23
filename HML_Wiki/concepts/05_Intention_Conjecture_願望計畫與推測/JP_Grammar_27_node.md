@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 replaces:
-  - "[[JP_Grammar_10_kara_reason]]"
+- '[[JP_Grammar_10_kara_reason]]'
 ---
 # 〜ので
 

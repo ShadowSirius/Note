@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 related_to:
-  - "[[JP_Grammar_11_te_kudasai]]"
+- '[[JP_Grammar_11_te_kudasai]]'
 ---
 # 〜をください
 

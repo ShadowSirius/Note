@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_30_ato_de]]"
+- '[[JP_Grammar_30_ato_de]]'
 ---
 # 〜まえに
 

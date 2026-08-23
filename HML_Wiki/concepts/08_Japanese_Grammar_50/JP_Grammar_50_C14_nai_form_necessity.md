@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C13_te_sequence]]"
-  - "[[JP_Grammar_50_C15_potential_form]]"
+- '[[JP_Grammar_50_C13_te_sequence]]'
+- '[[JP_Grammar_50_C15_potential_form]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C14 - ない形與義務
 

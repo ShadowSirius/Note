@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_37_kotonashini]]"
+- '[[JP_N2_37_kotonashini]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜なくして（は）
 

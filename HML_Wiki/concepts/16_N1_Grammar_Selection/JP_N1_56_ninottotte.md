@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_55_nisokushite]]"
+- '[[JP_N1_55_nisokushite]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜に則って
 

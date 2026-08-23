@@ -1,9 +1,9 @@
 ---
-related_to:
-  - "[[JP_Vocab_05_food_drink]]"
-  - "[[JP_Food_06_seafood]]"
 sibling_of:
-  - "[[JP_Food_06_seafood]]"
+- '[[JP_Food_06_seafood]]'
+related_to:
+- '[[JP_Vocab_05_food_drink]]'
+- '[[JP_Food_06_seafood]]'
 ---
 # 食材詞彙 05：肉類與部位
 

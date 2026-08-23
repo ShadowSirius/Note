@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C39_indirect_passive]]"
-  - "[[JP_Grammar_50_C41_te_reason]]"
+- '[[JP_Grammar_50_C39_indirect_passive]]'
+- '[[JP_Grammar_50_C41_te_reason]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C40 - 〜ので：客觀原因理由
 

@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C02_wa_desu]]"
-  - "[[JP_Grammar_50_C04_masen_ka_mashou]]"
+- '[[JP_Grammar_50_C02_wa_desu]]'
+- '[[JP_Grammar_50_C04_masen_ka_mashou]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C03 - 移動動詞：に・へ・を・から
 

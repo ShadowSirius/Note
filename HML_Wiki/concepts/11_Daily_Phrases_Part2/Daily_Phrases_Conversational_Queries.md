@@ -1,14 +1,14 @@
 ---
 title: 分類四：話題啟動與日常詢問
 tags:
-  - Japanese
-  - Conversation
-  - Oral_Practice
-child_of:
-  - "[[Daily_Phrases_Index]]"
+- Japanese
+- Conversation
+- Oral_Practice
 sibling_of:
-  - "[[Daily_Phrases_Invitations_Plans]]"
-  - "[[Daily_Phrases_Interests_Hobbies]]"
+- '[[Daily_Phrases_Invitations_Plans]]'
+- '[[Daily_Phrases_Interests_Hobbies]]'
+child_of:
+- '[[Daily_Phrases_Index]]'
 ---
 # 分類四：話題啟動與日常詢問
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_30_nitsuite]]"
+- '[[JP_N3_30_nitsuite]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜をめぐって
 

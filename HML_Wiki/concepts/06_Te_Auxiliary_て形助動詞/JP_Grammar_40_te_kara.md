@@ -1,9 +1,9 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_29_mae_ni]]"
+- '[[JP_Grammar_29_mae_ni]]'
 replaces:
-  - "[[JP_Grammar_30_ato_de]]"
+- '[[JP_Grammar_30_ato_de]]'
 ---
 # 〜てから
 

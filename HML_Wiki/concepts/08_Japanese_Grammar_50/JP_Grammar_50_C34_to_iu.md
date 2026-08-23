@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]"
-  - "[[JP_Grammar_50_C35_te_moraemasen_ka_request]]"
+- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
+- '[[JP_Grammar_50_C35_te_moraemasen_ka_request]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C34 - 〜という：引用與命名
 

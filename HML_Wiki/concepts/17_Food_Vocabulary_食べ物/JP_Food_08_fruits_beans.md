@@ -1,10 +1,10 @@
 ---
-related_to:
-  - "[[JP_Food_07_vegetables]]"
-  - "[[JP_Vocab_05_food_drink]]"
-  - "[[JP_Food_05_meat_cuts]]"
 sibling_of:
-  - "[[JP_Food_07_vegetables]]"
+- '[[JP_Food_07_vegetables]]'
+related_to:
+- '[[JP_Food_07_vegetables]]'
+- '[[JP_Vocab_05_food_drink]]'
+- '[[JP_Food_05_meat_cuts]]'
 ---
 # 食材詞彙 08：水果與豆類
 

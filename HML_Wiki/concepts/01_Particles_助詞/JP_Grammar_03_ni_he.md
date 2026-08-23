@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 contradicts:
-  - "[[JP_Grammar_05_de]]"
+- '[[JP_Grammar_05_de]]'
 ---
 # 〜に / 〜へ
 

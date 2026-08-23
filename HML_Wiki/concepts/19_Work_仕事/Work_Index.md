@@ -1,12 +1,12 @@
 ---
-part_of:
-  - "[[JP_Work_01_electrical_power]]"
-  - "[[JP_Work_02_embedded_software]]"
-  - "[[JP_Work_03_engineering_actions]]"
-  - "[[JP_Work_04_business_office]]"
 related_to:
-  - "[[JP_Vocab_09_work_school]]"
-  - "[[Core_Vocabulary_Index]]"
+- '[[JP_Vocab_09_work_school]]'
+- '[[Core_Vocabulary_Index]]'
+part_of:
+- '[[JP_Work_01_electrical_power]]'
+- '[[JP_Work_02_embedded_software]]'
+- '[[JP_Work_03_engineering_actions]]'
+- '[[JP_Work_04_business_office]]'
 ---
 # 工作詞彙總索引（4 副主題）
 

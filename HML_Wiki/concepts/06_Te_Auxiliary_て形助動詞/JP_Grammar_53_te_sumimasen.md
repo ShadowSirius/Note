@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 sibling_of:
-  - "[[JP_Grammar_52_te_kurete_arigatou]]"
+- '[[JP_Grammar_52_te_kurete_arigatou]]'
 ---
 # 〜てすみません
 

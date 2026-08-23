@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_50_nari]]"
+- '[[JP_N2_50_nari]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜が早いか
 

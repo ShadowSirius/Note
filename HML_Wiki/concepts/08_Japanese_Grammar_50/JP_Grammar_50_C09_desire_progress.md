@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C08_kara_reason]]"
-  - "[[JP_Grammar_50_C10_verb_types_te_form]]"
+- '[[JP_Grammar_50_C08_kara_reason]]'
+- '[[JP_Grammar_50_C10_verb_types_te_form]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C09 - 〜たい・〜ている
 

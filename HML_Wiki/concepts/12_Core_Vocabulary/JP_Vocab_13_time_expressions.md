@@ -1,10 +1,10 @@
 ---
-extends:
-  - "[[JP_Vocab_03_time_numbers]]"
-related_to:
-  - "[[JP_Grammar_03_ni_he]]"
 sibling_of:
-  - "[[JP_Vocab_14_dates_frequency]]"
+- '[[JP_Vocab_14_dates_frequency]]'
+extends:
+- '[[JP_Vocab_03_time_numbers]]'
+related_to:
+- '[[JP_Grammar_03_ni_he]]'
 ---
 # 高頻詞彙 13：時間表現深化（〜に規則・順序詞・時間帶）
 

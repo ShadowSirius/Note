@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_60_dake]]"
-  - "[[JP_N3_19_ta_bakari_da]]"
+- '[[JP_N3_60_dake]]'
+- '[[JP_N3_19_ta_bakari_da]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ばかり
 

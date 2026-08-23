@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_12_kaneru]]"
+- '[[JP_N2_12_kaneru]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜ようがない
 

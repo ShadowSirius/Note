@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_04_ngatame]]"
+- '[[JP_N1_04_ngatame]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜んばかりに
 

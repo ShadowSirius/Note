@@ -1,9 +1,9 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_42_te_kuremasu]]"
+- '[[JP_Grammar_42_te_kuremasu]]'
 replaces:
-  - "[[JP_Grammar_35_mashou_ka]]"
+- '[[JP_Grammar_35_mashou_ka]]'
 ---
 # 〜てあげます
 

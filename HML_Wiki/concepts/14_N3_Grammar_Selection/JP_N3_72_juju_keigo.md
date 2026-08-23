@@ -1,11 +1,11 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_22_temorau]]"
-  - "[[JP_N3_23_tekureru]]"
-  - "[[JP_N3_26_teitadakemasenka]]"
+- '[[JP_N3_22_temorau]]'
+- '[[JP_N3_23_tekureru]]'
+- '[[JP_N3_26_teitadakemasenka]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 授受敬語〜ていただく／〜させていただく／〜くださる／〜てくださいませんか
 

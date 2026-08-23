@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 contradicts:
-  - "[[JP_Grammar_01_wa_desu]]"
+- '[[JP_Grammar_01_wa_desu]]'
 ---
 # 〜が
 

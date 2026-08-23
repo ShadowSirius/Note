@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 replaces:
-  - "[[JP_Grammar_27_node]]"
+- '[[JP_Grammar_27_node]]'
 ---
 # 〜から（原因）
 

@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_50_C06_past_tense]]"
-  - "[[JP_Grammar_12_te_imasu]]"
+- '[[JP_Grammar_50_C06_past_tense]]'
+- '[[JP_Grammar_12_te_imasu]]'
 ---
 # 高頻詞彙 11：副詞與接續詞 40
 

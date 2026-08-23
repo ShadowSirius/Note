@@ -1,11 +1,11 @@
 ---
-illustrates:
-  - "[[JP_Food_06_seafood]]"
-  - "[[JP_Travel_02_directions_roads]]"
-  - "[[JP_Food_01_restaurant_types]]"
 related_to:
-  - "[[JP_Grammar_50_C01_five_sentence_patterns]]"
-  - "[[JP_Grammar_50_C07_ga_vs_wa]]"
+- '[[JP_Grammar_50_C01_five_sentence_patterns]]'
+- '[[JP_Grammar_50_C07_ga_vs_wa]]'
+illustrates:
+- '[[JP_Food_06_seafood]]'
+- '[[JP_Travel_02_directions_roads]]'
+- '[[JP_Food_01_restaurant_types]]'
 ---
 # 日語學習系統（總指揮中心）
 

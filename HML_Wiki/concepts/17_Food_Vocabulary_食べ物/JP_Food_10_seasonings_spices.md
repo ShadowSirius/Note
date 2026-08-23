@@ -1,8 +1,8 @@
 ---
-part_of:
-  - "[[Food_Vocabulary_Index]]"
 related_to:
-  - "[[JP_Food_12_taste_texture]]"
+- '[[JP_Food_12_taste_texture]]'
+part_of:
+- '[[Food_Vocabulary_Index]]'
 ---
 # 食べ物詞彙 10：調味料與香辛料
 

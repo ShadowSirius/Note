@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_34_ppoi]]"
-  - "[[JP_N3_35_gimi]]"
+- '[[JP_N3_34_ppoi]]'
+- '[[JP_N3_35_gimi]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜がち
 

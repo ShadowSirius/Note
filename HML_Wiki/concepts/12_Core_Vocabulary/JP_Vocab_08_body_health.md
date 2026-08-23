@@ -1,6 +1,6 @@
 ---
 related_to:
-  - "[[JP_Grammar_19_ta_hou_ga_ii_desu]]"
+- '[[JP_Grammar_19_ta_hou_ga_ii_desu]]'
 ---
 # 高頻詞彙 08：身體與健康 30
 

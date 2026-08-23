@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_56_womotoni]]"
+- '[[JP_N2_56_womotoni]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜に基づいて
 

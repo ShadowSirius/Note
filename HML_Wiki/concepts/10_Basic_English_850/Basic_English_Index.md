@@ -1,14 +1,14 @@
 ---
 title: Basic English (基礎英語) 850字與18核心動詞總覽
 tags:
-  - English
-  - Basic_English
-  - Learning_Method
+- English
+- Basic_English
+- Learning_Method
 parent_of:
-  - "[[Basic_English_Operators]]"
-  - "[[Basic_English_Phrasal_Verbs]]"
-  - "[[Basic_English_Vocabulary_Structure]]"
-  - "[[Basic_English_Pros_Cons]]"
+- '[[Basic_English_Operators]]'
+- '[[Basic_English_Phrasal_Verbs]]'
+- '[[Basic_English_Vocabulary_Structure]]'
+- '[[Basic_English_Pros_Cons]]'
 ---
 # Basic English (基礎英語) 總覽
 

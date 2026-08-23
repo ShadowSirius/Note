@@ -1,10 +1,10 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_37_kotonashini]]"
-  - "[[JP_N2_40_nakushite]]"
+- '[[JP_N2_37_kotonashini]]'
+- '[[JP_N2_40_nakushite]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜なしに（は）
 

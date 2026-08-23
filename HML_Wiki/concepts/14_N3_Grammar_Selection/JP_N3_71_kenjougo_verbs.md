@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_70_sonkeigo_verbs]]"
-  - "[[JP_N3_72_juju_keigo]]"
+- '[[JP_N3_70_sonkeigo_verbs]]'
+- '[[JP_N3_72_juju_keigo]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 敬語動詞（謙讓語）参る／伺う／申す／〜ておる
 

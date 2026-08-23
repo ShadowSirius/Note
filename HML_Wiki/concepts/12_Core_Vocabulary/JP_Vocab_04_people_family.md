@@ -1,6 +1,6 @@
 ---
 related_to:
-  - "[[Keigo_Casual_100_Index]]"
+- '[[Keigo_Casual_100_Index]]'
 ---
 # 高頻詞彙 04：人物與家族 40
 

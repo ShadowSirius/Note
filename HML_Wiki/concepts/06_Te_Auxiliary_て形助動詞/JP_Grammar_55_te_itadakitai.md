@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-refines:
-  - "[[JP_Grammar_41_te_hoshii_desu]]"
 related_to:
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
+- '[[JP_Grammar_33_te_moraemasen_ka]]'
+refines:
+- '[[JP_Grammar_41_te_hoshii_desu]]'
 ---
 # 〜ていただきたい
 

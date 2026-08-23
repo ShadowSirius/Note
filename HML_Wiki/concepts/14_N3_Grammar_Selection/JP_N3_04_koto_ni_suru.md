@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_03_koto_ni_naru]]"
+- '[[JP_N3_03_koto_ni_naru]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ことにする
 

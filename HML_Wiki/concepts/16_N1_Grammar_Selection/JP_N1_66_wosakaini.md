@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_65_wokinini]]"
+- '[[JP_N1_65_wokinini]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜を境に
 

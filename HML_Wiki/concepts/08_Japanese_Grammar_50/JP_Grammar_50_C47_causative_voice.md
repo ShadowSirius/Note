@@ -1,14 +1,14 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
-related_to:
-  - "[[JP_N3_25_sasetemorau]]"
 sibling_of:
-  - "[[JP_Grammar_50_C46_hearsay_sou_desu]]"
-  - "[[JP_Grammar_50_C48_honorific_keigo]]"
+- '[[JP_Grammar_50_C46_hearsay_sou_desu]]'
+- '[[JP_Grammar_50_C48_honorific_keigo]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_25_sasetemorau]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C47 - 使役形：讓他人做
 

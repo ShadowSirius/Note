@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_01_hazu_da]]"
-  - "[[JP_N3_09_ni_chigainai]]"
+- '[[JP_N3_01_hazu_da]]'
+- '[[JP_N3_09_ni_chigainai]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜に決まっている
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]"
+- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜に違いない
 

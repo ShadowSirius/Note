@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 sibling_of:
-  - "[[JP_Grammar_18_ta_koto_ga_arimasu]]"
+- '[[JP_Grammar_18_ta_koto_ga_arimasu]]'
 ---
 # 〜たり〜たりします
 

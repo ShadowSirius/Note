@@ -1,10 +1,10 @@
 ---
 prerequisite_for:
-  - "[[JP_Grammar_50_C10_verb_types_te_form]]"
+- '[[JP_Grammar_50_C10_verb_types_te_form]]'
 related_to:
-  - "[[JP_Grammar_42_te_kuremasu]]"
-  - "[[JP_Grammar_44_te_moraimasu]]"
-  - "[[JP_Grammar_50_C29_transitive_intransitive]]"
+- '[[JP_Grammar_42_te_kuremasu]]'
+- '[[JP_Grammar_44_te_moraimasu]]'
+- '[[JP_Grammar_50_C29_transitive_intransitive]]'
 ---
 # 高頻詞彙 01：核心動詞 60
 

@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_50_C01_five_sentence_patterns]]"
-  - "[[JP_Grammar_36_te_arimasu]]"
+- '[[JP_Grammar_50_C01_five_sentence_patterns]]'
+- '[[JP_Grammar_36_te_arimasu]]'
 ---
 # 高頻詞彙 07：日常物品與居家 40
 

@@ -1,9 +1,9 @@
 ---
-extends:
-  - "[[JP_Vocab_09_work_school]]"
 sibling_of:
-  - "[[JP_Work_01_electrical_power]]"
-  - "[[JP_Work_03_engineering_actions]]"
+- '[[JP_Work_01_electrical_power]]'
+- '[[JP_Work_03_engineering_actions]]'
+extends:
+- '[[JP_Vocab_09_work_school]]'
 ---
 # 工程詞彙 02：嵌入式與軟體
 

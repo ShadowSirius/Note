@@ -1,10 +1,10 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_73_naidewairarenai]]"
-  - "[[JP_Grammar_50_te_wa_irarenai]]"
+- '[[JP_N2_73_naidewairarenai]]'
+- '[[JP_Grammar_50_te_wa_irarenai]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜ずにはいられない
 

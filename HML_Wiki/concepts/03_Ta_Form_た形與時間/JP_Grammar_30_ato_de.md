@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_29_mae_ni]]"
+- '[[JP_Grammar_29_mae_ni]]'
 ---
 # 〜あとで
 

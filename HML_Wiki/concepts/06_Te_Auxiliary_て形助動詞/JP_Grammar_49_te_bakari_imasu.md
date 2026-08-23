@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 refines:
-  - "[[JP_Grammar_12_te_imasu]]"
+- '[[JP_Grammar_12_te_imasu]]'
 ---
 # 〜てばかりいます
 

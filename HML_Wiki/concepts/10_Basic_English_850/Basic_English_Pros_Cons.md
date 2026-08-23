@@ -1,14 +1,14 @@
 ---
 title: 基礎英語的優勢、局限與現代啟示
 tags:
-  - English
-  - Basic_English
-  - Learning_Methodology
-child_of:
-  - "[[Basic_English_Index]]"
+- English
+- Basic_English
+- Learning_Methodology
 sibling_of:
-  - "[[Basic_English_Phrasal_Verbs]]"
-  - "[[Basic_English_Vocabulary_Structure]]"
+- '[[Basic_English_Phrasal_Verbs]]'
+- '[[Basic_English_Vocabulary_Structure]]'
+child_of:
+- '[[Basic_English_Index]]'
 ---
 # 基礎英語的優勢、局限與現代啟示
 

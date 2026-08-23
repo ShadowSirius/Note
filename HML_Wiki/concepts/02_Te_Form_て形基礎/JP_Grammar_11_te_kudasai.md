@@ -1,10 +1,10 @@
 ---
 jlpt: N5
-contradicts:
-  - "[[JP_Grammar_20_nai_de_kudasai]]"
 parent_of:
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
-  - "[[JP_Grammar_56_te_kuremasen_ka]]"
+- '[[JP_Grammar_33_te_moraemasen_ka]]'
+- '[[JP_Grammar_56_te_kuremasen_ka]]'
+contradicts:
+- '[[JP_Grammar_20_nai_de_kudasai]]'
 ---
 # 〜てください
 

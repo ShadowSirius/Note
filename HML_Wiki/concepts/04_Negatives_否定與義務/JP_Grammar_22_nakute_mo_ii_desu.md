@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_21_nakereba_narimasen]]"
+- '[[JP_Grammar_21_nakereba_narimasen]]'
 ---
 # 〜なくてもいいです
 

@@ -1,6 +1,6 @@
 ---
 related_to:
-  - "[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]"
+- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
 ---
 # 🇯🇵 日語名詞變化與接續指南
 

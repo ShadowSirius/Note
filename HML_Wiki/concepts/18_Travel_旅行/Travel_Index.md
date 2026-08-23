@@ -1,13 +1,14 @@
 ---
-part_of:
-  - "[[JP_Travel_01_transport]]"
-  - "[[JP_Travel_02_directions_roads]]"
-  - "[[JP_Travel_03_asking_directions]]"
-  - "[[JP_Travel_04_lodging_onsen]]"
 related_to:
-  - "[[Food_Vocabulary_Index]]"
-  - "[[JP_Dialogue_Index]]"
-  - "[[JP_Vocab_06_places_transport]]"
+- '[[Food_Vocabulary_Index]]'
+- '[[JP_Dialogue_Index]]'
+- '[[JP_Vocab_06_places_transport]]'
+part_of:
+- '[[JP_Travel_01_transport]]'
+- '[[JP_Travel_02_directions_roads]]'
+- '[[JP_Travel_03_asking_directions]]'
+- '[[JP_Travel_04_lodging_onsen]]'
+- '[[JP_Travel_05_snorkeling_marine_activities]]'
 ---
 # 旅遊詞彙總索引（4 副主題）
 
@@ -21,14 +22,16 @@ related_to:
 | 02 | [[JP_Travel_02_directions_roads\|方向與道路]] | <ruby>方位<rt>ほうい</rt></ruby><ruby>詞<rt>し</rt></ruby>、<ruby>道路<rt>どうろ</rt></ruby><ruby>種類<rt>しゅるい</rt></ruby>、<ruby>轉<rt>てん</rt></ruby><ruby>彎<rt>わん</rt></ruby><ruby>動詞<rt>どうし</rt></ruby> |
 | 03 | [[JP_Travel_03_asking_directions\|問路句型]] | 問路、問車資、問站數等實用句型 |
 | 04 | [[JP_Travel_04_lodging_onsen\|<ruby>旅館<rt>りょかん</rt></ruby><ruby>與<rt>よ</rt></ruby><ruby>溫泉<rt>おんせん</rt></ruby>]] | <ruby>住<rt>じゅう</rt></ruby><ruby>宿<rt>やど</rt></ruby><ruby>設施<rt>せっし</rt></ruby>、<ruby>風呂<rt>ふろ</rt></ruby>・<ruby>温泉<rt>おんせん</rt></ruby><ruby>系統<rt>けいとう</rt></ruby>、<ruby>浴衣<rt>ゆかた</rt></ruby><ruby>用品<rt>ようひん</rt></ruby>、<ruby>旅館<rt>りょかん</rt></ruby><ruby>餐<rt>さん</rt></ruby><ruby>食<rt>しょく</rt></ruby> |
+| 05 | [[JP_Travel_05_snorkeling_marine_activities\|海島浮潛與水上活動]] | 裝備租借、面鏡呼吸管、耳壓調節、海洋生物觀賞與安全溝通 |
 
 ## 🔗 結構關係（各分卡 @part_of 本索引）
-> 說：以下型別標記為 `@part_of`，意指各分卡本索引之組成部分（結構反向標註於索引頁，方便從索引一覽全貌並同步 frontmatter）。
+> 說明：以下型別標記為 `@part_of`，意指各分卡本索引之組成部分（結構反向標註於索引頁，方便從索引一覽全貌並同步 frontmatter）。
 
 - [[JP_Travel_01_transport|交通 @part_of]]
 - [[JP_Travel_02_directions_roads|方向與道路 @part_of]]
 - [[JP_Travel_03_asking_directions|問路句型 @part_of]]
 - [[JP_Travel_04_lodging_onsen|旅館與溫泉 @part_of]]
+- [[JP_Travel_05_snorkeling_marine_activities|海島浮潛與水上活動 @part_of]]
 
 ## 🗺️ 主題分組導覽
 - **移動階段**：01 交通（搭什麼、怎麼買票） → 02 方向與道路（怎麼描述位置與路型） → 03 問路句型（開口問人、確認方向）

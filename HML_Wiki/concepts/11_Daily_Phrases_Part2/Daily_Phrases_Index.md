@@ -1,17 +1,17 @@
 ---
 title: 日常必備常用句（第２彈）100句總覽
 tags:
-  - Japanese
-  - Conversation
-  - Oral_Practice
+- Japanese
+- Conversation
+- Oral_Practice
 parent_of:
-  - "[[Daily_Phrases_Social_Interaction]]"
-  - "[[Daily_Phrases_Requests_Help]]"
-  - "[[Daily_Phrases_Invitations_Plans]]"
-  - "[[Daily_Phrases_Conversational_Queries]]"
-  - "[[Daily_Phrases_Interests_Hobbies]]"
-  - "[[Daily_Phrases_State_Reactions]]"
-  - "[[Daily_Phrases_Praise_Support]]"
+- '[[Daily_Phrases_Social_Interaction]]'
+- '[[Daily_Phrases_Requests_Help]]'
+- '[[Daily_Phrases_Invitations_Plans]]'
+- '[[Daily_Phrases_Conversational_Queries]]'
+- '[[Daily_Phrases_Interests_Hobbies]]'
+- '[[Daily_Phrases_State_Reactions]]'
+- '[[Daily_Phrases_Praise_Support]]'
 ---
 # 日常必備常用句（第２彈）100句總覽
 

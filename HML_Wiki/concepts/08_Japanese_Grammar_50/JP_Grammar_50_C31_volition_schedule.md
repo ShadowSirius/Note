@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C30_volitional_form_intention]]"
-  - "[[JP_Grammar_50_C32_hou_ga_ii]]"
+- '[[JP_Grammar_50_C30_volitional_form_intention]]'
+- '[[JP_Grammar_50_C32_hou_ga_ii]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C31 - 〜予定です・〜つもりです
 

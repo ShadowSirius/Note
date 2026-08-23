@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_18_ta_tokoro_da]]"
+- '[[JP_N3_18_ta_tokoro_da]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜たところ
 

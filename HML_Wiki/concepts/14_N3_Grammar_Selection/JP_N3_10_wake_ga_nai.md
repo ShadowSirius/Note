@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_11_wake_dewa_nai]]"
+- '[[JP_N3_11_wake_dewa_nai]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜わけがない
 

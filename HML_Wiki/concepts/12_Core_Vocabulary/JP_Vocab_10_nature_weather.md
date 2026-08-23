@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_26_sou_desu_hearsay]]"
-  - "[[JP_Grammar_25_sou_desu_conjecture]]"
+- '[[JP_Grammar_26_sou_desu_hearsay]]'
+- '[[JP_Grammar_25_sou_desu_conjecture]]'
 ---
 # 高頻詞彙 10：自然、天氣與季節 30
 

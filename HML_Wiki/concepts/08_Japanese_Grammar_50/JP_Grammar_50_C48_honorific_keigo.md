@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C47_causative_voice]]"
-  - "[[JP_Grammar_50_C49_humble_keigo]]"
+- '[[JP_Grammar_50_C47_causative_voice]]'
+- '[[JP_Grammar_50_C49_humble_keigo]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C48 - 敬語：尊他語
 

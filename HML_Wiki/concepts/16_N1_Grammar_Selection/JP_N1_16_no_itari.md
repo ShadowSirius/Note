@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_17_no_kiwami]]"
+- '[[JP_N1_17_no_kiwami]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜の至り
 

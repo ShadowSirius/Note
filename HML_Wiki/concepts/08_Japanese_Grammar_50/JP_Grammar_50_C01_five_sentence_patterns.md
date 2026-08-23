@@ -1,11 +1,11 @@
 ---
 jlpt: N5
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C02_wa_desu]]"
+- '[[JP_Grammar_50_C02_wa_desu]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C01 - 五大句型與格助詞總論
 

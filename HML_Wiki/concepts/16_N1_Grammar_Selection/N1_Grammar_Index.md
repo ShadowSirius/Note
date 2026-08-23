@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[Japanese_Learning_System]]"
 related_to:
-  - "[[N2_Grammar_Index]]"
+- '[[N2_Grammar_Index]]'
+part_of:
+- '[[Japanese_Learning_System]]'
 ---
 # N1 文法索引地圖
 

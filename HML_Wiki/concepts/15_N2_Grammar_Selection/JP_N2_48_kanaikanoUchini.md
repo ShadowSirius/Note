@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_21_tatotan_ni]]"
+- '[[JP_N3_21_tatotan_ni]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜か〜ないかのうちに
 

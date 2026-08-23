@@ -1,9 +1,9 @@
 ---
-part_of:
-  - "[[Food_Vocabulary_Index]]"
 related_to:
-  - "[[JP_Food_10_seasonings_spices]]"
-  - "[[JP_Food_11_cooking_methods]]"
+- '[[JP_Food_10_seasonings_spices]]'
+- '[[JP_Food_11_cooking_methods]]'
+part_of:
+- '[[Food_Vocabulary_Index]]'
 ---
 # 食べ物詞彙 14：煮物・和え物・漬物・サラダ
 

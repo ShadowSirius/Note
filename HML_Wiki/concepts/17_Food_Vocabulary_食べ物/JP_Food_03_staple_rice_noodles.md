@@ -1,8 +1,8 @@
 ---
 related_to:
-  - "[[JP_Food_01_restaurant_types]]"
-  - "[[JP_Food_02_dining_phrases]]"
-  - "[[JP_Food_04_fried_grilled]]"
+- '[[JP_Food_01_restaurant_types]]'
+- '[[JP_Food_02_dining_phrases]]'
+- '[[JP_Food_04_fried_grilled]]'
 ---
 # 食物詞彙 03：主食（飯・麵・壽司・麵包）
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-refines:
-  - "[[JP_Grammar_11_te_kudasai]]"
 related_to:
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
+- '[[JP_Grammar_33_te_moraemasen_ka]]'
+refines:
+- '[[JP_Grammar_11_te_kudasai]]'
 ---
 # 〜てくれませんか
 

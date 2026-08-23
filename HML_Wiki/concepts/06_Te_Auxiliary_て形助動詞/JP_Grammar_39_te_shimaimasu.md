@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 related_to:
-  - "[[JP_Grammar_12_te_imasu]]"
+- '[[JP_Grammar_12_te_imasu]]'
 ---
 # 〜てしまいます
 

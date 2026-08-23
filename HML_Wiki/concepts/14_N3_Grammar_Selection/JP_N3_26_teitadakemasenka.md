@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_Grammar_50_C35_te_moraemasen_ka_request]]"
+- '[[JP_Grammar_50_C35_te_moraemasen_ka_request]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ていただけませんか
 

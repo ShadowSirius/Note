@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_84_gotamawaru]]"
+- '[[JP_N1_84_gotamawaru]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # お〜申し上げる
 

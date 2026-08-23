@@ -1,6 +1,6 @@
 ---
 illustrates:
-  - "[[JP_Dialogue_Scenarios]]"
+- '[[JP_Dialogue_Scenarios]]'
 ---
 # 高頻核心動詞短語清單
 

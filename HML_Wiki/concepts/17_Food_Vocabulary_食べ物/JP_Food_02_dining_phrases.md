@@ -1,8 +1,8 @@
 ---
 related_to:
-  - "[[JP_Food_01_restaurant_types]]"
-  - "[[JP_Food_03_staple_rice_noodles]]"
-  - "[[JP_Food_04_fried_grilled]]"
+- '[[JP_Food_01_restaurant_types]]'
+- '[[JP_Food_03_staple_rice_noodles]]'
+- '[[JP_Food_04_fried_grilled]]'
 ---
 # 食物詞彙 02：用餐用語與餐次
 

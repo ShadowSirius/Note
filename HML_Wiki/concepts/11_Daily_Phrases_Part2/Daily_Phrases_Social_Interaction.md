@@ -1,14 +1,14 @@
 ---
 title: 分類一：日常社交與對話承諾
 tags:
-  - Japanese
-  - Conversation
-  - Oral_Practice
-child_of:
-  - "[[Daily_Phrases_Index]]"
+- Japanese
+- Conversation
+- Oral_Practice
 sibling_of:
-  - "[[Daily_Phrases_Requests_Help]]"
-  - "[[Daily_Phrases_Invitations_Plans]]"
+- '[[Daily_Phrases_Requests_Help]]'
+- '[[Daily_Phrases_Invitations_Plans]]'
+child_of:
+- '[[Daily_Phrases_Index]]'
 ---
 # 分類一：日常社交與對話承諾
 

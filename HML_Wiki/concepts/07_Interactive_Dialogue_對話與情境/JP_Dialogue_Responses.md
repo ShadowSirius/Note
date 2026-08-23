@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_34_masen_ka]]"
-  - "[[JP_Grammar_35_mashou_ka]]"
+- '[[JP_Grammar_34_masen_ka]]'
+- '[[JP_Grammar_35_mashou_ka]]'
 ---
 # 情境對話應答
 

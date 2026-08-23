@@ -1,9 +1,9 @@
 ---
 jlpt: N4
 parent_of:
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
+- '[[JP_Grammar_33_te_moraemasen_ka]]'
 replaces:
-  - "[[JP_Grammar_42_te_kuremasu]]"
+- '[[JP_Grammar_42_te_kuremasu]]'
 ---
 # 〜てもらいます
 

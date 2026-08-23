@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 derives_from:
-  - "[[JP_Grammar_36_te_arimasu]]"
+- '[[JP_Grammar_36_te_arimasu]]'
 ---
 # 〜ておきます
 

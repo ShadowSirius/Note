@@ -1,14 +1,14 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
-related_to:
-  - "[[JP_N3_09_ni_chigainai]]"
 sibling_of:
-  - "[[JP_Grammar_50_C32_hou_ga_ii]]"
-  - "[[JP_Grammar_50_C34_to_iu]]"
+- '[[JP_Grammar_50_C32_hou_ga_ii]]'
+- '[[JP_Grammar_50_C34_to_iu]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_09_ni_chigainai]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C33 - 〜でしょう・〜かもしれない：推量
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_63_made]]"
+- '[[JP_N3_63_made]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜さえ
 

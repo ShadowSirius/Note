@@ -1,8 +1,8 @@
 ---
-influenced_by:
-  - "[[LLM Compiler]]"
 uses:
-  - "[[Vector Database]]"
+- '[[Vector Database]]'
+influenced_by:
+- '[[LLM Compiler]]'
 ---
 # RAG System
 

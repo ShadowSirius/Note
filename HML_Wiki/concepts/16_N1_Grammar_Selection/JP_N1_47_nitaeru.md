@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_46_nitaru]]"
+- '[[JP_N1_46_nitaru]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜に堪える
 

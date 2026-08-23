@@ -1,7 +1,7 @@
 ---
 uses:
-  - "[[JP_Dialogue_Responses]]"
-  - "[[JP_Vocab_Verbs]]"
+- '[[JP_Dialogue_Responses]]'
+- '[[JP_Vocab_Verbs]]'
 ---
 # 日語生活情境會話
 

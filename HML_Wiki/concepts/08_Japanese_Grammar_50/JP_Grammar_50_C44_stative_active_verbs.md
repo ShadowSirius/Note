@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C43_sou_desu_conjecture]]"
-  - "[[JP_Grammar_50_C45_hazu_desu_beki_desu]]"
+- '[[JP_Grammar_50_C43_sou_desu_conjecture]]'
+- '[[JP_Grammar_50_C45_hazu_desu_beki_desu]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C44 - 狀態動詞與動態動詞
 

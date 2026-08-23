@@ -1,11 +1,11 @@
 ---
-part_of:
-  - "[[Food_Vocabulary_Index]]"
-related_to:
-  - "[[JP_Food_12_taste_texture]]"
-  - "[[JP_Food_11_cooking_methods]]"
 sibling_of:
-  - "[[JP_Food_13_drinks_sweets]]"
+- '[[JP_Food_13_drinks_sweets]]'
+related_to:
+- '[[JP_Food_12_taste_texture]]'
+- '[[JP_Food_11_cooking_methods]]'
+part_of:
+- '[[Food_Vocabulary_Index]]'
 ---
 # 食べ物 15：コーヒー用語（咖啡）
 

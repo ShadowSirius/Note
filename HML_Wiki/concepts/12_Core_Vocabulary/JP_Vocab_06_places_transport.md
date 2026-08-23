@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_03_ni_he]]"
-  - "[[JP_Grammar_05_de]]"
+- '[[JP_Grammar_03_ni_he]]'
+- '[[JP_Grammar_05_de]]'
 ---
 # 高頻詞彙 06：場所與交通 40
 

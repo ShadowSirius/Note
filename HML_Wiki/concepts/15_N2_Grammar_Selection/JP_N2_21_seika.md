@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_11_seide]]"
+- '[[JP_N2_11_seide]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜せいか
 

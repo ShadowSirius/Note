@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_08_you_da]]"
-  - "[[JP_N3_07_rashii]]"
+- '[[JP_N3_08_you_da]]'
+- '[[JP_N3_07_rashii]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜みたいだ
 

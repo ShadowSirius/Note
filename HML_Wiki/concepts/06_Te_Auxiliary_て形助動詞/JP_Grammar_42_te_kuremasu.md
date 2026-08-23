@@ -1,9 +1,9 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_43_te_agemasu]]"
+- '[[JP_Grammar_43_te_agemasu]]'
 replaces:
-  - "[[JP_Grammar_44_te_moraimasu]]"
+- '[[JP_Grammar_44_te_moraimasu]]'
 ---
 # 〜てくれます
 

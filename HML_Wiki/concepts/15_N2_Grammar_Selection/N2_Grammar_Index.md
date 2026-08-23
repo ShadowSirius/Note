@@ -1,10 +1,10 @@
 ---
 jlpt: N2
-part_of:
-  - "[[Japanese_Learning_System]]"
 related_to:
-  - "[[N3_Grammar_Index]]"
-  - "[[N1_Grammar_Index]]"
+- '[[N3_Grammar_Index]]'
+- '[[N1_Grammar_Index]]'
+part_of:
+- '[[Japanese_Learning_System]]'
 ---
 # N2 文法精選索引
 

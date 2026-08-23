@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_81_ikannikakawarazu]]"
+- '[[JP_N1_81_ikannikakawarazu]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜いかんによらず
 

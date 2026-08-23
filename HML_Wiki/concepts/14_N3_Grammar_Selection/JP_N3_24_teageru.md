@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_23_tekureru]]"
+- '[[JP_N3_23_tekureru]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜てあげる
 

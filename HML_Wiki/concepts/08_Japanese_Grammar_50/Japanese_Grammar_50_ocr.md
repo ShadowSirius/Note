@@ -1,6 +1,6 @@
 ---
 part_of:
-  - "[[Japanese_Grammar_50_Index]]"
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # Japanese Grammar 50 OCR（原始掃描文字，佔位筆記）
 

@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C04_masen_ka_mashou]]"
-  - "[[JP_Grammar_50_C06_past_tense]]"
+- '[[JP_Grammar_50_C04_masen_ka_mashou]]'
+- '[[JP_Grammar_50_C06_past_tense]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C05 - 授受動詞：あげる・もらう・くれる
 

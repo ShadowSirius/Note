@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_23_naidewaokanai]]"
+- '[[JP_N1_23_naidewaokanai]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜ずにはおかない
 

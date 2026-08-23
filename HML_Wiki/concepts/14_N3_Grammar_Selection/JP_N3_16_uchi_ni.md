@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_17_aida_ni]]"
+- '[[JP_N3_17_aida_ni]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜うちに
 

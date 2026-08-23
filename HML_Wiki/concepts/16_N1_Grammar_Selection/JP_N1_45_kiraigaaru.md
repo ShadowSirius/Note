@@ -1,7 +1,7 @@
 ---
 jlpt: N1
 part_of:
-  - "[[N1_Grammar_Index]]"
+- '[[N1_Grammar_Index]]'
 ---
 # 〜きらいがある
 

@@ -1,17 +1,17 @@
 ---
 title: 日語敬語與口語對照 100 句
 tags:
-  - Japanese
-  - Keigo
-  - Conversation
+- Japanese
+- Keigo
+- Conversation
 parent_of:
-  - "[[Keigo_Casual_Tech1_Questions]]"
-  - "[[Keigo_Casual_Tech2_Requests]]"
-  - "[[Keigo_Casual_Tech3_Permissions]]"
-  - "[[Keigo_Casual_Tech4_Invitations]]"
-  - "[[Keigo_Casual_Tech5_Negation_Potential]]"
-  - "[[Keigo_Casual_Tech6_Greetings_Social]]"
-  - "[[Keigo_Casual_Tech7_Feelings_Adjectives]]"
+- '[[Keigo_Casual_Tech1_Questions]]'
+- '[[Keigo_Casual_Tech2_Requests]]'
+- '[[Keigo_Casual_Tech3_Permissions]]'
+- '[[Keigo_Casual_Tech4_Invitations]]'
+- '[[Keigo_Casual_Tech5_Negation_Potential]]'
+- '[[Keigo_Casual_Tech6_Greetings_Social]]'
+- '[[Keigo_Casual_Tech7_Feelings_Adjectives]]'
 ---
 # 日語敬語與口語對照 100 句
 

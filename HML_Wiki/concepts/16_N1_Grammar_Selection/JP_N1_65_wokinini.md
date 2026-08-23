@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_66_wosakaini]]"
+- '[[JP_N1_66_wosakaini]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜を機に
 

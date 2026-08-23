@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_Grammar_50_C22_tara_conditional]]"
+- '[[JP_Grammar_50_C22_tara_conditional]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜なら
 

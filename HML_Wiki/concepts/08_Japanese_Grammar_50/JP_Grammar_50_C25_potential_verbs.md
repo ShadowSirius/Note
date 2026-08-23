@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C24_n_desu]]"
-  - "[[JP_Grammar_50_C26_nagara]]"
+- '[[JP_Grammar_50_C24_n_desu]]'
+- '[[JP_Grammar_50_C26_nagara]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C25 - 可能動詞與可能句
 

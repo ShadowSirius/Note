@@ -1,11 +1,11 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_31_mono_no]]"
-  - "[[JP_N3_38_nagara_mo]]"
-  - "[[JP_N3_32_kuseni]]"
+- '[[JP_N3_31_mono_no]]'
+- '[[JP_N3_38_nagara_mo]]'
+- '[[JP_N3_32_kuseni]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜のに（逆接）
 

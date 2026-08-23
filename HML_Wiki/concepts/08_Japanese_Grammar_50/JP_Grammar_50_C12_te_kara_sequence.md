@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C11_te_imasu_states]]"
-  - "[[JP_Grammar_50_C13_te_sequence]]"
+- '[[JP_Grammar_50_C11_te_imasu_states]]'
+- '[[JP_Grammar_50_C13_te_sequence]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C12 - 〜てから：先後順序
 

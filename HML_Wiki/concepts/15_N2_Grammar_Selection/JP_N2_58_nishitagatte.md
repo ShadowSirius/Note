@@ -1,10 +1,10 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_28_nitsurete]]"
-  - "[[JP_N2_29_nisotte]]"
+- '[[JP_N2_28_nitsurete]]'
+- '[[JP_N2_29_nisotte]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜にしたがって
 

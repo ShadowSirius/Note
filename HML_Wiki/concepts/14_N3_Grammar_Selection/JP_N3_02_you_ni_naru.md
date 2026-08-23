@@ -1,7 +1,7 @@
 ---
 jlpt: N3
 part_of:
-  - "[[N3_Grammar_Index]]"
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ようになる
 

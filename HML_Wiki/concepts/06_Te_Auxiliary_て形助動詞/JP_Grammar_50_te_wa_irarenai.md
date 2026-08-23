@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 prevents:
-  - "[[JP_Grammar_13_te_mo_ii_desu]]"
+- '[[JP_Grammar_13_te_mo_ii_desu]]'
 ---
 # 〜てはいられない
 

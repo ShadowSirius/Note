@@ -1,8 +1,8 @@
 ---
-part_of:
-  - "[[Food_Vocabulary_Index]]"
 related_to:
-  - "[[JP_Food_09_tableware]]"
+- '[[JP_Food_09_tableware]]'
+part_of:
+- '[[Food_Vocabulary_Index]]'
 ---
 # 食べ物詞彙 11：烹飪方式
 

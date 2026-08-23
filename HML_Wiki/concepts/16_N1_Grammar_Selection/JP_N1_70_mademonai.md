@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_71_niwaataranai]]"
+- '[[JP_N1_71_niwaataranai]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜までもない
 

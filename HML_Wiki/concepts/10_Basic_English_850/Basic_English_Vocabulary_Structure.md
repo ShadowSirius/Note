@@ -1,14 +1,14 @@
 ---
 title: 850 個單字的分類結構
 tags:
-  - English
-  - Basic_English
-  - Vocabulary
-child_of:
-  - "[[Basic_English_Index]]"
+- English
+- Basic_English
+- Vocabulary
 sibling_of:
-  - "[[Basic_English_Operators]]"
-  - "[[Basic_English_Phrasal_Verbs]]"
+- '[[Basic_English_Operators]]'
+- '[[Basic_English_Phrasal_Verbs]]'
+child_of:
+- '[[Basic_English_Index]]'
 ---
 # 850 個單字的分類結構
 

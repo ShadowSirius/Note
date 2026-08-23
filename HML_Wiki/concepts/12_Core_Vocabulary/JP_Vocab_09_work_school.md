@@ -1,8 +1,8 @@
 ---
 related_to:
-  - "[[JP_Grammar_33_te_moraemasen_ka]]"
-  - "[[JP_Grammar_21_nakereba_narimasen]]"
-  - "[[Keigo_Casual_100_Index]]"
+- '[[JP_Grammar_33_te_moraemasen_ka]]'
+- '[[JP_Grammar_21_nakereba_narimasen]]'
+- '[[Keigo_Casual_100_Index]]'
 ---
 # 高頻詞彙 09：工作與學校 40
 

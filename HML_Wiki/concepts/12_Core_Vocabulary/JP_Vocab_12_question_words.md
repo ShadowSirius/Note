@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_50_C02_wa_desu]]"
-  - "[[Daily_Phrases_Index]]"
+- '[[JP_Grammar_50_C02_wa_desu]]'
+- '[[Daily_Phrases_Index]]'
 ---
 # 高頻詞彙 12：疑問詞與萬用短句 30
 

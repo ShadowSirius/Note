@@ -1,7 +1,7 @@
 ---
 jlpt: N2
 part_of:
-  - "[[N2_Grammar_Index]]"
+- '[[N2_Grammar_Index]]'
 ---
 # 〜ものを
 

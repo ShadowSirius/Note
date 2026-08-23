@@ -1,8 +1,8 @@
 ---
 related_to:
-  - "[[JP_Grammar_Verb_Conjugation]]"
-  - "[[JP_Grammar_Noun_Conjugation]]"
-  - "[[JP_Grammar_Adjective_Conjugation]]"
+- '[[JP_Grammar_Verb_Conjugation]]'
+- '[[JP_Grammar_Noun_Conjugation]]'
+- '[[JP_Grammar_Adjective_Conjugation]]'
 ---
 # 🇯🇵 日語造句、成分剖析與口語精簡指引
 

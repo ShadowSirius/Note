@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 child_of:
-  - "[[JP_Grammar_15_tai_desu]]"
+- '[[JP_Grammar_15_tai_desu]]'
 ---
 # 〜が欲しいです
 

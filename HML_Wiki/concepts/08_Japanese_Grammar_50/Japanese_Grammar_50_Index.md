@@ -1,59 +1,59 @@
 ---
 derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
+- '[[Japanese_Grammar_50_ocr]]'
 parent_of:
-  - "[[JP_Grammar_50_C01_five_sentence_patterns]]"
-  - "[[JP_Grammar_50_C02_wa_desu]]"
-  - "[[JP_Grammar_50_C03_ni_he_move]]"
-  - "[[JP_Grammar_50_C04_masen_ka_mashou]]"
-  - "[[JP_Grammar_50_C05_shoju_verbs]]"
-  - "[[JP_Grammar_50_C06_past_tense]]"
-  - "[[JP_Grammar_50_C07_ga_vs_wa]]"
-  - "[[JP_Grammar_50_C08_kara_reason]]"
-  - "[[JP_Grammar_50_C09_desire_progress]]"
-  - "[[JP_Grammar_50_C29_transitive_intransitive]]"
-  - "[[JP_Grammar_50_C10_verb_types_te_form]]"
-  - "[[JP_Grammar_50_C11_te_imasu_states]]"
-  - "[[JP_Grammar_50_C12_te_kara_sequence]]"
-  - "[[JP_Grammar_50_C13_te_sequence]]"
-  - "[[JP_Grammar_50_C14_nai_form_necessity]]"
-  - "[[JP_Grammar_50_C15_potential_form]]"
-  - "[[JP_Grammar_50_C16_ta_form_experience]]"
-  - "[[JP_Grammar_50_C17_tari_tari]]"
-  - "[[JP_Grammar_50_C18_toki]]"
-  - "[[JP_Grammar_50_C19_noun_modifier]]"
-  - "[[JP_Grammar_50_C21_shoju_actions]]"
-  - "[[JP_Grammar_50_C27_te_shimau]]"
-  - "[[JP_Grammar_50_C20_to_conditional]]"
-  - "[[JP_Grammar_50_C22_tara_conditional]]"
-  - "[[JP_Grammar_50_C23_temo_conditional]]"
-  - "[[JP_Grammar_50_C24_n_desu]]"
-  - "[[JP_Grammar_50_C25_potential_verbs]]"
-  - "[[JP_Grammar_50_C26_nagara]]"
-  - "[[JP_Grammar_50_C28_volitional_non_volitional]]"
-  - "[[JP_Grammar_50_C30_volitional_form_intention]]"
-  - "[[JP_Grammar_50_C31_volition_schedule]]"
-  - "[[JP_Grammar_50_C32_hou_ga_ii]]"
-  - "[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]"
-  - "[[JP_Grammar_50_C34_to_iu]]"
-  - "[[JP_Grammar_50_C36_ba_conditional]]"
-  - "[[JP_Grammar_50_C37_volitional_non_volitional_2]]"
-  - "[[JP_Grammar_50_C43_sou_desu_conjecture]]"
-  - "[[JP_Grammar_50_C45_hazu_desu_beki_desu]]"
-  - "[[JP_Grammar_50_C35_te_moraemasen_ka_request]]"
-  - "[[JP_Grammar_50_C38_passive_voice]]"
-  - "[[JP_Grammar_50_C39_indirect_passive]]"
-  - "[[JP_Grammar_50_C47_causative_voice]]"
-  - "[[JP_Grammar_50_C48_honorific_keigo]]"
-  - "[[JP_Grammar_50_C49_humble_keigo]]"
-  - "[[JP_Grammar_50_C50_causative_passive]]"
-  - "[[JP_Grammar_50_C40_node_reason]]"
-  - "[[JP_Grammar_50_C41_te_reason]]"
-  - "[[JP_Grammar_50_C42_you_ni_purpose]]"
-  - "[[JP_Grammar_50_C44_stative_active_verbs]]"
-  - "[[JP_Grammar_50_C46_hearsay_sou_desu]]"
+- '[[JP_Grammar_50_C01_five_sentence_patterns]]'
+- '[[JP_Grammar_50_C02_wa_desu]]'
+- '[[JP_Grammar_50_C03_ni_he_move]]'
+- '[[JP_Grammar_50_C04_masen_ka_mashou]]'
+- '[[JP_Grammar_50_C05_shoju_verbs]]'
+- '[[JP_Grammar_50_C06_past_tense]]'
+- '[[JP_Grammar_50_C07_ga_vs_wa]]'
+- '[[JP_Grammar_50_C08_kara_reason]]'
+- '[[JP_Grammar_50_C09_desire_progress]]'
+- '[[JP_Grammar_50_C29_transitive_intransitive]]'
+- '[[JP_Grammar_50_C10_verb_types_te_form]]'
+- '[[JP_Grammar_50_C11_te_imasu_states]]'
+- '[[JP_Grammar_50_C12_te_kara_sequence]]'
+- '[[JP_Grammar_50_C13_te_sequence]]'
+- '[[JP_Grammar_50_C14_nai_form_necessity]]'
+- '[[JP_Grammar_50_C15_potential_form]]'
+- '[[JP_Grammar_50_C16_ta_form_experience]]'
+- '[[JP_Grammar_50_C17_tari_tari]]'
+- '[[JP_Grammar_50_C18_toki]]'
+- '[[JP_Grammar_50_C19_noun_modifier]]'
+- '[[JP_Grammar_50_C21_shoju_actions]]'
+- '[[JP_Grammar_50_C27_te_shimau]]'
+- '[[JP_Grammar_50_C20_to_conditional]]'
+- '[[JP_Grammar_50_C22_tara_conditional]]'
+- '[[JP_Grammar_50_C23_temo_conditional]]'
+- '[[JP_Grammar_50_C24_n_desu]]'
+- '[[JP_Grammar_50_C25_potential_verbs]]'
+- '[[JP_Grammar_50_C26_nagara]]'
+- '[[JP_Grammar_50_C28_volitional_non_volitional]]'
+- '[[JP_Grammar_50_C30_volitional_form_intention]]'
+- '[[JP_Grammar_50_C31_volition_schedule]]'
+- '[[JP_Grammar_50_C32_hou_ga_ii]]'
+- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
+- '[[JP_Grammar_50_C34_to_iu]]'
+- '[[JP_Grammar_50_C36_ba_conditional]]'
+- '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
+- '[[JP_Grammar_50_C43_sou_desu_conjecture]]'
+- '[[JP_Grammar_50_C45_hazu_desu_beki_desu]]'
+- '[[JP_Grammar_50_C35_te_moraemasen_ka_request]]'
+- '[[JP_Grammar_50_C38_passive_voice]]'
+- '[[JP_Grammar_50_C39_indirect_passive]]'
+- '[[JP_Grammar_50_C47_causative_voice]]'
+- '[[JP_Grammar_50_C48_honorific_keigo]]'
+- '[[JP_Grammar_50_C49_humble_keigo]]'
+- '[[JP_Grammar_50_C50_causative_passive]]'
+- '[[JP_Grammar_50_C40_node_reason]]'
+- '[[JP_Grammar_50_C41_te_reason]]'
+- '[[JP_Grammar_50_C42_you_ni_purpose]]'
+- '[[JP_Grammar_50_C44_stative_active_verbs]]'
+- '[[JP_Grammar_50_C46_hearsay_sou_desu]]'
 related_to:
-  - "[[Japanese_Grammar_Index]]"
+- '[[Japanese_Grammar_Index]]'
 ---
 # 日語關鍵文法 50
 

@@ -1,25 +1,25 @@
 ---
 extends:
-  - "[[JP_Vocab_05_food_drink]]"
-part_of:
-  - "[[JP_Food_01_restaurant_types]]"
-  - "[[JP_Food_02_dining_phrases]]"
-  - "[[JP_Food_03_staple_rice_noodles]]"
-  - "[[JP_Food_04_fried_grilled]]"
-  - "[[JP_Food_05_meat_cuts]]"
-  - "[[JP_Food_06_seafood]]"
-  - "[[JP_Food_07_vegetables]]"
-  - "[[JP_Food_08_fruits_beans]]"
-  - "[[JP_Food_09_tableware]]"
-  - "[[JP_Food_10_seasonings_spices]]"
-  - "[[JP_Food_11_cooking_methods]]"
-  - "[[JP_Food_12_taste_texture]]"
-  - "[[JP_Food_13_drinks_sweets]]"
-  - "[[JP_Food_14_nimono_aemono_tsukemono]]"
-  - "[[JP_Food_15_coffee]]"
+- '[[JP_Vocab_05_food_drink]]'
 related_to:
-  - "[[Core_Vocabulary_Index]]"
-  - "[[JP_Vocab_05_food_drink]]"
+- '[[Core_Vocabulary_Index]]'
+- '[[JP_Vocab_05_food_drink]]'
+part_of:
+- '[[JP_Food_01_restaurant_types]]'
+- '[[JP_Food_02_dining_phrases]]'
+- '[[JP_Food_03_staple_rice_noodles]]'
+- '[[JP_Food_04_fried_grilled]]'
+- '[[JP_Food_05_meat_cuts]]'
+- '[[JP_Food_06_seafood]]'
+- '[[JP_Food_07_vegetables]]'
+- '[[JP_Food_08_fruits_beans]]'
+- '[[JP_Food_09_tableware]]'
+- '[[JP_Food_10_seasonings_spices]]'
+- '[[JP_Food_11_cooking_methods]]'
+- '[[JP_Food_12_taste_texture]]'
+- '[[JP_Food_13_drinks_sweets]]'
+- '[[JP_Food_14_nimono_aemono_tsukemono]]'
+- '[[JP_Food_15_coffee]]'
 ---
 # 飲食詞彙總索引（15 副主題）
 

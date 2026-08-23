@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_14_kiwamarinai]]"
+- '[[JP_N1_14_kiwamarinai]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜極まる
 

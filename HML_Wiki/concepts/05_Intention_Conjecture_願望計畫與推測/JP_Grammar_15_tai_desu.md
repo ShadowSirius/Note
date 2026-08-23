@@ -1,9 +1,9 @@
 ---
 jlpt: N5
 parent_of:
-  - "[[JP_Grammar_31_ga_hoshii_desu]]"
+- '[[JP_Grammar_31_ga_hoshii_desu]]'
 related_to:
-  - "[[JP_Grammar_24_tsumori_desu]]"
+- '[[JP_Grammar_24_tsumori_desu]]'
 ---
 # 〜たいです
 

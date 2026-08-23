@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_04_koto_ni_suru]]"
+- '[[JP_N3_04_koto_ni_suru]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ことになる
 

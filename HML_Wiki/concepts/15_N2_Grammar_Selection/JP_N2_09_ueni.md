@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_27_nikuwaete]]"
+- '[[JP_N2_27_nikuwaete]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜うえに
 

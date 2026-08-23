@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_32_wo_kudasai]]"
-  - "[[JP_Grammar_34_masen_ka]]"
+- '[[JP_Grammar_32_wo_kudasai]]'
+- '[[JP_Grammar_34_masen_ka]]'
 ---
 # 高頻詞彙 05：飲食 40
 

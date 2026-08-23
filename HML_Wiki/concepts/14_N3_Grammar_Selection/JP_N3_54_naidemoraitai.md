@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_22_temorau]]"
+- '[[JP_N3_22_temorau]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜ないでもらいたい
 

@@ -1,14 +1,14 @@
 ---
 title: 18 個核心動詞/運作詞 (Operators)
 tags:
-  - English
-  - Basic_English
-  - Grammar
-child_of:
-  - "[[Basic_English_Index]]"
+- English
+- Basic_English
+- Grammar
 sibling_of:
-  - "[[Basic_English_Phrasal_Verbs]]"
-  - "[[Basic_English_Vocabulary_Structure]]"
+- '[[Basic_English_Phrasal_Verbs]]'
+- '[[Basic_English_Vocabulary_Structure]]'
+child_of:
+- '[[Basic_English_Index]]'
 ---
 # 18 個核心動詞/運作詞 (Operators)
 

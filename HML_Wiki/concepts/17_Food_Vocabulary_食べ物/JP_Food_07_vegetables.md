@@ -1,8 +1,8 @@
 ---
-related_to:
-  - "[[JP_Vocab_05_food_drink]]"
 sibling_of:
-  - "[[JP_Food_08_fruits_beans]]"
+- '[[JP_Food_08_fruits_beans]]'
+related_to:
+- '[[JP_Vocab_05_food_drink]]'
 ---
 # 食材詞彙 07：蔬菜與菇類
 

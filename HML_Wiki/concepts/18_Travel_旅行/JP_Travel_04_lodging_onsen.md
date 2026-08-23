@@ -1,6 +1,6 @@
 ---
 part_of:
-  - "[[Travel_Index]]"
+- '[[Travel_Index]]'
 ---
 # 旅遊詞彙 04：旅館與溫泉
 

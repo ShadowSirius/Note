@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C05_shoju_verbs]]"
-  - "[[JP_Grammar_50_C07_ga_vs_wa]]"
+- '[[JP_Grammar_50_C05_shoju_verbs]]'
+- '[[JP_Grammar_50_C07_ga_vs_wa]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C06 - 〜ました：過去與完了
 

@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 sibling_of:
-  - "[[JP_Grammar_26_sou_desu_hearsay]]"
+- '[[JP_Grammar_26_sou_desu_hearsay]]'
 ---
 # 〜そうです（樣態）
 

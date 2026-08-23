@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_36_nikagittakotodewanai]]"
+- '[[JP_N1_36_nikagittakotodewanai]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜にとどまらず
 

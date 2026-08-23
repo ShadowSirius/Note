@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_61_bakari]]"
-  - "[[JP_N3_62_sae]]"
+- '[[JP_N3_61_bakari]]'
+- '[[JP_N3_62_sae]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 〜だけ
 

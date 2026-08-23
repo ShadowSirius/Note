@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C29_transitive_intransitive]]"
-  - "[[JP_Grammar_50_C31_volition_schedule]]"
+- '[[JP_Grammar_50_C29_transitive_intransitive]]'
+- '[[JP_Grammar_50_C31_volition_schedule]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C30 - 意向形：〜よう
 

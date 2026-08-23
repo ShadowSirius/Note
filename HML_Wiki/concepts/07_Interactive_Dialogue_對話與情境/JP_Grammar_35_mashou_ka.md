@@ -1,7 +1,7 @@
 ---
 jlpt: N5
 sibling_of:
-  - "[[JP_Grammar_34_masen_ka]]"
+- '[[JP_Grammar_34_masen_ka]]'
 ---
 # 〜ましょうか
 

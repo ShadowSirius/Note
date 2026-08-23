@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_08_to_ainaru]]"
+- '[[JP_N1_08_to_ainaru]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜と言えども
 

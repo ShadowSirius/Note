@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 related_to:
-  - "[[JP_Grammar_20_nai_de_kudasai]]"
+- '[[JP_Grammar_20_nai_de_kudasai]]'
 ---
 # 〜たほうがいいです
 

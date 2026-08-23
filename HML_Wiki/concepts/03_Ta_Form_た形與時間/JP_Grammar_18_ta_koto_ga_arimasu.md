@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 sibling_of:
-  - "[[JP_Grammar_19_ta_hou_ga_ii_desu]]"
+- '[[JP_Grammar_19_ta_hou_ga_ii_desu]]'
 ---
 # 〜たことがあります
 

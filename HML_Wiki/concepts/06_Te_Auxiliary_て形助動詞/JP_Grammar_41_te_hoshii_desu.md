@@ -1,10 +1,10 @@
 ---
 jlpt: N4
 parent_of:
-  - "[[JP_Grammar_55_te_itadakitai]]"
+- '[[JP_Grammar_55_te_itadakitai]]'
 related_to:
-  - "[[JP_Grammar_15_tai_desu]]"
-  - "[[JP_Grammar_31_ga_hoshii_desu]]"
+- '[[JP_Grammar_15_tai_desu]]'
+- '[[JP_Grammar_31_ga_hoshii_desu]]'
 ---
 # 〜てほしいです
 

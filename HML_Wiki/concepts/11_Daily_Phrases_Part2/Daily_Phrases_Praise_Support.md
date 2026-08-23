@@ -1,14 +1,14 @@
 ---
 title: 分類七：讚美、支持與關係肯定
 tags:
-  - Japanese
-  - Conversation
-  - Oral_Practice
-child_of:
-  - "[[Daily_Phrases_Index]]"
+- Japanese
+- Conversation
+- Oral_Practice
 sibling_of:
-  - "[[Daily_Phrases_Social_Interaction]]"
-  - "[[Daily_Phrases_State_Reactions]]"
+- '[[Daily_Phrases_Social_Interaction]]'
+- '[[Daily_Phrases_State_Reactions]]'
+child_of:
+- '[[Daily_Phrases_Index]]'
 ---
 # 分類七：讚美、支持與關係肯定
 

@@ -1,10 +1,10 @@
 ---
 jlpt: N3
-part_of:
-  - "[[N3_Grammar_Index]]"
 related_to:
-  - "[[JP_N3_71_kenjougo_verbs]]"
-  - "[[JP_N3_53_oninaru]]"
+- '[[JP_N3_71_kenjougo_verbs]]'
+- '[[JP_N3_53_oninaru]]'
+part_of:
+- '[[N3_Grammar_Index]]'
 ---
 # 敬語動詞（尊敬語）いらっしゃる／おっしゃる／召し上がる／〜られる
 

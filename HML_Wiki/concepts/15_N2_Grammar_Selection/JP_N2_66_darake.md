@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_75_mamire]]"
+- '[[JP_N1_75_mamire]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜だらけ
 

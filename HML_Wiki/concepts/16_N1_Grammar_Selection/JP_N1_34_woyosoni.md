@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_33_mokamawazu]]"
+- '[[JP_N1_33_mokamawazu]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜をよそに
 

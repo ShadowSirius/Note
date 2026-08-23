@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_67_niitatte]]"
+- '[[JP_N1_67_niitatte]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜に至るまで
 

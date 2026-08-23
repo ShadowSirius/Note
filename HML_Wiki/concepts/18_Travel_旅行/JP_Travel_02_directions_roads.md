@@ -1,9 +1,9 @@
 ---
-extends:
-  - "[[JP_Vocab_06_places_transport]]"
 sibling_of:
-  - "[[JP_Travel_01_transport]]"
-  - "[[JP_Travel_03_asking_directions]]"
+- '[[JP_Travel_01_transport]]'
+- '[[JP_Travel_03_asking_directions]]'
+extends:
+- '[[JP_Vocab_06_places_transport]]'
 ---
 # 旅行詞彙 02：方向與道路
 

@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_09_ga]]"
-  - "[[JP_Grammar_31_ga_hoshii_desu]]"
+- '[[JP_Grammar_09_ga]]'
+- '[[JP_Grammar_31_ga_hoshii_desu]]'
 ---
 # 高頻詞彙 02：形容詞 50
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-part_of:
-  - "[[N2_Grammar_Index]]"
 related_to:
-  - "[[JP_N2_59_karashite]]"
+- '[[JP_N2_59_karashite]]'
+part_of:
+- '[[N2_Grammar_Index]]'
 ---
 # 〜からすれば／〜からすると
 

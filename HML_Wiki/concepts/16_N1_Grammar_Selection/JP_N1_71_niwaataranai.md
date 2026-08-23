@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-part_of:
-  - "[[N1_Grammar_Index]]"
 related_to:
-  - "[[JP_N1_70_mademonai]]"
+- '[[JP_N1_70_mademonai]]'
+part_of:
+- '[[N1_Grammar_Index]]'
 ---
 # 〜には当たらない
 

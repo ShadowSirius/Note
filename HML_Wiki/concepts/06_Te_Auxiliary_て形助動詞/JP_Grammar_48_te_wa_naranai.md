@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-refines:
-  - "[[JP_Grammar_14_te_wa_ikemasen]]"
 sibling_of:
-  - "[[JP_Grammar_54_te_wa_dame_desu]]"
+- '[[JP_Grammar_54_te_wa_dame_desu]]'
+refines:
+- '[[JP_Grammar_14_te_wa_ikemasen]]'
 ---
 # 〜てはならない
 

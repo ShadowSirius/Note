@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 contradicts:
-  - "[[JP_Grammar_45_te_ikimasu]]"
+- '[[JP_Grammar_45_te_ikimasu]]'
 ---
 # 〜てきます
 

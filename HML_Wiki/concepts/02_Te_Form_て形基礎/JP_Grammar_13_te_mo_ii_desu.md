@@ -1,11 +1,11 @@
 ---
 jlpt: N5
 contradicts:
-  - "[[JP_Grammar_14_te_wa_ikemasen]]"
-prevents:
-  - "[[JP_Grammar_50_te_wa_irarenai]]"
+- '[[JP_Grammar_14_te_wa_ikemasen]]'
 related_to:
-  - "[[JP_Dialogue_Responses]]"
+- '[[JP_Dialogue_Responses]]'
+prevents:
+- '[[JP_Grammar_50_te_wa_irarenai]]'
 ---
 # 〜てもいいです
 

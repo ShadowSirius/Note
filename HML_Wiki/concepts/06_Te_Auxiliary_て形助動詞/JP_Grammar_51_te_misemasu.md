@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 extends:
-  - "[[JP_Grammar_38_te_mimasu]]"
+- '[[JP_Grammar_38_te_mimasu]]'
 ---
 # 〜て見せます
 

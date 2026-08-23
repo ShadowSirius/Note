@@ -1,14 +1,14 @@
 ---
 title: 分類二：請求與尋求協助
 tags:
-  - Japanese
-  - Conversation
-  - Oral_Practice
-child_of:
-  - "[[Daily_Phrases_Index]]"
+- Japanese
+- Conversation
+- Oral_Practice
 sibling_of:
-  - "[[Daily_Phrases_Social_Interaction]]"
-  - "[[Daily_Phrases_Invitations_Plans]]"
+- '[[Daily_Phrases_Social_Interaction]]'
+- '[[Daily_Phrases_Invitations_Plans]]'
+child_of:
+- '[[Daily_Phrases_Index]]'
 ---
 # 分類二：請求與尋求協助
 

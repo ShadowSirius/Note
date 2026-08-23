@@ -1,7 +1,7 @@
 ---
 related_to:
-  - "[[JP_Grammar_03_ni_he]]"
-  - "[[JP_Grammar_08_kara_made]]"
+- '[[JP_Grammar_03_ni_he]]'
+- '[[JP_Grammar_08_kara_made]]'
 ---
 # 高頻詞彙 03：時間與數量 50
 

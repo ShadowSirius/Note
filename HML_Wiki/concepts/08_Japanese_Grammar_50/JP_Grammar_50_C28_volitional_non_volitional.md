@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-derives_from:
-  - "[[Japanese_Grammar_50_ocr]]"
-part_of:
-  - "[[Japanese_Grammar_50_Index]]"
 sibling_of:
-  - "[[JP_Grammar_50_C27_te_shimau]]"
-  - "[[JP_Grammar_50_C29_transitive_intransitive]]"
+- '[[JP_Grammar_50_C27_te_shimau]]'
+- '[[JP_Grammar_50_C29_transitive_intransitive]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
+part_of:
+- '[[Japanese_Grammar_50_Index]]'
 ---
 # C28 - 意志動詞與非意志動詞
 

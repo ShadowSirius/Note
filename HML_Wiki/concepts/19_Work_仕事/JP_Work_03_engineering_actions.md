@@ -1,9 +1,9 @@
 ---
-extends:
-  - "[[JP_Vocab_09_work_school]]"
 sibling_of:
-  - "[[JP_Work_01_electrical_power]]"
-  - "[[JP_Work_02_embedded_software]]"
+- '[[JP_Work_01_electrical_power]]'
+- '[[JP_Work_02_embedded_software]]'
+extends:
+- '[[JP_Vocab_09_work_school]]'
 ---
 # 工程詞彙 03：工程動作與過程詞
 

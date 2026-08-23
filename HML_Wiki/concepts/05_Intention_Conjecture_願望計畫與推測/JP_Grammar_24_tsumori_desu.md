@@ -1,7 +1,7 @@
 ---
 jlpt: N4
 related_to:
-  - "[[JP_Grammar_15_tai_desu]]"
+- '[[JP_Grammar_15_tai_desu]]'
 ---
 # 〜つもりです
 
