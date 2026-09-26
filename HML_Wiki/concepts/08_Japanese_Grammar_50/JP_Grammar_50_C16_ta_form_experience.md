@@ -3,13 +3,13 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C15_potential_form]]'
 - '[[JP_Grammar_50_C17_tari_tari]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 related_to:
 - '[[JP_N3_18_ta_tokoro_da]]'
 - '[[JP_N3_19_ta_bakari_da]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C16 - 〜たことがあります：經驗
 

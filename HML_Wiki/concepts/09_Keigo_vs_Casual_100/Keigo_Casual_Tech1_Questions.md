@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech3_Permissions]]'
 - '[[Keigo_Casual_Tech7_Feelings_Adjectives]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法一：疑問與確認的轉換
 

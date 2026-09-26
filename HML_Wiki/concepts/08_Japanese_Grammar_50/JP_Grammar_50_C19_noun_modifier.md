@@ -3,10 +3,10 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C18_toki]]'
 - '[[JP_Grammar_50_C20_to_conditional]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C19 - 名詞修飾節
 

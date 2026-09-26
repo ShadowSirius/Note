@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Conversation
 - Oral_Practice
+child_of:
+- '[[Daily_Phrases_Index]]'
 sibling_of:
 - '[[Daily_Phrases_Requests_Help]]'
 - '[[Daily_Phrases_Conversational_Queries]]'
-child_of:
-- '[[Daily_Phrases_Index]]'
 ---
 # 分類三：邀請、提議與休閒規劃
 

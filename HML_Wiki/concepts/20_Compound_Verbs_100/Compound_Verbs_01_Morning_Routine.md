@@ -5,11 +5,11 @@ tags:
 - Compound_Verbs
 - Morning_Routine
 - Oral_Practice
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 sibling_of:
 - '[[Compound_Verbs_02_Commute_Transport]]'
 - '[[Compound_Verbs_03_Work_Office]]'
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 related_to:
 - '[[Compound_Verbs_Suffix_Grammar_Guide]]'
 ---

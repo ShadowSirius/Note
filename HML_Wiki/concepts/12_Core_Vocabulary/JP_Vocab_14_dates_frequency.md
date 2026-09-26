@@ -1,8 +1,8 @@
 ---
-sibling_of:
-- '[[JP_Vocab_13_time_expressions]]'
 extends:
 - '[[JP_Vocab_03_time_numbers]]'
+sibling_of:
+- '[[JP_Vocab_13_time_expressions]]'
 related_to:
 - '[[JP_Grammar_03_ni_he]]'
 ---

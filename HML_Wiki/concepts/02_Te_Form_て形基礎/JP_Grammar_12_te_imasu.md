@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-sibling_of:
-- '[[JP_Grammar_11_te_kudasai]]'
-contradicts:
-- '[[JP_Grammar_36_te_arimasu]]'
 refines:
 - '[[JP_Grammar_58_te_iru_tokoro_desu]]'
 - '[[JP_Grammar_49_te_bakari_imasu]]'
+contradicts:
+- '[[JP_Grammar_36_te_arimasu]]'
+sibling_of:
+- '[[JP_Grammar_11_te_kudasai]]'
 ---
 # 〜ています
 

@@ -3,12 +3,12 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C21_shoju_actions]]'
 - '[[JP_Grammar_50_C23_temo_conditional]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 related_to:
 - '[[JP_N3_14_nara]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C22 - 〜たら：完成後條件
 

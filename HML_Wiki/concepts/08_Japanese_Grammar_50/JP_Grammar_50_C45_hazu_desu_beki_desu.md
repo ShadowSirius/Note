@@ -3,13 +3,13 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C44_stative_active_verbs]]'
 - '[[JP_Grammar_50_C46_hearsay_sou_desu]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 related_to:
 - '[[JP_N3_01_hazu_da]]'
 - '[[JP_N3_05_wake_da]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C45 - 〜はずです・〜べきです：推論與義務
 

@@ -3,10 +3,10 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C13_te_sequence]]'
 - '[[JP_Grammar_50_C15_potential_form]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C14 - ない形與義務
 

@@ -6,10 +6,10 @@ tags:
 - Shopping
 - Daily_Life
 - Commute_Home
-sibling_of:
-- '[[Compound_Verbs_07_Evening_Home_Mindset]]'
 child_of:
 - '[[Compound_Verbs_100_Index]]'
+sibling_of:
+- '[[Compound_Verbs_07_Evening_Home_Mindset]]'
 ---
 # 分類六：下班採買、生活雜務與歸途（複合動詞）
 

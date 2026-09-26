@@ -5,10 +5,10 @@ tags:
 - Body_Parts
 - Organs_Anatomy
 - Medical
-sibling_of:
-- '[[Body_Parts_05_Symptoms_Medical_Expressions]]'
 child_of:
 - '[[Body_Parts_100_Index]]'
+sibling_of:
+- '[[Body_Parts_05_Symptoms_Medical_Expressions]]'
 ---
 # 分類四：體內器官、循環組織與骨骼肌肉（15句）
 

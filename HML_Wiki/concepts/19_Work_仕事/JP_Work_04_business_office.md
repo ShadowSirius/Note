@@ -1,10 +1,10 @@
 ---
+extends:
+- '[[JP_Vocab_09_work_school]]'
 sibling_of:
 - '[[JP_Work_01_electrical_power]]'
 - '[[JP_Work_02_embedded_software]]'
 - '[[JP_Work_03_engineering_actions]]'
-extends:
-- '[[JP_Vocab_09_work_school]]'
 related_to:
 - '[[JP_Work_01_electrical_power]]'
 ---

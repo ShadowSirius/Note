@@ -4,11 +4,11 @@ tags:
 - English
 - Basic_English
 - Vocabulary
+child_of:
+- '[[Basic_English_Index]]'
 sibling_of:
 - '[[Basic_English_Operators]]'
 - '[[Basic_English_Pros_Cons]]'
-child_of:
-- '[[Basic_English_Index]]'
 ---
 # 動詞片語的代換組合 (Phrasal Replacement)
 

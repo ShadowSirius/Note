@@ -3,10 +3,10 @@ jlpt: N5
 sibling_of:
 - '[[JP_Grammar_50_C09_desire_progress]]'
 - '[[JP_Grammar_50_C11_te_imasu_states]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C10 - 動詞分類與て形
 

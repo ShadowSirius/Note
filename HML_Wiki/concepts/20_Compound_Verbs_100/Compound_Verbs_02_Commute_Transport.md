@@ -6,11 +6,11 @@ tags:
 - Commute
 - Transportation
 - Oral_Practice
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 sibling_of:
 - '[[Compound_Verbs_01_Morning_Routine]]'
 - '[[Compound_Verbs_03_Work_Office]]'
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 ---
 # 分類二：通勤路途與大眾運輸（複合動詞）
 

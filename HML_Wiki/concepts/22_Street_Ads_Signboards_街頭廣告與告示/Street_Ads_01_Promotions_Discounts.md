@@ -5,10 +5,10 @@ tags:
 - Street_Ads
 - Shopping_Discounts
 - Real_World
-sibling_of:
-- '[[Street_Ads_02_Food_Dining_Signboards]]'
 child_of:
 - '[[Street_Ads_Index]]'
+sibling_of:
+- '[[Street_Ads_02_Food_Dining_Signboards]]'
 ---
 # 分類一：促銷折扣、限定優惠與吸睛標語
 

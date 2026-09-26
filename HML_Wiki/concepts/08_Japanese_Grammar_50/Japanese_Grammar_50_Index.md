@@ -1,6 +1,4 @@
 ---
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 parent_of:
 - '[[JP_Grammar_50_C01_five_sentence_patterns]]'
 - '[[JP_Grammar_50_C02_wa_desu]]'
@@ -54,6 +52,8 @@ parent_of:
 - '[[JP_Grammar_50_C46_hearsay_sou_desu]]'
 related_to:
 - '[[Japanese_Grammar_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # 日語關鍵文法 50
 

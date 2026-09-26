@@ -5,10 +5,10 @@ tags:
 - Body_Parts
 - Lower_Body
 - Legs_Feet
-sibling_of:
-- '[[Body_Parts_04_Internal_Organs_Anatomy]]'
 child_of:
 - '[[Body_Parts_100_Index]]'
+sibling_of:
+- '[[Body_Parts_04_Internal_Organs_Anatomy]]'
 ---
 # 分類三：下半身、腿部與足部細節（15句）
 

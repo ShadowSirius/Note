@@ -1,11 +1,11 @@
 ---
-related_to:
-- '[[JP_Grammar_50_C01_five_sentence_patterns]]'
-- '[[JP_Grammar_50_C07_ga_vs_wa]]'
 illustrates:
 - '[[JP_Food_06_seafood]]'
 - '[[JP_Travel_02_directions_roads]]'
 - '[[JP_Food_01_restaurant_types]]'
+related_to:
+- '[[JP_Grammar_50_C01_five_sentence_patterns]]'
+- '[[JP_Grammar_50_C07_ga_vs_wa]]'
 ---
 # 日語學習系統（總指揮中心）
 
@@ -29,12 +29,14 @@ illustrates:
 | N3 <ruby>文法<rt>ぶんぽう</rt></ruby><ruby>精選<rt>せいせん</rt></ruby>       | <ruby>進<rt>すすむ</rt></ruby><ruby>階<rt>かい</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>（77 <ruby>張<rt>ちょう</rt></ruby><ruby>完整<rt>かんせい</rt></ruby><ruby>卡<rt></rt></ruby><ruby>引<rt>ひき</rt></ruby><ruby>已<rt>い</rt></ruby><ruby>連結<rt>れんけつ</rt></ruby>） | [[N3_Grammar_Index]] |
 | N2 <ruby>文法<rt>ぶんぽう</rt></ruby><ruby>精選<rt>せいせん</rt></ruby>       | <ruby>中高級<rt>ちゅうこうきゅう</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>（78 <ruby>張<rt>ちょう</rt></ruby><ruby>完整<rt>かんせい</rt></ruby><ruby>卡<rt></rt></ruby><ruby>引<rt>ひき</rt></ruby><ruby>已<rt>い</rt></ruby><ruby>連結<rt>れんけつ</rt></ruby>） | [[N2_Grammar_Index]] |
 | N1 <ruby>文法<rt>ぶんぽう</rt></ruby><ruby>索引<rt>さくいん</rt></ruby>       | <ruby>最高級<rt>さいこうきゅう</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>（87 <ruby>張<rt>ちょう</rt></ruby><ruby>完整<rt>かんせい</rt></ruby><ruby>卡<rt></rt></ruby><ruby>引<rt>ひき</rt></ruby><ruby>已<rt>い</rt></ruby><ruby>連結<rt>れんけつ</rt></ruby>） | [[N1_Grammar_Index]] |
+| <ruby>語塊<rt>ごかい</rt></ruby><ruby>自動化<rt>じどうか</rt></ruby> (Chunking) | <ruby>聽力<rt>ちょうりょく</rt></ruby><ruby>切分<rt>せつぶん</rt></ruby>與<ruby>直覺<rt>ちょっかん</rt></ruby><ruby>語意<rt>ごい</rt></ruby><ruby>映射<rt>えいしゃ</rt></ruby>（Day 01–15） | [[Chunking_Training_Index]] |
+| 每日生活單字與對話 | 語境輸入（19 天生活微對話＋380 語塊） | [[Daily_Vocabulary_Index]] |
 
 ## 📅 每日流程（30〜45 分鐘）
 
 ### ① 詞彙輸入（10 分）
-- 從 [[Core_Vocabulary_Index|詞彙索引]] 目前的字卡中取 **10 個新詞**。
-- 唸聲：漢字 → 假名 → 中文 → 常用搭配整句。
+- 從 [[Core_Vocabulary_Index|詞彙索引]] 或 [[Daily_Vocabulary_Index|每日生活單字]] 中取 **10〜20 個新詞/語塊**。
+- 唸出聲：漢字 → 假名 → 中文 → 常用搭配整組語塊（Chunking）。
 - 動詞必須同時口頭變化：ます形 → て形 → た形 → ない形。
 
 ### ② 文法卡片（10 分）

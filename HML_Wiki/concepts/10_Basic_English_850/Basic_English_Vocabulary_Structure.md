@@ -4,11 +4,11 @@ tags:
 - English
 - Basic_English
 - Vocabulary
+child_of:
+- '[[Basic_English_Index]]'
 sibling_of:
 - '[[Basic_English_Operators]]'
 - '[[Basic_English_Phrasal_Verbs]]'
-child_of:
-- '[[Basic_English_Index]]'
 ---
 # 850 個單字的分類結構
 

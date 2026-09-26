@@ -3,10 +3,10 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C36_ba_conditional]]'
 - '[[JP_Grammar_50_C38_passive_voice]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C37 - 意志・非意志的句型限制
 

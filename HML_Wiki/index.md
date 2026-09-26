@@ -24,6 +24,11 @@ Welcome to your Obsidian-based personal knowledge base.
 - **[[concepts/17_Food_Vocabulary_食べ物/Food_Vocabulary_Index|食べ物單字卡（15 張主題卡）]]**：外食場景／食材／廚房五感三大軸，每卡含 🧠 記憶鉤、⚠️ 易混淆對比與 ✚ 補充詞；原始筆記讀音錯誤已全數校正。
 - **[[concepts/18_Travel_旅行/Travel_Index|旅遊詞彙單字卡（4 張主題卡）]]**：交通／方向與道路／問路句型／旅館與溫泉四大軸，每卡含 🧠 記憶鉤、⚠️ 易混淆對比與 ✚ 補充詞；原始筆記讀音錯誤已全數校正。
 - **[[concepts/19_Work_仕事/Work_Index|工作詞彙單字卡（4 張主題卡）]]**：電氣電力／嵌入式軟體／工程動作／商業職場四大軸，為使用者（電力電子工程師）工作領域專門詞彙，每卡含 🧠 記憶鉤、⚠️ 易混淆對比與 ✚ 補充詞；原始筆記讀音錯誤已全數校正。
+- **[[concepts/20_Compound_Verbs_100/Compound_Verbs_100_Index|日常必備複合動詞 100 句（從早到晚）]]**：涵蓋早晨起床、通勤、職場、人際、用餐、採買到晚間沉澱的 7 大時序複合動詞卡片與接尾後綴指南。
+- **[[concepts/21_Body_Parts_Symptoms_100/Body_Parts_100_Index|身體部位與常見不舒服 100 句（從頭到腳）]]**：從頭部臉部、軀幹手部、腿部足部、內臟解剖到常見不適症狀的 100 個實用語塊與日本看診手冊。
+- **[[concepts/22_Street_Ads_Signboards_街頭廣告與告示/Street_Ads_Index|日本街頭廣告與招牌文案（N5實戰解構）]]**：以 N5 核心文法解構日本促銷折扣、居酒屋菜單招牌、公共規範與情境廣告文案。
+- **[[concepts/23_Daily_Vocabulary_生活單字與對話/Daily_Vocabulary_Index|日文每日核心單字與生活對話（Day 01–19，共 380 詞）]]**：涵蓋早晨通勤、超商超市、餐廳居酒屋、飯店、藥妝、租車溫泉等 19 大生活真實情境的微對話、核心單字與大腦語塊（Chunking）。
+- **[[concepts/24_Chunking_語塊與聽力自動化/Chunking_Training_Index|日語語塊與聽力自動化訓練（Day 01–15）]]**：透過意群切割、句尾錨點意識與高句型重複度訓練，建立從日語連續語音到直覺語意的快速映射能力。
 
 ## 🛠️ Tooling & Scripts
 

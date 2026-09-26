@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech3_Permissions]]'
 - '[[Keigo_Casual_Tech4_Invitations]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法二：請求與指示的簡化
 

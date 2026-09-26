@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Conversation
 - Oral_Practice
+child_of:
+- '[[Daily_Phrases_Index]]'
 sibling_of:
 - '[[Daily_Phrases_Conversational_Queries]]'
 - '[[Daily_Phrases_State_Reactions]]'
-child_of:
-- '[[Daily_Phrases_Index]]'
 ---
 # 分類五：個人興趣與生活喜好
 

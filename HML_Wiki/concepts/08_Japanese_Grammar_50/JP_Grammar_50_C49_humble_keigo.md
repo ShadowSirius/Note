@@ -3,10 +3,10 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C48_honorific_keigo]]'
 - '[[JP_Grammar_50_C50_causative_passive]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C49 - 敬語：自謙語與美化語
 

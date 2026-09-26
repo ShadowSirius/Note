@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech2_Requests]]'
 - '[[Keigo_Casual_Tech4_Invitations]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法六：日常社交、寒暄與祝福的縮簡
 

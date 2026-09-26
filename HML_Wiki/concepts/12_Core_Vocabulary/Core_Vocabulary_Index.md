@@ -1,6 +1,4 @@
 ---
-prerequisite_for:
-- '[[Japanese_Grammar_Index]]'
 extends:
 - '[[JP_Vocab_13_time_expressions]]'
 - '[[JP_Vocab_14_dates_frequency]]'
@@ -9,6 +7,8 @@ related_to:
 - '[[JP_Grammar_50_C10_verb_types_te_form]]'
 part_of:
 - '[[Japanese_Learning_System]]'
+prerequisite_for:
+- '[[Japanese_Grammar_Index]]'
 ---
 # 日語高頻詞彙索引（480 核心詞）
 

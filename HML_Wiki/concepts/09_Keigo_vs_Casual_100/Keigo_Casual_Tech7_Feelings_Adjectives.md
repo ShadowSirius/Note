@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech1_Questions]]'
 - '[[Keigo_Casual_Tech6_Greetings_Social]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法七：感受、形容詞與狀態感嘆
 

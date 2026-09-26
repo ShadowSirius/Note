@@ -3,10 +3,10 @@ jlpt: N4
 sibling_of:
 - '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
 - '[[JP_Grammar_50_C39_indirect_passive]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C38 - 被動形：直接被動
 

@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -177,5 +179,42 @@
     }
   },
   "active": "8d2588bd87662e5a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "HML_Wiki/concepts/chunking/Day_02_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_15_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_14_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_13_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_12_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_11_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_10_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_09_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_08_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_07_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_06_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_05_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_04_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_03_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_02_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_01_Chunking_Training.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Chunking_Training_Index.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化",
+    "HML_Wiki/raw/Jap_daily_vocabulary_raw_20260926.zip",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Daily_Vocabulary_Index.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day19_2026-09-26_日本超市生鮮採買、傍晚促銷貼紙、賞味期限與自炊.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day18_2026-09-25_日本家電量販店選購、規格詢問、電壓、保固與配送.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day17_2026-09-24_日本居酒屋文化、特色下酒菜、均攤結帳與續攤.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day16_2026-09-23_日本搭乘市區公車與計程車.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day15_2026-09-22_日本居家生活、垃圾分類與資源回收.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day14_2026-09-21_日本神社與寺廟參拜、求籤與御守祈福.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day13_2026-09-20_日本氣候天氣、氣溫變化與出門裝備.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day12_2026-09-19_日本郵局寄件、明信片與包裹寄送.md",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話",
+    "build_perfect_chunking.py",
+    "update_script.py",
+    "fix_trans_cells.py",
+    "fix_readings.py",
+    "run_full_ruby_and_color.py",
+    "test_trans_drill.py",
+    "test_fsi_ruby.py"
+  ]
 }

@@ -1,9 +1,9 @@
 ---
+extends:
+- '[[JP_Vocab_06_places_transport]]'
 sibling_of:
 - '[[JP_Travel_01_transport]]'
 - '[[JP_Travel_02_directions_roads]]'
-extends:
-- '[[JP_Vocab_06_places_transport]]'
 ---
 # 旅行詞彙 03：問路與乘車句型
 

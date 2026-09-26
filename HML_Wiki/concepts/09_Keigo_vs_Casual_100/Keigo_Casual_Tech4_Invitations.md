@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech3_Permissions]]'
 - '[[Keigo_Casual_Tech5_Negation_Potential]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法四：邀請、提議與意向對比
 

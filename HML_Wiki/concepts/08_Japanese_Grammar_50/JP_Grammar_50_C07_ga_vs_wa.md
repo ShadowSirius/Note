@@ -3,10 +3,10 @@ jlpt: N5
 sibling_of:
 - '[[JP_Grammar_50_C06_past_tense]]'
 - '[[JP_Grammar_50_C08_kara_reason]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C07 - が 與 は 的焦點差異
 

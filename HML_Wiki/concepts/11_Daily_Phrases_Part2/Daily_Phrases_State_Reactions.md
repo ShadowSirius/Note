@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Conversation
 - Oral_Practice
+child_of:
+- '[[Daily_Phrases_Index]]'
 sibling_of:
 - '[[Daily_Phrases_Social_Interaction]]'
 - '[[Daily_Phrases_Praise_Support]]'
-child_of:
-- '[[Daily_Phrases_Index]]'
 ---
 # 分類六：狀態陳述與社交回應
 

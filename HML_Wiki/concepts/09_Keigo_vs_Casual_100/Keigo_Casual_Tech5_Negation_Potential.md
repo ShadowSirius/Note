@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Keigo
 - Conversation
+child_of:
+- '[[Keigo_Casual_100_Index]]'
 sibling_of:
 - '[[Keigo_Casual_Tech1_Questions]]'
 - '[[Keigo_Casual_Tech4_Invitations]]'
-child_of:
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 技法五：狀態否定與能力限制
 

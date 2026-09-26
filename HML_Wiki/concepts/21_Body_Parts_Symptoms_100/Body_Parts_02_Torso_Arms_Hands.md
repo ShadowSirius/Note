@@ -5,10 +5,10 @@ tags:
 - Body_Parts
 - Torso_Arms_Hands
 - Oral_Practice
-sibling_of:
-- '[[Body_Parts_03_Lower_Body_Legs_Feet]]'
 child_of:
 - '[[Body_Parts_100_Index]]'
+sibling_of:
+- '[[Body_Parts_03_Lower_Body_Legs_Feet]]'
 ---
 # 分類二：軀幹、手部與十指關節（25句）
 

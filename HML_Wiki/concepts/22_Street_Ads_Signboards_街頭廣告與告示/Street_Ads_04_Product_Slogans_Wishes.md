@@ -5,10 +5,10 @@ tags:
 - Street_Ads
 - Advertising_Slogans
 - Psychology
-sibling_of:
-- '[[Street_Ads_N5_Grammar_Mapping_Guide]]'
 child_of:
 - '[[Street_Ads_Index]]'
+sibling_of:
+- '[[Street_Ads_N5_Grammar_Mapping_Guide]]'
 ---
 # 分類四：商品廣告文案、心動願望與情境共鳴
 

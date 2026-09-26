@@ -6,11 +6,11 @@ tags:
 - Business
 - Office
 - Work
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 sibling_of:
 - '[[Compound_Verbs_04_Communication_Interaction]]'
 - '[[Compound_Verbs_05_Lunch_Reset]]'
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 related_to:
 - '[[Keigo_Casual_Tech2_Requests]]'
 ---

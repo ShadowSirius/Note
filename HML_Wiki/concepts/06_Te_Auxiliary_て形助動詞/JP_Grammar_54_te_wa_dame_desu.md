@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_48_te_wa_naranai]]'
 refines:
 - '[[JP_Grammar_14_te_wa_ikemasen]]'
+sibling_of:
+- '[[JP_Grammar_48_te_wa_naranai]]'
 ---
 # 〜てはだめです
 

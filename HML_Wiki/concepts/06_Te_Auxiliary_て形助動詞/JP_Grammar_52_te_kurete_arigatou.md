@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_53_te_sumimasen]]'
 illustrates:
 - '[[JP_Grammar_42_te_kuremasu]]'
+sibling_of:
+- '[[JP_Grammar_53_te_sumimasen]]'
 ---
 # 〜てくれてありがとう
 

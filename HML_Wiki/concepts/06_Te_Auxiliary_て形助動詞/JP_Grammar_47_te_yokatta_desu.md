@@ -1,9 +1,9 @@
 ---
 jlpt: N4
-contradicts:
-- '[[JP_Grammar_39_te_shimaimasu]]'
 uses:
 - '[[JP_Grammar_37_te_okimasu]]'
+contradicts:
+- '[[JP_Grammar_39_te_shimaimasu]]'
 ---
 # 〜てよかったです
 

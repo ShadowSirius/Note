@@ -5,10 +5,10 @@ tags:
 - Street_Ads
 - Public_Notices
 - Rules_Etiquette
-sibling_of:
-- '[[Street_Ads_04_Product_Slogans_Wishes]]'
 child_of:
 - '[[Street_Ads_Index]]'
+sibling_of:
+- '[[Street_Ads_04_Product_Slogans_Wishes]]'
 ---
 # 分類三：公共設施、交通警示與禮貌告示
 

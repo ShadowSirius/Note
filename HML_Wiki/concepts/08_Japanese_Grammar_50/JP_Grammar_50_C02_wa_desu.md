@@ -3,10 +3,10 @@ jlpt: N5
 sibling_of:
 - '[[JP_Grammar_50_C01_five_sentence_patterns]]'
 - '[[JP_Grammar_50_C03_ni_he_move]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C02 - A は B です
 

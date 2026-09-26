@@ -4,11 +4,11 @@ tags:
 - Japanese
 - Conversation
 - Oral_Practice
+child_of:
+- '[[Daily_Phrases_Index]]'
 sibling_of:
 - '[[Daily_Phrases_Requests_Help]]'
 - '[[Daily_Phrases_Invitations_Plans]]'
-child_of:
-- '[[Daily_Phrases_Index]]'
 ---
 # 分類一：日常社交與對話承諾
 

@@ -5,10 +5,10 @@ tags:
 - Street_Ads
 - Dining_Food
 - Restaurant_Menu
-sibling_of:
-- '[[Street_Ads_03_Public_Rules_Notices]]'
 child_of:
 - '[[Street_Ads_Index]]'
+sibling_of:
+- '[[Street_Ads_03_Public_Rules_Notices]]'
 ---
 # 分類二：餐飲美食、菜單招牌與居酒屋文案
 

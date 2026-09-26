@@ -3,10 +3,10 @@ jlpt: N5
 sibling_of:
 - '[[JP_Grammar_50_C03_ni_he_move]]'
 - '[[JP_Grammar_50_C05_shoju_verbs]]'
-derives_from:
-- '[[Japanese_Grammar_50_ocr]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
+derives_from:
+- '[[Japanese_Grammar_50_ocr]]'
 ---
 # C04 - 〜ませんか・〜ましょう
 
