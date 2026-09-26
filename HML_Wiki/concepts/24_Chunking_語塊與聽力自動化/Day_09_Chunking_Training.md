@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：確認不確定事項、多重理由並列、委婉叮嚀與三大直覺思維語塊。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_08_Chunking_Training|Day 08 @sibling_of]] | 後一天：[[Day_10_Chunking_Training|Day 10 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_09_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

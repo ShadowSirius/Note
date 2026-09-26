@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：先後前提條件、必然結果與指路、讓步條件與意外轉折語塊。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_11_Chunking_Training|Day 11 @sibling_of]] | 後一天：[[Day_13_Chunking_Training|Day 13 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_12_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

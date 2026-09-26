@@ -31,6 +31,9 @@ related_to:
 > **核心目標**：萬能口語引述主題、範疇延伸遞進、正負因果責任與核心傾聽反饋。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_14_Chunking_Training|Day 14 @sibling_of]] | 後一天：None
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_15_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

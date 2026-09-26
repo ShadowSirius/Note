@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：代勞協助提議、客觀偶發現象、委婉提議建議與高把握推斷。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_06_Chunking_Training|Day 06 @sibling_of]] | 後一天：[[Day_08_Chunking_Training|Day 08 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_07_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

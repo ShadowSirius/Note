@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：求助背景陳述、事前準備與口語縮約、懊惱遺憾與機率推測。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_01_Chunking_Training|Day 01 @sibling_of]] | 後一天：[[Day_03_Chunking_Training|Day 03 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_02_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

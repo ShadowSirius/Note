@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：禁止規範、能力與習慣演變、客觀傳聞與委婉部分否定。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_05_Chunking_Training|Day 05 @sibling_of]] | 後一天：[[Day_07_Chunking_Training|Day 07 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_06_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊

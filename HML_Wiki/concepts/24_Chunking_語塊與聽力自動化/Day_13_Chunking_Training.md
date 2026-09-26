@@ -32,6 +32,9 @@ related_to:
 > **核心目標**：直率期望他人協助、消息轉述、條件前提假定與三大情境應答核心。
 > **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_12_Chunking_Training|Day 12 @sibling_of]] | 後一天：[[Day_14_Chunking_Training|Day 14 @sibling_of]]
 
+> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> ![[Day_13_Chunking_Immersion.mp3]]
+
 ---
 
 ## 🎯 本日核心句型與語塊
