@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-sibling_of:
-- '[[JP_Grammar_50_C10_verb_types_te_form]]'
-- '[[JP_Grammar_50_C12_te_kara_sequence]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C10_verb_types_te_form]]'
+- '[[JP_Grammar_50_C12_te_kara_sequence]]'
 ---
 # C11 - 〜ています：進行與狀態
 

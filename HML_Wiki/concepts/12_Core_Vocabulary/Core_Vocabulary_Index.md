@@ -1,12 +1,12 @@
 ---
+part_of:
+- '[[Japanese_Learning_System]]'
+related_to:
+- '[[JP_Grammar_50_C10_verb_types_te_form]]'
 extends:
 - '[[JP_Vocab_13_time_expressions]]'
 - '[[JP_Vocab_14_dates_frequency]]'
 - '[[JP_Vocab_03_time_numbers]]'
-related_to:
-- '[[JP_Grammar_50_C10_verb_types_te_form]]'
-part_of:
-- '[[Japanese_Learning_System]]'
 prerequisite_for:
 - '[[Japanese_Grammar_Index]]'
 ---

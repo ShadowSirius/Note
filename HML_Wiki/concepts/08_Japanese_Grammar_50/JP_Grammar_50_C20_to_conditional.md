@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C19_noun_modifier]]'
-- '[[JP_Grammar_50_C21_shoju_actions]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C19_noun_modifier]]'
+- '[[JP_Grammar_50_C21_shoju_actions]]'
 ---
 # C20 - 〜と：自然條件
 

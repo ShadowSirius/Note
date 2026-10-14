@@ -1,8 +1,8 @@
 ---
-related_to:
-- '[[JP_Food_11_cooking_methods]]'
 part_of:
 - '[[Food_Vocabulary_Index]]'
+related_to:
+- '[[JP_Food_11_cooking_methods]]'
 ---
 # 食べ物詞彙 09：器皿餐具
 

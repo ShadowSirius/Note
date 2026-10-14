@@ -7,10 +7,10 @@ tags:
 - Home_Life
 - Mindset
 - Resilience
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 related_to:
 - '[[Keigo_Casual_Tech7_Feelings_Adjectives]]'
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 ---
 # 分類七：晚間放鬆、居家生活與心境沉澱（複合動詞）
 

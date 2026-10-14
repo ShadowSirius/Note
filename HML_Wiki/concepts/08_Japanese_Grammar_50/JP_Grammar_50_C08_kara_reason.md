@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-sibling_of:
-- '[[JP_Grammar_50_C07_ga_vs_wa]]'
-- '[[JP_Grammar_50_C09_desire_progress]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C07_ga_vs_wa]]'
+- '[[JP_Grammar_50_C09_desire_progress]]'
 ---
 # C08 - 〜から：原因理由
 

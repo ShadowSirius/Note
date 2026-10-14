@@ -6,10 +6,10 @@ tags:
 - Lunch
 - Dining
 - Lifestyle
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 related_to:
 - '[[17_Food_Vocabulary_食べ物]]'
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 ---
 # 分類五：午休、外食用餐與能量轉換（複合動詞）
 

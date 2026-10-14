@@ -16,15 +16,15 @@ target_patterns:
 - 〜そうだ［傳聞］
 - 〜ば［假定］
 - 情境確認語塊
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_12_Chunking_Training]]'
 - '[[Day_14_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 13: 期望他人、情報傳聞與情境確認語塊
 

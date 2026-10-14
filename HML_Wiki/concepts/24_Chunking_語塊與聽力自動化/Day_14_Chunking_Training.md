@@ -16,15 +16,15 @@ target_patterns:
 - 〜のに
 - 〜なら
 - 句末終助詞聽力錨點
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_13_Chunking_Training]]'
 - '[[Day_15_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 14: 動作方向演變、意料逆折與句末終助詞
 

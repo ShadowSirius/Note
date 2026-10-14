@@ -6,10 +6,10 @@ tags:
 - Medical
 - Hospital
 - Pharmacy
-child_of:
-- '[[Body_Parts_100_Index]]'
 related_to:
 - '[[Body_Parts_Medical_Symptom_Guide]]'
+child_of:
+- '[[Body_Parts_100_Index]]'
 ---
 # 分類五：常見不適症狀、就醫問診與處置（20句）
 

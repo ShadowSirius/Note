@@ -16,15 +16,15 @@ target_patterns:
 - 〜ようになる
 - 〜らしい
 - 〜わけではない
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_05_Chunking_Training]]'
 - '[[Day_07_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 06: 禁止規範、能力轉變與客觀傳聞
 

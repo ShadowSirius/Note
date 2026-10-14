@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C14_nai_form_necessity]]'
-- '[[JP_Grammar_50_C16_ta_form_experience]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C14_nai_form_necessity]]'
+- '[[JP_Grammar_50_C16_ta_form_experience]]'
 ---
 # C15 - 可能形：能夠做
 

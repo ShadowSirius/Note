@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C41_te_reason]]'
-- '[[JP_Grammar_50_C43_sou_desu_conjecture]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C41_te_reason]]'
+- '[[JP_Grammar_50_C43_sou_desu_conjecture]]'
 ---
 # C42 - 〜ように：非意志目的
 

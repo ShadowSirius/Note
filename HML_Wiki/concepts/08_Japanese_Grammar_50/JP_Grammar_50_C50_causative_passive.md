@@ -1,11 +1,11 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C49_humble_keigo]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C49_humble_keigo]]'
 ---
 # C50 - 使役被動形：被逼做
 

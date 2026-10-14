@@ -1,9 +1,4 @@
 ---
-extends:
-- '[[JP_Vocab_05_food_drink]]'
-related_to:
-- '[[Core_Vocabulary_Index]]'
-- '[[JP_Vocab_05_food_drink]]'
 part_of:
 - '[[JP_Food_01_restaurant_types]]'
 - '[[JP_Food_02_dining_phrases]]'
@@ -20,6 +15,11 @@ part_of:
 - '[[JP_Food_13_drinks_sweets]]'
 - '[[JP_Food_14_nimono_aemono_tsukemono]]'
 - '[[JP_Food_15_coffee]]'
+related_to:
+- '[[Core_Vocabulary_Index]]'
+- '[[JP_Vocab_05_food_drink]]'
+extends:
+- '[[JP_Vocab_05_food_drink]]'
 ---
 # 飲食詞彙總索引（15 副主題）
 

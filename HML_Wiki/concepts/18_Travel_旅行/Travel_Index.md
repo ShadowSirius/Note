@@ -1,14 +1,14 @@
 ---
-related_to:
-- '[[Food_Vocabulary_Index]]'
-- '[[JP_Dialogue_Index]]'
-- '[[JP_Vocab_06_places_transport]]'
 part_of:
 - '[[JP_Travel_01_transport]]'
 - '[[JP_Travel_02_directions_roads]]'
 - '[[JP_Travel_03_asking_directions]]'
 - '[[JP_Travel_04_lodging_onsen]]'
 - '[[JP_Travel_05_snorkeling_marine_activities]]'
+related_to:
+- '[[Food_Vocabulary_Index]]'
+- '[[JP_Dialogue_Index]]'
+- '[[JP_Vocab_06_places_transport]]'
 ---
 # 旅遊詞彙總索引（4 副主題）
 

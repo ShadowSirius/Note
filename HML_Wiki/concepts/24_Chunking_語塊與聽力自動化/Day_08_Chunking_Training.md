@@ -16,15 +16,15 @@ target_patterns:
 - 〜たばかり
 - 〜すぎる（〜すぎちゃった）
 - 口語銜接語塊
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_07_Chunking_Training]]'
 - '[[Day_09_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 08: 難易度傾向、時間臨近與程度過度
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-related_to:
-- '[[JP_N3_39_noni]]'
 part_of:
 - '[[N2_Grammar_Index]]'
+related_to:
+- '[[JP_N3_39_noni]]'
 ---
 # 〜にもかかわらず
 

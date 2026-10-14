@@ -16,15 +16,15 @@ target_patterns:
 - 〜し、〜し
 - 〜ように［丁寧指示］
 - 口語思維語塊
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_08_Chunking_Training]]'
 - '[[Day_10_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 09: 確認是否、並列理由與口語思維語塊
 

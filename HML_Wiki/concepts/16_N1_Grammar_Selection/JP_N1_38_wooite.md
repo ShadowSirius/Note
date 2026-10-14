@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_37_naradewa]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_37_naradewa]]'
 ---
 # 〜をおいて（他に）ない
 

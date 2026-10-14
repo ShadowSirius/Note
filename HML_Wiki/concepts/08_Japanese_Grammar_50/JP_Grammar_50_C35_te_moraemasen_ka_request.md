@@ -1,15 +1,15 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C34_to_iu]]'
-- '[[JP_Grammar_50_C36_ba_conditional]]'
-related_to:
-- '[[JP_N3_22_temorau]]'
-- '[[JP_N3_26_teitadakemasenka]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_22_temorau]]'
+- '[[JP_N3_26_teitadakemasenka]]'
+sibling_of:
+- '[[JP_Grammar_50_C34_to_iu]]'
+- '[[JP_Grammar_50_C36_ba_conditional]]'
 ---
 # C35 - 〜てもらえませんか：委婉請求
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_68_niitarumade]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_68_niitarumade]]'
 ---
 # 〜に至って
 

@@ -1,14 +1,14 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C35_te_moraemasen_ka_request]]'
-- '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
-related_to:
-- '[[JP_N3_12_ba_hodo]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_12_ba_hodo]]'
+sibling_of:
+- '[[JP_Grammar_50_C35_te_moraemasen_ka_request]]'
+- '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
 ---
 # C36 - 〜ば：假定形
 

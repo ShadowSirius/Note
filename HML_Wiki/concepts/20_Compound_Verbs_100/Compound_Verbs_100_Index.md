@@ -6,6 +6,9 @@ tags:
 - Vocabulary
 - Oral_Practice
 - Grammar
+related_to:
+- '[[Daily_Phrases_Index]]'
+- '[[Keigo_Casual_100_Index]]'
 parent_of:
 - '[[Compound_Verbs_01_Morning_Routine]]'
 - '[[Compound_Verbs_02_Commute_Transport]]'
@@ -15,9 +18,6 @@ parent_of:
 - '[[Compound_Verbs_06_Shopping_Chores]]'
 - '[[Compound_Verbs_07_Evening_Home_Mindset]]'
 - '[[Compound_Verbs_Suffix_Grammar_Guide]]'
-related_to:
-- '[[Daily_Phrases_Index]]'
-- '[[Keigo_Casual_100_Index]]'
 ---
 # 日常必備複合動詞（從早到晚100句）總覽
 

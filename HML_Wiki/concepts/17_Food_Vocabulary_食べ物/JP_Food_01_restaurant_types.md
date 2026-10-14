@@ -1,11 +1,11 @@
 ---
-extends:
-- '[[JP_Vocab_05_food_drink]]'
 related_to:
 - '[[JP_Food_02_dining_phrases]]'
 - '[[JP_Food_03_staple_rice_noodles]]'
 - '[[JP_Food_04_fried_grilled]]'
 - '[[JP_Grammar_32_wo_kudasai]]'
+extends:
+- '[[JP_Vocab_05_food_drink]]'
 ---
 # 食物詞彙 01：餐廳種類
 

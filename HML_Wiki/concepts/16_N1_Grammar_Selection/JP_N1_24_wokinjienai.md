@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_25_nitaenai]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_25_nitaenai]]'
 ---
 # 〜を禁じ得ない
 

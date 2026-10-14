@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_44_nitodomarazu]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_44_nitodomarazu]]'
 ---
 # 〜に限ったことではない
 

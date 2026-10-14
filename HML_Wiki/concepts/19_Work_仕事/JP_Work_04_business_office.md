@@ -1,12 +1,12 @@
 ---
+related_to:
+- '[[JP_Work_01_electrical_power]]'
 extends:
 - '[[JP_Vocab_09_work_school]]'
 sibling_of:
 - '[[JP_Work_01_electrical_power]]'
 - '[[JP_Work_02_embedded_software]]'
 - '[[JP_Work_03_engineering_actions]]'
-related_to:
-- '[[JP_Work_01_electrical_power]]'
 ---
 # 職場詞彙 04：商業職場
 

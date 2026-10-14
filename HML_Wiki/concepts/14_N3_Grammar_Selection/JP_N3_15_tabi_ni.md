@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-related_to:
-- '[[JP_Grammar_50_C18_toki]]'
 part_of:
 - '[[N3_Grammar_Index]]'
+related_to:
+- '[[JP_Grammar_50_C18_toki]]'
 ---
 # 〜たびに
 

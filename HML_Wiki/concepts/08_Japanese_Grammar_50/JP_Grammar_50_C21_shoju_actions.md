@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C20_to_conditional]]'
-- '[[JP_Grammar_50_C22_tara_conditional]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C20_to_conditional]]'
+- '[[JP_Grammar_50_C22_tara_conditional]]'
 ---
 # C21 - 授受補助動詞：〜てあげる・〜てもらう・〜てくれる
 

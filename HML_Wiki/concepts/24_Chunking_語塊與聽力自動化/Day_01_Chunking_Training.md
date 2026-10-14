@@ -16,14 +16,14 @@ target_patterns:
 - 〜てみる
 - 〜たほうがいい
 - 〜と思う
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
-sibling_of:
-- '[[Day_02_Chunking_Training]]'
 related_to:
 - '[[Japanese_Learning_System]]'
+sibling_of:
+- '[[Day_02_Chunking_Training]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 01: 請求許可、嘗試與日常建議
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-related_to:
-- '[[JP_N3_58_hodo]]'
 part_of:
 - '[[N3_Grammar_Index]]'
+related_to:
+- '[[JP_N3_58_hodo]]'
 ---
 # 〜すぎる
 

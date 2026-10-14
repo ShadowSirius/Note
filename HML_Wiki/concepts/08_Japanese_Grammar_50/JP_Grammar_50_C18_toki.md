@@ -1,14 +1,14 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C17_tari_tari]]'
-- '[[JP_Grammar_50_C19_noun_modifier]]'
-related_to:
-- '[[JP_N3_15_tabi_ni]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_15_tabi_ni]]'
+sibling_of:
+- '[[JP_Grammar_50_C17_tari_tari]]'
+- '[[JP_Grammar_50_C19_noun_modifier]]'
 ---
 # C18 - 〜とき：時間點
 

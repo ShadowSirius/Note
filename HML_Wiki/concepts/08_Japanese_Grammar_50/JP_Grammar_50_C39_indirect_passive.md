@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C38_passive_voice]]'
-- '[[JP_Grammar_50_C40_node_reason]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C38_passive_voice]]'
+- '[[JP_Grammar_50_C40_node_reason]]'
 ---
 # C39 - 被動形：間接被動與所有物被動
 

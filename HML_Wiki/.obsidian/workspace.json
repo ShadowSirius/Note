@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "b76d1ad50e192cd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3f4112206e1e5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8519872519e6ffbd",
+            "type": "leaf",
+            "state": {
+              "type": "audio",
+              "state": {
+                "file": "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3"
+              },
+              "icon": "lucide-file-audio",
+              "title": "Day_02_Chunking_Immersion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5823b40392c57ffc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12a4a728624a3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d914f119926901",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "ec4bd2c848b925e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "94b3357ba484df1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8241f93eb5913615",
+    "type": "split",
+    "children": [
+      {
+        "id": "b710f9ecffcdbdfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2231ca0fca474793",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "28d046abe6517fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "cc2aec1f9fc75341",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "ee459bdd627d5259",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "463645282379f36c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "8519872519e6ffbd",
+  "lastOpenFiles": [
+    "concepts/24_Chunking_語塊與聽力自動化/Day_02_Chunking_Training.md",
+    "concepts/23_Daily_Vocabulary_生活單字與對話/Day18_2026-09-25_日本家電量販店選購、規格詢問、電壓、保固與配送.md",
+    "concepts/23_Daily_Vocabulary_生活單字與對話/Day19_2026-09-26_日本超市生鮮採買、傍晚促銷貼紙、賞味期限與自炊.md",
+    "concepts/23_Daily_Vocabulary_生活單字與對話/Day12_2026-09-19_日本郵局寄件、明信片與包裹寄送.md",
+    "concepts/23_Daily_Vocabulary_生活單字與對話/Day01_2026-09-06_早晨日常與出門通勤.md"
+  ]
+}

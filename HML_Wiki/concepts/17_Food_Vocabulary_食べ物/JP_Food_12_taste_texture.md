@@ -1,8 +1,8 @@
 ---
-related_to:
-- '[[JP_Food_10_seasonings_spices]]'
 part_of:
 - '[[Food_Vocabulary_Index]]'
+related_to:
+- '[[JP_Food_10_seasonings_spices]]'
 ---
 # 食べ物詞彙 12：味覺與口感
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-related_to:
-- '[[JP_N2_53_saichuni]]'
 part_of:
 - '[[N2_Grammar_Index]]'
+related_to:
+- '[[JP_N2_53_saichuni]]'
 ---
 # 〜矢先に
 

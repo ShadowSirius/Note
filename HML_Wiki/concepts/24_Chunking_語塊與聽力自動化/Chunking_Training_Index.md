@@ -10,8 +10,12 @@ tags:
 - daily_life
 status: active
 created: 2026-09-26
-child_of:
-- '[[index]]'
+related_to:
+- '[[Daily_Phrases_Index]]'
+- '[[Keigo_Casual_100_Index]]'
+- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
 parent_of:
 - '[[Day_01_Chunking_Training]]'
 - '[[Day_02_Chunking_Training]]'
@@ -28,12 +32,8 @@ parent_of:
 - '[[Day_13_Chunking_Training]]'
 - '[[Day_14_Chunking_Training]]'
 - '[[Day_15_Chunking_Training]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
-related_to:
-- '[[Daily_Phrases_Index]]'
-- '[[Keigo_Casual_100_Index]]'
-- '[[Japanese_Learning_System]]'
+child_of:
+- '[[index]]'
 ---
 # 🗾 24_Chunking_語塊與聽力自動化訓練 (Japanese Chunking & Automaticity)
 

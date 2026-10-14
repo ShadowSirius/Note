@@ -1,14 +1,14 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C22_tara_conditional]]'
-- '[[JP_Grammar_50_C24_n_desu]]'
-related_to:
-- '[[JP_N3_13_toshitemo]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+related_to:
+- '[[JP_N3_13_toshitemo]]'
+sibling_of:
+- '[[JP_Grammar_50_C22_tara_conditional]]'
+- '[[JP_Grammar_50_C24_n_desu]]'
 ---
 # C23 - 〜ても：逆接條件
 

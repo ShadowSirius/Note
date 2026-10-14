@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C28_volitional_non_volitional]]'
-- '[[JP_Grammar_50_C30_volitional_form_intention]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C28_volitional_non_volitional]]'
+- '[[JP_Grammar_50_C30_volitional_form_intention]]'
 ---
 # C29 - 自動詞與他動詞
 

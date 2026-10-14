@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N2_49_gahayaika]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N2_49_gahayaika]]'
 ---
 # 〜や否や
 

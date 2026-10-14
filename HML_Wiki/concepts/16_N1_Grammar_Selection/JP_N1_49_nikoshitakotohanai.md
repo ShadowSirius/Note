@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_48_niwaoyobanai]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_48_niwaoyobanai]]'
 ---
 # 〜に越したことはない
 

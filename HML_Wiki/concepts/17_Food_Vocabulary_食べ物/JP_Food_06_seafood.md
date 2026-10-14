@@ -1,8 +1,8 @@
 ---
-sibling_of:
-- '[[JP_Food_05_meat_cuts]]'
 related_to:
 - '[[JP_Vocab_05_food_drink]]'
+sibling_of:
+- '[[JP_Food_05_meat_cuts]]'
 ---
 # 食材詞彙 06：海鮮
 

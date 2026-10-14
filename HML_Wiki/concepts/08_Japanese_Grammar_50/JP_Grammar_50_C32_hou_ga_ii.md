@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C31_volition_schedule]]'
-- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C31_volition_schedule]]'
+- '[[JP_Grammar_50_C33_conjecture_deshou_kamoshirenai]]'
 ---
 # C32 - 〜ほうがいい：建議
 

@@ -3,12 +3,12 @@ author: Karpathy
 tags:
 - compiler
 - llm
+contradicts:
+- '[[RAG System]]'
 supersedes:
 - '[[RAG System]]'
 uses:
 - '[[Obsidian Web Clipper]]'
-contradicts:
-- '[[RAG System]]'
 ---
 # LLM Compiler
 

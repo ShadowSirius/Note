@@ -1,12 +1,12 @@
 ---
 jlpt: N5
-sibling_of:
-- '[[JP_Grammar_50_C12_te_kara_sequence]]'
-- '[[JP_Grammar_50_C14_nai_form_necessity]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C12_te_kara_sequence]]'
+- '[[JP_Grammar_50_C14_nai_form_necessity]]'
 ---
 # C13 - 〜て、〜て：動作連接
 

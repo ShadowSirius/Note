@@ -16,15 +16,15 @@ target_patterns:
 - 〜てもらう
 - 〜なくてはいけない（〜なきゃ）
 - 〜ている（〜てる）
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_02_Chunking_Training]]'
 - '[[Day_04_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 03: 請求協助、受惠表達與口語義務
 

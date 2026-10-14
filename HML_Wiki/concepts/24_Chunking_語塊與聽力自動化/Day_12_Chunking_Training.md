@@ -16,15 +16,15 @@ target_patterns:
 - 〜と［指路導航］
 - 〜ても / 〜でも
 - 口語程度轉折語塊
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_11_Chunking_Training]]'
 - '[[Day_13_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 12: 先決條件、指路導航與讓步轉折
 

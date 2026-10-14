@@ -5,12 +5,12 @@ tags:
 - Body_Parts
 - Head_Face
 - Oral_Practice
-child_of:
-- '[[Body_Parts_100_Index]]'
-sibling_of:
-- '[[Body_Parts_02_Torso_Arms_Hands]]'
 related_to:
 - '[[Body_Parts_Medical_Symptom_Guide]]'
+sibling_of:
+- '[[Body_Parts_02_Torso_Arms_Hands]]'
+child_of:
+- '[[Body_Parts_100_Index]]'
 ---
 # 分類一：頭部、臉部五官與生理反應（25句）
 

@@ -6,10 +6,10 @@ tags:
 - Snorkeling
 - Marine_Sports
 - Conversation
-child_of:
-- '[[Travel_Index]]'
 related_to:
 - '[[Body_Parts_05_Symptoms_Medical_Expressions]]'
+child_of:
+- '[[Travel_Index]]'
 ---
 # 海島旅遊與浮潛水上活動日語實用指南
 

@@ -6,13 +6,13 @@ tags:
 - Business
 - Office
 - Work
-child_of:
-- '[[Compound_Verbs_100_Index]]'
+related_to:
+- '[[Keigo_Casual_Tech2_Requests]]'
 sibling_of:
 - '[[Compound_Verbs_04_Communication_Interaction]]'
 - '[[Compound_Verbs_05_Lunch_Reset]]'
-related_to:
-- '[[Keigo_Casual_Tech2_Requests]]'
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 ---
 # 分類三：職場工作與業務執行（複合動詞）
 

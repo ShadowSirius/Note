@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C23_temo_conditional]]'
-- '[[JP_Grammar_50_C25_potential_verbs]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C23_temo_conditional]]'
+- '[[JP_Grammar_50_C25_potential_verbs]]'
 ---
 # C24 - 〜んです：說明與背景
 

@@ -1,9 +1,9 @@
 ---
 jlpt: N2
-related_to:
-- '[[JP_N2_60_karasureba]]'
 part_of:
 - '[[N2_Grammar_Index]]'
+related_to:
+- '[[JP_N2_60_karasureba]]'
 ---
 # 〜からして
 

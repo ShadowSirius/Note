@@ -16,15 +16,15 @@ target_patterns:
 - 〜つもり（です）
 - 〜そう（です）［樣態］
 - 〜なくてもいい
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_03_Chunking_Training]]'
 - '[[Day_05_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 04: 經驗描述、行程意圖與樣態推測
 

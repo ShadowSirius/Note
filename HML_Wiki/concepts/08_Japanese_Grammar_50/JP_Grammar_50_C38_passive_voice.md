@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
-- '[[JP_Grammar_50_C39_indirect_passive]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C37_volitional_non_volitional_2]]'
+- '[[JP_Grammar_50_C39_indirect_passive]]'
 ---
 # C38 - 被動形：直接被動
 

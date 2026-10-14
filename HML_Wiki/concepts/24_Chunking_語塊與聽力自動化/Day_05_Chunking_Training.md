@@ -16,15 +16,15 @@ target_patterns:
 - 〜ことにする
 - 〜ようにする
 - 〜みたい
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_04_Chunking_Training]]'
 - '[[Day_06_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 05: 客觀決定、自主抉擇與習慣養成
 

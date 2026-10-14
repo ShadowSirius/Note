@@ -16,15 +16,15 @@ target_patterns:
 - 〜ばかり（〜てばっか）
 - 〜がる / 〜たがる
 - 口語應答語塊
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_09_Chunking_Training]]'
 - '[[Day_11_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 10: 雙動作並行、頻率過度與對話應答語塊
 

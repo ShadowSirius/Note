@@ -1,9 +1,9 @@
 ---
 jlpt: N3
-related_to:
-- '[[JP_N3_36_gachi]]'
 part_of:
 - '[[N3_Grammar_Index]]'
+related_to:
+- '[[JP_N3_36_gachi]]'
 ---
 # 〜やすい／〜にくい
 

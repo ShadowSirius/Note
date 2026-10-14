@@ -1,12 +1,12 @@
 ---
 jlpt: N4
-sibling_of:
-- '[[JP_Grammar_50_C40_node_reason]]'
-- '[[JP_Grammar_50_C42_you_ni_purpose]]'
 part_of:
 - '[[Japanese_Grammar_50_Index]]'
 derives_from:
 - '[[Japanese_Grammar_50_ocr]]'
+sibling_of:
+- '[[JP_Grammar_50_C40_node_reason]]'
+- '[[JP_Grammar_50_C42_you_ni_purpose]]'
 ---
 # C41 - 〜て：原因理由
 

@@ -1,10 +1,10 @@
 ---
+related_to:
+- '[[JP_Grammar_03_ni_he]]'
 extends:
 - '[[JP_Vocab_03_time_numbers]]'
 sibling_of:
 - '[[JP_Vocab_13_time_expressions]]'
-related_to:
-- '[[JP_Grammar_03_ni_he]]'
 ---
 # 高頻詞彙 14：日期與頻度深化（和語日付・特殊讀音・頻率階梯）
 

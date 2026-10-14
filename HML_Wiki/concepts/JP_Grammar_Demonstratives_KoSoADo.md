@@ -1,8 +1,8 @@
 ---
-related_to:
-- '[[JP_Grammar_Interrogative_Conjugation]]'
 part_of:
 - '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[JP_Grammar_Interrogative_Conjugation]]'
 ---
 # 🇯🇵 指示詞こそあど系統：記憶與應用指南
 

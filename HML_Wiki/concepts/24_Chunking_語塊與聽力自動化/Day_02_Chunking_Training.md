@@ -16,15 +16,15 @@ target_patterns:
 - 〜ておく（〜とく）
 - 〜てしまう（〜ちゃう）
 - 〜かもしれない
-child_of:
-- '[[Chunking_Training_Index]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 sibling_of:
 - '[[Day_01_Chunking_Training]]'
 - '[[Day_03_Chunking_Training]]'
-related_to:
-- '[[Japanese_Learning_System]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+child_of:
+- '[[Chunking_Training_Index]]'
 ---
 # Day 02: 狀況說明、事前準備、遺憾與推測
 

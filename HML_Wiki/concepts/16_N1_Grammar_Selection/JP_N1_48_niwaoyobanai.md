@@ -1,9 +1,9 @@
 ---
 jlpt: N1
-related_to:
-- '[[JP_N1_49_nikoshitakotohanai]]'
 part_of:
 - '[[N1_Grammar_Index]]'
+related_to:
+- '[[JP_N1_49_nikoshitakotohanai]]'
 ---
 # 〜には及ばない
 

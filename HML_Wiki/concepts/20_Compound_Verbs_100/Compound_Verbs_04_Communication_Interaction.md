@@ -6,11 +6,11 @@ tags:
 - Communication
 - Teamwork
 - Social
-child_of:
-- '[[Compound_Verbs_100_Index]]'
 related_to:
 - '[[Daily_Phrases_Social_Interaction]]'
 - '[[Daily_Phrases_Praise_Support]]'
+child_of:
+- '[[Compound_Verbs_100_Index]]'
 ---
 # 分類四：人際互動、溝通與協作（複合動詞）
 
