@@ -10,28 +10,29 @@ tags:
 - japanese/daily_travel
 status: active
 previous_day: '[[Day_14_Chunking_Training]]'
-next_day: None
+next_day: '[[Day_16_Chunking_Training]]'
 target_patterns:
 - 〜って［口語引用］
 - 〜だけでなく
 - 〜おかげで / 〜せいで
 - 相槌接話語塊
-related_to:
-- '[[Japanese_Learning_System]]'
-sibling_of:
-- '[[Day_14_Chunking_Training]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
 child_of:
 - '[[Chunking_Training_Index]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+sibling_of:
+- '[[Day_14_Chunking_Training]]'
+- '[[Day_16_Chunking_Training]]'
+related_to:
+- '[[Japanese_Learning_System]]'
 ---
 # Day 15: 萬能口語引述、範疇遞進與相槌反饋
 
 > [!abstract] 單元定位與摘要
 > **核心目標**：萬能口語引述主題、範疇延伸遞進、正負因果責任與核心傾聽反饋。
-> **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_14_Chunking_Training|Day 14 @sibling_of]] | 後一天：None
+> **導覽連結**：[[Chunking_Training_Index|返回語塊訓練索引 @child_of]] | 前一天：[[Day_14_Chunking_Training|Day 14 @sibling_of]] | 後一天：[[Day_16_Chunking_Training|Day 16 @sibling_of]]
 
-> [!audio] 🎧 本日磨耳朵・影子跟讀沉浸音軌 (Nanami 語音・連續朗讀與間隔操練)
+> [!audio] 🎧 Day_15_Chunking_Immersion.mp3
 > ![[Day_15_Chunking_Immersion.mp3]]
 
 ---

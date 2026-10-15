@@ -11,12 +11,14 @@
             "id": "8519872519e6ffbd",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3"
+                "file": "concepts/24_Chunking_語塊與聽力自動化/Day_34_Chunking_Training.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "Day_02_Chunking_Immersion"
+              "icon": "lucide-file",
+              "title": "Day_34_Chunking_Training"
             }
           }
         ]
@@ -188,6 +190,11 @@
   },
   "active": "8519872519e6ffbd",
   "lastOpenFiles": [
+    "concepts/23_Daily_Vocabulary_生活單字與對話/Day34_2026-10-11_該週複合混用情境實戰對話與總複習.md",
+    "concepts/24_Chunking_語塊與聽力自動化/Chunking_Training_Index(1).md",
+    "concepts/24_Chunking_語塊與聽力自動化/Day_33_Chunking_Training(1).md",
+    "Day_34_Vocabulary_Immersion.mp3.md",
+    "concepts/24_Chunking_語塊與聽力自動化/audio/Day_02_Chunking_Immersion.mp3",
     "concepts/24_Chunking_語塊與聽力自動化/Day_02_Chunking_Training.md",
     "concepts/23_Daily_Vocabulary_生活單字與對話/Day18_2026-09-25_日本家電量販店選購、規格詢問、電壓、保固與配送.md",
     "concepts/23_Daily_Vocabulary_生活單字與對話/Day19_2026-09-26_日本超市生鮮採買、傍晚促銷貼紙、賞味期限與自炊.md",

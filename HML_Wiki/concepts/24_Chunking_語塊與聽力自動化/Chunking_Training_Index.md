@@ -10,12 +10,9 @@ tags:
 - daily_life
 status: active
 created: 2026-09-26
-related_to:
-- '[[Daily_Phrases_Index]]'
-- '[[Keigo_Casual_100_Index]]'
-- '[[Japanese_Learning_System]]'
-uses:
-- '[[Japanese_Grammar_Index]]'
+updated: 2026-10-15
+child_of:
+- '[[index]]'
 parent_of:
 - '[[Day_01_Chunking_Training]]'
 - '[[Day_02_Chunking_Training]]'
@@ -32,8 +29,31 @@ parent_of:
 - '[[Day_13_Chunking_Training]]'
 - '[[Day_14_Chunking_Training]]'
 - '[[Day_15_Chunking_Training]]'
-child_of:
-- '[[index]]'
+- '[[Day_16_Chunking_Training]]'
+- '[[Day_17_Chunking_Training]]'
+- '[[Day_18_Chunking_Training]]'
+- '[[Day_19_Chunking_Training]]'
+- '[[Day_20_Chunking_Training]]'
+- '[[Day_21_Chunking_Training]]'
+- '[[Day_22_Chunking_Training]]'
+- '[[Day_23_Chunking_Training]]'
+- '[[Day_24_Chunking_Training]]'
+- '[[Day_25_Chunking_Training]]'
+- '[[Day_26_Chunking_Training]]'
+- '[[Day_27_Chunking_Training]]'
+- '[[Day_28_Chunking_Training]]'
+- '[[Day_29_Chunking_Training]]'
+- '[[Day_30_Chunking_Training]]'
+- '[[Day_31_Chunking_Training]]'
+- '[[Day_32_Chunking_Training]]'
+- '[[Day_33_Chunking_Training]]'
+- '[[Day_34_Chunking_Training]]'
+uses:
+- '[[Japanese_Grammar_Index]]'
+related_to:
+- '[[Daily_Phrases_Index]]'
+- '[[Keigo_Casual_100_Index]]'
+- '[[Japanese_Learning_System]]'
 ---
 # 🗾 24_Chunking_語塊與聽力自動化訓練 (Japanese Chunking & Automaticity)
 
@@ -45,13 +65,13 @@ child_of:
 > * **句尾錨點意識**：日語的肯定、否定、推測或請求關鍵永遠在句末，習慣等待句尾語塊出現再作判斷。
 > * **主受詞省略適應**：習慣日常生活與旅遊中高頻的上下文省略，不強求還原「私は」。
 
-> [!tip] 🎧 全套 Day 01 ～ Day 15 連續磨耳朵音軌已全數實裝！
+> [!tip] 🎧 全套 Day 01 ～ Day 34 連續磨耳朵音軌架構已全數實裝！
 > 每張卡片頂部均已內嵌專屬沉浸音軌（Nanami 神經女聲・微軟真人級發音）。
 > 包含：**語塊朗讀 ➔ 1.5 秒跟讀留白 ➔ FSI 意群代入 ➔ 1.8 秒盲聽反射槽 ➔ 語體轉換**，通勤或步行時即可閉眼訓練聲音記憶！
 
 ---
 
-## 🗂️ 每日卡片導覽 (Daily Training Cards MOC)
+## 🗂️ 每日卡片導覽 (Daily Training Cards MOC - Day 01 ～ Day 34)
 
 | 日期卡片 | 日期 | 核心目標句型 / 語塊 | 情境摘要 |
 | :--- | :--- | :--- | :--- |
@@ -70,6 +90,24 @@ child_of:
 | [[Day_13_Chunking_Training|Day 13 @parent_of]] | 2026-09-24 | `〜てほしい`、`〜そうだ［傳聞］`、`〜ば［假定］`、`情境確認語塊` | 直率期望他人協助、消息轉述、條件前提假定與三大情境應答核心。 |
 | [[Day_14_Chunking_Training|Day 14 @parent_of]] | 2026-09-25 | `〜ていく / 〜てくる`、`〜のに`、`〜なら`、`句末終助詞聽力錨點` | 方向性與狀態推移、預期落空逆折、限定推薦與四大終助詞情感錨點。 |
 | [[Day_15_Chunking_Training|Day 15 @parent_of]] | 2026-09-26 | `〜って［口語引用］`、`〜だけでなく`、`〜おかげで / 〜せいで`、`相槌接話語塊` | 萬能口語引述主題、範疇延伸遞進、正負因果責任與核心傾聽反饋。 |
+| [[Day_16_Chunking_Training|Day 16 @parent_of]] | 2026-09-27 | `〜通りに / 〜どおりに`、`〜間に / 〜間`、`〜たびに`、`さすがに / せっかく` | 依照指示、時段利用、規律伴隨與兩大限定情感語塊。 |
+| [[Day_17_Chunking_Training|Day 17 @parent_of]] | 2026-09-28 | `〜ところ（です）`、`〜ないで / 〜ずに`、`〜によって / 〜による`、`まさか / どういうこと？ / もしかして` | 時點精準捕捉、不……而……排除伴隨、依條件而異與三大驚訝探詢語塊。 |
+| [[Day_18_Chunking_Training|Day 18 @parent_of]] | 2026-09-29 | `〜てたまらない / 〜てしょうがない`、`〜に決まっている`、`〜さえ〜ば`、`どちらかというと / 要するに` | ……得受不了、肯定是……、只要有……就足夠與兩大偏好歸納語塊。 |
+| [[Day_19_Chunking_Training|Day 19 @parent_of]] | 2026-09-30 | `〜わけにはいかない`、`〜はずがない / 〜わけがない`、`〜ついでに`、`だから / それで / 結局` | 責任情理不能推託、邏輯絕對不可能、順便做某事與三大因果總結語塊。 |
+| [[Day_20_Chunking_Training|Day 20 @parent_of]] | 2026-10-01 | `〜うちに`、`〜代わりに（〜かわりに）`、`〜切る / 〜切れない`、`もしよかったら / いかがですか` | 把握特定窗口時機、對價補償關係、做到底與兩大客氣邀約語塊。 |
+| [[Day_21_Chunking_Training|Day 21 @parent_of]] | 2026-10-02 | `〜てはじめて`、`〜わけだ / 〜わけですね`、`〜せいか`、`もしかすると / やっぱり` | 直到……才體會、難怪如此、許是因為……與兩大推測印證語塊。 |
+| [[Day_22_Chunking_Training|Day 22 @parent_of]] | 2026-10-03 | `〜に違いない`、`〜たとたん（に）`、`〜向け / 〜向き`、`一応 / ちょっと…` | 必定無疑、一……就瞬間……、專為……設計與兩大防範婉拒語塊。 |
+| [[Day_23_Chunking_Training|Day 23 @parent_of]] | 2026-10-04 | `〜うちに ＋ 〜ついでに（時機與順帶複合）`、`〜ずに ＋ 〜のおかげで（排除伴隨與正向因果）`、`〜たびに ＋ 〜てたまらない（頻率與強烈情感）`、`實戰微對話語塊（拉麵食券・溫泉街足湯）` | 跨句型卡榫長句串接（時機＋順便＋建議、排除伴隨＋轉折）與日本旅遊實戰微對話。 |
+| [[Day_24_Chunking_Training|Day 24 @parent_of]] | 2026-10-05 | `〜てよかった`、`〜ばよかった`、`〜はずだった`、`なんか / ちょっと` | 幸好有做……、當初要是……就好了、原本照理應該……與兩大緩衝微調語塊。 |
+| [[Day_25_Chunking_Training|Day 25 @parent_of]] | 2026-10-06 | `〜ことになっている`、`〜に越したことはない`、`〜っこない`、`いつの間にか / あっという間に` | 社會規定與既定安排、再好不過的穩妥建議、口語絕不可能與時間感嘆語塊。 |
+| [[Day_26_Chunking_Training|Day 26 @parent_of]] | 2026-10-07 | `〜かねる / 〜かねます`、`〜最中に（〜さいちゅうに）`、`〜気味（〜ぎみ）`、`おかげさまで / 助かりました` | 商務與店家禮貌婉拒、正當……最關鍵時刻、稍微帶有……傾向與兩大感謝語塊。 |
+| [[Day_27_Chunking_Training|Day 27 @parent_of]] | 2026-10-08 | `〜っぱなし`、`〜恐れがある（〜おそれがある）`、`〜に沿って（〜にそって）`、`ちなみに / ところで` | 放著不管維持原狀、有……之虞的氣象交通預警、沿著……前行與兩大話題切換語塊。 |
+| [[Day_28_Chunking_Training|Day 28 @parent_of]] | 2026-10-09 | `〜かけ / 〜かける`、`〜っぽい`、`〜として`、`ただ / もっとも` | 動作做到一半未完、看起來很有……感、作為……身分用途與兩大補充轉折語塊。 |
+| [[Day_29_Chunking_Training|Day 29 @parent_of]] | 2026-10-10 | `時點與狀態交錯（〜ところ / 〜っぱなし / 〜かけ）`、`否定與婉拒交錯（〜っこない / 〜かねる / 〜わけにはいかない）`、`因果與感嘆交錯（〜てはじめて / 〜たとたん / 〜せいか）`、`條件與規矩交錯（〜ことになっている / 〜に越したことはない / 〜さえ〜ば）` | 將 Day 16～Day 28 核心句型全面打散交錯，訓練大腦跨語法結構的瞬間切換與直覺語音映射。 |
+| [[Day_30_Chunking_Training|Day 30 @parent_of]] | 2026-10-11 | `〜うちに ＋ 〜てよかった（時機把握與事後慶幸複合）`、`〜ことになっている ＋ 〜わけにはいかない（規定與責任複合）`、`〜たとたん ＋ 〜いつの間にか（瞬間觸發與時間流逝複合）`、`實戰微對話語塊（超商繳費・錢湯泡湯・祭典花火）` | 跨句型三段式複合長句特訓，融合金融行政、下班健身錢湯與週末夏日祭典的真實對話。 |
+| [[Day_31_Chunking_Training|Day 31 @parent_of]] | 2026-10-12 | `〜どころではない / 〜どころじゃない`、`〜がち`、`〜からには`、`やっぱり / 思い切って` | 別說……了根本無暇顧及、容易發生……負面傾向、既然……就必須與兩大決斷語塊。 |
+| [[Day_32_Chunking_Training|Day 32 @parent_of]] | 2026-10-13 | `〜反面（〜はんめん）`、`〜だらけ`、`〜にすぎない`、`なんというか / てっきり` | 同一事物的正反兩面、到處沾滿充斥負面事物、只不過是……罷了與兩大反應語塊。 |
+| [[Day_33_Chunking_Training|Day 33 @parent_of]] | 2026-10-14 | `〜どころか`、`〜ざるを得ない（〜ざるをえない）`、`〜きり`、`いっそのこと / どうせなら` | 豈止……簡直相反、情非得已不得不……、自從……之後就一直沒……與兩大突破語塊。 |
 
 ---
 

@@ -1,2 +1,4 @@
 HML_Wiki/raw
 *.pdf
+__pycache__/
+*.pyc
