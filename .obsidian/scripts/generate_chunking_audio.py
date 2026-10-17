@@ -128,7 +128,7 @@ async def synthesize_track(playlist_spec, output_mp3, cache_dir, voice=VOICE_DEF
         "ffmpeg", "-y", "-loglevel", "error",
         "-f", "concat", "-safe", "0",
         "-i", str(concat_list),
-        "-c:a", "libmp3lame", "-b:a", "128k",
+        "-c:a", "libmp3lame", "-b:a", "48k", "-ac", "1", "-ar", "24000",
         str(output_mp3)
     ]
     subprocess.run(cmd, check=True)
