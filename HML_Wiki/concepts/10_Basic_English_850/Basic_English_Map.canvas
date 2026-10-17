@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"index_node_be850","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Index.md","x":-150,"y":-100,"width":300,"height":220,"color":"6"},
-		{"id":"tech_be_operators","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Operators.md","x":-550,"y":-500,"width":350,"height":450,"color":"1"},
-		{"id":"tech_be_phrasal","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Phrasal_Verbs.md","x":250,"y":-500,"width":350,"height":450,"color":"2"},
-		{"id":"tech_be_vocabulary","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Vocabulary_Structure.md","x":-550,"y":300,"width":350,"height":450,"color":"3"},
-		{"id":"tech_be_pros","type":"file","file":"concepts/10_Basic_English_850/Basic_English_Pros_Cons.md","x":250,"y":300,"width":350,"height":450,"color":"5"}
+		{"id":"index_node_be850","type":"file","file":"HML_Wiki/concepts/10_Basic_English_850/Basic_English_Index.md","x":-150,"y":-100,"width":300,"height":220,"color":"6"},
+		{"id":"tech_be_operators","type":"file","file":"HML_Wiki/concepts/10_Basic_English_850/Basic_English_Operators.md","x":-550,"y":-500,"width":350,"height":450,"color":"1"},
+		{"id":"tech_be_phrasal","type":"file","file":"HML_Wiki/concepts/10_Basic_English_850/Basic_English_Phrasal_Verbs.md","x":250,"y":-500,"width":350,"height":450,"color":"2"},
+		{"id":"tech_be_vocabulary","type":"file","file":"HML_Wiki/concepts/10_Basic_English_850/Basic_English_Vocabulary_Structure.md","x":-550,"y":300,"width":350,"height":450,"color":"3"},
+		{"id":"tech_be_pros","type":"file","file":"HML_Wiki/concepts/10_Basic_English_850/Basic_English_Pros_Cons.md","x":250,"y":300,"width":350,"height":450,"color":"5"}
 	],
 	"edges":[
 		{"id":"edge_to_tech_be_operators","fromNode":"index_node_be850","fromSide":"top","toNode":"tech_be_operators","toSide":"bottom","label":"18核心動詞\n物理與狀態算子"},

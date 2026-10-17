@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_27_Chunking_Training.md",
+                "file": "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_14_dates_frequency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day_27_Chunking_Training"
+              "title": "JP_Vocab_14_dates_frequency"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 512.8820304870605
   },
   "right": {
     "id": "9209d5a26969fb4f",
@@ -184,6 +184,22 @@
   },
   "active": "8d2588bd87662e5a",
   "lastOpenFiles": [
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_13_time_expressions.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_11_adverbs_connectors.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_09_work_school.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_08_body_health.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_06_places_transport.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_07_objects_home.md",
+    "HML_Wiki/concepts/12_Core_Vocabulary/JP_Vocab_04_people_family.md",
+    "HML_Wiki/concepts/08_Japanese_Grammar_50/JP_Grammar_50_C10_verb_types_te_form.md",
+    "HML_Wiki/concepts/08_Japanese_Grammar_50/JP_Grammar_50_C05_shoju_verbs.md",
+    "HML_Wiki/concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_ocr.md",
+    "HML_Wiki/concepts/08_Japanese_Grammar_50/Japanese_Grammar_50_Index.md",
+    "HML_Wiki/concepts/10_Basic_English_850/Basic_English_Map.canvas",
+    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Day24_2026-10-01_日本拉麵店選購、食券機操作與客製化口味.md",
+    "HML_Wiki/concepts/10_Basic_English_850/Basic_English_Phrasal_Verbs.md",
+    "HML_Wiki/concepts/10_Basic_English_850/Basic_English_Operators.md",
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_27_Chunking_Training.md",
     "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_29_Chunking_Training.md",
     "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/audio/Day_38_Dialogue_Immersion.mp3",
     "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/audio/Day_37_Dialogue_Immersion.mp3",
@@ -204,21 +220,6 @@
     "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_01_Chunking_Training.md",
     "HML_Wiki/concepts/JP_Grammar_Adjective_Conjugation.md",
     "HML_Wiki/concepts/chunking/Day_02_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_15_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_14_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_13_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_12_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_11_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_10_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_09_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_08_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_07_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_06_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_05_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_04_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_03_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_02_Chunking_Training.md",
-    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Chunking_Training_Index.md",
-    "HML_Wiki/concepts/23_Daily_Vocabulary_生活單字與對話/Daily_Vocabulary_Index.md"
+    "HML_Wiki/concepts/24_Chunking_語塊與聽力自動化/Day_15_Chunking_Training.md"
   ]
 }
